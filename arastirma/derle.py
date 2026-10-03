@@ -119,8 +119,14 @@ yaz('fiyatlar.json', mevcut)
 yaz('konumlar.json', konum); yaz('bolgeler.json', bolgeler); yaz('fabrikalar.json', fabrikalar); yaz('tadim.json', tadim)
 if stiller.get('stiller'):
     yaz('stiller.json', {'stiller': stiller['stiller'], 'srm_renk': stiller.get('srm_renk', {})})
-bp = oku('turkiye2.json', {}).get('brewpublar')
+bp = oku('turkiye2.json', {}).get('brewpublar', []) + oku('turkiye3.json', {}).get('brewpublar', [])
+tc = oku('turkiye3.json', {}).get('tarihce')
+if tc:
+    yaz('tarihce.json', {'tarihce': tc})
 if bp:
     yaz('brewpublar.json', {'brewpublar': [b for b in bp if b.get('durum') != 'kapandı']})
+top = oku('topluluk.json', {}).get('topluluklar')
+if top:
+    yaz('topluluk.json', {'topluluklar': top})
 print(len(data), 'bira ·', len(tadim) - 1, 'tadım notu ·', len(fam), 'magazin ·', len(mevcut['fiyatlar']), 'kaynaklı fiyat ·',
       sum(1 for d in data if d.get('sid')), 'stil eşleşmesi')

@@ -152,6 +152,51 @@
    "not": "Eski TEKEL fabrikası kaydı; marka el değiştirdi",
    "kaynak": "https://beerme.com/region.php?233",
    "durum": "belirsiz"
+  },
+  {
+   "ad": "Ankara Ev Biracıları",
+   "sehir": "Ankara",
+   "adres": "Etkinlikler: Irishluck Pub, Tepe Prime (2. buluşma)",
+   "tur": "kulüp",
+   "not": "Ev yapımı bira tadım ve etkinlik topluluğu (Instagram @ankaraevbiracilari; kulüp hesabı @birankara06). 2. Ankara Ev Biracıları Buluşması Ekim 2025 başında el yapımı biralar ve tadımlarla yapıldı. Biralar ticari olarak satılmıyor.",
+   "kaynak": "https://filankara.beehiiv.com/p/filankara-023-2-ekim-5-ekim-2025",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Evde Bira Yapımı (Sertaç Akar)",
+   "sehir": "Ankara",
+   "adres": "",
+   "tur": "ev birası ekibi",
+   "not": "Ankaralı ev biracısı Sertaç Akar, Nisan 2013'te 'Evde Bira Yapımı' Facebook grubunu kurdu. 2015'te ODTÜ Mezunlar Derneği'nde Türkiye'nin ilk ev birası kursunu verdi, 2016'da konuyla ilgili bir kitap yayımladı.",
+   "kaynak": "https://evdebirayapimi.wixsite.com/evdebirayapimi/hakkimda",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Ancyra Brewery",
+   "sehir": "Ankara",
+   "adres": "",
+   "tur": "ev birası ekibi",
+   "not": "Ankara'da hobi amaçlı ev biracılığı yapan Instagram sayfası (@ancyrabira, arama özetine göre yaklaşık 320 takipçi); ticari üretim yok.",
+   "kaynak": "https://www.instagram.com/ancyrabira/",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Ankara Çankaya Home Brew",
+   "sehir": "Ankara (Çankaya)",
+   "adres": "",
+   "tur": "ev birası ekibi",
+   "not": "2013 tarihli bir fotoğrafta görülen Çankayalı ev biracısı ekibi; güncel iz yok.",
+   "kaynak": "https://www.flickr.com/photos/transitcheck/11033726865",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Hops Pub",
+   "sehir": "Ankara (Çankaya, Tunalı)",
+   "adres": "Barbaros Mah. Abay Kunanbay Cad. No:4, Çankaya",
+   "tur": "bira evi",
+   "not": "Kendi birasını üretmiyor. à santé, Knidos, 3 Kafadar, Efes Haus gibi yerli craft biraları satıyor ve Ankara'da craft bira bulunabilecek başlıca adreslerden biri.",
+   "kaynak": "https://menulio.com.tr/mekan/hops-pub/",
+   "durum": "aktif"
   }
  ]
 }

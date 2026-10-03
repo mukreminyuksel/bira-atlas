@@ -396,7 +396,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 <header><div class="wrap">
   <div class="brand">
     <div style="font-size:34px">🍺</div>
-    <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Bira Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.2</span></h1>
+    <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Bira Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.3</span></h1>
       <div class="sub">Bölge → Bira fabrikası → Bira · Uzman & AI tercihleri · Türkiye katmanları · Kişisel koleksiyon</div></div>
   </div>
   <div class="stats">
@@ -442,6 +442,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div class="tab" data-group="koleksiyon" data-view="stats">📊 İstatistik</div>
     <div class="tab" data-group="sosyal" data-view="gece">🍻 Tadım Geceleri</div>
     <div class="tab" data-group="sosyal" data-view="kulup">🏛️ Kulüplerim</div>
+    <div class="tab" data-group="sosyal" data-view="topluluk">🌐 Topluluk</div>
     <div class="tab" data-group="kaynak" data-view="kaynak">📚 Kaynaklar</div>
   </nav>
 
@@ -583,6 +584,10 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   </section>
   <section id="view-gece" class="hidden"><div id="geceKutu"></div></section>
   <section id="view-kulup" class="hidden"><div id="kulupKutu"></div></section>
+  <section id="view-topluluk" class="hidden">
+    <p class="intro">Türkiye'nin bira topluluğu: bira yorumcuları, ev birası (homebrew) grupları, forumlar, bira okulları, podcast'ler ve festivaller. Liste araştırmayla derlendi ve yalnızca yakın zamanda aktif olduğu görülenleri içerir; liste her güncellemede yeniden kontrol edilir.</p>
+    <div id="toplulukBox"></div>
+  </section>
   <section id="view-stats" class="hidden">
     <p class="intro">Bira yolculuğunun rakamlarla portresi. <b>Denediklerin</b> ve verdiğin puanlar üzerinden hesaplanır.</p>
     <div id="statsBox"></div>
@@ -1399,7 +1404,7 @@ function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "KKTC": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "Belçika", "ABD", "İngiltere", "İskoçya", "Hollanda", "Çekya", "İrlanda", "Kanada", "İtalya", "Meksika", "Avusturya", "KKTC", "Japonya", "Avustralya", "İspanya", "Polonya", "Yunanistan", "Fransa", "Danimarka", "Norveç", "Galler", "Rusya", "Finlandiya", "Ukrayna", "Tayland", "İzlanda", "Brezilya", "Yeni Zelanda", "İsveç", "Çin", "Portekiz", "Filipinler", "Kolombiya", "Laos", "Arjantin", "Peru", "Vietnam", "Lüksemburg", "Güney Afrika", "Kenya", "Kıbrıs", "Estonya", "Gürcistan", "Hindistan", "Litvanya", "Venezuela", "Letonya", "Singapur", "Güney Kore", "Nijerya", "Etiyopya", "Namibya"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "Belçika", "ABD", "İngiltere", "İskoçya", "Hollanda", "Çekya", "İrlanda", "Kanada", "İtalya", "Meksika", "KKTC", "Avusturya", "Japonya", "Avustralya", "İspanya", "Polonya", "Fransa", "Yunanistan", "Danimarka", "Norveç", "Rusya", "Finlandiya", "Galler", "Brezilya", "Yeni Zelanda", "Tayland", "Portekiz", "İsveç", "Çin", "İzlanda", "Ukrayna", "Hindistan", "Güney Afrika", "Kıbrıs", "Nijerya", "Laos", "Güney Kore", "Etiyopya", "Arjantin", "Kolombiya", "Namibya", "Lüksemburg", "Kenya", "Estonya", "Filipinler", "Venezuela", "Vietnam", "Gürcistan", "Peru", "Singapur", "Litvanya", "Letonya"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -2257,16 +2262,39 @@ function renderStats(){
 
 
 
+/* ===== TOPLULUK (data/topluluk.json) ===== */
+let TOPLULUK=null,TOP_FILTRE='';
+const TOP_TUR={festival:['🎪','Festivaller'],etkinlik:['📅','Etkinlikler'],dernek:['🤝','Dernek & kulüpler'],instagram:['📸','Instagram'],facebook:['👥','Facebook grupları'],telegram:['✈️','Telegram'],discord:['💬','Discord'],reddit:['👽','Reddit'],eksi:['📝','Ekşi Sözlük'],
+  forum:['🗨️','Forumlar'],blog:['✍️','Bloglar & siteler'],okul:['🎓','Bira okulları & atölyeler'],youtube:['▶️','YouTube'],podcast:['🎙️','Podcast']};
+function renderTopluluk(){
+  const box=document.getElementById('toplulukBox');if(!box)return;
+  if(TOPLULUK===null){TOPLULUK=[];fetch('data/topluluk.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).then(d=>{TOPLULUK=d.topluluklar||[];renderTopluluk();}).catch(()=>{});box.innerHTML='<div class="empty">Yükleniyor…</div>';return;}
+  if(!TOPLULUK.length){box.innerHTML='<div class="empty">Topluluk listesi hazırlanıyor.</div>';return;}
+  const turler=Object.keys(TOP_TUR).filter(t=>TOPLULUK.some(x=>x.tur===t));
+  let html=`<div class="aromarow" style="margin-bottom:12px"><span class="aroma${!TOP_FILTRE?' on':''}" data-toptur="">Hepsi (${TOPLULUK.length})</span>${turler.map(t=>`<span class="aroma${TOP_FILTRE===t?' on':''}" data-toptur="${t}">${TOP_TUR[t][0]} ${TOP_TUR[t][1]} (${TOPLULUK.filter(x=>x.tur===t).length})</span>`).join('')}</div>`;
+  turler.filter(t=>!TOP_FILTRE||TOP_FILTRE===t).forEach(t=>{
+    html+=`<h3 class="stilaile">${TOP_TUR[t][0]} ${TOP_TUR[t][1]}</h3><div class="stilgrid">`+TOPLULUK.filter(x=>x.tur===t).map(x=>`<a class="stilkart" style="display:block;text-decoration:none" href="${g$(x.url||x.kaynak||'#')}" target="_blank" rel="noopener">
+      <div class="sk-ad">${g$(x.ad)} 🔗</div>${x.hesap&&x.hesap!==x.ad?`<div class="sk-tr">${g$(x.hesap)}</div>`:''}
+      <div class="sk-olcu">${x.sehir?`<span>📍 ${g$(x.sehir)}</span>`:''}${x.aktiflik?`<span>${g$(x.aktiflik)}</span>`:''}</div>
+      <div class="sk-txt">${g$(x.aciklama||'')}</div></a>`).join('')+'</div>';});
+  box.innerHTML=html;
+}
+document.addEventListener('click',e=>{const t=e.target.closest('[data-toptur]');if(t){TOP_FILTRE=t.dataset.toptur;renderTopluluk();}});
+
 /* ===== TÜRKİYE CRAFT (katalog + data/brewpublar.json) ===== */
-let BREWPUB=null,TR_ACIK=new Set();
+let BREWPUB=null,TR_ACIK=new Set(),TARIHCE=[];
 function renderTurkiye(){
   const box=document.getElementById('turkiyeBox');if(!box)return;
-  if(BREWPUB===null){BREWPUB=[];fetch('data/brewpublar.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).then(d=>{BREWPUB=d.brewpublar||[];renderTurkiye();}).catch(()=>{});}
+  if(BREWPUB===null){BREWPUB=[];Promise.all(['brewpublar','tarihce'].map(f=>fetch('data/'+f+'.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({})))).then(([d,t])=>{BREWPUB=d.brewpublar||[];TARIHCE=t.tarihce||[];renderTurkiye();});}
   const tr=allBottles().filter(b=>b.ulke==='Türkiye'||b.ulke==='KKTC');
   const sh=b=>b.ulke==='KKTC'?'KKTC · '+b.bolge:b.bolge;
-  const sehir={};tr.forEach(b=>{(sehir[sh(b)]=sehir[sh(b)]||{b:[],f:new Set(),p:[]}).b.push(b);sehir[sh(b)].f.add(b.dam);});
-  BREWPUB.forEach(p=>{(sehir[p.sehir]=sehir[p.sehir]||{b:[],f:new Set(),p:[]}).p.push(p);});
-  const sira=Object.keys(sehir).sort((a,b)=>(sehir[b].b.length+sehir[b].p.length)-(sehir[a].b.length+sehir[a].p.length));
+  const sehir={};tr.forEach(b=>{(sehir[sh(b)]=sehir[sh(b)]||{b:[],f:new Set(),p:[],t:[]}).b.push(b);sehir[sh(b)].f.add(b.dam);});
+  // "Ankara (Çankaya)" → "Ankara", "KKTC (Girne)" → "KKTC · Girne"
+  const ns=c=>{c=String(c||'').trim();const m=c.match(/^KKTC\s*\((.+)\)$/);return m?'KKTC · '+m[1]:c.replace(/\s*\(.*\)$/,'');};
+  const yer=c=>(sehir[c]=sehir[c]||{b:[],f:new Set(),p:[],t:[]});
+  BREWPUB.forEach(p=>{yer(ns(p.sehir)).p.push(p);});
+  TARIHCE.forEach(t=>{yer(ns(t.sehir)).t.push(t);});
+  const sira=Object.keys(sehir).sort((a,b)=>(sehir[b].b.length*3+sehir[b].p.length+(sehir[b].t||[]).length)-(sehir[a].b.length*3+sehir[a].p.length+(sehir[a].t||[]).length));
   const buyuk=['Anadolu Efes','Türk Tuborg'];
   const craftF=new Set(tr.filter(b=>!buyuk.includes(b.dam)).map(b=>b.dam));
   let html=`<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:14px">
@@ -2278,10 +2306,11 @@ function renderTurkiye(){
   sira.forEach(c=>{const x=sehir[c],acik=TR_ACIK.has(c),rk=c.startsWith('KKTC · ')?'KKTC|'+c.slice(7):'Türkiye|'+c;
     const fab=[...x.f].sort((a,b)=>buyuk.includes(a)-buyuk.includes(b)||a.localeCompare(b,'tr'));
     html+=`<div class="gkart trsehir"><div class="trbas" data-trsehir="${g$(c)}"><span class="caret">${acik?'▼':'▶'}</span><h3 style="margin:0">📍 ${g$(c)}</h3>
-      <span style="color:var(--muted2);font-size:12.5px;margin-left:auto">${fab.length?fab.length+' üretici · '+x.b.length+' bira':''}${x.p.length?(fab.length?' · ':'')+x.p.length+' bira evi':''}</span></div>
+      <span style="color:var(--muted2);font-size:12.5px;margin-left:auto">${fab.length?fab.length+' üretici · '+x.b.length+' bira':''}${x.p.length?(fab.length?' · ':'')+x.p.length+' bira evi / topluluk':''}${(x.t||[]).length?' · 📜 tarih':''}</span></div>
       ${acik?`${BOLGELER[rk]?`<div class="dt-txt" style="margin:8px 0">${g$(BOLGELER[rk].k||'')}</div>`:''}
         ${fab.map(f=>{const bs=x.b.filter(b=>b.dam===f).sort((a,b)=>(b.puan||0)-(a.puan||0));return `<div class="dt-sec"><h4><span class="isimlink" data-dam="${g$(f)}">🏭 ${g$(f)}</span>${buyuk.includes(f)?' <span style="color:var(--muted2);font-weight:600">· büyük üretici</span>':''}</h4>${bs.map(miniSatir).join('')}</div>`;}).join('')}
-        ${x.p.length?`<div class="dt-sec"><h4>🍻 Bira evleri</h4>${x.p.map(p=>`<div class="mini"><div><div class="nm">${g$(p.ad)}</div><div class="meta">${g$(p.tur||'')}${p.adres?' · '+g$(p.adres):''}${p.not?' · '+g$(p.not):''}</div></div>${p.kaynak?`<a class="btn" href="${g$(p.kaynak)}" target="_blank" rel="noopener">🔗</a>`:''}</div>`).join('')}</div>`:''}`:''}</div>`;});
+        ${x.p.length?`<div class="dt-sec"><h4>🍻 Bira evleri, ev biracıları ve kulüpler</h4>${x.p.map(p=>`<div class="mini"><div><div class="nm">${g$(p.ad)}</div><div class="meta">${g$(p.tur||'')}${p.adres?' · '+g$(p.adres):''}${p.not?' · '+g$(p.not):''}</div></div>${p.kaynak?`<a class="btn" href="${g$(p.kaynak)}" target="_blank" rel="noopener">🔗</a>`:''}</div>`).join('')}</div>`:''}
+        ${(x.t||[]).length?`<div class="dt-sec"><h4>📜 Bira tarihi</h4>${x.t.map(t=>`<div class="dt-txt" style="margin-bottom:8px"><b>${g$(t.baslik)}</b> — ${g$(t.metin)}${t.kaynak?` <a href="${g$(t.kaynak)}" target="_blank" rel="noopener" style="color:var(--amber2)">kaynak</a>`:''}</div>`).join('')}</div>`:''}`:''}</div>`;});
   box.innerHTML=html;
 }
 document.addEventListener('click',e=>{
@@ -2681,7 +2710,7 @@ document.addEventListener('click',e=>{
 // Sekme → çizim fonksiyonu. Sadece açık sekme çizilir (eskiden her işaretlemede 13 sekmenin
 // hepsi yeniden çiziliyordu); sekmeye geçince o sekme güncel durumla yeniden çizilir.
 const RENDER={explore:renderTree,experts:renderExperts,ai:renderAI,magazin:renderMagazin,ncf:renderNCF,katman:renderKatman,
-  stats:renderStats2,gece:renderGece,kulup:renderKulup,akilli:renderAkilli,harita:()=>{renderTree();renderHarita();},gurme:renderGurme,yemek:renderYemek,stil:renderStil,turkiye:renderTurkiye,personal:renderPersonal,notes:renderNotes,mylist:renderMyList,fiyat:renderFiyat};
+  stats:renderStats2,gece:renderGece,kulup:renderKulup,akilli:renderAkilli,harita:()=>{renderTree();renderHarita();},gurme:renderGurme,yemek:renderYemek,topluluk:renderTopluluk,stil:renderStil,turkiye:renderTurkiye,personal:renderPersonal,notes:renderNotes,mylist:renderMyList,fiyat:renderFiyat};
 const lastInGroup={};
 function showGroup(g){
   document.querySelectorAll('.grp').forEach(x=>x.classList.toggle('active',x.dataset.group===g));

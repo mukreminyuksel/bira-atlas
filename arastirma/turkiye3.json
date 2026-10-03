@@ -1,0 +1,146 @@
+{
+ "biralar": [],
+ "fabrikalar": {},
+ "bolgeler": {
+  "Türkiye|Ankara": {
+   "k": "Başkentte bugün ruhsatlı, aktif bir craft bira üreticisi ya da brewpub yok; sahne ev biracıları ve craft bira satan publar üzerinden yaşıyor. Ankara Ev Biracıları topluluğu düzenli buluşmalar yapıyor.",
+   "t": "Cumhuriyet'in ilk bira fabrikası 1934'te Atatürk Orman Çiftliği'nde açıldı; Normal, Siyah, Salon ve Salvator (bock) olmak üzere dört bira üretti. Fabrika 1939'da Tekel'e geçti, sonra Ankara Viskisi'ne döndü. Danıştay 2019'da binayı yıkımdan kurtardı.",
+   "i": "Yerli craft biraları Tunalı'daki Hops Pub gibi publarda bulabilirsiniz; ev biracılarının buluşmaları da şehirdeki en yerel bira deneyimi.",
+   "konum": [
+    39.93,
+    32.86
+   ]
+  }
+ },
+ "konumlar": {},
+ "tadim": {},
+ "brewpublar": [
+  {
+   "ad": "Ankara Ev Biracıları",
+   "sehir": "Ankara",
+   "adres": "Etkinlikler: Irishluck Pub, Tepe Prime (2. buluşma)",
+   "tur": "kulüp",
+   "not": "Ev yapımı bira tadım ve etkinlik topluluğu (Instagram @ankaraevbiracilari; kulüp hesabı @birankara06). 2. Ankara Ev Biracıları Buluşması Ekim 2025 başında el yapımı biralar ve tadımlarla yapıldı. Biralar ticari olarak satılmıyor.",
+   "kaynak": "https://filankara.beehiiv.com/p/filankara-023-2-ekim-5-ekim-2025",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Evde Bira Yapımı (Sertaç Akar)",
+   "sehir": "Ankara",
+   "adres": "",
+   "tur": "ev birası ekibi",
+   "not": "Ankaralı ev biracısı Sertaç Akar, Nisan 2013'te 'Evde Bira Yapımı' Facebook grubunu kurdu. 2015'te ODTÜ Mezunlar Derneği'nde Türkiye'nin ilk ev birası kursunu verdi, 2016'da konuyla ilgili bir kitap yayımladı.",
+   "kaynak": "https://evdebirayapimi.wixsite.com/evdebirayapimi/hakkimda",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Ancyra Brewery",
+   "sehir": "Ankara",
+   "adres": "",
+   "tur": "ev birası ekibi",
+   "not": "Ankara'da hobi amaçlı ev biracılığı yapan Instagram sayfası (@ancyrabira, arama özetine göre yaklaşık 320 takipçi); ticari üretim yok.",
+   "kaynak": "https://www.instagram.com/ancyrabira/",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Ankara Çankaya Home Brew",
+   "sehir": "Ankara (Çankaya)",
+   "adres": "",
+   "tur": "ev birası ekibi",
+   "not": "2013 tarihli bir fotoğrafta görülen Çankayalı ev biracısı ekibi; güncel iz yok.",
+   "kaynak": "https://www.flickr.com/photos/transitcheck/11033726865",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Hops Pub",
+   "sehir": "Ankara (Çankaya, Tunalı)",
+   "adres": "Barbaros Mah. Abay Kunanbay Cad. No:4, Çankaya",
+   "tur": "bira evi",
+   "not": "Kendi birasını üretmiyor. à santé, Knidos, 3 Kafadar, Efes Haus gibi yerli craft biraları satıyor ve Ankara'da craft bira bulunabilecek başlıca adreslerden biri.",
+   "kaynak": "https://menulio.com.tr/mekan/hops-pub/",
+   "durum": "aktif"
+  }
+ ],
+ "tarihce": [
+  {
+   "sehir": "Ankara",
+   "baslik": "Orman Çiftliği Bira Fabrikası ve Ankara Birası (1934)",
+   "metin": "Atatürk'ün 1932'deki talimatıyla Atatürk Orman Çiftliği'nde kurulan ilk fabrika, ilk birasını 1934 Ekim'inde piyasaya verdi. 1937'de ikinci ve daha büyük bir fabrika eklendi; azami kapasite 70.000 hektolitreydi. Normal, Siyah, Salon ve Salvator (bock) olmak üzere dört çeşit bira üretildi, kalite kontrolünü Viyana'daki bira enstitüsü yaptı. Çiftlikte ıslah edilen arpa kullanıldı, fabrikanın küspesi süt ineklerine yem oldu. Fabrika 1937'de Hazine'ye bağışlandı, 1939'da 3697 sayılı kanunla Tekel'e devredildi.",
+   "kaynak": "https://evdebirayapimi.wixsite.com/evdebirayapimi/ankara-biras"
+  },
+  {
+   "sehir": "Ankara",
+   "baslik": "Ankara Birası'ndan Ankara Viskisi'ne",
+   "metin": "Tekel döneminde bira üretimi Yozgat'a kaydı; Ankara'daki fabrika 'Ankara Viskisi' üretmeye başladı. Viski de 2000'lerin başında üretimden kalktı. Dönemin reklamları birayı 'ağır içkilere karşı sağlıklı halk içkisi' diye tanıtıyordu.",
+   "kaynak": "https://lavarla.com/ankara-birasinin-hikayesi/"
+  },
+  {
+   "sehir": "Ankara",
+   "baslik": "AOÇ Bira Fabrikası yıkımdan kurtuldu (2019)",
+   "metin": "Danıştay 6. Dairesi, Mimarlar Odası Ankara Şubesi'nin açtığı davada, AOÇ Bira Fabrikası alanına yapılması planlanan TBMM Eğitim ve Kongre Merkezi'ne ilişkin kararı iptal etti. Tarihî fabrika 1. derece doğal sit alanında yer alıyor.",
+   "kaynak": "https://www.cumhuriyet.com.tr/haber/aoc-bira-fabrikasi-kurtuldu-1466426"
+  },
+  {
+   "sehir": "Ankara",
+   "baslik": "Tekel Birası'nın mayası Ankara'dan",
+   "metin": "Anadolu Grubu, 2009'da Tekel Birası markasını alıp yeniden piyasaya sürdüğünde orijinal formülü ve Ankara Ziraat Fakültesi'nden temin edilen orijinal mayayı kullandı; reçete ilk kez bu sırada yazıya geçirildi. Marka bugün aktif değil.",
+   "kaynak": "https://www.hurriyet.com.tr/birada-efsane-geri-dondu-13817904"
+  },
+  {
+   "sehir": "Ankara",
+   "baslik": "Taps Çayyolu: Ankara'nın brewpub denemesi",
+   "metin": "2010'daki bir mekân yazısına göre Çayyolu Park Caddesi'ndeki Taps kendi ürettiği biraları sunuyordu; biranın fiyatı 7-9 TL'ydi. Mekân sonradan kapandı ve Ankara'da yerini alan başka bir brewpub olmadı.",
+   "kaynak": "https://oburcan.wordpress.com/2010/03/04/taps-ankara/"
+  },
+  {
+   "sehir": "Ankara",
+   "baslik": "Türkiye'nin ilk ev birası kursu Ankara'da (2015)",
+   "metin": "ODTÜ Mezunlar Derneği Ankara, 2 Nisan-7 Mayıs 2015 arasında 6 derslik bir atölye olarak ülkede ilk kez evde bira yapımı kursu düzenledi.",
+   "kaynak": "https://evdebirayapimi.wixsite.com/evdebirayapimi/haberler"
+  },
+  {
+   "sehir": "Erzurum",
+   "baslik": "Osmanlı'da Erzurum'da bira",
+   "metin": "Osmanlı döneminde gayrimüslimler bira üretebiliyordu; Vikipedi buna Erzurum'daki Ermenileri örnek gösteriyor. Devletin ilk bira ruhsatı 1894'te Bomonti kardeşlere verildi.",
+   "kaynak": "https://tr.wikipedia.org/wiki/T%C3%BCrk_biras%C4%B1"
+  },
+  {
+   "sehir": "Konya",
+   "baslik": "Konya'da bira değil malt",
+   "metin": "Konya'da bira fabrikası yok, ancak Anadolu Efes'in Türkiye'deki iki malt tesisinden biri burada (diğeri Afyon'da). Şirketin şerbetçiotu işleme tesisi ise Bilecik'te.",
+   "kaynak": "https://www.getmidas.com/sirket-bilgileri/aefes-sirket-bilgileri-hakkinda/"
+  }
+ ],
+ "elenen": [
+  {
+   "ad": "Gotan Craft Brewery – Ankara Red Honey",
+   "neden": "Bira fabrikası İsviçre/Cenevre'de ve tasfiyede; 'Ankara' yalnızca biranın adı",
+   "kaynak": "https://business-monitor.ch/en/companies/965648-gotan-craft-brewery-company-sarl-en-liquidation"
+  },
+  {
+   "ad": "F451 Brew (Kennedy Cad.)",
+   "neden": "Kahve dükkânı, bira değil",
+   "kaynak": "https://www.themagger.com/ankara-f451-brew/"
+  },
+  {
+   "ad": "Society Brewing Co., Ankara Brewing, Tatanka Brewing",
+   "neden": "Yalnızca bir gezi blogunda geçiyor; başka hiçbir kaynakta yok, muhtemelen uydurma içerik",
+   "kaynak": "https://exploremoreturkey.com/whats-new/a-guide-to-microbreweries-and-craft-beer-in-turkey/"
+  },
+  {
+   "ad": "Atom Brewpub (Çankaya)",
+   "neden": "Yalnızca dropt.beer'de geçiyor, doğrulanamadı",
+   "kaynak": "https://dropt.beer/insights/ankaras-best-bars-a-locals-guide-to-where-to-drink-in-the-capital/"
+  },
+  {
+   "ad": "The Pub Ankara",
+   "neden": "2004 tarihli listede var ama bira üretmiyor; hazır marka bira satıyordu",
+   "kaynak": "https://www.hurriyet.com.tr/kelebek/turkiye-nin-en-iyi-birahaneleri-38587804"
+  },
+  {
+   "ad": "Bursa Pilsner (Underwood Brewery)",
+   "neden": "Bira fabrikası Ukrayna/Kiev'de",
+   "kaynak": "https://untappd.com/b/underwood-brewery-bursa-pilsner/5416327"
+  }
+ ]
+}

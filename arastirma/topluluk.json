@@ -1,0 +1,586 @@
+{
+ "topluluklar": [
+  {
+   "tur": "dernek",
+   "ad": "İzmir Ev Biracıları Kulübü (İZEVBİR)",
+   "hesap": "@izevbir",
+   "url": "https://www.instagram.com/izevbir/",
+   "sehir": "İzmir",
+   "aciklama": "Temmuz 2017'de kurulan, Brewstival festivalini ve BJCP kurallı ev birası yarışmalarını düzenleyen ev biracıları kulübü.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://izmirmag.net/etkinlik/brewstival-24-ekim-2026-parc-ceremonie-guzelbahce/"
+  },
+  {
+   "tur": "dernek",
+   "ad": "Ankara Ev Biracıları",
+   "hesap": "@ankaraevbiracilari",
+   "url": "https://www.instagram.com/ankaraevbiracilari/",
+   "sehir": "Ankara",
+   "aciklama": "Ankara'daki ev biracılarını tadım ve buluşmalarda bir araya getiren topluluk; Ekim 2025'te 2. Ankara Ev Biracıları Buluşması'nı düzenledi.",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://filankara.beehiiv.com/p/filankara-023-2-ekim-5-ekim-2025"
+  },
+  {
+   "tur": "dernek",
+   "ad": "TÜBİKOK – Türkiye Bira Koleksiyonerleri Kulübü",
+   "hesap": "TÜBİKOK",
+   "url": "https://tubikok.com/",
+   "sehir": "İstanbul",
+   "aciklama": "2011'de kurulan, 2013'te ilk ev biracılığı kulübünü ve 2015'te Türkiye'nin ilk ev birası yarışmasını başlatan koleksiyoner kulübü.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://craftbeertr.com/t/6-tubikok-bulusmasi-ve-homebrew-yarismasi/892"
+  },
+  {
+   "tur": "forum",
+   "ad": "Türkiye Ev Biracıları (CraftBeerTR)",
+   "hesap": "craftbeertr.com",
+   "url": "https://craftbeertr.com/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Eski craftbiratr.com forumunun devamı olan, reçete, tam tahıl ve yarışma başlıkları içeren bağımsız ev biracıları forumu (içerik üyelere açık).",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://craftbeertr.com/t/neden-yeni-forum/124"
+  },
+  {
+   "tur": "forum",
+   "ad": "Butik Bira Forum",
+   "hesap": "forum.butikbira.com",
+   "url": "https://forum.butikbira.com/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Butik Bira'nın ev biracılığı forumu; kit, tam tahıl tarifleri ve terim sözlüğü başlıkları barındırıyor; 2026 tarihli ana siteden bağlantı veriliyor.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.butikbira.com/pages/sosyal-medyada-butik-biracilar"
+  },
+  {
+   "tur": "facebook",
+   "ad": "Butik Biracılar (Facebook grubu)",
+   "hesap": "Butik Biracılar",
+   "url": "https://www.facebook.com/groups/butikbira/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Üyelerin kendi yaptığı biraları paylaştığı, soru sorduğu ve tadım buluşmalarından haberdar olduğu ev biracıları grubu.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.butikbira.com/pages/grup"
+  },
+  {
+   "tur": "facebook",
+   "ad": "Evde Bira Yapımı – Sertaç Akar",
+   "hesap": "Evde Bira Yapımı",
+   "url": "https://www.facebook.com/groups/evdebirayapimi/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Nisan 2013'te kurulan, Türkçe ev biracılığı kaynağı evdebirayapimi sitesine bağlı Facebook grubu.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://evdebirayapimi.wixsite.com/evdebirayapimi/lnkler"
+  },
+  {
+   "tur": "facebook",
+   "ad": "Fermantasyon Market Grubu",
+   "hesap": "Fermantasyon Market",
+   "url": "https://www.facebook.com/groups/1453178111664056/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Bira, şarap ve peynir mayası satıcısı Fermantasyon Market'in fermantasyon meraklılarına yönelik Facebook grubu.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.fermantasyonmarket.com/"
+  },
+  {
+   "tur": "eksi",
+   "ad": "Ekşi Sözlük – \"evde bira yapımı\"",
+   "hesap": "evde bira yapımı",
+   "url": "https://eksisozluk.com/evde-bira-yapimi--498668",
+   "sehir": "Türkiye geneli",
+   "aciklama": "65+ sayfalık, kit tecrübeleri ve malzeme satıcılarının tartışıldığı uzun soluklu ev birası başlığı.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://eksisozluk.com/evde-bira-yapimi--498668?p=65"
+  },
+  {
+   "tur": "eksi",
+   "ad": "Ekşi Sözlük – \"butik bira\"",
+   "hesap": "butik bira",
+   "url": "https://eksisozluk.com/butik-bira--4822448",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Butik Bira mağazası ve ev biracılığı tedarikçileri üzerine 77+ sayfalık başlık; sipariş kısıtlamaları ve fiyat artışları gibi güncel şikayetler içeriyor.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://eksisozluk.com/butik-bira--4822448?p=77"
+  },
+  {
+   "tur": "eksi",
+   "ad": "Ekşi Sözlük – \"brewstival\"",
+   "hesap": "brewstival",
+   "url": "https://eksisozluk.com/brewstival--5634617",
+   "sehir": "İzmir",
+   "aciklama": "İzmir'deki Brewstival ev birası festivali hakkındaki başlık.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://eksisozluk.com/brewstival--5634617"
+  },
+  {
+   "tur": "blog",
+   "ad": "BiraSever / BiraBlog",
+   "hesap": "@bira_sever",
+   "url": "https://birasever.com/blog",
+   "sehir": "İstanbul",
+   "aciklama": "Onur Caka'nın bira haberleri, BiraWiki teknik yazıları (malt, mayşeleme) ve sektör analizleri paylaştığı Türkçe bira blogu.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://birasever.com/blog"
+  },
+  {
+   "tur": "blog",
+   "ad": "Istanbul School of Beers",
+   "hesap": "istanbulschoolofbeers.com",
+   "url": "https://istanbulschoolofbeers.com/tr",
+   "sehir": "İstanbul",
+   "aciklama": "İstanbul craft bira rehberleri, Bomonti tarihi ve 2026 Türk craft bira rehberi yayımlayan Türkçe/İngilizce blog.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://istanbulschoolofbeers.com/tr"
+  },
+  {
+   "tur": "blog",
+   "ad": "Ege Malt Blog",
+   "hesap": "@ege_malt",
+   "url": "https://egemalt.com/blog/",
+   "sehir": "İzmir",
+   "aciklama": "Evde bira kiti ve malt özü satıcısının tam tahıl, kraft bira ve ev biracılığı üzerine sık güncellenen eğitim blogu.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://egemalt.com/feed/"
+  },
+  {
+   "tur": "blog",
+   "ad": "Bira Burada – Blog ve Bira Tarifleri",
+   "hesap": "@biraburada_com",
+   "url": "https://www.biraburada.com/blog",
+   "sehir": "İstanbul",
+   "aciklama": "3 Kafadar ekibinin malzeme mağazasına bağlı tam tahıl bira yapımı rehberleri ve reçete arşivi.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.biraburada.com/"
+  },
+  {
+   "tur": "blog",
+   "ad": "Butik Bira – Evde Bira Yapımı Rehberi",
+   "hesap": "@butikbira",
+   "url": "https://www.butikbira.com/blogs/evde-bira-yapimi",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Türkiye'nin ilk ev birası malzeme mağazasının 'Evde bira nasıl yapılır?' rehberi ve 2026'da güncellenen yazıları.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.butikbira.com/blogs/evde-bira-yapimi"
+  },
+  {
+   "tur": "blog",
+   "ad": "Evde Bira Yapımı (Sertaç Akar)",
+   "hesap": "evdebirayapimi.wixsite.com",
+   "url": "https://evdebirayapimi.wixsite.com/evdebirayapimi",
+   "sehir": "Türkiye geneli",
+   "aciklama": "İlk Türkçe ev biracılığı kaynaklarından; malt, maya, şerbetçiotu, hesaplamalar ve reçete bölümleri içeriyor.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.birazbira.com/turkce-bira-kaynaklari/"
+  },
+  {
+   "tur": "blog",
+   "ad": "Köpüürt",
+   "hesap": "@kopuurt",
+   "url": "https://kopuurt.com/blog/",
+   "sehir": "İstanbul",
+   "aciklama": "'Bira hakkında her şeyi köpüürtüyoruz' sloganlı bira kültürü blogu ve tasarım ürünleri markası.",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://kopuurt.com/blog/"
+  },
+  {
+   "tur": "blog",
+   "ad": "Meleklerin Payı",
+   "hesap": "meleklerinpayi.com",
+   "url": "https://www.meleklerinpayi.com/",
+   "sehir": "İstanbul",
+   "aciklama": "Viski ağırlıklı olsa da Brewers of Europe raporu gibi bira haberleri ve bira buluşmaları da yazan içki kültürü blogu.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.meleklerinpayi.com/"
+  },
+  {
+   "tur": "blog",
+   "ad": "Fıçıla – Evde Bira Yapımı 101",
+   "hesap": "@ficila.com.tr",
+   "url": "https://ficila.com.tr/en/home-brewing/home-brewing-101",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Mini fıçı ve nitro sistemleri satıcısının ev biracılığına giriş eğitim sayfası ve videoları.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://ficila.com.tr/en/home-brewing/home-brewing-101"
+  },
+  {
+   "tur": "youtube",
+   "ad": "Bira Burada (3 Kafadar Bira)",
+   "hesap": "@3KafadarBira",
+   "url": "https://www.youtube.com/@3KafadarBira",
+   "sehir": "İstanbul",
+   "aciklama": "51 bin aboneli, kit ve tam tahıl ev birası yapımını ayrıntılı anlatan Türkiye'nin en büyük ev biracılığı kanalı.",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb-oTjyiHSsK0ayzeCby_Tw"
+  },
+  {
+   "tur": "youtube",
+   "ad": "Artizan Bira",
+   "hesap": "@artizanbira",
+   "url": "https://www.youtube.com/@artizanbira",
+   "sehir": "",
+   "aciklama": "Evde tam tahıl bira tarifleri, kit denemeleri ve tadımlar paylaşan, 2026'da düzenli video yükleyen ev biracısı kanalı.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRPV_dkUa-dKsdUeFMbMKTw"
+  },
+  {
+   "tur": "youtube",
+   "ad": "Bira ve Gusto",
+   "hesap": "@Biravegusto",
+   "url": "https://www.youtube.com/@Biravegusto",
+   "sehir": "",
+   "aciklama": "Bira türlerini (ale ve lager aileleri) anlatan ve yemek eşleştirmeleri yapan küçük Türkçe kanal.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4arGZAM2fQoLtqtWN33m0Q"
+  },
+  {
+   "tur": "podcast",
+   "ad": "Ozan Vural – Keyif Kültürü Sohbetleri",
+   "hesap": "@OzanVuralYT",
+   "url": "https://www.youtube.com/@OzanVuralYT",
+   "sehir": "İstanbul",
+   "aciklama": "İçki ve gastronomi sohbetleri yapan kanal; 'Evden Tesisleşmeye Kraft Biracılık' (Hakan Özkan) ve 'Bira Atölyesi'nin Hikayesi' (Server Ersolmaz) bölümlerini içeriyor.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ7I7K8d_0s8ohXwYWBRXgw"
+  },
+  {
+   "tur": "youtube",
+   "ad": "HAZKAT Profesyonel",
+   "hesap": "@HAZKATPROFESYONEL",
+   "url": "https://www.youtube.com/@HAZKATPROFESYONEL",
+   "sehir": "",
+   "aciklama": "40 bin aboneli kendin-yap kanalı; Eylül 2026'da baştan sona Red Ale ev birası yapımı videosu yayımladı.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHI1VR2ZaTDfTyP7oVdIZvg"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Gara Guzu",
+   "hesap": "@garaguzubira",
+   "url": "https://www.instagram.com/garaguzubira/",
+   "sehir": "Muğla",
+   "aciklama": "2011'de kurulan, Türkiye craft bira hareketinin öncüsü bağımsız aile bira atölyesi.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://garaguzu.com.tr/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Torch Brewery",
+   "hesap": "@torchbrewery",
+   "url": "https://www.instagram.com/torchbrewery/",
+   "sehir": "İstanbul",
+   "aciklama": "Tarihi Bomonti Bira Fabrikası içinde 2014'ten beri küçük partilerle üretim yapan craft bira fabrikası.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.torchbrewery.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "The Populist",
+   "hesap": "@thepopulisttr",
+   "url": "https://www.instagram.com/thepopulisttr/",
+   "sehir": "İstanbul",
+   "aciklama": "Torch biralarının servis edildiği bomontiada ve Galataport'taki taproom'lar; her yıl Oktoberfest düzenliyor.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.sandvic.com.tr/2026/09/23/oktoberfest-hosted-by-the-populist-yapi-kredi-bomontiadada-2/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Bosphorus Brewing Company",
+   "hesap": "@bbc_ist",
+   "url": "https://www.instagram.com/bbc_ist/",
+   "sehir": "İstanbul",
+   "aciklama": "14 yılı aşkın süredir Gayrettepe'de kendi butik biralarını sunan gastropub ve bira üreticisi.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://bbcist.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Bira Fabrikası",
+   "hesap": "@birafabrikasi",
+   "url": "https://www.instagram.com/birafabrikasi/",
+   "sehir": "İstanbul",
+   "aciklama": "Kadıköy ve Moda'da ödüllü dünya biraları ile Türk craft biralarını sunan bira barı zinciri.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.fabrikamoda.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Taproom X",
+   "hesap": "@taproomx",
+   "url": "https://www.instagram.com/taproomx/",
+   "sehir": "İstanbul",
+   "aciklama": "Craft biralara odaklanan İstanbul taproom'u.",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Kült Kadıköy",
+   "hesap": "@kultkadikoy",
+   "url": "https://www.instagram.com/kultkadikoy/",
+   "sehir": "İstanbul",
+   "aciklama": "Kadıköy'de craft bira, sokak lezzetleri ve kokteyl sunan mekan.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.instagram.com/kultkadikoy/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Knidos",
+   "hesap": "@knidoslion",
+   "url": "https://www.instagram.com/knidoslion/",
+   "sehir": "İstanbul",
+   "aciklama": "'Brewed in Istanbul' açıklamalı, yaklaşık 6 bin takipçili craft bira markası.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://istanbulschoolofbeers.com/en/blog/istanbul-craft-beer-guide"
+  },
+  {
+   "tur": "instagram",
+   "ad": "FK Brewery of İzmir (Kraftizmir)",
+   "hesap": "@kraftizmir",
+   "url": "https://www.instagram.com/kraftizmir/",
+   "sehir": "İzmir",
+   "aciklama": "'Craft Beer Of The City' sloganlı İzmir craft bira üreticisi (Feliz Kulpa).",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.facebook.com/p/Kraftizmir-100031217324929/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Ancyra Brewery",
+   "hesap": "@ancyrabira",
+   "url": "https://www.instagram.com/ancyrabira/",
+   "sehir": "Ankara",
+   "aciklama": "Ankara'da hobi amaçlı ev birası üretimini paylaşan homebrew hesabı.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.instagram.com/ancyrabira/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Bira Tadım",
+   "hesap": "@biratadim",
+   "url": "https://www.instagram.com/biratadim/",
+   "sehir": "İstanbul",
+   "aciklama": "'Bilgi paylaştıkça çoğalır' sloganıyla bira tadım notları paylaşan Bomonti merkezli yorumcu hesabı.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.instagram.com/biratadim/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Butik Bira",
+   "hesap": "@butikbira",
+   "url": "https://www.instagram.com/butikbira/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Türkiye'nin ilk ev birası malzeme mağazasının hesabı; forum ve Facebook grubuyla birlikte ev biracılarını buluşturuyor.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.butikbira.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Biradaş",
+   "hesap": "@biradascom",
+   "url": "https://www.instagram.com/biradascom",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Malt özlü evde bira yapım kitleri ve ekipmanları satan ev biracılığı mağazası.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.biradas.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Taze Mayşe",
+   "hesap": "@tazemayse",
+   "url": "https://www.instagram.com/tazemayse/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Taze şıra ile evde bira yapımı kitleri ve sık sorulan sorular/alkol hesaplama araçları sunan satıcı.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.tazemayse.com/"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Hitit Malt",
+   "hesap": "@hititmalt",
+   "url": "https://www.instagram.com/hititmalt/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Ev biracılığı için ana ve özel maltlar satan yerli malt üreticisi.",
+   "aktiflik": "belirsiz",
+   "kaynak": "https://www.hititmalt.com/"
+  },
+  {
+   "tur": "okul",
+   "ad": "Efes Yenilik Atölyesi – BJCP Uygulamalı Sınavı",
+   "hesap": "Yenilik Atölyesi",
+   "url": "https://www.kapsulhaberajansi.com/yasam/turkiye-uluslararasi-bjcp-tadim-sinavina-ilk-kez-ev-sahipligi-yapti-51029",
+   "sehir": "İzmir",
+   "aciklama": "Türkiye'deki ilk resmi BJCP bira hakemliği uygulamalı sınavına ev sahipliği yapan ar-ge ve eğitim merkezi (Eylül 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.kapsulhaberajansi.com/yasam/turkiye-uluslararasi-bjcp-tadim-sinavina-ilk-kez-ev-sahipligi-yapti-51029"
+  },
+  {
+   "tur": "etkinlik",
+   "ad": "Çağdaş Arman Bulut ile Bira Tadımı – DORY'S Kitchen",
+   "hesap": "DORY'S Kitchen",
+   "url": "https://doryskitchen.com/urun/biratadimi/",
+   "sehir": "İzmir",
+   "aciklama": "Bira tarihi ve kültürü anlatımının ardından 5 craft biranın eşlikçilerle tadıldığı atölye (9 Temmuz 2025).",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://doryskitchen.com/urun/biratadimi/"
+  },
+  {
+   "tur": "etkinlik",
+   "ad": "2. Ankara Ev Biracıları Buluşması",
+   "hesap": "Ankara Ev Biracıları",
+   "url": "https://filankara.beehiiv.com/p/filankara-023-2-ekim-5-ekim-2025",
+   "sehir": "Ankara",
+   "aciklama": "El emeği biralar, tadımlar ve oyunlarla Irishluck Pub'da yapılan ev biracıları festivali (Ekim 2025).",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://filankara.beehiiv.com/p/filankara-023-2-ekim-5-ekim-2025"
+  },
+  {
+   "tur": "festival",
+   "ad": "Brewstival 2026",
+   "hesap": "Brewstival",
+   "url": "https://izmirmag.net/etkinlik/brewstival-24-ekim-2026-parc-ceremonie-guzelbahce/",
+   "sehir": "İzmir",
+   "aciklama": "Kraft üreticileri ve ev biracılarını buluşturan festivalin 9. edisyonu; 24 Ekim 2026, Parc Ceremonie Güzelbahçe.",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://izmirmag.net/etkinlik/brewstival-24-ekim-2026-parc-ceremonie-guzelbahce/"
+  },
+  {
+   "tur": "festival",
+   "ad": "Craft Brew Fest 2026",
+   "hesap": "Craft Brew Fest",
+   "url": "https://www.swissotelthebosphorus.com/event-calendar/festivals/craft-brew-fest/",
+   "sehir": "İstanbul",
+   "aciklama": "Swissôtel The Bosphorus Chalet Garden'da butik bira üreticilerinin tadım alanları, atölyeler ve konserlerle buluştuğu festival (27 Haziran 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://bugece.co/tr/event/craft-brew-fest-06-27-26--3b39e2f0"
+  },
+  {
+   "tur": "festival",
+   "ad": "Brewers Festival İstanbul 2026",
+   "hesap": "Brewers Festival",
+   "url": "https://festtr.com/festival/brewers-festival/",
+   "sehir": "İstanbul",
+   "aciklama": "10+ craft üretici ve 200+ bira çeşidiyle Yenikapı Festival Alanı'nda homebrew tadımı ve yarışması içeren festival (1–16 Ağustos 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://festtr.com/festival/brewers-festival/"
+  },
+  {
+   "tur": "festival",
+   "ad": "Oktober in Istanbul 2026",
+   "hesap": "Oktober in Istanbul",
+   "url": "https://kucukciftlikpark.com/event/oktober-in-istanbul-2026-2-ekim/",
+   "sehir": "İstanbul",
+   "aciklama": "KüçükÇiftlik Park'ta 4. kez düzenlenen üç günlük Oktoberfest esintili bira ve müzik festivali (2–4 Ekim 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://kucukciftlikpark.com/event/oktober-in-istanbul-2026-2-ekim/"
+  },
+  {
+   "tur": "festival",
+   "ad": "Oktoberfest Hosted by The Populist 2026",
+   "hesap": "The Populist Oktoberfest",
+   "url": "https://www.sandvic.com.tr/2026/09/23/oktoberfest-hosted-by-the-populist-yapi-kredi-bomontiadada-2/",
+   "sehir": "İstanbul",
+   "aciklama": "Yapı Kredi bomontiada Avlu'da fıçı açma seremonisi ve konserlerle ücretsiz Oktoberfest (3–4 Ekim 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.sandvic.com.tr/2026/09/23/oktoberfest-hosted-by-the-populist-yapi-kredi-bomontiadada-2/"
+  },
+  {
+   "tur": "festival",
+   "ad": "Octoberfest Chalet Garden 2026",
+   "hesap": "Octoberfest Chalet Garden",
+   "url": "https://www.plumemag.com/2026-en-iyi-gastronomi-festivalleri-yemek-kahve-kokteyl/",
+   "sehir": "İstanbul",
+   "aciklama": "Swissôtel Chalet Garden'da Alman bira kültürü, sokak lezzetleri ve canlı müzik etkinliği (10 Ekim 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://www.plumemag.com/2026-en-iyi-gastronomi-festivalleri-yemek-kahve-kokteyl/"
+  },
+  {
+   "tur": "festival",
+   "ad": "Hops and Bites",
+   "hesap": "Hops and Bites",
+   "url": "https://izmirmag.net/etkinlik/hops-and-bites-guzel-bir-gun-12-ekim-2025-alsancak-tarihi-havagazi-fabrikasi/",
+   "sehir": "İzmir",
+   "aciklama": "Alsancak Tarihi Havagazı Fabrikası'nda bira, yemek standları ve konserlerle yapılan festival (12 Ekim 2025).",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://izmirmag.net/etkinlik/hops-and-bites-guzel-bir-gun-12-ekim-2025-alsancak-tarihi-havagazi-fabrikasi/"
+  },
+  {
+   "tur": "festival",
+   "ad": "Artsy x à santé Brewery OktoberFest",
+   "hesap": "à santé Brewery",
+   "url": "https://asantebrewery.com/en/",
+   "sehir": "Ankara",
+   "aciklama": "Adana merkezli craft bira üreticisi à santé ile Artsy Atakule'de craft bira tadımları ve tasarım pazarlı Oktoberfest (5 Ekim 2025).",
+   "aktiflik": "2025'te aktif",
+   "kaynak": "https://filankara.beehiiv.com/p/filankara-023-2-ekim-5-ekim-2025"
+  },
+  {
+   "tur": "festival",
+   "ad": "Urladam Octoberfest 2026",
+   "hesap": "Urladam Octoberfest",
+   "url": "https://izmirmag.net/festival/",
+   "sehir": "İzmir",
+   "aciklama": "Urla'da konserli Octoberfest buluşması (16–17 Ekim 2026).",
+   "aktiflik": "2026'da aktif",
+   "kaynak": "https://izmirmag.net/festival/"
+  }
+ ],
+ "elenenler": [
+  {
+   "ad": "Ev Biraları (evbiralari.com)",
+   "neden": "Son yazı Mayıs 2018; blog güncellenmiyor."
+  },
+  {
+   "ad": "Birazbira (birazbira.com) ve birazbira beertube YouTube",
+   "neden": "Site açık ama RSS'teki son yazı Ocak 2021, YouTube videoları 6-7 yıl önce; 2024 öncesinde sönmüş."
+  },
+  {
+   "ad": "Craftbiratr.com forumu",
+   "neden": "Kurucular yeni foruma (craftbeertr.com – Türkiye Ev Biracıları) taşındı; eski alan adı yanıt vermiyor."
+  },
+  {
+   "ad": "Butik Bira YouTube kanalı (youtube.com/c/butikbiracom)",
+   "neden": "Son video 2017."
+  },
+  {
+   "ad": "Bira Atölyesi YouTube kanalı / biraatolyesi.blogspot.com",
+   "neden": "YouTube'da son video Haziran 2020, blogspot 2015 dönemi; biraatolyesi.net bu ortamdan açılamadı."
+  },
+  {
+   "ad": "Taze Mayşe YouTube kanalı",
+   "neden": "Son video Ağustos 2024 (mağaza sitesi açık, ayrıca Instagram kaydı olarak listelendi)."
+  },
+  {
+   "ad": "Ege Malt YouTube kanalı",
+   "neden": "9 abone, son video Mart 2024; blog aktif olduğu için blog kaydı tutuldu."
+  },
+  {
+   "ad": "Keyfim Keyf (YouTube bira testleri)",
+   "neden": "Son bira videosu Kasım 2024, sonraki tek video konu dışı (Mart 2025)."
+  },
+  {
+   "ad": "Beerader",
+   "neden": "2016'dan beri yeni yazı yok (birazbira kaynak listesi)."
+  },
+  {
+   "ad": "Pablo Bira (pablobira.com)",
+   "neden": "Alan adı bir kumar/slot spam sitesine dönüşmüş; marka için güvenilir resmi kanal doğrulanamadı."
+  },
+  {
+   "ad": "Antalya Bira Festivali",
+   "neden": "Büyükşehir yönetimi değişince bira festivalinin yapılmayacağı açıklandı; 2025-2026 edisyonu yok."
+  },
+  {
+   "ad": "Tayfa İstanbul Bira Tadım Atölyesi",
+   "neden": "Hizmet sayfası 404 veriyor; atölye artık listelenmiyor."
+  },
+  {
+   "ad": "İçki Kültürü (ickikulturu.com / @ickikulturu)",
+   "neden": "Blog 2013 dönemine ait; X hesabında 2024 tarihli paylaşım görülse de 2025-2026 aktifliği doğrulanamadı."
+  },
+  {
+   "ad": "Türkçe bira subreddit'leri (r/BiraTR, r/biracilik vb.) ve Telegram/Discord grupları",
+   "neden": "Aramalarda hiçbir Türkçe bira subreddit'i, Telegram ya da Discord topluluğu bulunamadı; Reddit bu ortamda bot sayfası döndürdü."
+  },
+  {
+   "ad": "Bira Göbeği podcast",
+   "neden": "Adına rağmen bira değil genel sohbet/gündem podcast'i."
+  }
+ ]
+}

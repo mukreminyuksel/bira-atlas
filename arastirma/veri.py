@@ -6,7 +6,7 @@ HEDEF = '/home/user/bira-atlas'
 BUGUN = '2026-10-03'
 
 # Bira kaynak dosyaları (bölge araştırmaları + ekler); stiller/magazin/tur2 dosyaları ayrı okunur
-BOLGE_DOSYALARI = ['turkiye.json', 'turkiye2.json', 'almanya-cekya.json', 'belcika-hollanda.json', 'britanya-irlanda.json',
+BOLGE_DOSYALARI = ['turkiye.json', 'turkiye2.json', 'turkiye3.json', 'almanya-cekya.json', 'belcika-hollanda.json', 'britanya-irlanda.json',
                    'amerika.json', 'dunya.json', 'ek.json', 'stil-ek.json']
 
 def yukle():
