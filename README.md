@@ -2,7 +2,7 @@
 
 Türkiye odaklı, Türkçe bira kataloğu ve kişisel koleksiyon uygulaması — [Viski Atlası](https://viski-atlas.netlify.app)'nın kardeşi.
 
-- **547 bira**, 53 ülke, ~300 bira fabrikası: Türkiye (Efes, Tuborg ve Gara Guzu, Pablo, 3 Kafadar, SOMX, DAS… gibi craft'lar), Almanya/Avusturya/Çekya, Belçika/Hollanda, Britanya/İrlanda, Kuzey Amerika ve dünya.
+- **1150+ bira**, 74 ülke, 88 stillik Türkçe stil rehberi: Türkiye (Efes, Tuborg ve Gara Guzu, Pablo, 3 Kafadar, SOMX, DAS… gibi craft'lar), Almanya/Avusturya/Çekya, Belçika/Hollanda, Britanya/İrlanda, Kuzey Amerika ve dünya.
 - Ülke → bölge → bira fabrikası → bira ağacı, harita, fabrika kartları, bölge rehberleri, ~240 tadım notu.
 - Listeler: Uzman Top 50, AI Tercihleri, Filtresizler Top 50, Türkiye Katmanları, Fiyat Hareketleri, Magazin.
 - Kişisel: Elimde/Hedef listesi, tadım notları, Gurme seviyesi (stil ailesi kapsama vb.), tat radarı, "bu akşam ne içsem?", bütçe önerisi, boşluk analizi, karşılaştırma.

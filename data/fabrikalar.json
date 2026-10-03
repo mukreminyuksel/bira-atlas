@@ -2775,5 +2775,452 @@
   "y": "Cork",
   "stil": "İrlanda red ale ve stout",
   "h": "Eski bir Fransisken manastırının kuyusu üzerinde kurulan Cork birahanesi; Rebel Red adını 'asi ilçe' Cork'tan alır."
+ },
+ "Birra Peja": {
+  "k": 1971,
+  "s": "Birra Peja",
+  "y": "Peja (İpek), Kosova",
+  "stil": "Pilsner ve lager",
+  "h": "Kosova'nın batısındaki Peja'da kurulan bira fabrikası, Rugova dağlarının kaynak suyunu kullanır. Peja, ülkenin en tanınan ihraç markasıdır ve Türkiye'ye de ithal edilir."
+ },
+ "Lucky Buddha": {
+  "s": "Lucky Buddha Enlightened Beer",
+  "y": "Zhejiang, Çin",
+  "stil": "Pirinçli Asya lageri",
+  "h": "Buda kabartmalı yeşil şişesiyle tanınan marka, Çin'de üretilip dünyaya ihraç edilir. Türkiye'de ithal Asya lagerleri arasında raflarda görülür."
+ },
+ "Kamenitza": {
+  "k": 1881,
+  "s": "Molson Coors",
+  "y": "Haskovo, Bulgaristan",
+  "stil": "Euro lager",
+  "h": "1881'de Plovdiv'de kurulan Kamenitza ilk Bulgar bira markası sayılır. Bugün Molson Coors bünyesinde, Haskovo'da üretilir."
+ },
+ "Maisel": {
+  "k": 1887,
+  "s": "Brauerei Gebr. Maisel",
+  "y": "Bayreuth, Franken",
+  "stil": "Weissbier ve Alman craft (Maisel & Friends)",
+  "h": "Bayreuth'taki aile fabrikası buğday birasıyla ünlüdür. 2012'de başlattığı Maisel & Friends serisiyle Alman craft hareketinin öncülerinden oldu."
+ },
+ "Amager Bryghus": {
+  "k": 2007,
+  "s": "Bağımsız",
+  "y": "Kastrup, Kopenhag",
+  "stil": "Imperial stout, IPA, deneysel biralar",
+  "h": "Havalimanına yakın bir sanayi binasında iki ev biracısının kurduğu Amager, imperial stout'ları ve dünya çapındaki ortak üretimleriyle Danimarka craft'ının sert yüzüdür."
+ },
+ "Carlsberg Sverige": {
+  "k": 1836,
+  "s": "Carlsberg Group",
+  "y": "Falkenberg, Halland",
+  "stil": "Baltık porter, lager",
+  "h": "Carnegie Porter, İskoç asıllı David Carnegie'nin 1836'da Göteborg'da başlattığı birahaneden gelir. Bugün Carlsberg İsveç bünyesinde üretilir ve yıllık vintage sürümleriyle saklanır."
+ },
+ "Browar Artezan": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Błonie, Mazovya",
+  "stil": "Amerikan ve Pasifik pale ale'ler",
+  "h": "Ev biracılığından doğan Artezan, Polonya craft devriminin ilk dalgasındadır. Pacific Pale Ale'i ülkenin en çok sevilen hop'lu biralarından biridir."
+ },
+ "Browar Fortuna": {
+  "k": 1997,
+  "s": "Bağımsız",
+  "y": "Miłosław, Wielkopolska",
+  "stil": "Bölgesel lager ve Komes Baltık porter serisi",
+  "h": "Miłosław'daki bölgesel fabrika, Komes serisinde Baltık porter'ı ve fıçı yıllanmış versiyonlarını üretir."
+ },
+ "Browar Kormoran": {
+  "k": 1991,
+  "s": "Bağımsız",
+  "y": "Olsztyn, Varmia-Mazurya",
+  "stil": "Bölgesel bira, Baltık porter",
+  "h": "Olsztyn'deki bağımsız bölgesel fabrika, tütsülenmiş erikli Imperium Prunum ile Polonya'nın en çok ödül alan biralarından birini yaptı."
+ },
+ "Utenos Alus": {
+  "k": 1977,
+  "s": "Carlsberg Group (Švyturys-Utenos Alus)",
+  "y": "Utena, Litvanya",
+  "stil": "Lager ve Baltık porter",
+  "h": "Doğu Litvanya'daki Utena fabrikası, Švyturys ile birlikte Carlsberg çatısındadır. Porteris'i Baltık porter stilinin ucuz ve iyi örneklerinden sayılır."
+ },
+ "Aldaris": {
+  "k": 1865,
+  "s": "Carlsberg Group",
+  "y": "Riga, Letonya",
+  "stil": "Lager ve porter",
+  "h": "Riga'da 19. yüzyıldan beri bira üreten Aldaris, Letonya'nın en büyük bira fabrikasıdır. Porteris'i Sovyet döneminden kalma bir klasiktir."
+ },
+ "Jovarų Alus": {
+  "s": "Aldona Udrienė (aile işletmesi)",
+  "y": "Jovarai, Şiauliai",
+  "stil": "Litvanya çiftlik birası (kaimiškas)",
+  "h": "Aldona Udrienė'nin köy evinde, kuşaklardır aktarılan ev mayasıyla yaptığı bira, Litvanya çiftlik biralarının dünyaca bilinen örneğidir. Mayası bugün ticari olarak da satılır."
+ },
+ "Yo-Ho Brewing": {
+  "k": 1996,
+  "s": "Hoshino Resorts kökenli, bağımsız",
+  "y": "Karuizawa / Saku, Nagano",
+  "stil": "Amerikan tarzı ale'ler",
+  "h": "Japonya'da mikro birahanelerin serbestleştiği 1994 sonrasında kurulan Yo-Ho, Yona Yona Ale ile ülkenin en büyük craft üreticisi oldu."
+ },
+ "Baird Brewing": {
+  "k": 2000,
+  "s": "Bağımsız",
+  "y": "Shuzenji, Shizuoka",
+  "stil": "Şişede mayalı Amerikan ve İngiliz ale'ler",
+  "h": "Amerikalı Bryan Baird ve Japon eşi Sayuri'nin Numazu'daki küçük taproom'la başladığı birahane, bugün Izu yarımadasında bahçeli bir tesiste üretiyor."
+ },
+ "Orion Breweries": {
+  "k": 1957,
+  "s": "Orion Breweries",
+  "y": "Nago, Okinawa",
+  "stil": "Japon pirinç lageri",
+  "h": "Savaş sonrası Okinawa'da kurulan Orion, adanın kimliğiyle özdeşleşmiş birasıyla Japonya'nın beşinci büyük üreticisidir."
+ },
+ "HiteJinro": {
+  "k": 1924,
+  "s": "HiteJinro",
+  "y": "Seul, Güney Kore",
+  "stil": "Kore lageri ve soju",
+  "h": "Kore'nin bira ve soju devi; 2019'da çıkardığı Terra ile pazarda hızla öne geçti."
+ },
+ "Lotte Chilsung": {
+  "k": 1950,
+  "s": "Lotte Group",
+  "y": "Chungju, Kuzey Chungcheong",
+  "stil": "Kore lageri",
+  "h": "Lotte'nin içecek kolu 2014'te Kloud ile bira pazarına girdi; su eklenmeyen 'orijinal yoğunluk' iddiasıyla tanındı."
+ },
+ "CR Snow": {
+  "k": 1993,
+  "s": "China Resources Beer",
+  "y": "Pekin, Çin",
+  "stil": "Hafif pirinç lageri",
+  "h": "China Resources'ın bira kolu, Snow markasıyla hacim bakımından dünyanın en çok satan birasını üretir; onlarca fabrikası vardır."
+ },
+ "Jing-A Brewing": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Pekin, Çin",
+  "stil": "Amerikan tarzı craft, yerel malzemeli biralar",
+  "h": "İki yabancının Pekin'de kurduğu Jing-A, Çin craft sahnesinin önde gelenlerinden; yerel baharat ve çaylarla deneyler yapar."
+ },
+ "Great Leap Brewing": {
+  "k": 2010,
+  "s": "Bağımsız",
+  "y": "Pekin, Çin",
+  "stil": "Çin malzemeli ale'ler",
+  "h": "Pekin'in hutong'larındaki küçük bir avluda açılan Great Leap, Çin'in ilk craft birahanelerinden; Sichuan biberi, çay ve bal gibi yerel malzemeler kullanır."
+ },
+ "Taiwan Tobacco & Liquor": {
+  "k": 1947,
+  "s": "Devlet (TTL)",
+  "y": "Taipei, Tayvan",
+  "stil": "Pirinçli lager",
+  "h": "Tayvan'ın devlet tekel şirketi Taiwan Beer'i üretir; yerel Penglai pirinciyle yapılan Gold Medal adanın ulusal birasıdır."
+ },
+ "Full Moon Brewworks": {
+  "s": "Bağımsız",
+  "y": "Tayland",
+  "stil": "Tayland craft",
+  "h": "Tayland'da yasal olarak üretilen ilk craft markalarından Full Moon Brewworks, Chalawan Pale Ale ile uluslararası yarışmalarda madalya aldı."
+ },
+ "Multi Bintang": {
+  "k": 1929,
+  "s": "Heineken",
+  "y": "Tangerang ve Sidoarjo, Endonezya",
+  "stil": "Pilsener",
+  "h": "Hollanda sömürge döneminde Surabaya'da kurulan fabrika bugün Heineken'e bağlıdır; Bintang, Bali ile özdeşleşmiş birasıdır."
+ },
+ "Pasteur Street Brewing": {
+  "k": 2015,
+  "s": "Bağımsız",
+  "y": "Ho Chi Minh, Vietnam",
+  "stil": "Yerel malzemeli craft",
+  "h": "Amerikalı kurucuların Saigon'daki Pasteur caddesinde açtığı birahane, yasemin, Phu Quoc biberi ve kakao gibi Vietnam malzemeleriyle ün kazandı."
+ },
+ "Habeco": {
+  "k": 1890,
+  "s": "Habeco (devlet ağırlıklı)",
+  "y": "Hanoi, Vietnam",
+  "stil": "Vietnam lageri",
+  "h": "Fransız Hommel birahanesinden doğan Hanoi Beer-Alcohol-Beverage Corp., Bia Hà Nội ve Trúc Bạch markalarını üretir."
+ },
+ "Lion Brewery": {
+  "k": 1881,
+  "s": "Carson Cumberbatch / Carlsberg ortaklığı",
+  "y": "Biyagama, Sri Lanka",
+  "stil": "Lager ve tropikal stout",
+  "h": "Nuwara Eliya'nın serin dağlarında İngilizlerin kurduğu birahane bugün Biyagama'da; Lion Stout'u dünyanın en iyi tropikal stout'larından sayılır."
+ },
+ "Cambrew": {
+  "s": "Carlsberg Group",
+  "y": "Sihanoukville, Kamboçya",
+  "stil": "Lager ve stout",
+  "h": "Sihanoukville'deki Cambrew, Kamboçya'nın ulusal birası Angkor'u ve Angkor Extra Stout'u üretir."
+ },
+ "Bira 91": {
+  "k": 2015,
+  "s": "B9 Beverages",
+  "y": "Yeni Delhi, Hindistan",
+  "stil": "Hafif ale ve wit",
+  "h": "Hindistan'ın telefon kodundan adını alan marka, kısa sürede ülkenin en hızlı büyüyen bira markalarından oldu."
+ },
+ "Pirate Life": {
+  "k": 2014,
+  "s": "Asahi (CUB)",
+  "y": "Port Adelaide, Güney Avustralya",
+  "stil": "Kutu IPA ve pale ale",
+  "h": "İskoç BrewDog'dan gelen iki biracı ile bir yatırımcının Adelaide'de kurduğu Pirate Life, kutuda bol şerbetçiotlu biralarıyla hızla büyüdü."
+ },
+ "Moon Dog": {
+  "k": 2010,
+  "s": "Lion",
+  "y": "Abbotsford / Preston, Victoria",
+  "stil": "Eğlenceli, deneysel biralar",
+  "h": "Üç arkadaşın Melbourne'de kurduğu Moon Dog, tuhaf isimli deneysel biraları ve dev bira bahçesiyle tanınır."
+ },
+ "Feral Brewing": {
+  "k": 2002,
+  "s": "Coca-Cola Europacific (Better Beer Co.)",
+  "y": "Swan Valley, Batı Avustralya",
+  "stil": "Amerikan tarzı pale ale ve IPA",
+  "h": "Perth yakınlarındaki şarap bölgesinde kurulan Feral, Hop Hog ile Avustralya'nın en çok ödül alan pale ale'lerinden birini yarattı."
+ },
+ "Epic Brewing": {
+  "k": 2006,
+  "s": "Bağımsız",
+  "y": "Auckland, Yeni Zelanda",
+  "stil": "Şerbetçiotu yoğun IPA'lar",
+  "h": "Luke Nicholas'ın kurduğu Epic, Armageddon IPA ile Yeni Zelanda'da sert IPA akımını başlattı."
+ },
+ "Emerson's": {
+  "k": 1993,
+  "s": "Lion",
+  "y": "Dunedin, Otago",
+  "stil": "Pilsner ve İngiliz tarzı ale",
+  "h": "Richard Emerson'ın Dunedin'de kurduğu birahane, Riwaka şerbetçiotlu pilsneriyle 'Yeni Zelanda pilsner' stilini tanımladı."
+ },
+ "Panhead": {
+  "k": 2013,
+  "s": "Lion",
+  "y": "Upper Hutt, Wellington",
+  "stil": "Amerikan tarzı ale",
+  "h": "Mike Neilson'ın eski bir lastik fabrikasında kurduğu Panhead, motosiklet kültürüne selam veren etiketleriyle tanınır."
+ },
+ "Cervejaria Colorado": {
+  "k": 1995,
+  "s": "Ambev",
+  "y": "Ribeirão Preto, São Paulo",
+  "stil": "Brezilya malzemeli craft",
+  "h": "Ribeirão Preto'daki Colorado, rapadura şekeri, bal ve Brezilya kahvesi gibi yerel malzemelerle Brezilya craft'ının ilk tanınan markası oldu."
+ },
+ "Baden Baden": {
+  "k": 1999,
+  "s": "Heineken Brasil",
+  "y": "Campos do Jordão, São Paulo",
+  "stil": "Alman ve İngiliz tarzı özel biralar",
+  "h": "Serra da Mantiqueira'daki dağ kasabası Campos do Jordão'da kurulan Baden Baden, Brezilya'nın ilk özel bira markalarındandır."
+ },
+ "Cervejaria Eisenbahn": {
+  "k": 2002,
+  "s": "Heineken Brasil",
+  "y": "Blumenau, Santa Catarina",
+  "stil": "Alman tarzı saf malt biralar",
+  "h": "Alman göçmenlerin kurduğu Blumenau'daki birahane, Oktoberfest'iyle ünlü şehrin bira geleneğini sürdürür."
+ },
+ "Bodebrown": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Curitiba, Paraná",
+  "stil": "IPA ve güçlü ale'ler",
+  "h": "Bira okulu olarak başlayan Bodebrown, Perigosa Imperial IPA ile Brezilya'nın en çok ödüllü craft üreticilerinden oldu."
+ },
+ "Cervecería Kross": {
+  "k": 2003,
+  "s": "Bağımsız",
+  "y": "Curacaví, Santiago",
+  "stil": "Şili craft ale'ler",
+  "h": "Alman biracı ile Şilili ortağının kurduğu Kross, Şili'nin ilk modern craft birahanelerinden biridir."
+ },
+ "Kunstmann": {
+  "k": 1997,
+  "s": "Kunstmann ailesi / CCU ortaklığı",
+  "y": "Valdivia, Los Ríos",
+  "stil": "Alman göçmen geleneğinde ale ve lager",
+  "h": "Alman göçmen torunlarının Valdivia'da kurduğu Kunstmann, Torobayo ile Şili'de craft birayı yaygınlaştırdı."
+ },
+ "Cervecería Austral": {
+  "k": 1896,
+  "s": "CCU",
+  "y": "Punta Arenas, Magallanes",
+  "stil": "Patagonya lageri ve meyveli ale",
+  "h": "Dünyanın en güneydeki bira fabrikalarından biri; Patagonya'nın calafate meyvesiyle yaptığı ale ile tanınır."
+ },
+ "Cerveza Patagonia": {
+  "k": 2007,
+  "s": "AB InBev (Quilmes)",
+  "y": "San Carlos de Bariloche, Río Negro",
+  "stil": "Premium Patagonya biraları",
+  "h": "Quilmes'in premium markası Bariloche'de Nahuel Huapi gölü kıyısında bir birahane işletir; Kilometre 24.7 adı oradaki yoldan gelir."
+ },
+ "Cervecería Minerva": {
+  "k": 2003,
+  "s": "Bağımsız",
+  "y": "Zapopan, Jalisco",
+  "stil": "Meksika craft",
+  "h": "Guadalajara yakınlarında kurulan Minerva, Meksika'nın ilk büyük ölçekli craft birahanesidir; tekila fıçısı ITA en ünlü birasıdır."
+ },
+ "Desnoes & Geddes": {
+  "k": 1918,
+  "s": "Heineken",
+  "y": "Kingston, Jamaika",
+  "stil": "Lager ve tropikal stout",
+  "h": "Kingston'daki tarihi fabrika Red Stripe ve Dragon Stout'u üretir; Red Stripe'ın tıknaz şişesi Jamaika'nın simgelerindendir."
+ },
+ "Cervecería Bucanero": {
+  "k": 1997,
+  "s": "Küba devleti / AB InBev ortaklığı",
+  "y": "Holguín, Küba",
+  "stil": "Lager",
+  "h": "Holguín'deki fabrika Küba'nın en bilinen ihraç biraları Bucanero ve Cristal'i üretir."
+ },
+ "Brasserie Almaza": {
+  "k": 1933,
+  "s": "Heineken",
+  "y": "Beyrut, Lübnan",
+  "stil": "Pilsner",
+  "h": "Beyrut'un Dora semtindeki birahane, Lübnan'ın sembol birası Almaza'yı 1933'ten beri üretir."
+ },
+ "961 Beer": {
+  "k": 2006,
+  "s": "Bağımsız",
+  "y": "Beyrut, Lübnan",
+  "stil": "Ortadoğu baharatlı craft",
+  "h": "Mazen Hajjar'ın 2006 savaşı sırasında evinde başladığı biracılık, adını Lübnan telefon kodundan alan 961 Beer'e dönüştü."
+ },
+ "Taybeh Brewing": {
+  "k": 1994,
+  "s": "Khoury ailesi",
+  "y": "Taybeh, Ramallah",
+  "stil": "Alman Saflık Yasası'na uygun lager ve ale",
+  "h": "Oslo sonrası Taybeh köyünde kurulan aile birahanesi, Ortadoğu'nun ilk mikro birahanesi sayılır ve yıllık Oktoberfest düzenler."
+ },
+ "Alexander Brewery": {
+  "k": 2008,
+  "s": "Bağımsız",
+  "y": "Emek Hefer, Şaron",
+  "stil": "Amerikan ve Belçika tarzı craft",
+  "h": "Ori Sagy'nin kurduğu Alexander, İsrail'in en çok ödül alan craft birahanelerinden; Green ve Black en bilinen biralarıdır."
+ },
+ "Shapiro Brewery": {
+  "s": "Bağımsız",
+  "y": "Beit Shemesh, Kudüs",
+  "stil": "Amerikan tarzı ale ve stout",
+  "h": "Shapiro kardeşlerin kurduğu birahane, İsrail craft sahnesinin ilk kuşağındandır."
+ },
+ "Tempo Beer Industries": {
+  "k": 1952,
+  "s": "Tempo (Heineken ortaklığı)",
+  "y": "Netanya, Şaron",
+  "stil": "Lager",
+  "h": "İsrail'in en büyük içecek şirketi; Goldstar ve Maccabee'yi üretir, Heineken'in yerel ortağıdır."
+ },
+ "Carakale": {
+  "k": 2010,
+  "s": "Bağımsız",
+  "y": "Fuheis, Belka",
+  "stil": "Ürdün craft",
+  "h": "Yazan Karadsheh'in Fuheis'te kurduğu Carakale, Ürdün'ün ilk ve tek craft birahanesidir."
+ },
+ "Yerevan Brewery": {
+  "s": "Yerevan Beer CJSC",
+  "y": "Erivan, Ermenistan",
+  "stil": "Lager",
+  "h": "Erivan'daki fabrika Kilikia markasıyla Ermenistan'ın en tanınan birasını üretir."
+ },
+ "Georgian Beer Company": {
+  "k": 2011,
+  "s": "Georgian Beer Company",
+  "y": "Dusheti, Mtskheta-Mtianeti",
+  "stil": "Pilsner ve lager",
+  "h": "Zedazeni markasıyla tanınan şirket, Kafkas dağlarının kaynak suyunu kullanan modern bir fabrika işletir."
+ },
+ "Castel Sakartvelo": {
+  "s": "Groupe Castel",
+  "y": "Tiflis, Gürcistan",
+  "stil": "Lager",
+  "h": "Fransız Castel grubunun Gürcistan kolu, bağımsızlık sonrası ülkenin ilk ulusal birası Argo'yu çıkardı."
+ },
+ "Siris Microbrewery": {
+  "s": "Bağımsız",
+  "y": "Serez, Orta Makedonya",
+  "stil": "Voreia serisi craft",
+  "h": "Serez'deki Siris, 'kuzeyli' anlamındaki Voreia markasıyla Yunanistan'ın önde gelen mikro birahanelerindendir."
+ },
+ "Nissos (Cyclades Microbrewery)": {
+  "k": 2013,
+  "s": "Olympic Brewery",
+  "y": "Tinos, Kiklad Adaları",
+  "stil": "Filtresiz ada biraları",
+  "h": "Tinos adasında kurulan Nissos, Kiklad adalarının ilk mikro birahanesidir; bugün Olympic Brewery bünyesindedir."
+ },
+ "Corfu Beer": {
+  "k": 2006,
+  "s": "Bağımsız",
+  "y": "Arillas, Korfu",
+  "stil": "Pastörize edilmemiş ada biraları",
+  "h": "Korfu adasındaki aile birahanesi, pastörize edilmemiş taze biralarıyla Yunan craft'ının öncülerindendir."
+ },
+ "Brasseries du Maroc": {
+  "k": 1919,
+  "s": "Groupe Castel",
+  "y": "Kazablanka, Fas",
+  "stil": "Lager",
+  "h": "Fas'ın bira tekeli niteliğindeki şirket, Flag, Stork ve ihraç markası Casablanca'yı üretir."
+ },
+ "SFBT": {
+  "k": 1925,
+  "s": "Société Frigorifique et Brasserie de Tunis",
+  "y": "Tunus, Tunus",
+  "stil": "Lager",
+  "h": "Tunus'un köklü içecek şirketi, ülkenin ulusal birası Celtia'yı üretir."
+ },
+ "Bralima": {
+  "k": 1923,
+  "s": "Heineken",
+  "y": "Kinşasa, Kongo DC",
+  "stil": "Lager",
+  "h": "Kongo'nun en eski bira şirketlerinden Bralima, Primus'u üretir; Heineken'in Afrika'daki önemli operasyonlarındandır."
+ },
+ "Nile Breweries": {
+  "k": 1951,
+  "s": "AB InBev",
+  "y": "Jinja, Uganda",
+  "stil": "Lager",
+  "h": "Beyaz Nil'in kaynağındaki Jinja'da kurulan fabrika, Nile Special ve Club markalarını üretir."
+ },
+ "Tanzania Breweries": {
+  "k": 1933,
+  "s": "AB InBev",
+  "y": "Darüsselam, Tanzanya",
+  "stil": "Lager",
+  "h": "Tanzanya'nın en büyük bira üreticisi; Safari ve Kilimanjaro markaları ülkenin simgesidir."
+ },
+ "Devil's Peak Brewing": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Cape Town, Batı Kap",
+  "stil": "Amerikan tarzı craft",
+  "h": "Cape Town'un simge dağından adını alan Devil's Peak, King's Blockhouse IPA ile Güney Afrika craft'ının en tanınan biralarından birini yaptı."
+ },
+ "Põhjala": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Noblessner, Tallinn",
+  "stil": "Baltık porter, imperial stout, fıçı yıllanmış biralar",
+  "h": "Dört arkadaşın Tallinn'de kurduğu Põhjala, eski Noblessner tersanesindeki tesisinde Baltık porter geleneğini modern craft'la birleştirir; Cellar Series fıçı biraları dünyaca aranır."
  }
 }

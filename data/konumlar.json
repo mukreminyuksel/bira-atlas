@@ -708,6 +708,202 @@
   "İrlanda|Wicklow": [
    53.0,
    -6.3
+  ],
+  "Kosova|Peja": [
+   42.66,
+   20.29
+  ],
+  "Çin|Zhejiang": [
+   29.6,
+   119.0
+  ],
+  "Bulgaristan|Haskovo": [
+   41.93,
+   25.55
+  ],
+  "İsveç|Halland": [
+   56.9,
+   12.49
+  ],
+  "Polonya|Aşağı Silezya": [
+   51.11,
+   17.03
+  ],
+  "Polonya|Mazovya": [
+   52.23,
+   21.01
+  ],
+  "Polonya|Varmia-Mazurya": [
+   53.78,
+   20.48
+  ],
+  "Litvanya|Utena": [
+   55.5,
+   25.6
+  ],
+  "Litvanya|Şiauliai": [
+   55.93,
+   23.31
+  ],
+  "Letonya|Riga": [
+   56.95,
+   24.11
+  ],
+  "Japonya|Nagano": [
+   36.25,
+   138.48
+  ],
+  "Japonya|Shizuoka": [
+   34.97,
+   138.93
+  ],
+  "Japonya|Okinawa": [
+   26.59,
+   127.98
+  ],
+  "Güney Kore|Chungcheong": [
+   36.99,
+   127.93
+  ],
+  "Çin|Pekin": [
+   39.9,
+   116.4
+  ],
+  "Tayvan|Taipei": [
+   25.03,
+   121.56
+  ],
+  "Tayland|Phuket": [
+   7.89,
+   98.4
+  ],
+  "Endonezya|Cava": [
+   -6.18,
+   106.63
+  ],
+  "Vietnam|Hanoi": [
+   21.03,
+   105.85
+  ],
+  "Sri Lanka|Batı Eyaleti": [
+   6.99,
+   80.0
+  ],
+  "Kamboçya|Sihanoukville": [
+   10.63,
+   103.52
+  ],
+  "Hindistan|Delhi": [
+   28.61,
+   77.21
+  ],
+  "Yeni Zelanda|Otago": [
+   -45.87,
+   170.5
+  ],
+  "Brezilya|São Paulo": [
+   -22.0,
+   -47.9
+  ],
+  "Brezilya|Santa Catarina": [
+   -26.92,
+   -49.07
+  ],
+  "Brezilya|Paraná": [
+   -25.43,
+   -49.27
+  ],
+  "Şili|Santiago": [
+   -33.45,
+   -70.67
+  ],
+  "Şili|Los Ríos": [
+   -39.81,
+   -73.24
+  ],
+  "Şili|Magallanes": [
+   -53.16,
+   -70.91
+  ],
+  "Arjantin|Río Negro": [
+   -41.13,
+   -71.31
+  ],
+  "Meksika|Jalisco": [
+   20.67,
+   -103.35
+  ],
+  "Jamaika|Kingston": [
+   17.97,
+   -76.79
+  ],
+  "Küba|Holguín": [
+   20.89,
+   -76.26
+  ],
+  "Lübnan|Beyrut": [
+   33.89,
+   35.5
+  ],
+  "Filistin|Ramallah": [
+   31.95,
+   35.3
+  ],
+  "İsrail|Şaron": [
+   32.33,
+   34.86
+  ],
+  "İsrail|Kudüs": [
+   31.77,
+   35.21
+  ],
+  "Ürdün|Belka": [
+   32.0,
+   35.78
+  ],
+  "Ermenistan|Erivan": [
+   40.18,
+   44.51
+  ],
+  "Gürcistan|Tiflis": [
+   41.72,
+   44.79
+  ],
+  "Yunanistan|Serres": [
+   41.09,
+   23.55
+  ],
+  "Yunanistan|Kiklad": [
+   37.54,
+   25.16
+  ],
+  "Yunanistan|Korfu": [
+   39.62,
+   19.92
+  ],
+  "Fas|Kazablanka": [
+   33.57,
+   -7.59
+  ],
+  "Tunus|Tunus": [
+   36.81,
+   10.18
+  ],
+  "Kongo DC|Kinşasa": [
+   -4.32,
+   15.31
+  ],
+  "Uganda|Jinja": [
+   0.44,
+   33.2
+  ],
+  "Tanzanya|Darüsselam": [
+   -6.79,
+   39.21
+  ],
+  "Güney Afrika|Batı Kap": [
+   -33.93,
+   18.47
   ]
  },
  "damlar": {
@@ -2322,6 +2518,266 @@
   "Franciscan Well": [
    51.9,
    -8.48
+  ],
+  "Birra Peja": [
+   42.66,
+   20.29
+  ],
+  "Lucky Buddha": [
+   29.6,
+   119.0
+  ],
+  "Kamenitza": [
+   41.93,
+   25.55
+  ],
+  "Maisel": [
+   49.94,
+   11.58
+  ],
+  "Amager Bryghus": [
+   55.63,
+   12.64
+  ],
+  "Carlsberg Sverige": [
+   56.9,
+   12.49
+  ],
+  "Browar Artezan": [
+   52.2,
+   20.62
+  ],
+  "Browar Fortuna": [
+   52.21,
+   17.49
+  ],
+  "Browar Kormoran": [
+   53.78,
+   20.48
+  ],
+  "Utenos Alus": [
+   55.5,
+   25.6
+  ],
+  "Aldaris": [
+   56.98,
+   24.13
+  ],
+  "Jovarų Alus": [
+   55.9,
+   23.3
+  ],
+  "Yo-Ho Brewing": [
+   36.25,
+   138.48
+  ],
+  "Baird Brewing": [
+   34.97,
+   138.93
+  ],
+  "Orion Breweries": [
+   26.59,
+   127.98
+  ],
+  "HiteJinro": [
+   37.5,
+   127.0
+  ],
+  "Lotte Chilsung": [
+   36.99,
+   127.93
+  ],
+  "CR Snow": [
+   39.9,
+   116.4
+  ],
+  "Jing-A Brewing": [
+   39.93,
+   116.45
+  ],
+  "Great Leap Brewing": [
+   39.94,
+   116.4
+  ],
+  "Taiwan Tobacco & Liquor": [
+   25.03,
+   121.56
+  ],
+  "Full Moon Brewworks": [
+   7.89,
+   98.4
+  ],
+  "Multi Bintang": [
+   -6.18,
+   106.63
+  ],
+  "Pasteur Street Brewing": [
+   10.78,
+   106.7
+  ],
+  "Habeco": [
+   21.03,
+   105.85
+  ],
+  "Lion Brewery": [
+   6.99,
+   80.0
+  ],
+  "Cambrew": [
+   10.63,
+   103.52
+  ],
+  "Bira 91": [
+   28.61,
+   77.21
+  ],
+  "Pirate Life": [
+   -34.85,
+   138.5
+  ],
+  "Moon Dog": [
+   -37.8,
+   145.0
+  ],
+  "Feral Brewing": [
+   -31.8,
+   116.02
+  ],
+  "Epic Brewing": [
+   -36.85,
+   174.76
+  ],
+  "Emerson's": [
+   -45.87,
+   170.5
+  ],
+  "Panhead": [
+   -41.12,
+   175.07
+  ],
+  "Cervejaria Colorado": [
+   -21.18,
+   -47.81
+  ],
+  "Baden Baden": [
+   -22.74,
+   -45.59
+  ],
+  "Cervejaria Eisenbahn": [
+   -26.92,
+   -49.07
+  ],
+  "Bodebrown": [
+   -25.43,
+   -49.27
+  ],
+  "Cervecería Kross": [
+   -33.39,
+   -71.13
+  ],
+  "Kunstmann": [
+   -39.81,
+   -73.24
+  ],
+  "Cervecería Austral": [
+   -53.16,
+   -70.91
+  ],
+  "Cerveza Patagonia": [
+   -41.13,
+   -71.31
+  ],
+  "Cervecería Minerva": [
+   20.72,
+   -103.39
+  ],
+  "Desnoes & Geddes": [
+   17.97,
+   -76.79
+  ],
+  "Cervecería Bucanero": [
+   20.89,
+   -76.26
+  ],
+  "Brasserie Almaza": [
+   33.89,
+   35.55
+  ],
+  "961 Beer": [
+   33.89,
+   35.5
+  ],
+  "Taybeh Brewing": [
+   31.95,
+   35.3
+  ],
+  "Alexander Brewery": [
+   32.38,
+   34.9
+  ],
+  "Shapiro Brewery": [
+   31.75,
+   34.99
+  ],
+  "Tempo Beer Industries": [
+   32.32,
+   34.86
+  ],
+  "Carakale": [
+   32.0,
+   35.78
+  ],
+  "Yerevan Brewery": [
+   40.18,
+   44.51
+  ],
+  "Georgian Beer Company": [
+   42.08,
+   44.7
+  ],
+  "Castel Sakartvelo": [
+   41.72,
+   44.79
+  ],
+  "Siris Microbrewery": [
+   41.09,
+   23.55
+  ],
+  "Nissos (Cyclades Microbrewery)": [
+   37.54,
+   25.16
+  ],
+  "Corfu Beer": [
+   39.75,
+   19.65
+  ],
+  "Brasseries du Maroc": [
+   33.57,
+   -7.59
+  ],
+  "SFBT": [
+   36.81,
+   10.18
+  ],
+  "Bralima": [
+   -4.32,
+   15.31
+  ],
+  "Nile Breweries": [
+   0.44,
+   33.2
+  ],
+  "Tanzania Breweries": [
+   -6.79,
+   39.21
+  ],
+  "Devil's Peak Brewing": [
+   -33.93,
+   18.47
+  ],
+  "Põhjala": [
+   59.45,
+   24.73
   ]
  }
 }

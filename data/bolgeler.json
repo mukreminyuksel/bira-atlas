@@ -884,5 +884,250 @@
   "k": "Dublin'in güneyindeki 'İrlanda'nın bahçesi'; kendi şerbetçiotunu yetiştiren craft fabrikaları.",
   "t": "Stout tekelinin dışında 2010'larda doğan İrlanda craft dalgasının önemli bölgelerinden.",
   "i": "Elevation Pale Ale'ı soğuk servis edin."
+ },
+ "Kosova|Peja": {
+  "k": "Rugova dağlarının eteğindeki Peja, Kosova'nın bira şehridir; ülke pazarı hafif pilsner'lar üzerine kuruludur.",
+  "t": "Birra Peja 1971'de Yugoslavya döneminde kuruldu, savaş sonrası yeniden yapılandı.",
+  "i": "Peja Original'i soğuk ve sade içmek yeterli; ızgara köfteyle iyi gider."
+ },
+ "Çin|Zhejiang": {
+  "k": "Doğu Çin'in kalabalık sahil eyaleti, büyük ölçekli pirinçli lager üretiminin merkezlerinden.",
+  "t": "Hangzhou ve çevresi yüzyıllardır pirinç şarabı (huangjiu) geleneğine sahiptir.",
+  "i": "Pirinçli Çin lagerlerini baharatlı yemekle, çok soğuk deneyin."
+ },
+ "Bulgaristan|Haskovo": {
+  "k": "Güney Bulgaristan'da, Edirne'ye yakın Haskovo bölgesi ülkenin büyük bira tesislerinden birine ev sahipliği yapar.",
+  "t": "Kamenitza 1881'de Plovdiv'de doğdu; üretim bugün Haskovo'da sürüyor.",
+  "i": "Bulgar lagerleri hafif ve maltlıdır; şopska salata ile klasik ikilidir."
+ },
+ "İsveç|Halland": {
+  "k": "Batı İsveç kıyısındaki Halland, Carlsberg Sverige'nin büyük tesisinin bulunduğu bölgedir.",
+  "t": "Carnegie Porter 1836'dan beri İsveç'te üretilen en eski bira markalarından biridir.",
+  "i": "Carnegie'nin yıllık şişelerini birkaç yıl saklayıp yan yana tadın."
+ },
+ "Polonya|Aşağı Silezya": {
+  "k": "Wrocław merkezli bölge, Polonya craft devriminin başkentlerindendir.",
+  "t": "Pinta 2011'de Atak Chmielu ile Polonya'da 'yeni dalga' biracılığı başlattı.",
+  "i": "Wrocław'ın bira barlarında yerel fıçı listelerine bakın."
+ },
+ "Polonya|Mazovya": {
+  "k": "Varşova çevresindeki Mazovya, ülkenin en kalabalık craft pazarıdır.",
+  "t": "Artezan gibi ev biracılığından doğan üreticiler bölgede yoğunlaşır.",
+  "i": "Pasifik şerbetçiotlu pale ale'ler Polonya'da çok sevilir."
+ },
+ "Polonya|Varmia-Mazurya": {
+  "k": "Göller bölgesi Varmia-Mazurya, bağımsız bölgesel birahaneleriyle bilinir.",
+  "t": "Olsztyn'deki Kormoran 1991'den beri bağımsız üretir.",
+  "i": "Imperium Prunum'u 12-14 °C'de, erikli tatlılarla deneyin."
+ },
+ "Litvanya|Utena": {
+  "k": "Doğu Litvanya'nın göller ve ormanlar bölgesi; Utena büyük bir bira tesisine sahiptir.",
+  "t": "Utenos Alus Sovyet döneminde 1977'de kuruldu.",
+  "i": "Baltık porter'ları biraz serin, 10-12 °C'de içilmeli."
+ },
+ "Litvanya|Şiauliai": {
+  "k": "Kuzey Litvanya köyleri, ev mayalarıyla yapılan 'kaimiškas' çiftlik biralarının yaşadığı yerdir.",
+  "t": "Litvanya çiftlik biracılığı Sovyet döneminde bile köylerde sürdü; Jovarų bunun en bilinen örneğidir.",
+  "i": "Kaimiškas biraları bulanık ve canlıdır; şişede değil musluktan, taze içilmeli."
+ },
+ "Letonya|Riga": {
+  "k": "Letonya'nın başkenti Riga, hem büyük bira fabrikalarına hem canlı bir craft bar sahnesine sahiptir.",
+  "t": "Aldaris 19. yüzyıldan beri Riga'da üretiyor.",
+  "i": "Riga Merkez Pazarı'nda yerel lagerleri ve tütsülenmiş balığı birlikte deneyin."
+ },
+ "Japonya|Nagano": {
+  "k": "Japon Alpleri'ndeki Nagano, temiz dağ suyu ve serin iklimiyle biracılığa elverişlidir.",
+  "t": "Yo-Ho 1996'da Karuizawa'da kuruldu ve Japon craft'ının en büyüğü oldu.",
+  "i": "Yona Yona Ale, Japon craft'ına başlamak için ideal giriş birasıdır."
+ },
+ "Japonya|Shizuoka": {
+  "k": "Fuji Dağı'nın güneyindeki Shizuoka, Izu yarımadasıyla Japon craft'ının önemli duraklarındandır.",
+  "t": "Baird Brewing 2000'de Numazu'da kuruldu, sonra Shuzenji'ye taşındı.",
+  "i": "Baird'in taproom'larında şişede mayalı taze biralar bulunur."
+ },
+ "Japonya|Okinawa": {
+  "k": "Japonya'nın subtropikal ada eyaleti; sıcak iklim hafif, kuru lagerleri öne çıkarır.",
+  "t": "Orion 1957'de ABD yönetimi döneminde kuruldu.",
+  "i": "Orion'u Okinawa mutfağı goya champuru ile deneyin."
+ },
+ "Güney Kore|Chungcheong": {
+  "k": "Kore'nin orta bölgesi, büyük içecek fabrikalarına ev sahipliği yapar.",
+  "t": "Lotte 2014'te Kloud'u Chungju'daki tesiste üretmeye başladı.",
+  "i": "Kore lagerlerini fried chicken ('chimaek') ile deneyin."
+ },
+ "Çin|Pekin": {
+  "k": "Pekin, hem dünyanın en büyük bira şirketlerine hem de Çin craft sahnesine ev sahipliği yapar.",
+  "t": "Great Leap 2010'da, Jing-A 2012'de Pekin'de kuruldu.",
+  "i": "Hutong'lardaki craft barlarda Sichuan biberli biraları deneyin."
+ },
+ "Tayvan|Taipei": {
+  "k": "Tayvan'da bira uzun süre devlet tekelindeydi; bugün ulusal marka yanında canlı bir craft sahnesi var.",
+  "t": "Taiwan Beer 1946-47'den beri tekel tarafından üretilir.",
+  "i": "Taiwan Beer'i gece pazarı yemekleriyle, buz gibi içi."
+ },
+ "Tayland|Phuket": {
+  "k": "Turistik Phuket, Tayland'ın gelişen craft sahnesinin önemli duraklarındandır.",
+  "t": "Tayland'da küçük ölçekli üretim yasal olarak zor olduğundan craft markaları sınırlıdır.",
+  "i": "Tayland mutfağının acısını hafif pale ale'ler dengeler."
+ },
+ "Endonezya|Cava": {
+  "k": "Cava adası Endonezya bira üretiminin merkezidir; ülke Müslüman çoğunluklu olsa da Bali turizmi biraya talep yaratır.",
+  "t": "Bintang'ın kökeni 1929'da Surabaya'da kurulan Hollanda birahanesine uzanır.",
+  "i": "Bintang'ı nasi goreng ve sate ile deneyin."
+ },
+ "Vietnam|Hanoi": {
+  "k": "Hanoi, günlük taze 'bia hơi' fıçı birasıyla ünlüdür; kaldırımda plastik taburelerde içilir.",
+  "t": "Fransız sömürge döneminde 1890'da Hommel birahanesi kuruldu.",
+  "i": "Eski Mahalle'deki bia hơi köşelerinde bardağı birkaç bin dong'a için."
+ },
+ "Sri Lanka|Batı Eyaleti": {
+  "k": "Sri Lanka'nın bira geleneği İngiliz sömürge dönemine dayanır; tropikal stout en ünlü ihracatıdır.",
+  "t": "Lion Brewery 1881'de Nuwara Eliya'da kuruldu.",
+  "i": "Lion Stout'u çikolatalı tatlıyla ya da baharatlı köriyle deneyin."
+ },
+ "Kamboçya|Sihanoukville": {
+  "k": "Kamboçya'nın liman kenti Sihanoukville, ülkenin ulusal birasının üretildiği yerdir.",
+  "t": "Angkor birası adını ünlü tapınak kompleksinden alır.",
+  "i": "Hafif lagerleri amok balık köriyle deneyin."
+ },
+ "Hindistan|Delhi": {
+  "k": "Hindistan'ın başkenti, yeni kuşak bira markalarının ve şehir birahanelerinin merkezlerindendir.",
+  "t": "Bira 91 2015'te Delhi'de kuruldu.",
+  "i": "Wit tarzı Hint biralarını tandır yemekleriyle deneyin."
+ },
+ "Yeni Zelanda|Otago": {
+  "k": "Güney Ada'daki Otago, İskoç göçmen mirası ve Dunedin'in bira kültürüyle bilinir.",
+  "t": "Emerson's 1993'te Dunedin'de kuruldu.",
+  "i": "Yeni Zelanda pilsner'ları beyaz şarap kokulu şerbetçiotlarıyla şaşırtır."
+ },
+ "Brezilya|São Paulo": {
+  "k": "Brezilya'nın en kalabalık eyaleti, craft biranın en büyük pazarı ve üreticilerine ev sahipliği yapar.",
+  "t": "Colorado 1995'te Ribeirão Preto'da, Baden Baden 1999'da Campos do Jordão'da kuruldu.",
+  "i": "Rapadura, bal ve kahve gibi Brezilya malzemeli biraları arayın."
+ },
+ "Brezilya|Santa Catarina": {
+  "k": "Alman göçmenlerin yerleştiği Santa Catarina, Brezilya'nın 'bira vadisi' olarak bilinir.",
+  "t": "Blumenau, Almanya dışındaki en büyük Oktoberfest'lerden birini düzenler.",
+  "i": "Blumenau Oktoberfest'i (Ekim) Alman tarzı Brezilya biraları için en iyi fırsat."
+ },
+ "Brezilya|Paraná": {
+  "k": "Curitiba merkezli Paraná, Brezilya craft'ının en ödüllü üreticilerinden bazılarına sahiptir.",
+  "t": "Bodebrown 2009'da bira okulu olarak başladı.",
+  "i": "Güçlü Brezilya IPA'larını feijoada gibi yağlı yemeklerle deneyin."
+ },
+ "Şili|Santiago": {
+  "k": "Başkent bölgesi, Şili craft birasının en büyük pazarı ve üretim merkezidir.",
+  "t": "Kross 2003'te Curacaví'de kuruldu.",
+  "i": "Şili craft'ı Alman ve İngiliz tarzlarına yakındır; empanada ile deneyin."
+ },
+ "Şili|Los Ríos": {
+  "k": "Valdivia ve çevresi Alman göçmen mirasıyla Şili'nin bira başkentidir.",
+  "t": "19. yüzyılda Alman göçmenler Valdivia'da ilk birahaneleri kurdu.",
+  "i": "Valdivia'daki Kunstmann birahanesi bölgenin en ünlü durağıdır."
+ },
+ "Şili|Magallanes": {
+  "k": "Patagonya'nın en güneyi; soğuk iklim ve yerel meyveler biracılığa karakter katar.",
+  "t": "Austral 1896'da Punta Arenas'ta kuruldu.",
+  "i": "Calafate meyveli biraları bölgenin kuzu etiyle deneyin."
+ },
+ "Arjantin|Río Negro": {
+  "k": "Bariloche ve göller bölgesi Arjantin craft birasının kalbidir; El Bolsón şerbetçiotu yetiştiriciliğiyle bilinir.",
+  "t": "Patagonya bölgesi Arjantin'in neredeyse tüm şerbetçiotunu üretir.",
+  "i": "Bariloche'de bira bahçelerinde yerel şerbetçiotlu biraları deneyin."
+ },
+ "Meksika|Jalisco": {
+  "k": "Tekila'nın anavatanı Jalisco, Guadalajara merkezli canlı bir craft sahnesine sahiptir.",
+  "t": "Minerva 2003'te Meksika'nın ilk büyük craft birahanelerinden biri olarak kuruldu.",
+  "i": "Tekila fıçısında olgunlaşmış biraları tacos al pastor ile deneyin."
+ },
+ "Jamaika|Kingston": {
+  "k": "Jamaika'nın bira kültürü hafif lager ile tatlı, güçlü tropikal stout arasında ikiye ayrılır.",
+  "t": "Desnoes & Geddes 1918'de Kingston'da kuruldu; Red Stripe 1928'den beri üretilir.",
+  "i": "Red Stripe'ı jerk tavukla, Dragon Stout'u tatlıyla deneyin."
+ },
+ "Küba|Holguín": {
+  "k": "Doğu Küba'daki Holguín, adanın ihraç biralarının üretildiği yerdir.",
+  "t": "Cervecería Bucanero 1997'de Kanada ortaklığıyla kuruldu.",
+  "i": "Küba lagerlerini sıcakta, buz gibi içmek gelenektir."
+ },
+ "Lübnan|Beyrut": {
+  "k": "Beyrut, Arap dünyasının en canlı bira kültürüne sahip şehirlerindendir; meze sofrası birayla tamamlanır.",
+  "t": "Almaza 1933'ten beri üretilir; 961 Beer 2006 savaşı sırasında doğdu.",
+  "i": "Lübnan biralarını humus, tabule ve ızgara etle deneyin."
+ },
+ "Filistin|Ramallah": {
+  "k": "Batı Şeria'da Hristiyan nüfuslu Taybeh köyü, Filistin biracılığının merkezidir.",
+  "t": "Taybeh Brewing 1994'te Khoury ailesi tarafından kuruldu.",
+  "i": "Taybeh köyünün Ekim'deki bira festivali bölgenin en ilginç etkinliklerindendir."
+ },
+ "İsrail|Şaron": {
+  "k": "Akdeniz kıyısındaki Şaron ovası, hem büyük üreticilere hem butik birahanelere ev sahipliği yapar.",
+  "t": "Tempo 1950'lerden beri İsrail'in ana bira üreticisidir.",
+  "i": "İsrail craft'ını Tel Aviv'in bira barlarında aramak en kolayı."
+ },
+ "İsrail|Kudüs": {
+  "k": "Kudüs çevresindeki tepelerde küçük craft birahaneleri yoğunlaşır.",
+  "t": "İsrail craft sahnesi 2000'lerin sonunda doğdu.",
+  "i": "Amerikan tarzı pale ale'ler İsrail craft'ının en yaygın stilidir."
+ },
+ "Ürdün|Belka": {
+  "k": "Amman'ın kuzeybatısındaki Belka, Hristiyan kasabası Fuheis ile Ürdün'ün tek craft birahanesine ev sahipliği yapar.",
+  "t": "Carakale 2010'da kuruldu.",
+  "i": "Ürdün'de bira sınırlıdır; Amman'ın otel ve barlarında Carakale arayın."
+ },
+ "Ermenistan|Erivan": {
+  "k": "Ermenistan'ın bira kültürü Sovyet döneminden kalan lager geleneğine dayanır; Erivan'da craft barlar çoğalıyor.",
+  "t": "Kilikia adı tarihi Kilikya Ermeni Krallığı'ndan gelir.",
+  "i": "Ermeni lagerlerini khorovats (ızgara et) ile deneyin."
+ },
+ "Gürcistan|Tiflis": {
+  "k": "Şarabıyla ünlü Gürcistan'da başkent Tiflis, yeni craft birahanelerinin merkezidir.",
+  "t": "Argo bağımsızlık sonrası ilk ulusal bira olarak çıktı.",
+  "i": "Gürcü biralarını haçapuri ve hinkali ile deneyin."
+ },
+ "Yunanistan|Serres": {
+  "k": "Kuzey Yunanistan'daki Serez, Makedonya bölgesinin craft üreticilerine ev sahipliği yapar.",
+  "t": "Siris, Voreia markasıyla ülkenin bilinen mikro birahanelerindendir.",
+  "i": "Voreia biralarını Selanik'in meze barlarında arayın."
+ },
+ "Yunanistan|Kiklad": {
+  "k": "Ege'nin Kiklad adaları, ada turizmine yönelik taze, filtresiz biralarıyla yeni bir bira bölgesi.",
+  "t": "Tinos'taki Nissos 2013'te adaların ilk mikro birahanesi oldu.",
+  "i": "Ada biralarını deniz ürünleri ve kapari salatasıyla deneyin."
+ },
+ "Yunanistan|Korfu": {
+  "k": "İyon Denizi'ndeki Korfu, İngiliz mirası ve pastörize edilmemiş ada biralarıyla bilinir.",
+  "t": "Corfu Beer Yunan craft'ının ilk kuşağındandır.",
+  "i": "Korfu'da zencefilli gazoz (tsitsibira) de İngiliz mirasıdır; birayla karıştırmayın."
+ },
+ "Fas|Kazablanka": {
+  "k": "Fas'ta bira, otel ve restoranlarda tüketilen hafif lagerlerden ibarettir.",
+  "t": "Brasseries du Maroc 1919'da Fransız döneminde kuruldu.",
+  "i": "Fas lagerlerini baharatlı tajinle soğuk deneyin."
+ },
+ "Tunus|Tunus": {
+  "k": "Tunus'un bira pazarı neredeyse tek bir markaya, Celtia'ya dayanır.",
+  "t": "SFBT 1925'te kuruldu.",
+  "i": "Celtia'yı harissalı ızgara balıkla deneyin."
+ },
+ "Kongo DC|Kinşasa": {
+  "k": "Orta Afrika'da bira 72 cl'lik büyük şişelerde, paylaşılarak içilir.",
+  "t": "Bralima 1923'te Belçika döneminde kuruldu.",
+  "i": "Primus'u yerel ızgara balık ve kasava ile deneyin."
+ },
+ "Uganda|Jinja": {
+  "k": "Beyaz Nil'in kaynağındaki Jinja, Uganda'nın bira başkentidir.",
+  "t": "Nile Breweries 1951'de kuruldu.",
+  "i": "Nile Special'ı rolex (yumurtalı dürüm) ile deneyin."
+ },
+ "Tanzanya|Darüsselam": {
+  "k": "Tanzanya'nın bira kültürü ulusal markalar etrafında şekillenir; turistler Kilimanjaro'yu tercih eder.",
+  "t": "Tanzania Breweries 1930'larda kuruldu.",
+  "i": "Kilimanjaro'yu nyama choma (ızgara et) ile deneyin."
+ },
+ "Güney Afrika|Batı Kap": {
+  "k": "Cape Town ve şarap bölgesi, Güney Afrika craft biracılığının merkezidir.",
+  "t": "Ülkenin craft sahnesi 2010'larda Cape Town'da patladı.",
+  "i": "Woodstock'taki craft birahanelerini gezin; IPA'ları braai ile deneyin."
  }
 }
