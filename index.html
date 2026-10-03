@@ -458,11 +458,12 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
       <select id="fFlavor"><option value="">🍯 Tat profili (hepsi)</option><option>Acı/Şerbetçiotu</option><option>Narenciye</option><option>Tropik Meyve</option><option>Çam/Reçine</option><option>Meyveli</option><option>Muz/Karanfil</option><option>Kırmızı Meyve</option><option>Kuru Meyve</option><option>Malt/Ekmek</option><option>Karamel</option><option>Bal</option><option>Kavrulmuş</option><option>Kahve</option><option>Çikolata</option><option>İsli</option><option>Ekşi</option><option>Baharatlı</option><option>Çiçeksi</option><option>Otsu/Toprak</option><option>Vanilya/Meşe</option><option>Ferah</option><option>Gövdeli/Dolgun</option><option>Kuru (Dry)</option><option>Tatlı</option></select>
     </div>
     <div class="pillrow">
-      <span class="chip" data-avail="kolay">Markette</span>
-      <span class="chip" data-avail="tekel">Tekel/Bakkal</span>
-      <span class="chip" data-avail="craft">Craft dükkanı</span>
-      <span class="chip" data-avail="zor">Zor bulunur</span>
-      <span class="chip" data-avail="yurtdisi">Yurt dışı</span>
+      <span class="chip" data-avail="tr" title="Markette, tekelde ya da craft dükkânında bulunanların hepsi">🇹🇷 Türkiye'de bulunur</span>
+      <span class="chip" data-avail="kolay" title="Migros, Carrefour gibi zincir marketlerde">🛒 Markette</span>
+      <span class="chip" data-avail="tekel" title="Tekel bayileri ve bakkallarda">🏪 Tekel/Bakkal</span>
+      <span class="chip" data-avail="craft" title="Craft bira dükkânları ve birahanelerde">🍻 Craft dükkânı</span>
+      <span class="chip" data-avail="zor" title="Türkiye'ye ara sıra ya da çok az gelir; özel sipariş veya şans gerekir">🔍 Nadiren gelir</span>
+      <span class="chip" data-avail="yurtdisi" title="Türkiye'de satılmıyor; ancak yurt dışında bulunur">✈️ Sadece yurt dışında</span>
       <span class="chip" id="ncfChip" style="margin-left:6px">🌫️ Sadece Filtresiz</span>
     </div>
     <div class="expctl seviye"><span class="sv-et">Düzen:</span><button data-agacmod="ulke">🌍 Ülkeye göre</button><button data-agacmod="stil">🎨 Stile göre</button></div>
@@ -1975,7 +1976,7 @@ function passFilters(b){
   const flav=document.getElementById('fFlavor')?document.getElementById('fFlavor').value:'';
   if(flav && !flavorsOf(b).has(flav)) return false;
   if(typ && b.tur!==typ) return false;
-  if(activeAvail.size && !activeAvail.has(b.bul)) return false;
+  if(activeAvail.size && !(activeAvail.has(b.bul)||(activeAvail.has('tr')&&['kolay','tekel','craft'].includes(b.bul)))) return false;
   if(ncfOnly && !b.ncf) return false;
   return true;
 }
@@ -3270,6 +3271,11 @@ document.addEventListener('click',e=>{
 // çiziyordu ve o anki tıklama (ör. bir fabrikayı açıp kapatma) kayboluyordu.
 document.getElementById('search').addEventListener('input',renderTree);
 ['fStatus','fTier','fType','fSort','fFlavor'].forEach(id=>document.getElementById(id).addEventListener('change',renderTree));
+function cipSayilari(){
+  const n={tr:0};allBottles().forEach(b=>{n[b.bul]=(n[b.bul]||0)+1;if(['kolay','tekel','craft'].includes(b.bul))n.tr++;});
+  document.querySelectorAll('.chip[data-avail]').forEach(c=>{const t=c.textContent.replace(/ \(\d+\)$/,'');c.textContent=t+' ('+(n[c.dataset.avail]||0)+')';});
+  const nc=document.getElementById('ncfChip');if(nc)nc.textContent='🌫️ Sadece Filtresiz ('+allBottles().filter(b=>b.ncf).length+')';
+}
 document.querySelectorAll('.chip[data-avail]').forEach(c=>c.onclick=()=>{
   const a=c.dataset.avail;
   if(activeAvail.has(a)){activeAvail.delete(a);c.classList.remove('on');}else{activeAvail.add(a);c.classList.add('on');}
@@ -3439,6 +3445,7 @@ document.getElementById('resetBtn').onclick=(e)=>{e.preventDefault();
 };
 
 function renderAll(){
+  if(typeof cipSayilari==="function")cipSayilari();
   // Üst istatistikler + yalnızca açık sekme. Diğer sekmeler açıldıkları anda güncel durumla çizilir.
   renderStats();
   const a=document.querySelector('#subNav .tab.active');const f=RENDER[a?a.dataset.view:'explore'];if(f)f();
@@ -3468,7 +3475,7 @@ function renderFiyat(){
 
 /* ===== ŞİŞE DETAY KARTI (paylaşılabilir: #s=<id>) ===== */
 let DETAY_ID=null;
-const AV_TXT={kolay:'Markette',tekel:'Tekel/Bakkal',craft:'Craft dükkanı',zor:'Zor bulunur',yurtdisi:'Yurt dışı'};
+const AV_TXT={kolay:'Markette',tekel:'Tekel/Bakkal',craft:'Craft dükkânı',zor:'Nadiren gelir',yurtdisi:'Sadece yurt dışında'};
 function sparkSVG(g){
   const W=300,H=70,P=6,v=g.map(x=>x[1]),mn=Math.min(...v),mx=Math.max(...v),r=mx-mn||1;
   const pts=g.map((x,i)=>[P+i*(W-2*P)/(g.length-1),H-P-(x[1]-mn)/r*(H-2*P)]);
