@@ -1,0 +1,1443 @@
+{
+ "_aciklama": "Tadım notları (b: burun, d: damak, f: bitiş, s: servis).",
+ "weihenstephaner-hefeweissbier": {
+  "b": "Olgun muz, karanfil, hafif vanilya ve maya",
+  "d": "Kremsi, yumuşak buğday, hafif tatlımsı ekmek",
+  "f": "Kısa, ferah, hafif ekşimsi",
+  "s": "Uzun weizen bardağı, 6-8°C; beyaz sosis, simit (brezel), salata"
+ },
+ "weihenstephaner-vitus": {
+  "b": "Kayısı, muz, karanfil ve bal",
+  "d": "Dolgun, ipeksi, meyveli ve hafif baharatlı",
+  "f": "Sıcak, alkol hissettirmeden orta uzunlukta",
+  "s": "Weizen bardağı, 8-10°C; ördek, olgun peynirler, elmalı tatlılar"
+ },
+ "paulaner-hefe-weissbier": {
+  "b": "Muz, karanfil, hafif limon",
+  "d": "Yumuşak, kremsi, orta gövdeli",
+  "f": "Temiz ve ferah",
+  "s": "Weizen bardağı, 6-8°C; beyaz sosis, tavuk, hafif salatalar"
+ },
+ "paulaner-munchner-hell": {
+  "b": "Taze ekmek, hafif çiçeksi şerbetçiotu",
+  "d": "Tatlımsı malt, yumuşak ve hafif",
+  "f": "Kısa, temiz",
+  "s": "Bira kupası, 5-7°C; ızgara tavuk, pizza, meze"
+ },
+ "paulaner-salvator": {
+  "b": "Karamel, kuru erik, kızarmış ekmek",
+  "d": "Dolgun, tatlımsı malt, kuru meyve",
+  "f": "Sıcak, hafif acı, orta uzunlukta",
+  "s": "Lale kadeh, 8-10°C; domuz eti yerine dana kaburga, sert peynirler"
+ },
+ "erdinger-weissbier": {
+  "b": "Hafif muz, maya, ekmek",
+  "d": "Yumuşak, hafif tatlı, köpüklü",
+  "f": "Kısa, ferah",
+  "s": "Weizen bardağı, 6-8°C; hafif yemekler, salata"
+ },
+ "erdinger-dunkel": {
+  "b": "Kavrulmuş malt, kakao, muz",
+  "d": "Hafif-orta gövde, karamel ve çikolata",
+  "f": "Kuru, hafif kavrulmuş",
+  "s": "Weizen bardağı, 7-9°C; ızgara et, mantarlı yemekler"
+ },
+ "augustiner-lagerbier-hell": {
+  "b": "Taze tahıl, bal, hafif çiçek",
+  "d": "Kremsi, yumuşak, mükemmel dengeli",
+  "f": "Temiz, hafif otsu",
+  "s": "Bira kupası, 6-7°C; Bavyera bira bahçesi yemekleri, brezel"
+ },
+ "schneider-weisse-tap7-original": {
+  "b": "Karanfil, muz, hafif karamel",
+  "d": "Orta gövde, meyveli ve ekmeksi",
+  "f": "Kuru, baharatlı",
+  "s": "Weizen bardağı, 7-9°C; kızarmış tavuk, mantar"
+ },
+ "schneider-aventinus": {
+  "b": "Muz, kuru erik, karamel, karanfil",
+  "d": "Dolgun, tatlımsı, kuru meyve ve baharat",
+  "f": "Uzun, ısıtan",
+  "s": "Weizen ya da lale kadeh, 8-12°C; çikolatalı tatlılar, yıllanmış peynirler"
+ },
+ "schneider-aventinus-eisbock": {
+  "b": "Likör gibi kuru üzüm, erik, muz, karamel",
+  "d": "Yoğun, yağlı, şeker ve alkol sıcaklığı",
+  "f": "Çok uzun, konyak gibi",
+  "s": "Konyak kadehi, 12-14°C; sindirim sonrası, bitter çikolata"
+ },
+ "ayinger-celebrator": {
+  "b": "Kavrulmuş malt, kakao, kuru erik, hafif is",
+  "d": "Kadifemsi, zengin karamel ve çikolata",
+  "f": "Uzun, hafif kavrulmuş acılık",
+  "s": "Lale kadeh, 8-10°C; dana yanak, rosto, çikolatalı kek"
+ },
+ "ayinger-brauweisse": {
+  "b": "Canlı muz, karanfil, limon",
+  "d": "Hafif, kremsi, ferah",
+  "f": "Kısa, ekşimsi ferahlık",
+  "s": "Weizen bardağı, 6-8°C; brunch, yumurtalı yemekler"
+ },
+ "andechser-doppelbock-dunkel": {
+  "b": "Kakao, kuru meyve, kızarmış ekmek",
+  "d": "Dolgun ama içimli; karamel, çikolata",
+  "f": "Orta uzunlukta, hafif kavrulmuş",
+  "s": "Bira kupası ya da lale, 8-10°C; et yahnisi, sert peynir"
+ },
+ "schlenkerla-rauchbier-maerzen": {
+  "b": "Yoğun kayın dumanı, isli jambon, kamp ateşi",
+  "d": "Orta gövde, kavrulmuş malt ve is",
+  "f": "Kuru, isli, uzun",
+  "s": "Kupa, 8-10°C; füme et, pastırma, ızgara, isli peynir"
+ },
+ "schlenkerla-urbock": {
+  "b": "Daha yoğun is, karamel",
+  "d": "Dolgun, tatlımsı malt ve duman",
+  "f": "Uzun, isli",
+  "s": "Lale kadeh, 9-11°C; mangal, kavurma"
+ },
+ "mahrs-ungespundet": {
+  "b": "Taze ekmek, hafif otsu şerbetçiotu, maya",
+  "d": "Yumuşak, düşük karbonasyon, ekmeksi",
+  "f": "Kuru, hafif acı",
+  "s": "Seramik kupa, 7-9°C; sosis, patates salatası, Franken yemekleri"
+ },
+ "weltenburger-barock-dunkel": {
+  "b": "Kakao, ekmek kabuğu, hafif karamel",
+  "d": "Yumuşak, maltlı, hafif kavrulmuş",
+  "f": "Temiz, kuru",
+  "s": "Kupa, 7-9°C; rosto, köfte, mantar"
+ },
+ "fruh-kolsch": {
+  "b": "Hafif armut, çiçek, ekmek",
+  "d": "Narin, hafif, kuru",
+  "f": "Kısa, temiz, hafif acı",
+  "s": "20 cl 'Stange', 5-7°C; hafif mezeler, peynir tabağı"
+ },
+ "reissdorf-kolsch": {
+  "b": "Armut, beyaz ekmek",
+  "d": "Yumuşak, hafif tatlımsı",
+  "f": "Temiz",
+  "s": "Stange, 5-7°C; balık, salata"
+ },
+ "uerige-alt": {
+  "b": "Kavrulmuş malt, otsu ve çiçeksi şerbetçiotu",
+  "d": "Orta gövde, maltlı ama kuru",
+  "f": "Belirgin ve uzun acılık",
+  "s": "Altbier bardağı (Becher), 8-10°C; et yemekleri, olgun peynir"
+ },
+ "schumacher-alt": {
+  "b": "Ekmek kabuğu, hafif karamel",
+  "d": "Yumuşak, dengeli",
+  "f": "Kuru, orta acılık",
+  "s": "Becher, 8-10°C; sosis, köfte"
+ },
+ "jever-pilsener": {
+  "b": "Otsu şerbetçiotu, hafif tahıl",
+  "d": "Hafif, çok kuru",
+  "f": "Keskin, uzun acılık",
+  "s": "Pils kadehi, 5-7°C; balık, deniz ürünleri"
+ },
+ "becks": {
+  "b": "Hafif tahıl, otsu şerbetçiotu",
+  "d": "Hafif, temiz",
+  "f": "Kısa, hafif acı",
+  "s": "Pils kadehi, 4-6°C; pizza, çerezler"
+ },
+ "krombacher-pils": {
+  "b": "Tahıl, hafif çiçek",
+  "d": "Yumuşak, hafif",
+  "f": "Temiz, orta acılık",
+  "s": "Pils kadehi, 5-7°C; ızgara, hamburger"
+ },
+ "warsteiner-premium": {
+  "b": "Hafif tahıl ve şerbetçiotu",
+  "d": "Hafif, ferah",
+  "f": "Kısa, temiz",
+  "s": "Pils kadehi, 4-6°C; günlük içim, aperatifler"
+ },
+ "bitburger-premium-pils": {
+  "b": "Otsu şerbetçiotu, tahıl",
+  "d": "Hafif, kuru",
+  "f": "Net acılık",
+  "s": "Pils kadehi, 5-7°C; ızgara tavuk, salata"
+ },
+ "kostritzer-schwarzbier": {
+  "b": "Kahve, bitter çikolata, kızarmış ekmek",
+  "d": "Hafif gövde, kavrulmuş ama yumuşak",
+  "f": "Kuru, hafif acı",
+  "s": "Pils kadehi ya da kupa, 7-9°C; ızgara et, mantar, çikolata"
+ },
+ "berliner-kindl-weisse": {
+  "b": "Limon, buğday, hafif ekşi",
+  "d": "Çok hafif, ekşi ve köpüklü",
+  "f": "Kısa, ekşi",
+  "s": "Geniş kadeh, 4-6°C; şuruplu ya da sade, yaz günleri"
+ },
+ "ritterguts-gose": {
+  "b": "Kişniş, limon, deniz tuzu",
+  "d": "Hafif, ekşi, tuzlu",
+  "f": "Ferah ve kuru",
+  "s": "Silindir bardak, 5-7°C; deniz ürünleri, keçi peyniri"
+ },
+ "stiegl-goldbrau": {
+  "b": "Hafif bal, tahıl",
+  "d": "Yumuşak, hafif tatlımsı",
+  "f": "Temiz",
+  "s": "Kupa, 5-7°C; şnitzel, sosis"
+ },
+ "trumer-pils": {
+  "b": "Çiçeksi Saaz, hafif limon",
+  "d": "Hafif, zarif, canlı",
+  "f": "Kuru, temiz acılık",
+  "s": "Pils kadehi, 5-7°C; sushi, balık"
+ },
+ "samichlaus-classic": {
+  "b": "Kuru erik, karamel, şeri, alkol",
+  "d": "Çok yoğun, tatlı, likörümsü",
+  "f": "Çok uzun, ısıtıcı",
+  "s": "Konyak kadehi, 12-14°C; tatlı, yıllanmış peynir; mahzende yıllanabilir"
+ },
+ "pilsner-urquell": {
+  "b": "Bal, ekmek, Saaz'ın baharatlı çiçekleri",
+  "d": "Yumuşak malt, tereyağımsı hafif yuvarlaklık",
+  "f": "Belirgin, temiz acılık",
+  "s": "Kulplu Çek kupası, 6-8°C; ızgara et, kızarmış tavuk, Çek gulaşı"
+ },
+ "budweiser-budvar-original": {
+  "b": "Bal, tahıl, hafif çiçek",
+  "d": "Yumuşak, dolgun malt",
+  "f": "Orta acılık, temiz",
+  "s": "Kupa, 6-8°C; ızgara, sosis, peynir"
+ },
+ "kozel-cerny": {
+  "b": "Karamel, kahve, şeker",
+  "d": "Kremsi, tatlımsı, hafif",
+  "f": "Kısa, yumuşak",
+  "s": "Kupa, 6-8°C; tatlılar, kızarmış et"
+ },
+ "kozel-premium": {
+  "b": "Tahıl, hafif şerbetçiotu",
+  "d": "Hafif, yumuşak",
+  "f": "Kısa, hafif acı",
+  "s": "Kupa, 5-7°C; meze, ızgara"
+ },
+ "staropramen-premium": {
+  "b": "Tahıl, hafif bal",
+  "d": "Hafif ve dengeli",
+  "f": "Temiz",
+  "s": "Kupa, 5-7°C; günlük yemekler"
+ },
+ "unetice-12": {
+  "b": "Taze ekmek, maya, Saaz çiçeği",
+  "d": "Dolgun, kremsi, canlı",
+  "f": "Uzun, otsu acılık",
+  "s": "Kupa, 7-8°C; Çek mutfağı, kızarmış domuz yerine dana rosto"
+ },
+ "kout-na-sumave-12": {
+  "b": "Bal, ekmek kabuğu, çiçeksi Saaz",
+  "d": "Yoğun malt, kremsi doku",
+  "f": "Uzun ve zarif acılık",
+  "s": "Kupa, 7-8°C; et yemekleri, sert peynir"
+ },
+ "spaten-munchner-hell": {
+  "b": "Bal, tahıl",
+  "d": "Yumuşak, hafif",
+  "f": "Temiz",
+  "s": "Kupa, 5-7°C; brezel, beyaz sosis"
+ },
+ "franziskaner-hefe-weissbier": {
+  "b": "Muz, hafif karanfil",
+  "d": "Hafif, köpüklü, meyvemsi",
+  "f": "Ferah",
+  "s": "Weizen bardağı, 6-8°C; salata, tavuk"
+ },
+ "budweiser": {
+  "b": "Hafif tahıl, elma, pirinç",
+  "d": "İnce gövde, hafif tatlı malt",
+  "f": "Kısa, temiz, gazlı",
+  "s": "Buz gibi (2-4°C), pilsner bardağı; burger, pizza"
+ },
+ "corona-extra": {
+  "b": "Hafif tahıl, mısır, belirgin olmayan şerbetçiotu",
+  "d": "Çok hafif gövde, az tatlı",
+  "f": "Kısa, sulu, ferah",
+  "s": "2-4°C, şişeden limon dilimiyle; taco, ceviche, plaj"
+ },
+ "sol": {
+  "b": "Hafif tahıl ve limonumsu",
+  "d": "Çok hafif, sulu",
+  "f": "Kısa ve ferah",
+  "s": "2-4°C, şişeden veya limonla; atıştırmalık, ızgara tavuk"
+ },
+ "blue-moon-belgian-white": {
+  "b": "Portakal kabuğu, kişniş, buğday",
+  "d": "Yumuşak, kremsi, hafif tatlı",
+  "f": "Kısa, baharatlı",
+  "s": "4-6°C, uzun buğday bardağı ve portakal dilimi; salata, deniz ürünleri"
+ },
+ "goose-island-ipa": {
+  "b": "Çiçeksi şerbetçiotu, greyfurt, hafif çam",
+  "d": "Karamel maltla dengeli acılık",
+  "f": "Kuru, orta uzun acılık",
+  "s": "7-9°C, shaker ya da IPA bardağı; acılı kanat, burger"
+ },
+ "samuel-adams-boston-lager": {
+  "b": "Çiçeksi ve otsu Alman şerbetçiotu, karamel",
+  "d": "Orta gövde, kızarmış ekmek ve karamel",
+  "f": "Temiz, hafif acı",
+  "s": "5-7°C, pilsner bardağı; sosis, burger"
+ },
+ "brooklyn-lager": {
+  "b": "Çiçeksi şerbetçiotu, karamel, ekmek",
+  "d": "Orta gövde, maltlı-tatlı denge",
+  "f": "Kuru, hafif acı",
+  "s": "5-7°C, shaker bardak; pizza, ızgara et"
+ },
+ "sierra-nevada-pale-ale": {
+  "b": "Çam, greyfurt, çiçeksi Cascade",
+  "d": "Bisküvi maltı, orta gövde",
+  "f": "Temiz, belirgin acılık",
+  "s": "6-8°C, shaker ya da nonik; burger, Meksika mutfağı, cheddar"
+ },
+ "sierra-nevada-torpedo": {
+  "b": "Reçine, çam, mandalina",
+  "d": "Dolgun gövde, karamel destekli",
+  "f": "Uzun, reçineli acılık",
+  "s": "7-9°C, IPA bardağı; acılı yemekler, olgun peynir"
+ },
+ "sierra-nevada-celebration": {
+  "b": "Taze çam, greyfurt, reçine",
+  "d": "Karamel ve kızarmış malt",
+  "f": "Kuru ve acı",
+  "s": "7-9°C, lale ya da IPA bardağı; hindi, kış sofrası"
+ },
+ "sierra-nevada-bigfoot": {
+  "b": "Karamel, kuru meyve, çam",
+  "d": "Yoğun, tatlı, isıtıcı",
+  "f": "Uzun, acı ve alkol sıcaklığı",
+  "s": "12-14°C, snifter; mavi peynir, sıcak tatlılar"
+ },
+ "anchor-steam-beer": {
+  "b": "Karamel, ekmek, odunsu şerbetçiotu",
+  "d": "Orta gövde, hafif meyvemsi",
+  "f": "Kuru, hafif acı",
+  "s": "7-9°C, shaker ya da pilsner; San Francisco ekşi mayalı ekmek, midye"
+ },
+ "stone-ipa": {
+  "b": "Greyfurt, reçine, tropikal meyve",
+  "d": "Hafif malt, ön planda şerbetçiotu",
+  "f": "Kuru, keskin acılık",
+  "s": "7-9°C, IPA bardağı; balık taco, acılı Asya"
+ },
+ "pliny-the-elder": {
+  "b": "Çam, greyfurt, çiçek, reçine",
+  "d": "Kuru ve şaşırtıcı derecede içimi kolay",
+  "f": "Uzun, temiz acılık",
+  "s": "Taze ve soğuk (6-8°C), IPA bardağı; tek başına ya da ızgara"
+ },
+ "pliny-the-younger": {
+  "b": "Yoğun çam, tropikal meyve, kayısı",
+  "d": "Dolgun ama kuru, alkolü gizli",
+  "f": "Uzun ve reçineli",
+  "s": "Fıçıdan, 7-9°C; küçük kadeh"
+ },
+ "russian-river-supplication": {
+  "b": "Vişne, meşe, şarap, Brett'in toprak notası",
+  "d": "Ekşi, meyveli, ince",
+  "f": "Uzun, tanenli ve asidik",
+  "s": "10-12°C, lale; ördek, keçi peyniri"
+ },
+ "firestone-walker-parabola": {
+  "b": "Bourbon, vanilya, meşe, kahve",
+  "d": "Çok yoğun, yağsı, tatlı",
+  "f": "Uzun, sıcak alkol",
+  "s": "13-15°C, snifter; bitter çikolata, puro"
+ },
+ "lagunitas-ipa": {
+  "b": "Greyfurt, çam, karamel",
+  "d": "Orta gövde, dengeli",
+  "f": "Orta acılık",
+  "s": "7-9°C, IPA bardağı; pizza, burger"
+ },
+ "ballast-point-sculpin": {
+  "b": "Kayısı, mango, limon kabuğu",
+  "d": "Hafif ve parlak",
+  "f": "Kuru, net acılık",
+  "s": "6-8°C, IPA bardağı; balık taco, Tay mutfağı"
+ },
+ "deschutes-black-butte-porter": {
+  "b": "Kakao, kahve, kavrulmuş malt",
+  "d": "Kremsi, orta gövde",
+  "f": "Kuru, hafif kavrulmuş",
+  "s": "8-10°C, nonik; ızgara et, brownie"
+ },
+ "deschutes-the-abyss": {
+  "b": "Meyan kökü, pekmez, kahve, meşe",
+  "d": "Yoğun, yağsı",
+  "f": "Uzun, tatlı-acı",
+  "s": "12-14°C, snifter; tatlılar, mavi peynir"
+ },
+ "new-belgium-la-folie": {
+  "b": "Vişne, yeşil elma, meşe, sirke",
+  "d": "Ekşi, kuru, meyveli",
+  "f": "Uzun ve asidik",
+  "s": "8-10°C, lale; şarküteri, keçi peyniri"
+ },
+ "bells-two-hearted": {
+  "b": "Çam, greyfurt, bal, çiçek",
+  "d": "Orta gövde, dengeli malt",
+  "f": "Temiz, orta-yüksek acılık",
+  "s": "7-9°C, IPA bardağı; balık-patates, hint köri"
+ },
+ "founders-kbs": {
+  "b": "Bourbon, kahve, çikolata, vanilya",
+  "d": "Dolgun, ipeksi",
+  "f": "Uzun, sıcak, kahveli",
+  "s": "12-14°C, snifter; tiramisu, crème brûlée"
+ },
+ "founders-breakfast-stout": {
+  "b": "Espresso, bitter çikolata, yulaf",
+  "d": "Kremsi, yumuşak",
+  "f": "Kavrulmuş, kahveli",
+  "s": "8-10°C, snifter ya da lale; kahvaltı, pancake, brownie"
+ },
+ "founders-all-day-ipa": {
+  "b": "Narenciye, çam, çiçek",
+  "d": "Hafif gövde",
+  "f": "Kısa, temiz acılık",
+  "s": "5-7°C, shaker; salata, hafif atıştırmalık"
+ },
+ "goose-island-bourbon-county-stout": {
+  "b": "Bourbon, vanilya, pekmez, fudge",
+  "d": "Çok yoğun, şurupsu",
+  "f": "Çok uzun, sıcak",
+  "s": "13-15°C, snifter; tek başına ya da bitter çikolata"
+ },
+ "three-floyds-zombie-dust": {
+  "b": "Mango, şeftali, greyfurt",
+  "d": "Hafif-orta gövde, sulu",
+  "f": "Temiz, ılımlı acılık",
+  "s": "6-8°C, IPA bardağı; burger"
+ },
+ "toppling-goliath-kbbs": {
+  "b": "Akçaağaç, kahve, bourbon, vanilya",
+  "d": "Yoğun, yağsı",
+  "f": "Uzun, tatlı",
+  "s": "13-15°C, snifter; paylaşarak, tatlıyla"
+ },
+ "great-lakes-edmund-fitzgerald": {
+  "b": "Kahve, kakao, kavrulmuş arpa",
+  "d": "Orta gövde, kuru",
+  "f": "Kuru, acı-kavrulmuş",
+  "s": "8-10°C, nonik; ızgara et, istiridye"
+ },
+ "dogfish-head-60-minute": {
+  "b": "Greyfurt, çam, çiçek",
+  "d": "Dengeli malt ve şerbetçiotu",
+  "f": "Orta acılık",
+  "s": "6-8°C, IPA bardağı; pizza, acılı kanat"
+ },
+ "dogfish-head-90-minute": {
+  "b": "Karamel, portakal, çam",
+  "d": "Dolgun, maltlı-tatlı",
+  "f": "Uzun, reçineli",
+  "s": "8-10°C, lale; ızgara et, olgun cheddar"
+ },
+ "victory-prima-pils": {
+  "b": "Otsu, çiçeksi Alman şerbetçiotu, limon",
+  "d": "Hafif, kuru, bisküvi",
+  "f": "Keskin ve temiz acılık",
+  "s": "4-6°C, pilsner bardağı; sosis, kızarmış balık"
+ },
+ "ommegang-hennepin": {
+  "b": "Biber, zencefil, narenciye, maya",
+  "d": "Kuru, efervesan",
+  "f": "Baharatlı, kuru",
+  "s": "7-9°C, lale; midye, keçi peyniri"
+ },
+ "the-alchemist-heady-topper": {
+  "b": "Tropikal meyve, çam, greyfurt",
+  "d": "Yumuşak, bulanık, sulu",
+  "f": "Orta acılık, uzun aroma",
+  "s": "Kutudan, soğuk; tek başına"
+ },
+ "tree-house-julius": {
+  "b": "Mango, şeftali, portakal suyu",
+  "d": "Kremsi, sulu",
+  "f": "Yumuşak, düşük acılık",
+  "s": "6-8°C, lale; tek başına ya da hafif yemek"
+ },
+ "hill-farmstead-edward": {
+  "b": "Çiçek, limon, çam",
+  "d": "Narin, hafif",
+  "f": "Kuru, zarif acılık",
+  "s": "6-8°C, lale; tek başına"
+ },
+ "allagash-white": {
+  "b": "Kişniş, portakal kabuğu, buğday",
+  "d": "Kremsi, hafif tatlı",
+  "f": "Baharatlı, kuru",
+  "s": "4-6°C, buğday ya da lale; midye, salata, beyaz balık"
+ },
+ "cigar-city-jai-alai": {
+  "b": "Mandalina, greyfurt, reçine",
+  "d": "Karamel destekli orta gövde",
+  "f": "Orta-yüksek acılık",
+  "s": "7-9°C, IPA bardağı; Küba sandviçi, acılı yemek"
+ },
+ "cigar-city-hunahpus": {
+  "b": "Kakao, tarçın, vanilya, kuru biber",
+  "d": "Dolgun, baharatlı",
+  "f": "Uzun, hafif yakıcı",
+  "s": "12-14°C, snifter; mole, bitter çikolata"
+ },
+ "unibroue-la-fin-du-monde": {
+  "b": "Portakal kabuğu, karanfil, bal, maya",
+  "d": "Dolgun ama efervesan",
+  "f": "Kuru, baharatlı, sıcak",
+  "s": "8-10°C, lale; keçi peyniri, deniz ürünleri"
+ },
+ "unibroue-maudite": {
+  "b": "Baharat, karamel, kuru meyve",
+  "d": "Orta-dolgun, tatlımsı",
+  "f": "Baharatlı",
+  "s": "8-10°C, lale; av eti, et yahnisi"
+ },
+ "dieu-du-ciel-peche-mortel": {
+  "b": "Espresso, bitter çikolata, kavrulmuş malt",
+  "d": "Dolgun, kremsi",
+  "f": "Uzun, kahveli",
+  "s": "10-12°C, snifter; tiramisu, cheesecake"
+ },
+ "negra-modelo": {
+  "b": "Karamel, kavrulmuş malt, hafif çikolata",
+  "d": "Orta gövde, yumuşak",
+  "f": "Kuru, hafif tatlı",
+  "s": "5-7°C, pilsner; taco, mole, ızgara et"
+ },
+ "modelo-especial": {
+  "b": "Tahıl, bal, hafif şerbetçiotu",
+  "d": "Hafif-orta gövde",
+  "f": "Kısa, ferah",
+  "s": "3-5°C, şişeden; taco, nachos"
+ },
+ "pacifico-clara": {
+  "b": "Tahıl, limon, hafif çimen",
+  "d": "Hafif, sulu",
+  "f": "Kısa, ferah",
+  "s": "3-5°C, limonla; ceviche, karides"
+ },
+ "westvleteren-12": {
+  "b": "Kuru incir, kuru üzüm, karamel ve hafif anason",
+  "d": "Yoğun ama ipeksi; kahverengi şeker, erik, çikolata ve mayalı baharat",
+  "f": "Uzun, sıcak, hafif tatlı; alkol çok iyi saklanmış",
+  "s": "Kadeh bardak, 12-14 °C; olgun peynir, çikolatalı tatlı"
+ },
+ "westvleteren-8": {
+  "b": "Kuru meyve, karamel ve maya baharatı",
+  "d": "Erik, kahverengi şeker, hafif kakao",
+  "f": "Orta uzunlukta, kurumsu",
+  "s": "Kadeh, 10-12 °C; güveç yemekleri"
+ },
+ "rochefort-10": {
+  "b": "Porto, kuru erik, kakao ve deri",
+  "d": "Kremamsı; incir, kara melas, çikolata, hafif baharat",
+  "f": "Uzun, sıcak, likörümsü",
+  "s": "Kadeh, 12-14 °C; mavi peynir, bitter çikolata"
+ },
+ "rochefort-8": {
+  "b": "İncir, karamel ve esmer şeker",
+  "d": "Kuru meyve, çikolata, hafif kızarmış ekmek",
+  "f": "Sıcak ve baharatlı",
+  "s": "Kadeh, 10-12 °C; av eti, kuzu"
+ },
+ "westmalle-dubbel": {
+  "b": "Muz, karamel, kuru erik",
+  "d": "Orta gövde; esmer şeker, kakao, hafif meyve",
+  "f": "Kuru, hafif acı",
+  "s": "Kadeh, 8-12 °C; Belçika usulü biralı et yahnisi (carbonade)"
+ },
+ "westmalle-tripel": {
+  "b": "Bal, muz, karanfil ve çiçeksi şerbetçiotu",
+  "d": "Kuru ve gazlı; armut, biber, ekmeksi malt",
+  "f": "Uzun, belirgin acılık",
+  "s": "Kadeh, 8-10 °C; kremalı tavuk, midye"
+ },
+ "chimay-mavi": {
+  "b": "Karabiber, kuru üzüm, karamel",
+  "d": "Dolgun; erik, şeker kamışı, baharat",
+  "f": "Sıcak, hafif tatlı",
+  "s": "Kadeh, 10-12 °C; Chimay peyniri, kırmızı et"
+ },
+ "chimay-kirmizi": {
+  "b": "Kayısı, karamel ve maya",
+  "d": "Yumuşak; meyve, ekmek kabuğu",
+  "f": "Kısa, hafif tatlı",
+  "s": "Kadeh, 8-10 °C; peynir tabağı"
+ },
+ "chimay-beyaz": {
+  "b": "Misket, şeftali, beyaz biber",
+  "d": "Kuru, gazlı, ekmeksi",
+  "f": "Acımsı ve baharatlı",
+  "s": "Kadeh, 8-10 °C; ızgara balık"
+ },
+ "orval": {
+  "b": "Toprak, ahır, kuru şerbetçiotu, portakal kabuğu",
+  "d": "Kuru, hafif ekşimsi; bisküvi ve narenciye",
+  "f": "Uzun ve acımsı",
+  "s": "Orval kadehi, 10-12 °C; Orval peyniri, charcuterie"
+ },
+ "la-trappe-quadrupel": {
+  "b": "Karamel, hurma, tarçın",
+  "d": "Tatlımsı, dolgun; kuru meyve, bal",
+  "f": "Isıtıcı, orta uzunluk",
+  "s": "Kadeh, 12 °C; elmalı turta"
+ },
+ "leffe-blonde": {
+  "b": "Vanilya, karanfil, hafif muz",
+  "d": "Tatlımsı malt, bal, hafif baharat",
+  "f": "Kısa, yumuşak, hafif acı",
+  "s": "Leffe kadehi, 5-6 °C; beyaz peynir, tavuk"
+ },
+ "leffe-brune": {
+  "b": "Karamel, kahve, kuru meyve",
+  "d": "Tatlımsı; esmer şeker, hafif kavrulmuş malt",
+  "f": "Yumuşak, kısa",
+  "s": "Kadeh, 6-8 °C; kırmızı et, mantar"
+ },
+ "grimbergen-double-ambree": {
+  "b": "Karamel, erik, karanfil",
+  "d": "Tatlı malt, kuru meyve",
+  "f": "Kısa, hafif baharatlı",
+  "s": "Kadeh, 6-8 °C; köfte, kaşar"
+ },
+ "st-bernardus-abt-12": {
+  "b": "Çikolata, incir, anason, karamel",
+  "d": "Kremamsı; kuru meyve, ekmek, baharat",
+  "f": "Uzun, sıcak, hafif tatlı",
+  "s": "Kadeh, 12-14 °C; çikolatalı tatlı, olgun peynir"
+ },
+ "tripel-karmeliet": {
+  "b": "Vanilya, muz, limon, çiçek",
+  "d": "Kremamsı; bal, şeftali, tahıl",
+  "f": "Kuru, hafif biberli",
+  "s": "Kendi kadehi, 6-8 °C; tavuk, deniz ürünleri"
+ },
+ "cantillon-gueuze": {
+  "b": "Limon, ahır, yeşil elma, meşe",
+  "d": "Kemik kuru, keskin ekşi, mineral",
+  "f": "Uzun, kuru, tanenli",
+  "s": "Gueuze bardağı, 10-12 °C; midye, keçi peyniri"
+ },
+ "cantillon-kriek": {
+  "b": "Ekşi vişne, badem, ahır",
+  "d": "Sert ekşi, şekersiz vişne",
+  "f": "Kuru, tanenli",
+  "s": "Tumbler veya şarap kadehi, 10 °C; ördek, çikolata"
+ },
+ "3-fonteinen-oude-geuze": {
+  "b": "Greyfurt, saman, meşe, bal",
+  "d": "Zarif ekşilik, narenciye, hafif tatlımsı",
+  "f": "Uzun ve kuru",
+  "s": "Şarap kadehi, 10-12 °C; istiridye, peynir"
+ },
+ "boon-oude-geuze": {
+  "b": "Elma, limon, vanilya",
+  "d": "Yumuşak ekşi, meyveli",
+  "f": "Kuru ve temiz",
+  "s": "Gueuze bardağı, 8-10 °C; salata, balık"
+ },
+ "lindemans-kriek": {
+  "b": "Vişne reçeli, badem",
+  "d": "Tatlı, hafif ekşi, gazlı",
+  "f": "Kısa, şekerli",
+  "s": "Flüt bardak, 3-5 °C; meyveli tatlılar"
+ },
+ "girardin-gueuze-1882": {
+  "b": "Limon, ladin, toprak",
+  "d": "Kuru, rustik ekşilik",
+  "f": "Uzun, mineral",
+  "s": "Gueuze bardağı, 10-12 °C; olgun peynir"
+ },
+ "rodenbach-grand-cru": {
+  "b": "Balzamik sirke, vişne, vanilyalı meşe",
+  "d": "Ekşi-tatlı; kırmızı meyve, tanen",
+  "f": "Uzun, şarapsı",
+  "s": "Şarap kadehi, 8-10 °C; ördek, kuzu, Flaman yahnisi"
+ },
+ "rodenbach-classic": {
+  "b": "Kırmızı meyve, hafif sirke",
+  "d": "Ferah ekşi, karamel",
+  "f": "Kısa, ferahlatıcı",
+  "s": "Kadeh, 6-8 °C; midye, salata"
+ },
+ "duchesse-de-bourgogne": {
+  "b": "Vişne, balzamik, vanilya",
+  "d": "Tatlı-ekşi, meşe, kırmızı erik",
+  "f": "Yumuşak ekşi",
+  "s": "Kadeh, 8-10 °C; peynir, çikolatalı tatlı"
+ },
+ "liefmans-goudenband": {
+  "b": "Kuru erik, sherry, karamel",
+  "d": "Hafif ekşi; kuru meyve, malt",
+  "f": "Şarapsı, orta uzunlukta",
+  "s": "Kadeh, 10-12 °C; av eti, kırmızı soslu yemek"
+ },
+ "saison-dupont": {
+  "b": "Limon, biber, saman, çiçek",
+  "d": "Kuru, yüksek gazlı; maya baharatı ve otsu acılık",
+  "f": "Uzun, kuru, acımsı",
+  "s": "Lale kadeh, 8-10 °C; keçi peyniri, ızgara tavuk"
+ },
+ "hoegaarden": {
+  "b": "Kişniş, portakal kabuğu, buğday",
+  "d": "Hafif, kremamsı, narenciye",
+  "f": "Kısa, ferah",
+  "s": "Altıgen Hoegaarden bardağı, 4-6 °C; salata, deniz ürünleri"
+ },
+ "blanche-de-namur": {
+  "b": "Çiçek, kişniş, limon",
+  "d": "Narin, kremamsı buğday",
+  "f": "Ferah ve kuru",
+  "s": "Buğday bardağı, 4-6 °C; balık, sushi"
+ },
+ "1664-blanc": {
+  "b": "Narenciye, kişniş",
+  "d": "Tatlımsı, hafif buğday",
+  "f": "Kısa ve yumuşak",
+  "s": "Bardak, 3-5 °C; meze, salata"
+ },
+ "duvel": {
+  "b": "Armut, elma, biber, maya",
+  "d": "Kuru, çok gazlı; bal, narenciye",
+  "f": "Uzun, kuru, sıcak",
+  "s": "Duvel lale kadehi, 5-7 °C; midye, kızarmış tavuk"
+ },
+ "delirium-tremens": {
+  "b": "Muz, elma, biber",
+  "d": "Tatlımsı; bal, baharat, sıcak alkol",
+  "f": "Orta uzunluk, sıcak",
+  "s": "Lale kadeh, 6-8 °C; baharatlı yemek"
+ },
+ "la-chouffe": {
+  "b": "Kişniş, şeftali, narenciye",
+  "d": "Meyveli, hafif baharatlı, yumuşak",
+  "f": "Kuru ve hafif acı",
+  "s": "Lale kadeh, 6-8 °C; peynir, tavuk"
+ },
+ "brugse-zot-blond": {
+  "b": "Meyve, çiçek, ekmek",
+  "d": "Kuru, hafif acımsı",
+  "f": "Ferah",
+  "s": "Kadeh, 6 °C; midye"
+ },
+ "gulden-draak": {
+  "b": "Karamel, toffee, kuru meyve",
+  "d": "Tatlı, dolgun, ısıtıcı",
+  "f": "Uzun, sıcak",
+  "s": "Kadeh, 10-12 °C; kırmızı et"
+ },
+ "kwak": {
+  "b": "Karamel, muz, meyan",
+  "d": "Tatlı malt, hafif baharat",
+  "f": "Orta, sıcak",
+  "s": "Kwak kum saati bardağı, 8 °C; biftek"
+ },
+ "stella-artois": {
+  "b": "Tahıl, hafif şerbetçiotu",
+  "d": "Temiz malt, hafif acı",
+  "f": "Kısa, kuru",
+  "s": "Kadeh, 3-5 °C; pizza, burger"
+ },
+ "heineken": {
+  "b": "Hafif meyve, tahıl",
+  "d": "Temiz, gazlı, hafif",
+  "f": "Kısa, kuru",
+  "s": "Bardak, 3-5 °C; atıştırmalık"
+ },
+ "de-molen-hel-verdoemenis": {
+  "b": "Kahve, bitter çikolata, katran",
+  "d": "Yoğun, yağımsı; kavrulmuş malt, meyan",
+  "f": "Uzun, acımsı",
+  "s": "Snifter, 12-14 °C; çikolatalı tatlı"
+ },
+ "jenlain-ambree": {
+  "b": "Karamel, bisküvi, mahzen",
+  "d": "Maltlı, yumuşak, hafif tatlı",
+  "f": "Orta, kuru",
+  "s": "Kadeh, 8-10 °C; mantarlı yemek, olgun peynir"
+ },
+ "kasteel-donker": {
+  "b": "Çikolata, kuru üzüm",
+  "d": "Yoğun, tatlı, likörümsü",
+  "f": "Uzun, sıcak",
+  "s": "Kadeh, 10-12 °C; tatlı"
+ },
+ "guinness-draught": {
+  "b": "Kavrulmuş arpa, kahve, hafif çikolata",
+  "d": "İnce gövde, kremsi azot dokusu, kuru",
+  "f": "Kısa, kuru ve hafif acı",
+  "s": "Tulip pint, 6-8°C; iki aşamalı doldurma. İstiridye, güveç"
+ },
+ "guinness-foreign-extra-stout": {
+  "b": "Espresso, melas, kuru erik, hafif ekşimsi meyve",
+  "d": "Dolgun, keskin karbonasyon, tatlı-acı denge",
+  "f": "Uzun, kavrulmuş ve acı",
+  "s": "Snifter veya pint, 10-12°C. Barbekü, bitter çikolata"
+ },
+ "murphys-irish-stout": {
+  "b": "Sütlü kahve, karamel",
+  "d": "Yumuşak, kremsi, az acı",
+  "f": "Kısa ve tatlımsı",
+  "s": "Pint, 6-8°C. Balık-patates, peynirli tost"
+ },
+ "kilkenny": {
+  "b": "Karamel, bal, tost",
+  "d": "Kremsi, orta-hafif gövde, düşük acılık",
+  "f": "Yumuşak, hafif maltlı",
+  "s": "Pint, 6-8°C. Burger, kızarmış tavuk"
+ },
+ "ohara-irish-stout": {
+  "b": "Espresso, kavrulmuş arpa, hafif duman",
+  "d": "Orta gövde, belirgin acılık",
+  "f": "Kuru ve kalıcı acı",
+  "s": "Pint, 8-10°C. İstiridye, kuzu yahni"
+ },
+ "galway-bay-of-foam-and-fury": {
+  "b": "Çam reçinesi, mango, greyfurt",
+  "d": "Dolgun, hafif tatlı malt, yağsı",
+  "f": "Sert ve uzun acılık",
+  "s": "Tulip, 6-8°C. Baharatlı Asya mutfağı, cheddar"
+ },
+ "fullers-london-pride": {
+  "b": "Bisküvi, portakal marmelatı, toprak",
+  "d": "Orta gövde, dengeli malt",
+  "f": "Kuru, çiçeksi acılık",
+  "s": "Nonic pint, 10-12°C. Pub yemekleri, rosto"
+ },
+ "fullers-esb": {
+  "b": "Marmelat, karamel, baharat",
+  "d": "Dolgun, tatlı malt ve meyve",
+  "f": "Uzun, şerbetçiotlu ve hafif alkollü",
+  "s": "Pint, 10-12°C. Yaşlı cheddar, biftekli turta"
+ },
+ "fullers-vintage-ale": {
+  "b": "Sherry, kuru meyve, bal",
+  "d": "Yoğun, likörümsü, tatlı",
+  "f": "Isıtıcı ve uzun",
+  "s": "Snifter, 12-14°C. Stilton, meyveli kek"
+ },
+ "samuel-smith-taddy-porter": {
+  "b": "Meyan, kakao, kahve",
+  "d": "Orta gövde, yumuşak ve kuru",
+  "f": "Kavrulmuş, hafif acı",
+  "s": "Pint, 10-12°C. İstiridye, çikolatalı tatlı"
+ },
+ "samuel-smith-oatmeal-stout": {
+  "b": "Sütlü kahve, çikolata, yulaf ezmesi",
+  "d": "İpeksi, dolgun, hafif tatlı",
+  "f": "Kuru, kavrulmuş",
+  "s": "Pint, 10-12°C. Tiramisu, ızgara et"
+ },
+ "samuel-smith-nut-brown-ale": {
+  "b": "Fındık, karamel, tost",
+  "d": "Orta-hafif gövde, maltlı",
+  "f": "Kuru, fındıksı",
+  "s": "Pint, 10°C. Kızarmış tavuk, kuru yemiş"
+ },
+ "timothy-taylor-landlord": {
+  "b": "Narenciye, çiçek, bisküvi",
+  "d": "Hafif-orta gövde, canlı",
+  "f": "Kuru, temiz acılık",
+  "s": "Fıçıdan pint, 11-13°C. Balık-patates, domuz turtası"
+ },
+ "newcastle-brown-ale": {
+  "b": "Fındık, karamel, kuru meyve",
+  "d": "Hafif gövde, düşük acılık",
+  "f": "Kısa ve kuru",
+  "s": "Schooner veya pint, 8°C. Hamburger, sosis"
+ },
+ "thornbridge-jaipur": {
+  "b": "Mango, greyfurt, bal",
+  "d": "Orta gövde, canlı karbonasyon",
+  "f": "Uzun, keskin acılık",
+  "s": "Tulip, 6-8°C. Köri, Hint yemekleri"
+ },
+ "kernel-export-stout-london-1890": {
+  "b": "Kahve, meyan, kuru meyve",
+  "d": "Dolgun, kremsi",
+  "f": "Kavrulmuş, acı-çikolatalı",
+  "s": "Tulip, 10-12°C. Biftek, bitter çikolata"
+ },
+ "beavertown-gamma-ray": {
+  "b": "Tropik meyve, mango, çam",
+  "d": "Orta gövde, hafif tatlı",
+  "f": "Kuru, temiz acılık",
+  "s": "Kutudan bardağa, 6°C. Taco, burger"
+ },
+ "theakston-old-peculier": {
+  "b": "Kuru üzüm, melas, esmer şeker",
+  "d": "Dolgun, tatlımsı",
+  "f": "Meyvemsi ve yumuşak",
+  "s": "Pint, 12°C. Av eti, Yorkshire pudingi"
+ },
+ "jw-lees-harvest-ale": {
+  "b": "Marmelat, bal, sherry",
+  "d": "Şurupsu, çok yoğun",
+  "f": "Çok uzun, ısıtıcı",
+  "s": "Snifter, 12-14°C. Mavi peynir, Noel pudingi"
+ },
+ "worthington-white-shield": {
+  "b": "Kayısı, mineral, baharatlı şerbetçiotu",
+  "d": "Orta gövde, kuru",
+  "f": "Acı ve mineral",
+  "s": "Pint, tortuyu bırakarak dökün, 10-12°C. Köri"
+ },
+ "burning-sky-saison-a-la-provision": {
+  "b": "Limon, saman, ahır, karabiber",
+  "d": "Çok kuru, canlı köpüklü",
+  "f": "Ekşimsi, uzun",
+  "s": "Şampanya/tulip, 8-10°C. Keçi peyniri, deniz ürünleri"
+ },
+ "brewdog-punk-ipa": {
+  "b": "Greyfurt, ananas, çam",
+  "d": "Hafif-orta gövde, canlı",
+  "f": "Keskin, kuru acılık",
+  "s": "Kutu veya tulip, 6-8°C. Baharatlı kanat, pizza"
+ },
+ "brewdog-hazy-jane": {
+  "b": "Mango, ananas, şeftali",
+  "d": "Yumuşak, bulanık, sulu",
+  "f": "Hafif acı",
+  "s": "Tulip, 5-7°C. Tavuk şiş, Meksika mutfağı"
+ },
+ "brewdog-elvis-juice": {
+  "b": "Greyfurt kabuğu, portakal",
+  "d": "Orta gövde, karamelli",
+  "f": "Acı narenciye",
+  "s": "Tulip, 6-8°C. Izgara balık, Tayland yemekleri"
+ },
+ "innis-gunn-original": {
+  "b": "Vanilya, toffee, hafif viski",
+  "d": "Tatlımsı, yumuşak",
+  "f": "Meşeli, kısa",
+  "s": "Lale bardak, 8°C. Fümeli et, karamelli tatlı"
+ },
+ "harviestoun-old-engine-oil": {
+  "b": "Bitter çikolata, kahve, karamel",
+  "d": "Yoğun, yağsı",
+  "f": "Kavrulmuş ve acı",
+  "s": "Snifter, 10-12°C. Çikolatalı kek, biftek"
+ },
+ "harviestoun-ola-dubh-12": {
+  "b": "Turba, vanilya, kakao",
+  "d": "Dolgun, ipeksi",
+  "f": "Isıtıcı, hafif dumanlı",
+  "s": "Snifter, 12°C. Viski yanında, bitter çikolata"
+ },
+ "traquair-house-ale": {
+  "b": "Karamel, kuru meyve, baharat",
+  "d": "Dolgun, tatlı malt",
+  "f": "Uzun ve ısıtıcı",
+  "s": "Tulip, 12°C. Av eti, yaşlı peynir"
+ },
+ "williams-bros-fraoch-heather-ale": {
+  "b": "Funda çiçeği, bal, ot",
+  "d": "Hafif, yağsı",
+  "f": "Çiçeksi, az acı",
+  "s": "Pint, 8°C. Somon, hafif peynirler"
+ },
+ "tiny-rebel-cwtch": {
+  "b": "Karamel, narenciye, tropik meyve",
+  "d": "Orta gövde, dengeli",
+  "f": "Kuru, şerbetçiotlu",
+  "s": "Pint, 8-10°C. Burger, Gal rarebit"
+ },
+ "carlsberg-pilsner": {
+  "b": "Hafif tahıl, çim ve hafif çiçeksi şerbetçiotu",
+  "d": "İnce gövde, hafif malt tatlılığı, temiz",
+  "f": "Kısa, hafif bitter",
+  "s": "Pilsner bardağı, 4-6°C; ızgara tavuk, cips"
+ },
+ "carlsberg-elephant": {
+  "b": "Bal, karamel ve hafif alkol",
+  "d": "Dolgun, tatlımsı malt, hafif meyve",
+  "f": "Ilık alkol, orta uzunlukta",
+  "s": "Lale bardak, 6-8°C; tuzlu peynirler, sucuk"
+ },
+ "tuborg-julebryg": {
+  "b": "Karamel, meyankökü, kuru meyve",
+  "d": "Orta gövde, tatlı karamel ve hafif kavrulmuşluk",
+  "f": "Yumuşak, hafif baharatlı",
+  "s": "Kupa, 6-8°C; Noel yemekleri, domuz rostosu, kurabiye"
+ },
+ "mikkeller-beer-geek-breakfast": {
+  "b": "Taze çekilmiş kahve, kakao, yulaf",
+  "d": "Yağlı, kadifemsi gövde; espresso ve bitter çikolata",
+  "f": "Uzun, kavrulmuş ve kuru",
+  "s": "Snifter, 10-12°C; brownie, tiramisu, kahvaltıda bile"
+ },
+ "to-ol-gose-to-hollywood": {
+  "b": "Greyfurt, limon, kişniş",
+  "d": "Hafif ekşi, tuzlu ve canlı",
+  "f": "Kuru, tuzlu, ferah",
+  "s": "Uzun bardak, 4-6°C; ceviche, midye, yaz salatası"
+ },
+ "nogne-o-imperial-stout": {
+  "b": "Kahve, kuru erik, bitter çikolata",
+  "d": "Yoğun, yağlı; kavrulmuş malt ve hafif meyankökü",
+  "f": "Uzun, ılık, kavrulmuş bitter",
+  "s": "Snifter, 12°C; çikolatalı tatlı, mavi peynir"
+ },
+ "nogne-o-india-pale-ale": {
+  "b": "Greyfurt, çam reçinesi, karamel",
+  "d": "Orta-dolgun, dengeli malt ve keskin şerbetçiotu",
+  "f": "Belirgin ve uzun bitter",
+  "s": "IPA bardağı, 8°C; baharatlı burger, Hint yemekleri"
+ },
+ "lervig-lucky-jack": {
+  "b": "Mango, çarkıfelek, narenciye",
+  "d": "Hafif gövde, sulu tropik meyve",
+  "f": "Kuru ve temiz bitter",
+  "s": "Teku ya da pint, 6-8°C; balık taco, salata"
+ },
+ "lervig-konrads-stout": {
+  "b": "Espresso, bitter çikolata, vanilya",
+  "d": "Çok yoğun ve kremsi",
+  "f": "Uzun, kakao ve kavrulmuşluk",
+  "s": "Snifter, 12°C; çikolatalı kek, kavrulmuş fındıklı tatlılar"
+ },
+ "omnipollo-noa-pecan-mud-cake": {
+  "b": "Pekan cevizi, kek hamuru, çikolata, vanilya",
+  "d": "Çok tatlı, ağır, likör gibi",
+  "f": "Uzun, tatlı ve kakaolu",
+  "s": "Küçük snifter, 12-14°C; tatlı yerine ya da dondurma üstüne"
+ },
+ "koff-porter": {
+  "b": "Kahve, kuru meyve, meyankökü",
+  "d": "Orta-dolgun, yumuşak; likörimsi tatlılık",
+  "f": "Kavrulmuş, hafif ılık",
+  "s": "Kadeh, 10°C; füme balık, çikolata"
+ },
+ "lammin-sahti": {
+  "b": "Muz, karanfil, ardıç, ekmek",
+  "d": "Tatlı, hafif ekşimsi, düşük gaz",
+  "f": "Ardıç ve ekmek, kısa",
+  "s": "Toprak kupa, 8-10°C; çavdar ekmeği, füme et"
+ },
+ "einstok-icelandic-white-ale": {
+  "b": "Portakal kabuğu, kişniş, buğday",
+  "d": "Hafif, kremsi, narenciyeli",
+  "f": "Kuru, baharatlı",
+  "s": "Wit bardağı, 4-6°C; midye, somon, salata"
+ },
+ "peroni-nastro-azzurro": {
+  "b": "Hafif tahıl, mısır, limonumsu şerbetçiotu",
+  "d": "İnce, kuru, gazlı",
+  "f": "Kısa, temiz, hafif bitter",
+  "s": "Peroni bardağı, 3-5°C; pizza, makarna, kızartma"
+ },
+ "birra-moretti-lautentica": {
+  "b": "Hafif malt, bisküvi, çiçeksi",
+  "d": "İnce-orta gövde, hafif tatlı malt",
+  "f": "Kısa, hafif bitter",
+  "s": "Pilsner bardağı, 4-6°C; pizza, salam-peynir tabağı"
+ },
+ "birra-moretti-la-rossa": {
+  "b": "Karamel, kavrulmuş malt, kuru meyve",
+  "d": "Dolgun, tatlımsı",
+  "f": "Isıtan, karamelli",
+  "s": "Kadeh, 8-10°C; sert peynir, kırmızı et"
+ },
+ "menabrea-bionda": {
+  "b": "Çiçeksi, bal, taze ekmek",
+  "d": "Yumuşak, ince malt",
+  "f": "Zarif, kısa bitter",
+  "s": "Pilsner bardağı, 5°C; risotto, beyaz et"
+ },
+ "baladin-isaac": {
+  "b": "Portakal kabuğu, kişniş, buğday",
+  "d": "Hafif, kremsi, hafif tatlı",
+  "f": "Baharatlı, kuru",
+  "s": "Kadeh, 6°C; deniz ürünleri, taze peynir"
+ },
+ "baladin-nora": {
+  "b": "Zencefil, reçine, portakal, bal",
+  "d": "Orta gövde, baharatlı ve tahıllı",
+  "f": "Kuru, baharatlı, hafif reçineli",
+  "s": "Şarap kadehi, 8-10°C; baharatlı yemekler, kuskus"
+ },
+ "birrificio-italiano-tipopils": {
+  "b": "Taze çim, çiçeksi Alman şerbetçiotu, limon",
+  "d": "Kuru, ince, canlı",
+  "f": "Uzun, zarif ve kuru bitter",
+  "s": "Pilsner bardağı, 6°C; prosciutto, kızarmış balık"
+ },
+ "birra-del-borgo-reale": {
+  "b": "Kayısı, narenciye, Belçika mayası baharatı",
+  "d": "Orta gövde, karamel ve meyve",
+  "f": "Kuru, belirgin bitter",
+  "s": "Kadeh, 8°C; porchetta, ızgara et"
+ },
+ "estrella-damm": {
+  "b": "Hafif tahıl, pirinç, çiçeksi",
+  "d": "İnce, ferah, hafif malt",
+  "f": "Kısa, temiz",
+  "s": "Uzun bardak, 4°C; tapas, paella, deniz ürünleri"
+ },
+ "alhambra-reserva-1925": {
+  "b": "Bal, malt, karamel, hafif şerbetçiotu",
+  "d": "Dolgun gövde, yuvarlak tatlılık",
+  "f": "Orta uzunlukta, hafif bitter",
+  "s": "Şişeden ya da kadehte, 6°C; jamón ibérico, tapas"
+ },
+ "estrella-galicia-especial": {
+  "b": "Malt, ekmek, hafif çiçeksi şerbetçiotu",
+  "d": "Orta gövde, dengeli",
+  "f": "Temiz, orta bitter",
+  "s": "Pilsner bardağı, 5°C; ahtapot, deniz ürünleri"
+ },
+ "zywiec-porter": {
+  "b": "Kuru erik, kahve, meyankökü, karamel",
+  "d": "Dolgun, tatlımsı, likörimsi",
+  "f": "Uzun, ısıtan, kavrulmuş",
+  "s": "Snifter, 10-12°C; dana yahni, çikolata, mavi peynir"
+ },
+ "okocim-porter": {
+  "b": "Kakao, karamel, kuru meyve",
+  "d": "Orta-dolgun, yumuşak",
+  "f": "Tatlımsı, kavrulmuş",
+  "s": "Kadeh, 10°C; kızarmış et, tatlılar"
+ },
+ "svyturys-ekstra": {
+  "b": "Ekmek, hafif bal, çiçeksi",
+  "d": "Orta gövde, dengeli malt",
+  "f": "Temiz, yumuşak bitter",
+  "s": "Pint, 5°C; füme balık, sarımsaklı ekmek"
+ },
+ "mythos": {
+  "b": "Hafif tahıl ve çiçeksi",
+  "d": "İnce, ferah, gazlı",
+  "f": "Kısa ve temiz",
+  "s": "Uzun bardak, 3-5°C; meze, ızgara balık, kalamar"
+ },
+ "keo": {
+  "b": "Hafif tahıl, hafif şerbetçiotu",
+  "d": "İnce, gazlı, ferah",
+  "f": "Kısa, temiz",
+  "s": "Uzun bardak, 3-5°C; hellim, şeftali kebabı, meze"
+ },
+ "asahi-super-dry": {
+  "b": "Hafif pirinç, tahıl, hafif meyve",
+  "d": "Çok ince ve kuru, keskin gaz",
+  "f": "Çok kısa, 'karakuchi' kuruluk",
+  "s": "İnce bardak, 2-4°C; suşi, tempura, yakitori"
+ },
+ "sapporo-premium": {
+  "b": "Tahıl, hafif çiçeksi",
+  "d": "İnce-orta gövde, yumuşak",
+  "f": "Temiz, hafif bitter",
+  "s": "Pilsner bardağı, 4°C; ramen, gyoza"
+ },
+ "kirin-ichiban": {
+  "b": "Taze tahıl, hafif bal",
+  "d": "Yumuşak, ipeksi, az bitter",
+  "f": "Temiz ve kısa",
+  "s": "İnce bardak, 4°C; edamame, suşi"
+ },
+ "yebisu": {
+  "b": "Malt, bisküvi, çiçeksi Alman şerbetçiotu",
+  "d": "Orta gövde, dolgun malt",
+  "f": "Orta, hafif bitter",
+  "s": "Kadeh, 5-6°C; tonkatsu, wagyu"
+ },
+ "hitachino-nest-white-ale": {
+  "b": "Kişniş, muskat, portakal, buğday",
+  "d": "Kremsi, hafif tatlı, baharatlı",
+  "f": "Ferah, kuru",
+  "s": "Wit bardağı, 6°C; Asya salataları, deniz ürünleri"
+ },
+ "coedo-beniaka": {
+  "b": "Kavrulmuş tatlı patates, karamel, kestane",
+  "d": "Dolgun, tatlımsı malt",
+  "f": "Orta uzunlukta, karamelli",
+  "s": "Kadeh, 8°C; ızgara et, yakitori, sonbahar yemekleri"
+ },
+ "tsingtao": {
+  "b": "Hafif tahıl, pirinç",
+  "d": "İnce ve ferah",
+  "f": "Kısa, hafif bitter",
+  "s": "Uzun bardak, 4°C; Çin mutfağı, mantı, dim sum"
+ },
+ "singha": {
+  "b": "Malt, hafif tahıl, çiçeksi",
+  "d": "Orta gövde, belirgin malt",
+  "f": "Hafif bitter, kuru",
+  "s": "Uzun bardak, buzla da olur; pad thai, yeşil köri"
+ },
+ "coopers-sparkling-ale": {
+  "b": "Armut, elma, hafif baharat, maya",
+  "d": "Orta gövde, meyvemsi, canlı",
+  "f": "Kuru, hafif bitter",
+  "s": "Pint, 8°C (tortuyu karıştır); balık, pizza"
+ },
+ "little-creatures-pale-ale": {
+  "b": "Greyfurt, çam, karamel",
+  "d": "Orta gövde, dengeli",
+  "f": "Temiz, belirgin bitter",
+  "s": "Pint, 6-8°C; fish & chips, burger"
+ },
+ "stone-wood-pacific-ale": {
+  "b": "Çarkıfelek, kavun, tropik meyve",
+  "d": "Hafif, kremsi, yumuşak",
+  "f": "Kısa, ferah",
+  "s": "Pint, 4-6°C; balık taco, poke"
+ },
+ "garage-project-pernicious-weed": {
+  "b": "Mango, papaya, reçine",
+  "d": "Dolgun, sulu, tatlımsı",
+  "f": "Uzun ve reçineli bitter",
+  "s": "Teku, 8°C; baharatlı Asya yemekleri"
+ },
+ "cusquena-dorada": {
+  "b": "Malt, bisküvi, hafif çiçeksi",
+  "d": "Orta gövde, tam malt",
+  "f": "Temiz, hafif bitter",
+  "s": "Pilsner bardağı, 5°C; ceviche, lomo saltado"
+ },
+ "windhoek-lager": {
+  "b": "Hafif malt, çim",
+  "d": "İnce, temiz, ferah",
+  "f": "Kısa, kuru",
+  "s": "Pilsner bardağı, 4°C; ızgara av eti, braai"
+ },
+ "efes-pilsen": {
+  "b": "Hafif tahıl, mısır gevreği, az çiçek",
+  "d": "İnce gövde, hafif tatlı malt, düşük acılık",
+  "f": "Kısa, temiz",
+  "s": "Pilsner bardağı, 3-5°C; kebap, döner, çiğ köfte"
+ },
+ "efes-malt": {
+  "b": "Bisküvi, ekmek içi",
+  "d": "Pilsen'den dolgun, yumuşak malt tatlılığı",
+  "f": "Kısa, hafif acımsı",
+  "s": "Bardak 4-6°C; mangal ve ızgara köfte"
+ },
+ "efes-xtra": {
+  "b": "Tatlı malt, alkol, bal",
+  "d": "Yoğun, şekerli, sıcak alkol",
+  "f": "Orta, tatlımsı",
+  "s": "Çok soğuk, 2-4°C; baharatlı yemekler"
+ },
+ "bomonti-filtresiz": {
+  "b": "Ekmek hamuru, hafif maya, çiçek",
+  "d": "Yumuşak, kremsi, hafif bulanık malt",
+  "f": "Orta, ekmeksi",
+  "s": "Kupa bardak 5-7°C; meze, ızgara balık"
+ },
+ "bomonti-black": {
+  "b": "Kavrulmuş ekmek, hafif kahve",
+  "d": "Hafif gövde, karamel ve kakao",
+  "f": "Kuru, kısa kavrulmuşluk",
+  "s": "Tulip, 6-8°C; et sote, kestane"
+ },
+ "bomonti-red-ale": {
+  "b": "Karamel, tost",
+  "d": "Orta gövde, karamel tatlılığı, hafif acılık",
+  "f": "Yumuşak, maltlı",
+  "s": "Kupa, 7-9°C; burger, pizza"
+ },
+ "becks-tr": {
+  "b": "Otsu şerbetçiotu, tahıl",
+  "d": "Kuru, gevrek, hafif acı",
+  "f": "Temiz, acımsı",
+  "s": "Pilsner bardağı 4-6°C; sosis, kızartma"
+ },
+ "tuborg-gold": {
+  "b": "Çiçek, hafif tahıl",
+  "d": "Dengeli, hafif malt, yumuşak acılık",
+  "f": "Kısa, ferah",
+  "s": "Pilsner bardağı 4-6°C; deniz mahsulleri, meze"
+ },
+ "tuborg-filtresiz": {
+  "b": "Maya, ekmek, hafif meyve",
+  "d": "Yumuşak, hafif bulanık, ekmeksi",
+  "f": "Orta, ekmeksi",
+  "s": "Kupa 5-7°C; peynir tabağı, kumru"
+ },
+ "tuborg-special": {
+  "b": "Bal, tatlı malt, alkol",
+  "d": "Yoğun, tatlı, dolgun",
+  "f": "Sıcak, tatlı",
+  "s": "Çok soğuk; acılı yemekler"
+ },
+ "carlsberg-tr": {
+  "b": "Otsu şerbetçiotu, elma",
+  "d": "Kuru, gevrek, orta acılık",
+  "f": "Temiz, kısa",
+  "s": "Pilsner bardağı 4-6°C; salata, balık"
+ },
+ "frederik-ipa": {
+  "b": "Portakal kabuğu, reçine, karamel",
+  "d": "Orta gövde, dengeli acılık",
+  "f": "Acımsı, orta uzunlukta",
+  "s": "Tulip 7-9°C; baharatlı tavuk, kebap"
+ },
+ "frederik-marzen": {
+  "b": "Ekmek kabuğu, karamel",
+  "d": "Maltlı, yuvarlak, hafif tatlı",
+  "f": "Temiz, tostlu",
+  "s": "Kupa 6-8°C; sucuk, Alman sosisi"
+ },
+ "frederik-brown-ale": {
+  "b": "Fındık, kakao, karamel",
+  "d": "Orta gövde, kavrulmuş malt",
+  "f": "Kuru, hafif kakao",
+  "s": "Pint 8-10°C; kuzu, mantar yemekleri"
+ },
+ "gara-guzu-amber-ale": {
+  "b": "Portakal, baharat, karamel",
+  "d": "Hafif gövde, bisküvi, dengeli İngiliz acılığı",
+  "f": "Kuru, hafif baharatlı",
+  "s": "Pint 8-10°C; Ege otları, kuzu"
+ },
+ "gara-guzu-blonde-ale": {
+  "b": "Çiçek, limon, bal",
+  "d": "Hafif, tostlu malt, ferah",
+  "f": "Kısa, narenciyeli",
+  "s": "Pint 6-8°C; ızgara balık, salata"
+ },
+ "gara-guzu-summer-ipa": {
+  "b": "Greyfurt, limon, tropik",
+  "d": "Hafif gövde, belirgin şerbetçiotu",
+  "f": "Acımsı, ferah",
+  "s": "Tulip 6-8°C; ceviche, tavuk şiş"
+ },
+ "gara-guzu-4c-ipa": {
+  "b": "Çam, greyfurt, reçine",
+  "d": "Orta gövde, karamel destekli acılık",
+  "f": "Uzun, acı",
+  "s": "Tulip 7-9°C; acılı yemekler, burger"
+ },
+ "gara-guzu-gara-porter": {
+  "b": "Kahve, bitter çikolata",
+  "d": "Orta-dolgun, kavrulmuş, kremsi",
+  "f": "Kuru, kahveli",
+  "s": "Pint 10-12°C; istiridye, çikolatalı tatlılar"
+ },
+ "gara-guzu-meseli": {
+  "b": "Vanilya, viski, meşe, kakao",
+  "d": "Dolgun, yağlı, sıcak alkol",
+  "f": "Uzun, odunsu",
+  "s": "Snifter 12-14°C; bitter çikolata, peynir"
+ },
+ "gara-guzu-mayhos": {
+  "b": "Karabiber, limon kabuğu, çiftlik",
+  "d": "Kuru, yüksek karbonasyon, mayhoş",
+  "f": "Çok kuru, baharatlı",
+  "s": "Tulip 7-9°C; keçi peyniri, otlu yemekler"
+ },
+ "pablo-ipa": {
+  "b": "Narenciye, çam",
+  "d": "Orta gövde, dengeli acılık",
+  "f": "Acımsı, temiz",
+  "s": "Tulip 7-9°C; balık köfte, burger"
+ },
+ "pablo-satsuma-wit": {
+  "b": "Mandalina, kişniş",
+  "d": "Hafif, yumuşak, buğday",
+  "f": "Ferah, narenciyeli",
+  "s": "Weizen bardağı 4-6°C; deniz mahsulleri"
+ },
+ "3-kafadar-mosaic-ipa": {
+  "b": "Tropik meyve, yaban mersini, çiçek",
+  "d": "Orta gövde, sulu, dengeli acılık",
+  "f": "Orta, reçineli",
+  "s": "Tulip 6-8°C; Meksika ve Hint mutfağı"
+ },
+ "3-kafadar-stardust": {
+  "b": "Mango, şeftali, ananas",
+  "d": "Kremsi, sulu, düşük acılık",
+  "f": "Yumuşak, meyveli",
+  "s": "Tulip 5-7°C; taze içilmeli; tavuk, salata"
+ },
+ "3-kafadar-asna-visne": {
+  "b": "Vişne, kırmızı meyve",
+  "d": "Mayhoş, hafif karamel",
+  "f": "Ekşimsi, ferah",
+  "s": "Tulip 5-7°C; peynir, vişneli tatlılar"
+ },
+ "3-kafadar-belgian-blonde": {
+  "b": "Armut, çiçek, baharat",
+  "d": "Yumuşak, bal, hafif alkol",
+  "f": "Kuru, baharatlı",
+  "s": "Kadeh 7-9°C; midye, beyaz et"
+ },
+ "somx-oh-la-la-neipa": {
+  "b": "Ananas, mango, narenciye",
+  "d": "Kremsi, yulaf yumuşaklığı",
+  "f": "Yumuşak, tropik",
+  "s": "Tulip 5-7°C; taze tüketin; tacos"
+ },
+ "das-ey-ay-pi-ey": {
+  "b": "Tropik meyve, Sabro'dan hindistancevizi, greyfurt",
+  "d": "Sağlam malt omurgası, belirgin acılık",
+  "f": "Uzun, reçineli",
+  "s": "Tulip 6-8°C; acılı kanat, burger"
+ },
+ "das-old-queen-barling": {
+  "b": "Kuru erik, karamel, şeri",
+  "d": "Çok dolgun, maltlı, sıcak",
+  "f": "Uzun, acı ve maltlı",
+  "s": "Snifter 12-14°C; mavi peynir, kuru meyveli tatlılar"
+ },
+ "torch-ipa": {
+  "b": "Greyfurt, çam",
+  "d": "Orta gövde, taze şerbetçiotu",
+  "f": "Acı, temiz",
+  "s": "Musluktan, 6-8°C; burger"
+ },
+ "torch-tokyo-zen": {
+  "b": "Yeşil çay, pirinç, çiçek",
+  "d": "Çok hafif, kuru",
+  "f": "Gevrek, kısa",
+  "s": "Pilsner bardağı 3-5°C; suşi, Asya mutfağı"
+ },
+ "bbc-istanbul-pale-ale": {
+  "b": "Topraksı şerbetçiotu, marmelat",
+  "d": "Bisküvi malt, belirgin İngiliz acılığı",
+  "f": "Kuru, acı",
+  "s": "Pint 8-10°C; fish & chips"
+ },
+ "knidos-route-333": {
+  "b": "Portakal, mandalina",
+  "d": "Hafif-orta gövde, dengeli",
+  "f": "Ferah, narenciyeli",
+  "s": "Tulip 6-8°C; ızgara tavuk"
+ },
+ "knidos-tutti-brutti": {
+  "b": "Beyaz üzüm, tropik meyve",
+  "d": "Kemik kuru, ince gövde, köpüklü",
+  "f": "Çok kuru, gevrek",
+  "s": "Flüt 4-6°C; sushi, deniz mahsulleri"
+ },
+ "feliz-kulpa-smyrnale": {
+  "b": "Narenciye, çiçek",
+  "d": "Hafif, ferah",
+  "f": "Kısa, hafif acımsı",
+  "s": "Pint 6-8°C; İzmir meze sofrası"
+ },
+ "trokya-bugu": {
+  "b": "Kişniş, portakal kabuğu",
+  "d": "Hafif, buğdaylı, yumuşak",
+  "f": "Ferah, baharatlı",
+  "s": "Weizen bardağı 4-6°C; Edirne ciğeri, salata"
+ },
+ "antiochs-blonde-ale": {
+  "b": "Bal, çiçek",
+  "d": "Yumuşak malt, hafif acılık",
+  "f": "Temiz, kısa",
+  "s": "Pint 6-8°C; Hatay mezeleri"
+ }
+}

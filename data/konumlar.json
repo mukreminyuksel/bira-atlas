@@ -1,0 +1,1803 @@
+{
+ "_aciklama": "Harita konumları [enlem, boylam]. bolgeler: 'ülke|bölge' → bölge merkezi. damlar: bira fabrikası → yaklaşık konum.",
+ "bolgeler": {
+  "Almanya|Bavyera": [
+   48.14,
+   11.58
+  ],
+  "Almanya|Franken": [
+   49.89,
+   10.89
+  ],
+  "Almanya|Köln": [
+   50.94,
+   6.96
+  ],
+  "Almanya|Düsseldorf": [
+   51.23,
+   6.78
+  ],
+  "Almanya|Kuzey Almanya": [
+   53.08,
+   8.8
+  ],
+  "Almanya|Batı Almanya": [
+   50.9,
+   7.6
+  ],
+  "Almanya|Baden-Württemberg": [
+   48.0,
+   8.2
+  ],
+  "Almanya|Saksonya": [
+   51.34,
+   12.37
+  ],
+  "Almanya|Thüringen": [
+   50.93,
+   12.01
+  ],
+  "Almanya|Berlin": [
+   52.52,
+   13.4
+  ],
+  "Avusturya|Salzburg": [
+   47.8,
+   13.04
+  ],
+  "Avusturya|Steiermark": [
+   47.38,
+   15.09
+  ],
+  "Avusturya|Viyana": [
+   48.21,
+   16.37
+  ],
+  "Avusturya|Yukarı Avusturya": [
+   48.0,
+   13.8
+  ],
+  "Avusturya|Aşağı Avusturya": [
+   48.78,
+   15.07
+  ],
+  "Çekya|Plzeň": [
+   49.74,
+   13.38
+  ],
+  "Çekya|Güney Bohemya": [
+   48.97,
+   14.47
+  ],
+  "Çekya|Prag": [
+   50.08,
+   14.42
+  ],
+  "Çekya|Orta Bohemya": [
+   50.0,
+   14.4
+  ],
+  "Çekya|Vysočina": [
+   49.54,
+   15.36
+  ],
+  "Çekya|Kuzey Bohemya": [
+   50.57,
+   15.06
+  ],
+  "ABD|Kaliforniya": [
+   37.5,
+   -121.5
+  ],
+  "ABD|Pasifik Kuzeybatı": [
+   45.5,
+   -122.0
+  ],
+  "ABD|Colorado": [
+   39.7,
+   -105.0
+  ],
+  "ABD|Orta Batı": [
+   42.0,
+   -87.5
+  ],
+  "ABD|Orta Atlantik": [
+   40.5,
+   -75.5
+  ],
+  "ABD|New England": [
+   43.5,
+   -72.0
+  ],
+  "ABD|Güney": [
+   29.5,
+   -90.0
+  ],
+  "Kanada|Québec": [
+   46.0,
+   -73.0
+  ],
+  "Kanada|Ontario": [
+   43.7,
+   -79.4
+  ],
+  "Kanada|Atlantik Kanada": [
+   45.3,
+   -66.1
+  ],
+  "Kanada|Britanya Kolumbiyası": [
+   48.9,
+   -123.6
+  ],
+  "Meksika|Mexico City": [
+   19.43,
+   -99.13
+  ],
+  "Meksika|Monterrey": [
+   25.67,
+   -100.31
+  ],
+  "Meksika|Sinaloa": [
+   23.25,
+   -106.41
+  ],
+  "Meksika|Baja California": [
+   32.57,
+   -116.63
+  ],
+  "Belçika|Batı Flandre": [
+   51.0,
+   3.0
+  ],
+  "Belçika|Doğu Flandre": [
+   51.0,
+   3.8
+  ],
+  "Belçika|Brüksel & Pajottenland": [
+   50.8,
+   4.25
+  ],
+  "Belçika|Antwerp": [
+   51.2,
+   4.5
+  ],
+  "Belçika|Flaman Brabant": [
+   50.88,
+   4.55
+  ],
+  "Belçika|Limburg": [
+   51.25,
+   5.5
+  ],
+  "Belçika|Hainaut": [
+   50.45,
+   3.95
+  ],
+  "Belçika|Namur": [
+   50.35,
+   4.95
+  ],
+  "Belçika|Ardennes": [
+   50.0,
+   5.5
+  ],
+  "Belçika|Liège": [
+   50.63,
+   5.57
+  ],
+  "Hollanda|Kuzey Brabant": [
+   51.55,
+   5.1
+  ],
+  "Hollanda|Kuzey Hollanda": [
+   52.4,
+   4.8
+  ],
+  "Hollanda|Güney Hollanda": [
+   52.1,
+   4.6
+  ],
+  "Hollanda|Limburg (NL)": [
+   50.85,
+   5.85
+  ],
+  "Hollanda|Overijssel": [
+   52.22,
+   6.89
+  ],
+  "Fransa|Alsas": [
+   48.5,
+   7.5
+  ],
+  "Fransa|Nord": [
+   50.4,
+   3.2
+  ],
+  "Lüksemburg|Bascharage": [
+   49.57,
+   5.91
+  ],
+  "İrlanda|Dublin": [
+   53.35,
+   -6.26
+  ],
+  "İrlanda|Cork": [
+   51.9,
+   -8.47
+  ],
+  "İrlanda|Kilkenny": [
+   52.65,
+   -7.25
+  ],
+  "İrlanda|Carlow": [
+   52.84,
+   -6.93
+  ],
+  "İrlanda|Galway": [
+   53.27,
+   -9.05
+  ],
+  "İngiltere|Londra": [
+   51.51,
+   -0.13
+  ],
+  "İngiltere|Yorkshire": [
+   53.95,
+   -1.5
+  ],
+  "İngiltere|Staffordshire": [
+   52.8,
+   -1.64
+  ],
+  "İngiltere|Oxfordshire": [
+   51.78,
+   -1.48
+  ],
+  "İngiltere|Newcastle": [
+   54.98,
+   -1.62
+  ],
+  "İngiltere|Suffolk": [
+   52.19,
+   1.0
+  ],
+  "İngiltere|Derbyshire": [
+   53.21,
+   -1.68
+  ],
+  "İngiltere|Manchester": [
+   53.48,
+   -2.24
+  ],
+  "İngiltere|Berkshire": [
+   51.4,
+   -1.0
+  ],
+  "İngiltere|Sussex": [
+   50.9,
+   0.1
+  ],
+  "İngiltere|Bedfordshire": [
+   52.13,
+   -0.47
+  ],
+  "İskoçya|Aberdeenshire": [
+   57.3,
+   -2.3
+  ],
+  "İskoçya|Edinburgh": [
+   55.95,
+   -3.19
+  ],
+  "İskoçya|East Lothian": [
+   55.98,
+   -2.7
+  ],
+  "İskoçya|Glasgow": [
+   55.86,
+   -4.25
+  ],
+  "İskoçya|Clackmannanshire": [
+   56.13,
+   -3.75
+  ],
+  "İskoçya|Scottish Borders": [
+   55.6,
+   -3.0
+  ],
+  "İskoçya|Argyll": [
+   56.2,
+   -5.0
+  ],
+  "İskoçya|Orkney": [
+   59.0,
+   -3.1
+  ],
+  "Galler|Cardiff": [
+   51.48,
+   -3.18
+  ],
+  "Galler|Llanelli": [
+   51.68,
+   -4.16
+  ],
+  "Galler|Newport": [
+   51.58,
+   -3.0
+  ],
+  "Arjantin|Buenos Aires": [
+   -34.6,
+   -58.38
+  ],
+  "Avustralya|Batı Avustralya": [
+   -32.06,
+   115.75
+  ],
+  "Avustralya|Güney Avustralya": [
+   -34.93,
+   138.6
+  ],
+  "Avustralya|Victoria": [
+   -37.81,
+   144.96
+  ],
+  "Avustralya|Yeni Güney Galler": [
+   -28.65,
+   153.6
+  ],
+  "Brezilya|Minas Gerais": [
+   -19.92,
+   -43.94
+  ],
+  "Brezilya|Rio de Janeiro": [
+   -22.91,
+   -43.17
+  ],
+  "Danimarka|Kopenhag": [
+   55.68,
+   12.57
+  ],
+  "Danimarka|Zelanda": [
+   55.5,
+   11.7
+  ],
+  "Estonya|Harju": [
+   59.3,
+   24.67
+  ],
+  "Etiyopya|Addis Ababa": [
+   9.03,
+   38.74
+  ],
+  "Filipinler|Manila": [
+   14.6,
+   120.98
+  ],
+  "Finlandiya|Kanta-Häme": [
+   61.0,
+   24.5
+  ],
+  "Finlandiya|Uusimaa": [
+   60.4,
+   25.0
+  ],
+  "Güney Afrika|Gauteng": [
+   -26.2,
+   28.05
+  ],
+  "Güney Kore|Seul": [
+   37.57,
+   126.98
+  ],
+  "Gürcistan|Mtskheta": [
+   41.84,
+   44.72
+  ],
+  "Hindistan|Karnataka": [
+   12.97,
+   77.59
+  ],
+  "Japonya|Hokkaido": [
+   43.06,
+   141.35
+  ],
+  "Japonya|Ibaraki": [
+   36.34,
+   140.45
+  ],
+  "Japonya|Saitama": [
+   35.92,
+   139.49
+  ],
+  "Japonya|Tokyo": [
+   35.68,
+   139.69
+  ],
+  "Kenya|Nairobi": [
+   -1.29,
+   36.82
+  ],
+  "Kolombiya|Bogota": [
+   4.71,
+   -74.07
+  ],
+  "Kıbrıs|Limasol": [
+   34.68,
+   33.04
+  ],
+  "Laos|Vientiane": [
+   17.97,
+   102.6
+  ],
+  "Letonya|Vidzeme": [
+   57.54,
+   25.42
+  ],
+  "Litvanya|Klaipėda": [
+   55.71,
+   21.13
+  ],
+  "Namibya|Windhoek": [
+   -22.56,
+   17.08
+  ],
+  "Nijerya|Lagos": [
+   6.52,
+   3.38
+  ],
+  "Norveç|Agder": [
+   58.34,
+   8.59
+  ],
+  "Norveç|Rogaland": [
+   58.97,
+   5.73
+  ],
+  "Peru|Cusco": [
+   -13.53,
+   -71.97
+  ],
+  "Polonya|Güney Polonya": [
+   49.9,
+   19.5
+  ],
+  "Portekiz|Lizbon": [
+   38.72,
+   -9.14
+  ],
+  "Portekiz|Porto": [
+   41.15,
+   -8.61
+  ],
+  "Rusya|St. Petersburg": [
+   59.94,
+   30.31
+  ],
+  "Singapur|Singapur": [
+   1.35,
+   103.82
+  ],
+  "Tayland|Bangkok": [
+   13.75,
+   100.5
+  ],
+  "Ukrayna|Kiev": [
+   50.45,
+   30.52
+  ],
+  "Ukrayna|Lviv": [
+   49.84,
+   24.03
+  ],
+  "Venezuela|Caracas": [
+   10.49,
+   -66.88
+  ],
+  "Vietnam|Ho Chi Minh": [
+   10.78,
+   106.7
+  ],
+  "Yeni Zelanda|Auckland": [
+   -36.85,
+   174.76
+  ],
+  "Yeni Zelanda|Wellington": [
+   -41.29,
+   174.78
+  ],
+  "Yunanistan|Attika": [
+   37.98,
+   23.73
+  ],
+  "Yunanistan|Eğriboz": [
+   38.6,
+   23.6
+  ],
+  "Yunanistan|Selanik": [
+   40.64,
+   22.94
+  ],
+  "Yunanistan|Trakya": [
+   41.12,
+   25.4
+  ],
+  "Çin|Heilongjiang": [
+   45.8,
+   126.53
+  ],
+  "Çin|Shandong": [
+   36.07,
+   120.38
+  ],
+  "İspanya|Endülüs": [
+   37.18,
+   -3.6
+  ],
+  "İspanya|Galiçya": [
+   43.36,
+   -8.41
+  ],
+  "İspanya|Katalonya": [
+   41.39,
+   2.17
+  ],
+  "İspanya|Madrid": [
+   40.42,
+   -3.7
+  ],
+  "İsveç|Stockholm": [
+   59.33,
+   18.07
+  ],
+  "İtalya|Friuli": [
+   46.06,
+   13.24
+  ],
+  "İtalya|Lazio": [
+   41.9,
+   12.5
+  ],
+  "İtalya|Lombardiya": [
+   45.6,
+   9.0
+  ],
+  "İtalya|Piemonte": [
+   44.7,
+   7.9
+  ],
+  "İtalya|Sardinya": [
+   39.2,
+   9.1
+  ],
+  "İzlanda|Akureyri": [
+   65.68,
+   -18.09
+  ],
+  "Türkiye|İstanbul": [
+   41.01,
+   28.98
+  ],
+  "Türkiye|İzmir": [
+   38.42,
+   27.14
+  ],
+  "Türkiye|Muğla": [
+   37.22,
+   28.36
+  ],
+  "Türkiye|Kırklareli": [
+   41.4,
+   27.36
+  ],
+  "Türkiye|Edirne": [
+   41.68,
+   26.56
+  ],
+  "Türkiye|Hatay": [
+   36.59,
+   36.17
+  ],
+  "Türkiye|Antalya": [
+   36.54,
+   32.0
+  ]
+ },
+ "damlar": {
+  "Weihenstephan": [
+   48.395,
+   11.728
+  ],
+  "Paulaner": [
+   48.106,
+   11.58
+  ],
+  "Erdinger": [
+   48.306,
+   11.907
+  ],
+  "Augustiner": [
+   48.143,
+   11.548
+  ],
+  "Hacker-Pschorr": [
+   48.106,
+   11.58
+  ],
+  "Löwenbräu": [
+   48.148,
+   11.56
+  ],
+  "Spaten": [
+   48.147,
+   11.558
+  ],
+  "Franziskaner": [
+   48.147,
+   11.558
+  ],
+  "Hofbräu München": [
+   48.136,
+   11.58
+  ],
+  "Schneider Weisse": [
+   48.917,
+   11.889
+  ],
+  "Ayinger": [
+   47.971,
+   11.782
+  ],
+  "Klosterbrauerei Andechs": [
+   47.975,
+   11.183
+  ],
+  "Tegernseer": [
+   47.712,
+   11.758
+  ],
+  "Riegele": [
+   48.365,
+   10.885
+  ],
+  "Crew Republic": [
+   48.28,
+   11.577
+  ],
+  "Schlenkerla": [
+   49.891,
+   10.886
+  ],
+  "Brauerei Spezial": [
+   49.895,
+   10.902
+  ],
+  "Mahr's Bräu": [
+   49.882,
+   10.903
+  ],
+  "Kulmbacher": [
+   50.101,
+   11.453
+  ],
+  "Keesmann": [
+   49.882,
+   10.903
+  ],
+  "Weltenburger Kloster": [
+   48.9,
+   11.82
+  ],
+  "Früh": [
+   50.94,
+   6.957
+  ],
+  "Reissdorf": [
+   50.89,
+   6.99
+  ],
+  "Gaffel": [
+   50.945,
+   6.983
+  ],
+  "Päffgen": [
+   50.939,
+   6.94
+  ],
+  "Uerige": [
+   51.226,
+   6.772
+  ],
+  "Schumacher": [
+   51.22,
+   6.786
+  ],
+  "Füchschen": [
+   51.229,
+   6.775
+  ],
+  "Jever": [
+   53.573,
+   7.898
+  ],
+  "Beck's": [
+   53.075,
+   8.79
+  ],
+  "Flensburger": [
+   54.784,
+   9.437
+  ],
+  "Einbecker": [
+   51.818,
+   9.867
+  ],
+  "Warsteiner": [
+   51.443,
+   8.349
+  ],
+  "Krombacher": [
+   50.965,
+   7.94
+  ],
+  "Bitburger": [
+   49.968,
+   6.524
+  ],
+  "Rothaus": [
+   47.833,
+   8.25
+  ],
+  "Radeberger": [
+   51.117,
+   13.917
+  ],
+  "Köstritzer": [
+   50.93,
+   12.015
+  ],
+  "Berliner Kindl": [
+   52.476,
+   13.44
+  ],
+  "Schneeeule": [
+   52.48,
+   13.43
+  ],
+  "Ritterguts Gose": [
+   51.124,
+   12.497
+  ],
+  "Bayerischer Bahnhof": [
+   51.33,
+   12.381
+  ],
+  "Stiegl": [
+   47.795,
+   13.02
+  ],
+  "Trumer": [
+   47.935,
+   13.077
+  ],
+  "Gösser": [
+   47.36,
+   15.09
+  ],
+  "Zipfer": [
+   48.04,
+   13.58
+  ],
+  "Schloss Eggenberg": [
+   47.985,
+   13.92
+  ],
+  "Ottakringer": [
+   48.213,
+   16.323
+  ],
+  "Schremser": [
+   48.784,
+   15.07
+  ],
+  "Pilsner Urquell": [
+   49.747,
+   13.387
+  ],
+  "Budějovický Budvar": [
+   48.99,
+   14.47
+  ],
+  "Kozel": [
+   49.92,
+   14.83
+  ],
+  "Staropramen": [
+   50.071,
+   14.405
+  ],
+  "Únětický pivovar": [
+   50.15,
+   14.355
+  ],
+  "Bernard": [
+   49.542,
+   15.359
+  ],
+  "Krušovice": [
+   50.172,
+   13.776
+  ],
+  "Svijany": [
+   50.573,
+   15.059
+  ],
+  "Matuška": [
+   50.028,
+   13.935
+  ],
+  "Kout na Šumavě": [
+   49.403,
+   13.004
+  ],
+  "Anheuser-Busch": [
+   38.6,
+   -90.21
+  ],
+  "Coors Brewing Company": [
+   39.76,
+   -105.22
+  ],
+  "Miller Brewing Company": [
+   43.04,
+   -87.97
+  ],
+  "Pabst Brewing Company": [
+   43.05,
+   -87.92
+  ],
+  "D.G. Yuengling & Son": [
+   40.69,
+   -76.19
+  ],
+  "Blue Moon Brewing Co.": [
+   39.76,
+   -104.99
+  ],
+  "Boston Beer Company": [
+   42.31,
+   -71.1
+  ],
+  "Brooklyn Brewery": [
+   40.72,
+   -73.96
+  ],
+  "Sierra Nevada": [
+   39.72,
+   -121.81
+  ],
+  "Anchor Brewing": [
+   37.76,
+   -122.4
+  ],
+  "Stone Brewing": [
+   33.12,
+   -117.12
+  ],
+  "Russian River Brewing": [
+   38.44,
+   -122.71
+  ],
+  "Firestone Walker": [
+   35.6,
+   -120.69
+  ],
+  "Lagunitas Brewing Company": [
+   38.27,
+   -122.66
+  ],
+  "Ballast Point": [
+   32.89,
+   -117.15
+  ],
+  "Deschutes Brewery": [
+   44.05,
+   -121.31
+  ],
+  "Rogue Ales": [
+   44.62,
+   -124.05
+  ],
+  "Elysian Brewing": [
+   47.61,
+   -122.32
+  ],
+  "New Belgium Brewing": [
+   40.59,
+   -105.07
+  ],
+  "Oskar Blues": [
+   40.17,
+   -105.1
+  ],
+  "Great Divide": [
+   39.75,
+   -104.99
+  ],
+  "Bell's Brewery": [
+   42.29,
+   -85.59
+  ],
+  "Founders Brewing": [
+   42.96,
+   -85.67
+  ],
+  "Goose Island": [
+   41.91,
+   -87.66
+  ],
+  "3 Floyds Brewing": [
+   41.56,
+   -87.51
+  ],
+  "Toppling Goliath": [
+   43.3,
+   -91.79
+  ],
+  "Great Lakes Brewing": [
+   41.48,
+   -81.7
+  ],
+  "Boulevard Brewing": [
+   39.08,
+   -94.6
+  ],
+  "Dogfish Head": [
+   38.77,
+   -75.31
+  ],
+  "Victory Brewing": [
+   40.01,
+   -75.71
+  ],
+  "Brewery Ommegang": [
+   42.63,
+   -74.94
+  ],
+  "The Alchemist": [
+   44.47,
+   -72.69
+  ],
+  "Hill Farmstead": [
+   44.6,
+   -72.3
+  ],
+  "Tree House Brewing": [
+   42.12,
+   -72.0
+  ],
+  "Trillium Brewing": [
+   42.16,
+   -71.15
+  ],
+  "Lawson's Finest Liquids": [
+   44.19,
+   -72.82
+  ],
+  "Maine Beer Company": [
+   43.86,
+   -70.1
+  ],
+  "Allagash Brewing": [
+   43.7,
+   -70.32
+  ],
+  "Cigar City Brewing": [
+   27.96,
+   -82.51
+  ],
+  "Spoetzl Brewery": [
+   29.43,
+   -97.17
+  ],
+  "Unibroue": [
+   45.44,
+   -73.29
+  ],
+  "Dieu du Ciel!": [
+   45.78,
+   -74.0
+  ],
+  "Molson Brewery": [
+   45.52,
+   -73.55
+  ],
+  "Labatt Brewing": [
+   42.98,
+   -81.25
+  ],
+  "Sleeman Breweries": [
+   43.55,
+   -80.25
+  ],
+  "Moosehead Breweries": [
+   45.27,
+   -66.08
+  ],
+  "Steam Whistle Brewing": [
+   43.64,
+   -79.39
+  ],
+  "Driftwood Brewery": [
+   48.45,
+   -123.37
+  ],
+  "Bellwoods Brewery": [
+   43.65,
+   -79.42
+  ],
+  "Grupo Modelo": [
+   19.45,
+   -99.2
+  ],
+  "Cuauhtémoc Moctezuma": [
+   25.69,
+   -100.31
+  ],
+  "Sint-Sixtus (Westvleteren)": [
+   50.896,
+   2.721
+  ],
+  "Brasserie de Rochefort": [
+   50.163,
+   5.222
+  ],
+  "Brouwerij Westmalle": [
+   51.298,
+   4.687
+  ],
+  "Chimay": [
+   50.012,
+   4.329
+  ],
+  "Brasserie d'Orval": [
+   49.64,
+   5.348
+  ],
+  "Achelse Kluis": [
+   51.256,
+   5.545
+  ],
+  "La Trappe (Koningshoeven)": [
+   51.583,
+   5.116
+  ],
+  "Brouwerij De Kievit (Zundert)": [
+   51.47,
+   4.66
+  ],
+  "Leffe": [
+   50.877,
+   4.701
+  ],
+  "Grimbergen": [
+   50.935,
+   4.372
+  ],
+  "Affligem": [
+   50.959,
+   4.193
+  ],
+  "St. Bernardus": [
+   50.859,
+   2.633
+  ],
+  "Bosteels": [
+   51.016,
+   4.2
+  ],
+  "Maredsous": [
+   50.298,
+   4.769
+  ],
+  "St-Feuillien": [
+   50.5,
+   4.112
+  ],
+  "Cantillon": [
+   50.841,
+   4.335
+  ],
+  "3 Fonteinen": [
+   50.766,
+   4.287
+  ],
+  "Boon": [
+   50.714,
+   4.219
+  ],
+  "Lindemans": [
+   50.827,
+   4.211
+  ],
+  "Timmermans": [
+   50.828,
+   4.257
+  ],
+  "Girardin": [
+   50.856,
+   4.181
+  ],
+  "Oud Beersel": [
+   50.766,
+   4.302
+  ],
+  "Tilquin": [
+   50.68,
+   4.09
+  ],
+  "Belle-Vue": [
+   50.783,
+   4.135
+  ],
+  "Rodenbach": [
+   50.94,
+   3.13
+  ],
+  "Verhaeghe": [
+   50.833,
+   3.393
+  ],
+  "Liefmans": [
+   50.845,
+   3.605
+  ],
+  "De Brabandere": [
+   50.866,
+   3.311
+  ],
+  "Dupont": [
+   50.578,
+   3.624
+  ],
+  "Fantôme": [
+   50.29,
+   5.513
+  ],
+  "Brasserie de la Senne": [
+   50.866,
+   4.337
+  ],
+  "Hoegaarden": [
+   50.775,
+   4.89
+  ],
+  "Brasserie du Bocq": [
+   50.33,
+   4.94
+  ],
+  "Kronenbourg": [
+   48.462,
+   7.482
+  ],
+  "Duvel Moortgat": [
+   51.054,
+   4.337
+  ],
+  "Huyghe": [
+   51.003,
+   3.795
+  ],
+  "Achouffe": [
+   50.148,
+   5.746
+  ],
+  "De Halve Maan": [
+   51.203,
+   3.224
+  ],
+  "Van Steenberge": [
+   51.11,
+   3.746
+  ],
+  "Van Honsebrouck": [
+   50.916,
+   3.214
+  ],
+  "Het Anker": [
+   51.031,
+   4.476
+  ],
+  "Dubuisson": [
+   50.577,
+   3.574
+  ],
+  "Stella Artois": [
+   50.889,
+   4.709
+  ],
+  "Jupiler": [
+   50.643,
+   5.63
+  ],
+  "Palm": [
+   50.995,
+   4.255
+  ],
+  "De Koninck": [
+   51.198,
+   4.396
+  ],
+  "Heineken": [
+   52.13,
+   4.502
+  ],
+  "Amstel": [
+   52.13,
+   4.502
+  ],
+  "Grolsch": [
+   52.221,
+   6.893
+  ],
+  "Bavaria (Swinkels)": [
+   51.517,
+   5.603
+  ],
+  "Brand": [
+   50.826,
+   5.865
+  ],
+  "De Molen": [
+   52.082,
+   4.748
+  ],
+  "Jopen": [
+   52.384,
+   4.633
+  ],
+  "Brouwerij 't IJ": [
+   52.367,
+   4.927
+  ],
+  "Uiltje": [
+   52.392,
+   4.646
+  ],
+  "Texels": [
+   53.05,
+   4.86
+  ],
+  "Brasserie Duyck": [
+   50.311,
+   3.632
+  ],
+  "Brasserie de Saint-Sylvestre": [
+   50.776,
+   2.553
+  ],
+  "La Choulette": [
+   50.268,
+   3.317
+  ],
+  "Bofferding": [
+   49.573,
+   5.91
+  ],
+  "Guinness": [
+   53.343,
+   -6.287
+  ],
+  "Heineken Ireland (Lady's Well)": [
+   51.904,
+   -8.476
+  ],
+  "Smithwick's": [
+   52.654,
+   -7.25
+  ],
+  "Carlow Brewing Company": [
+   52.7,
+   -6.958
+  ],
+  "Galway Bay Brewery": [
+   53.271,
+   -9.057
+  ],
+  "Porterhouse Brewing Company": [
+   53.345,
+   -6.267
+  ],
+  "Fuller's": [
+   51.487,
+   -0.25
+  ],
+  "Samuel Smith": [
+   53.884,
+   -1.262
+  ],
+  "Timothy Taylor": [
+   53.867,
+   -1.911
+  ],
+  "Marston's": [
+   52.806,
+   -1.64
+  ],
+  "Wychwood": [
+   51.785,
+   -1.485
+  ],
+  "Newcastle Brown Ale": [
+   54.978,
+   -1.618
+  ],
+  "Greene King": [
+   52.243,
+   0.716
+  ],
+  "St Peter's Brewery": [
+   52.42,
+   1.43
+  ],
+  "Meantime": [
+   51.48,
+   0.008
+  ],
+  "Thornbridge": [
+   53.214,
+   -1.676
+  ],
+  "The Kernel": [
+   51.494,
+   -0.068
+  ],
+  "Cloudwater": [
+   53.474,
+   -2.223
+  ],
+  "Beavertown": [
+   51.6,
+   -0.066
+  ],
+  "Magic Rock": [
+   53.645,
+   -1.78
+  ],
+  "Siren Craft Brew": [
+   51.36,
+   -0.866
+  ],
+  "Northern Monk": [
+   53.791,
+   -1.555
+  ],
+  "Theakston": [
+   54.222,
+   -1.657
+  ],
+  "J.W. Lees": [
+   53.536,
+   -2.18
+  ],
+  "Adnams": [
+   52.327,
+   1.68
+  ],
+  "Young's": [
+   52.13,
+   -0.475
+  ],
+  "Camden Town Brewery": [
+   51.548,
+   -0.142
+  ],
+  "Worthington's": [
+   52.807,
+   -1.633
+  ],
+  "Burning Sky": [
+   50.851,
+   0.083
+  ],
+  "BrewDog": [
+   57.366,
+   -2.072
+  ],
+  "Innis & Gunn": [
+   55.953,
+   -3.188
+  ],
+  "Belhaven": [
+   56.0,
+   -2.524
+  ],
+  "Tennent's": [
+   55.861,
+   -4.229
+  ],
+  "Harviestoun": [
+   56.153,
+   -3.8
+  ],
+  "Traquair House": [
+   55.609,
+   -3.065
+  ],
+  "Williams Bros": [
+   56.116,
+   -3.792
+  ],
+  "Fyne Ales": [
+   56.256,
+   -4.932
+  ],
+  "Orkney Brewery": [
+   59.067,
+   -3.311
+  ],
+  "Brains": [
+   51.476,
+   -3.18
+  ],
+  "Felinfoel": [
+   51.697,
+   -4.159
+  ],
+  "Tiny Rebel": [
+   51.584,
+   -2.998
+  ],
+  "Alhambra": [
+   37.18,
+   -3.6
+  ],
+  "Asahi": [
+   35.71,
+   139.8
+  ],
+  "Asia Pacific Breweries": [
+   1.33,
+   103.73
+  ],
+  "Athenian Brewery": [
+   38.03,
+   23.71
+  ],
+  "Backus": [
+   -13.53,
+   -71.97
+  ],
+  "Baladin": [
+   44.515,
+   7.894
+  ],
+  "Baltika": [
+   59.88,
+   30.27
+  ],
+  "Bavaria": [
+   4.71,
+   -74.07
+  ],
+  "Birra Moretti": [
+   46.063,
+   13.242
+  ],
+  "Birra del Borgo": [
+   42.19,
+   13.23
+  ],
+  "Birrificio Italiano": [
+   45.69,
+   8.98
+  ],
+  "Boon Rawd": [
+   13.79,
+   100.51
+  ],
+  "Brahma": [
+   -22.91,
+   -43.17
+  ],
+  "Carlsberg": [
+   55.667,
+   12.534
+  ],
+  "Carlton & United Breweries": [
+   -37.8,
+   144.99
+  ],
+  "Cervecería Polar": [
+   10.49,
+   -66.88
+  ],
+  "Coedo": [
+   35.92,
+   139.49
+  ],
+  "Coopers": [
+   -34.87,
+   138.6
+  ],
+  "Damm": [
+   41.39,
+   2.17
+  ],
+  "East African Breweries": [
+   -1.29,
+   36.82
+  ],
+  "Einstök": [
+   65.683,
+   -18.09
+  ],
+  "Garage Project": [
+   -41.3,
+   174.77
+  ],
+  "Harbin": [
+   45.8,
+   126.53
+  ],
+  "Hartwall": [
+   60.983,
+   25.656
+  ],
+  "Hijos de Rivera": [
+   43.36,
+   -8.41
+  ],
+  "Ichnusa": [
+   39.29,
+   9.0
+  ],
+  "KEO": [
+   34.67,
+   33.04
+  ],
+  "Kaiser": [
+   -20.14,
+   -44.88
+  ],
+  "Kirin": [
+   35.66,
+   139.7
+  ],
+  "Kiuchi Brewery": [
+   36.45,
+   140.49
+  ],
+  "Lammin Sahti": [
+   61.08,
+   25.01
+  ],
+  "Lao Brewery": [
+   17.97,
+   102.6
+  ],
+  "Lervig": [
+   58.97,
+   5.733
+  ],
+  "Lion": [
+   -36.85,
+   174.76
+  ],
+  "Little Creatures": [
+   -32.06,
+   115.75
+  ],
+  "Lvivska Pivovarnia": [
+   49.85,
+   24.03
+  ],
+  "Macedonia-Thrace Brewery": [
+   41.12,
+   25.4
+  ],
+  "Mahou": [
+   40.42,
+   -3.7
+  ],
+  "Menabrea": [
+   45.566,
+   8.053
+  ],
+  "Mikkeller": [
+   55.676,
+   12.568
+  ],
+  "Mythos Brewery": [
+   40.67,
+   22.8
+  ],
+  "Namibia Breweries": [
+   -22.56,
+   17.08
+  ],
+  "Natakhtari": [
+   41.93,
+   44.73
+  ],
+  "Nigerian Breweries": [
+   6.52,
+   3.38
+  ],
+  "Nøgne Ø": [
+   58.341,
+   8.594
+  ],
+  "OB": [
+   37.57,
+   126.98
+  ],
+  "Obolon": [
+   50.52,
+   30.5
+  ],
+  "Okocim": [
+   49.97,
+   20.6
+  ],
+  "Olympic Brewery": [
+   38.0,
+   23.73
+  ],
+  "Omnipollo": [
+   59.329,
+   18.069
+  ],
+  "Peroni": [
+   41.86,
+   12.55
+  ],
+  "Pinta": [
+   49.73,
+   19.19
+  ],
+  "Quilmes": [
+   -34.72,
+   -58.25
+  ],
+  "Sabeco": [
+   10.76,
+   106.66
+  ],
+  "Sagres": [
+   38.87,
+   -9.08
+  ],
+  "Saku": [
+   59.3,
+   24.67
+  ],
+  "San Miguel": [
+   14.6,
+   120.98
+  ],
+  "Sapporo": [
+   43.07,
+   141.37
+  ],
+  "Septem": [
+   38.53,
+   23.72
+  ],
+  "Sinebrychoff": [
+   60.403,
+   25.105
+  ],
+  "South African Breweries": [
+   -26.2,
+   28.05
+  ],
+  "St. George Brewery": [
+   9.03,
+   38.74
+  ],
+  "Stone & Wood": [
+   -28.65,
+   153.6
+  ],
+  "Suntory": [
+   35.66,
+   139.73
+  ],
+  "Super Bock": [
+   41.21,
+   -8.62
+  ],
+  "ThaiBev": [
+   13.75,
+   100.5
+  ],
+  "To Øl": [
+   55.719,
+   11.463
+  ],
+  "Tsingtao": [
+   36.07,
+   120.38
+  ],
+  "Tuborg": [
+   55.727,
+   12.578
+  ],
+  "Tyskie": [
+   50.12,
+   18.98
+  ],
+  "United Breweries": [
+   12.97,
+   77.59
+  ],
+  "Valmiermuižas": [
+   57.55,
+   25.43
+  ],
+  "Švyturys": [
+   55.71,
+   21.13
+  ],
+  "Żywiec": [
+   49.68,
+   19.19
+  ],
+  "Anadolu Efes": [
+   41.02,
+   28.58
+  ],
+  "Türk Tuborg": [
+   38.45,
+   27.21
+  ],
+  "Gara Guzu": [
+   37.22,
+   28.36
+  ],
+  "Pablo Bira": [
+   37.06,
+   27.39
+  ],
+  "3 Kafadar": [
+   41.09,
+   28.8
+  ],
+  "SOMX": [
+   41.03,
+   28.97
+  ],
+  "DAS bira": [
+   41.4,
+   27.36
+  ],
+  "Torch Brewery": [
+   41.06,
+   28.98
+  ],
+  "Bosphorus Brewing Company": [
+   41.06,
+   28.99
+  ],
+  "Knidos Brewery": [
+   41.09,
+   28.8
+  ],
+  "Feliz Kulpa": [
+   38.49,
+   27.07
+  ],
+  "Trokya": [
+   41.68,
+   26.56
+  ],
+  "Antiochs Brewery": [
+   36.59,
+   36.17
+  ],
+  "Red Tower Brewery": [
+   36.54,
+   32.0
+  ]
+ }
+}

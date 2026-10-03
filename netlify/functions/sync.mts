@@ -5,18 +5,15 @@
 //   POST /api/sync {islem:"telefon-bagla", kod, tel, pin, eskiPin?}  → koda telefon + PIN ile giriş ekler
 //   POST /api/sync {islem:"telefon-giris", tel, pin}                 → {kod}
 //   POST /api/sync {islem:"telefon-kaldir", kod, tel}
-// Kod, viski temalı kelimelerden üretilir (ör. "kehribar-islay-mese-427"). Depoda kodun
+// Kod, bira temalı kelimelerden üretilir (ör. "kopuk-bavyera-bardak-427"). Depoda kodun
 // kendisi değil SHA-256 özeti anahtar olarak tutulur. Telefon kaydı "tel/<özet>" altında durur;
 // numaranın ve PIN'in kendisi saklanmaz. 10 hatalı PIN denemesinde numara 1 saat kilitlenir.
 import type { Context, Config } from "@netlify/functions";
 import { depoAl, json, hata, ozet, govdeOku, type Depo } from "../lib/ortak.mts";
 
-const K1 = ["kehribar", "bakir", "mese", "fici", "arpa", "malt", "turba", "duman", "bal", "vanilya", "tarcin", "karamel", "kakao", "incir", "seri", "porto",
-  "madeira", "kizil", "altin", "gumus", "zeytin", "ceviz", "findik", "kayisi", "visne", "elma", "armut", "portakal", "limon", "biber", "zencefil", "kahve"];
-const K2 = ["islay", "speyside", "highland", "lowland", "orkney", "skye", "jura", "arran", "mull", "kentucky", "tennessee", "yamazaki", "hakushu", "yoichi",
-  "kavalan", "amrut", "dublin", "cork", "tain", "oban", "brora", "keith", "elgin", "rothes", "dufftown", "tobermory", "bowmore", "portellen", "kilchoman", "campbeltown", "lochranza", "talisker"];
-const K3 = ["kadeh", "fici", "imbik", "kazan", "mantar", "etiket", "sise", "damla", "yudum", "koku", "bitis", "damak", "burun", "gece", "ates", "ruzgar",
-  "dalga", "kaya", "tepe", "vadi", "nehir", "liman", "fener", "deniz", "sis", "kar", "yildiz", "ay", "gunes", "orman", "dag", "ada"];
+const K1 = ["kopuk", "malt", "arpa", "bugday", "serbetci", "maya", "karamel", "kavrul", "bal", "kahve", "kakao", "visne", "kiraz", "ahududu", "limon", "portakal", "greyfurt", "mango", "ananas", "muz", "karanfil", "kisnis", "zencefil", "altin", "bakir", "kehribar", "kizil", "siyah", "bulut", "serin", "taze", "eksi"];
+const K2 = ["bavyera", "munih", "bamberg", "koln", "berlin", "prag", "plzen", "brugge", "bruksel", "gent", "leuven", "dublin", "londra", "burton", "edinburg", "portland", "denver", "brooklyn", "vermont", "quebec", "kopenhag", "amsterdam", "viyana", "salzburg", "bodrum", "mugla", "izmir", "istanbul", "edirne", "alanya", "bomonti", "kadikoy"];
+const K3 = ["bardak", "kadeh", "fici", "kapak", "sise", "kutu", "yudum", "kopuk", "tap", "kazan", "imbik", "mahzen", "manastir", "keller", "biergarten", "pub", "tezgah", "musluk", "pint", "mug", "stein", "tulip", "teku", "kase", "ates", "ruzgar", "liman", "fener", "deniz", "yildiz", "ay", "gunes"];
 
 function kodUret(): string {
   const b = new Uint32Array(4);

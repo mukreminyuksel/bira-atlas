@@ -1,0 +1,2083 @@
+{
+ "_aciklama": "Bira fabrikası kartları. Anahtar = DATA'daki 'dam'. k: kuruluş, s: sahibi, y: yer, stil: ev stili, h: hikâye.",
+ "Weihenstephan": {
+  "k": 1040,
+  "s": "Bavyera eyaleti",
+  "y": "Freising, Bavyera",
+  "stil": "Bavyera buğday ve lager",
+  "h": "Benediktin manastırında kurulduğu kabul edilen, dünyanın hâlâ çalışan en eski bira fabrikası. Bugün Münih Teknik Üniversitesi'nin bira bilimi kampüsüyle iç içe ve Bavyera eyaletine ait."
+ },
+ "Paulaner": {
+  "k": 1634,
+  "s": "Paulaner Brauerei Gruppe (Schörghuber & Heineken)",
+  "y": "Münih, Bavyera",
+  "stil": "Weissbier, helles, doppelbock",
+  "h": "Paulaner rahiplerinin oruç dönemi için yaptığı 'Salvator' ile doppelbock stilini başlattı. Oktoberfest'in altı resmi fabrikasından biri ve Almanya'nın en büyük ihracatçılarından."
+ },
+ "Erdinger": {
+  "k": 1886,
+  "s": "Brombach ailesi",
+  "y": "Erding, Bavyera",
+  "stil": "Weissbier",
+  "h": "Dünyanın en büyük weissbier fabrikası. Yalnızca buğday birası üretir, ayrıca alkolsüz versiyonuyla spor dünyasında çok bilinir."
+ },
+ "Augustiner": {
+  "k": 1328,
+  "s": "Edith-Haberland-Wagner Vakfı",
+  "y": "Münih, Bavyera",
+  "stil": "Helles ve Bavyera lager",
+  "h": "Münih'in en eski fabrikası; Augustin rahiplerinin manastırından doğdu. Reklam yapmamasıyla ünlü, buna rağmen şehirde kült statüsünde."
+ },
+ "Hacker-Pschorr": {
+  "k": 1417,
+  "s": "Paulaner Brauerei Gruppe",
+  "y": "Münih, Bavyera",
+  "stil": "Münih lager ve weissbier",
+  "h": "Hacker ve Pschorr ailelerinin birleşmesiyle oluşan tarihî Münih markası. Oktoberfest'in altı resmi fabrikasından biri."
+ },
+ "Löwenbräu": {
+  "k": 1383,
+  "s": "AB InBev",
+  "y": "Münih, Bavyera",
+  "stil": "Münih helles ve festbier",
+  "h": "Aslan logosuyla dünyaca tanınan Münih fabrikası. Oktoberfest'te kendi çadırı bulunur."
+ },
+ "Spaten": {
+  "k": 1397,
+  "s": "AB InBev",
+  "y": "Münih, Bavyera",
+  "stil": "Helles, Märzen, doppelbock",
+  "h": "Gabriel Sedlmayr döneminde lager biliminin öncüsü oldu; 1894'te Münih'in ilk helles'ini üretti. Oktoberfest açılış fıçısı geleneksel olarak Spaten'dir."
+ },
+ "Franziskaner": {
+  "k": 1363,
+  "s": "AB InBev (Spaten-Franziskaner-Bräu)",
+  "y": "Münih, Bavyera",
+  "stil": "Weissbier",
+  "h": "Adını Fransisken manastırına komşu ilk fabrikasından alır. Keşiş logolu weissbier'leriyle dünya çapında yaygın."
+ },
+ "Hofbräu München": {
+  "k": 1589,
+  "s": "Bavyera eyaleti",
+  "y": "Münih, Bavyera",
+  "stil": "Helles, weizen, bock",
+  "h": "Bavyera Dükü V. Wilhelm'in saray fabrikası olarak kuruldu. Dünyaca ünlü Hofbräuhaus birahanesi ve Maibock geleneğiyle bilinir."
+ },
+ "Schneider Weisse": {
+  "k": 1872,
+  "s": "Schneider ailesi",
+  "y": "Kelheim, Bavyera",
+  "stil": "Weissbier ve weizenbock",
+  "h": "Georg Schneider, buğday birası tekelini kraliyetten satın alarak weissbier'i halka taşıdı. 1907'de ilk weizenbock Aventinus'u yarattı; bugün hâlâ aile işletmesi."
+ },
+ "Ayinger": {
+  "k": 1878,
+  "s": "Inselkammer ailesi",
+  "y": "Aying, Bavyera",
+  "stil": "Bavyera lager, doppelbock, weissbier",
+  "h": "Münih'in güneyindeki köy fabrikası. Celebrator doppelbock'u ile uluslararası yarışmalarda en çok ödül alan Alman fabrikalarından."
+ },
+ "Klosterbrauerei Andechs": {
+  "k": 1455,
+  "s": "Benediktin manastırı (St. Bonifaz)",
+  "y": "Andechs, Bavyera",
+  "stil": "Manastır lager ve doppelbock",
+  "h": "Ammersee yakınında tepedeki hac manastırının fabrikası. Hâlâ rahiplerin sahipliğinde; doppelbock'u stilin zirvesi sayılır."
+ },
+ "Tegernseer": {
+  "k": 1675,
+  "s": "Wittelsbach hanedanı (Herzogliches Brauhaus Tegernsee)",
+  "y": "Tegernsee, Bavyera",
+  "stil": "Helles",
+  "h": "Eski Benediktin manastırında, Tegernsee gölü kıyısında. Helles'i Bavyera'da yeni nesil arasında kült hâline geldi."
+ },
+ "Riegele": {
+  "k": 1884,
+  "s": "Riegele ailesi",
+  "y": "Augsburg, Bavyera",
+  "stil": "Lager ve özel biralar",
+  "h": "Augsburg'un köklü aile fabrikası; Sebastian Priller-Riegele döneminde yaratıcı biralar ve uluslararası ödüllerle öne çıktı."
+ },
+ "Crew Republic": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Unterschleißheim, Bavyera",
+  "stil": "IPA ve craft",
+  "h": "İki arkadaşın kurduğu, Alman craft bira hareketinin ilk dalgasındaki markalardan. Saflık yasası ülkesinde Amerikan tarzı IPA'larıyla tanındı."
+ },
+ "Schlenkerla": {
+  "k": 1405,
+  "s": "Trum ailesi (Brauerei Heller-Trum)",
+  "y": "Bamberg, Franken",
+  "stil": "Rauchbier",
+  "h": "Bamberg'in tarihî birahanesi ve isli biranın simgesi. Maltı hâlâ kendi tesislerinde kayın odunu dumanıyla kurutur."
+ },
+ "Brauerei Spezial": {
+  "k": 1536,
+  "s": "Merz ailesi",
+  "y": "Bamberg, Franken",
+  "stil": "Rauchbier",
+  "h": "Bamberg'de kendi isli maltını üreten iki fabrikadan biri. Daha yumuşak dumanlı biralarıyla Schlenkerla'nın nazik kardeşi sayılır."
+ },
+ "Mahr's Bräu": {
+  "k": 1670,
+  "s": "Michel ailesi",
+  "y": "Bamberg, Franken",
+  "stil": "Kellerbier ve Franken lager",
+  "h": "Bamberg'in Wunderburg semtinde aile fabrikası ve birahanesi. 'U' (ungespundet) kellerbier'i dünyaca meraklıların hac noktası."
+ },
+ "Kulmbacher": {
+  "k": 1846,
+  "s": "Kulmbacher Gruppe (Paulaner grubu)",
+  "y": "Kulmbach, Franken",
+  "stil": "Eisbock, kellerbier, lager",
+  "h": "Eisbock'un doğduğu Kulmbach'ın büyük fabrikası; Mönchshof markasını da üretir. Şehrin bira müzesi de bu çatı altında."
+ },
+ "Keesmann": {
+  "k": 1867,
+  "s": "Keesmann ailesi",
+  "y": "Bamberg, Franken",
+  "stil": "Pils ve Franken lager",
+  "h": "Bamberg'in Wunderburg semtinde, Mahr's'ın tam karşısında küçük bir aile fabrikası. Herren Pils'i şehrin en sevilen pilsi."
+ },
+ "Weltenburger Kloster": {
+  "k": 1050,
+  "s": "Benediktin manastırı (Bischofshof işletir)",
+  "y": "Kelheim, Bavyera",
+  "stil": "Dunkel ve bock",
+  "h": "Tuna kıyısındaki Weltenburg manastırında; dünyanın en eski manastır fabrikalarından. Barock Dunkel'i uluslararası yarışmalarda pek çok kez birinci oldu."
+ },
+ "Früh": {
+  "k": 1904,
+  "s": "Cölner Hofbräu P. Josef Früh",
+  "y": "Köln",
+  "stil": "Kölsch",
+  "h": "Köln Katedrali'nin yanındaki dev birahanesiyle şehrin simgelerinden. Kölsch, ince 'Stange' bardaklarda servis edilir."
+ },
+ "Reissdorf": {
+  "k": 1894,
+  "s": "Reissdorf ailesi",
+  "y": "Köln",
+  "stil": "Kölsch",
+  "h": "Kölnlülerin en sevdiği kölsch'lerden biri. Aile işletmesi olarak kalmaya devam ediyor."
+ },
+ "Gaffel": {
+  "k": 1908,
+  "s": "Becker ailesi",
+  "y": "Köln",
+  "stil": "Kölsch",
+  "h": "Becker ailesinin işlettiği Kölsch markası. Şehir merkezindeki Gaffel am Dom birahanesiyle tanınır."
+ },
+ "Päffgen": {
+  "k": 1883,
+  "s": "Päffgen ailesi",
+  "y": "Köln",
+  "stil": "Kölsch",
+  "h": "Friesenstraße'deki birahanesinde yalnızca ahşap fıçıdan servis yapan geleneksel aile fabrikası. Şişelenmez, sadece yerinde içilir."
+ },
+ "Uerige": {
+  "k": 1862,
+  "s": "Bağımsız (Uerige Obergärige Hausbrauerei)",
+  "y": "Düsseldorf",
+  "stil": "Altbier",
+  "h": "Düsseldorf Altstadt'taki ev fabrikası; adı 'huysuz' anlamına gelir. Altbier'in en acı ve karakterli örneğini yapar, Sticke'si yılda iki kez çıkar."
+ },
+ "Schumacher": {
+  "k": 1838,
+  "s": "Schumacher ailesi",
+  "y": "Düsseldorf",
+  "stil": "Altbier",
+  "h": "Düsseldorf'un hâlâ çalışan en eski altbier fabrikası. Oststraße'deki birahanesi şehrin klasiklerinden."
+ },
+ "Füchschen": {
+  "k": 1848,
+  "s": "König ailesi",
+  "y": "Düsseldorf",
+  "stil": "Altbier",
+  "h": "Altstadt'ta tilki logolu ev fabrikası ve birahane. Noel dönemi 'Weihnachtsbier'i meraklılarca beklenir."
+ },
+ "Jever": {
+  "k": 1848,
+  "s": "Radeberger Gruppe (Oetker)",
+  "y": "Jever, Aşağı Saksonya",
+  "stil": "Kuzey Alman pilsner",
+  "h": "Frizya bölgesinin kuru ve acı pilsiyle tanınır. Almanya'da 'en acı ana akım pils' unvanıyla anılır."
+ },
+ "Beck's": {
+  "k": 1873,
+  "s": "AB InBev",
+  "y": "Bremen",
+  "stil": "Alman pilsner",
+  "h": "Yeşil şişesi ve anahtar logosuyla dünyanın en çok ihraç edilen Alman birası. Türkiye'de de marketlerde yaygın."
+ },
+ "Flensburger": {
+  "k": 1888,
+  "s": "Bağımsız aile şirketi",
+  "y": "Flensburg, Schleswig-Holstein",
+  "stil": "Kuzey Alman pilsner",
+  "h": "Danimarka sınırındaki bağımsız fabrika. Klipsli kapaklı şişesinin 'plop' sesi markanın simgesi."
+ },
+ "Einbecker": {
+  "k": 1378,
+  "s": "Einbecker Brauhaus AG",
+  "y": "Einbeck, Aşağı Saksonya",
+  "stil": "Bock",
+  "h": "Orta Çağ'da Hansa ticaretiyle ünlenen Einbeck birası, Münih'te 'Ainpöckisch' denerek 'Bock' adını doğurdu. Fabrika bu mirası Ur-Bock'larıyla sürdürür."
+ },
+ "Warsteiner": {
+  "k": 1753,
+  "s": "Cramer ailesi",
+  "y": "Warstein, Kuzey Ren-Vestfalya",
+  "stil": "Alman pilsner",
+  "h": "Sauerland'deki büyük aile fabrikası. Almanya'nın en büyük özel sahipli fabrikalarından ve yaygın ihraç markası."
+ },
+ "Krombacher": {
+  "k": 1803,
+  "s": "Schadeberg ailesi",
+  "y": "Kreuztal-Krombach, Kuzey Ren-Vestfalya",
+  "stil": "Alman pilsner",
+  "h": "Almanya'nın en çok satan pils markalarından. 'Felsquellwasser' (kaya kaynağı suyu) vurgusuyla tanınır."
+ },
+ "Bitburger": {
+  "k": 1817,
+  "s": "Bitburger Braugruppe (Simon ailesi)",
+  "y": "Bitburg, Renanya-Pfalz",
+  "stil": "Alman pilsner",
+  "h": "Eifel bölgesinde, 'Bitte ein Bit' sloganıyla bilinen pils devi. Köstritzer de aynı gruba aittir."
+ },
+ "Rothaus": {
+  "k": 1791,
+  "s": "Baden-Württemberg eyaleti",
+  "y": "Grafenhausen, Kara Orman",
+  "stil": "Pils",
+  "h": "Kara Orman'da bir manastır fabrikası olarak kuruldu, bugün eyalet malı. Küçük 'Tannenzäpfle' şişesi gençler arasında kült oldu."
+ },
+ "Radeberger": {
+  "k": 1872,
+  "s": "Radeberger Gruppe (Oetker)",
+  "y": "Radeberg, Saksonya",
+  "stil": "Pilsner",
+  "h": "Almanya'nın pilsner tarzını üreten ilk fabrikalarından. Dresden yakınında, Saksonya kraliyet sarayına bira sağlamış."
+ },
+ "Köstritzer": {
+  "k": 1543,
+  "s": "Bitburger Braugruppe",
+  "y": "Bad Köstritz, Thüringen",
+  "stil": "Schwarzbier",
+  "h": "Schwarzbier stilinin en bilinen temsilcisi. Goethe'nin de bu birayı sevdiği anlatılır."
+ },
+ "Berliner Kindl": {
+  "k": 1872,
+  "s": "Radeberger Gruppe (Oetker)",
+  "y": "Berlin",
+  "stil": "Berliner Weisse ve lager",
+  "h": "Berlin'in büyük ana akım markası. Şuruplu servis edilen Berliner Weisse'i turistlerin ilk tanıştığı versiyondur."
+ },
+ "Schneeeule": {
+  "k": 2015,
+  "s": "Bağımsız (Ulrike Genz)",
+  "y": "Berlin",
+  "stil": "Geleneksel Berliner Weisse",
+  "h": "Ulrike Genz'in kurduğu, yalnızca geleneksel brett'li Berliner Weisse yapan küçük fabrika. Unutulan stilin yeniden doğuşunun simgesi."
+ },
+ "Ritterguts Gose": {
+  "s": "Bağımsız (Tilo Jänichen)",
+  "y": "Borna, Saksonya",
+  "stil": "Gose",
+  "h": "Leipzig yakınındaki Döllnitz malikânesinin tarihî gose'si 1999'da yeniden canlandırıldı. Tuzlu-ekşi stilin en otantik örneklerinden sayılır."
+ },
+ "Bayerischer Bahnhof": {
+  "k": 2000,
+  "s": "Bağımsız",
+  "y": "Leipzig, Saksonya",
+  "stil": "Gose",
+  "h": "Leipzig'in tarihî tren garı binasında gose fabrikası ve birahane. Şehrin kendi stilini yeniden gündelik biraya dönüştürdü."
+ },
+ "Stiegl": {
+  "k": 1492,
+  "s": "Kiener ailesi",
+  "y": "Salzburg",
+  "stil": "Avusturya Märzen ve radler",
+  "h": "Avusturya'nın en büyük bağımsız fabrikası. Goldbräu'su ülkenin en tanınan biralarından, greyfurtlu radler'i de çok popüler."
+ },
+ "Trumer": {
+  "k": 1601,
+  "s": "Sigl ailesi",
+  "y": "Obertrum, Salzburg",
+  "stil": "Pilsner",
+  "h": "Salzburg kırsalında aile fabrikası. Açık fermantasyonla yapılan zarif Trumer Pils'iyle tanınır, ABD'de de kardeş fabrikası açtı."
+ },
+ "Gösser": {
+  "k": 1459,
+  "s": "Heineken (Brau Union Österreich)",
+  "y": "Leoben, Steiermark",
+  "stil": "Avusturya Märzen",
+  "h": "Eski Göss manastırının fabrikası. Avusturya'nın en çok bilinen bira markalarından."
+ },
+ "Zipfer": {
+  "k": 1858,
+  "s": "Heineken (Brau Union Österreich)",
+  "y": "Zipf, Yukarı Avusturya",
+  "stil": "Pilsner ve lager",
+  "h": "Yukarı Avusturya'da kurulan, şerbetçiotu vurgulu biralarıyla bilinen fabrika. Urtyp'i ülkede çok sevilir."
+ },
+ "Schloss Eggenberg": {
+  "s": "Stöhr ailesi",
+  "y": "Vorchdorf, Yukarı Avusturya",
+  "stil": "Lager ve güçlü bock",
+  "h": "Bir şato içindeki aile fabrikası. İsviçreli Hürlimann kapanınca Samichlaus'un tarifini devralıp yaşatmaya devam etti."
+ },
+ "Ottakringer": {
+  "k": 1837,
+  "s": "Ottakringer Getränke AG",
+  "y": "Viyana",
+  "stil": "Vienna lager",
+  "h": "Viyana'nın şehir içindeki son büyük fabrikası. Ottakring semtinde düzenli bira festivalleri ve turlarla şehrin kültür mekânı."
+ },
+ "Schremser": {
+  "s": "Trojan ailesi (Brauerei Schrems)",
+  "y": "Schrems, Aşağı Avusturya",
+  "stil": "Märzen ve organik biralar",
+  "h": "Waldviertel bölgesinde yüzyıllardır bira yapan küçük aile fabrikası. Organik ve çavdar biralarıyla da bilinir."
+ },
+ "Pilsner Urquell": {
+  "k": 1842,
+  "s": "Asahi",
+  "y": "Plzeň",
+  "stil": "Çek pilsner",
+  "h": "Bavyeralı Josef Groll 1842'de burada ilk berrak altın lager'ı yaptı; dünyadaki pilsner'ların hepsi bu biranın torunudur. Urquell 'orijinal kaynak' demektir."
+ },
+ "Budějovický Budvar": {
+  "k": 1895,
+  "s": "Çek devleti",
+  "y": "České Budějovice, Güney Bohemya",
+  "stil": "Çek lager",
+  "h": "Çek devletine ait fabrika; uzun lagerleme ile yumuşak ležák'ı yapar. 'Budweiser' adı yüzünden Anheuser-Busch ile bir asırdır hukuk savaşında."
+ },
+ "Kozel": {
+  "k": 1874,
+  "s": "Asahi",
+  "y": "Velké Popovice, Orta Bohemya",
+  "stil": "Çek lager ve koyu lager",
+  "h": "Keçi (kozel) logosuyla bilinen Prag yakınındaki fabrika. Koyu biralarıyla dünyada en çok satan Çek markalarından; Türkiye'de de yaygın."
+ },
+ "Staropramen": {
+  "k": 1869,
+  "s": "Molson Coors",
+  "y": "Prag (Smíchov)",
+  "stil": "Çek lager",
+  "h": "Prag'ın en büyük fabrikası; adı 'eski kaynak' demek. Çekya'nın en çok ihraç edilen biralarından."
+ },
+ "Únětický pivovar": {
+  "k": 1710,
+  "s": "Bağımsız",
+  "y": "Únětice, Prag yakını",
+  "stil": "Pastörize edilmemiş Çek lager",
+  "h": "Uzun süre kapalı kalan tarihî fabrika 2011'de yeniden açıldı. Filtresiz, taze ležák'ları Prag barlarının gözdesi."
+ },
+ "Bernard": {
+  "k": 1597,
+  "s": "Bernard ailesi & Duvel Moortgat",
+  "y": "Humpolec, Vysočina",
+  "stil": "Pastörize edilmemiş Çek lager",
+  "h": "1991'de Bernard ailesinin devraldığı tarihî fabrika. Pastörizasyona karşı kampanyalarıyla ve canlı mayalı biralarıyla ünlü."
+ },
+ "Krušovice": {
+  "k": 1581,
+  "s": "Heineken",
+  "y": "Krušovice, Orta Bohemya",
+  "stil": "Çek lager",
+  "h": "Bir dönem Habsburg kraliyetine ait olan fabrika. Kraliyet tacı logosuyla tanınır."
+ },
+ "Svijany": {
+  "k": 1564,
+  "s": "Bağımsız",
+  "y": "Svijany, Kuzey Bohemya",
+  "stil": "Pastörize edilmemiş Çek lager",
+  "h": "Liberec yakınındaki köklü, bağımsız fabrika. Pastörize edilmemiş, geleneksel ležák'larıyla Çek meraklılar arasında çok sevilir."
+ },
+ "Matuška": {
+  "k": 2009,
+  "s": "Matuška ailesi",
+  "y": "Broumy, Orta Bohemya",
+  "stil": "Craft ale ve lager",
+  "h": "Baba-oğul Matuška'nın kurduğu, Çek craft devriminin öncü fabrikası. IPA'ları ve lager'larıyla ülkenin en çok ödül alan küçük fabrikalarından."
+ },
+ "Kout na Šumavě": {
+  "k": 1736,
+  "s": "Bağımsız",
+  "y": "Kout na Šumavě, Plzeň bölgesi",
+  "stil": "Çek lager",
+  "h": "Bohemya Ormanı eteğinde tarihî bir şato fabrikası; 2006'da yeniden açıldı. Geleneksel yöntemle yaptığı 12° ležák meraklılarca Çekya'nın en iyisi sayılır."
+ },
+ "Anheuser-Busch": {
+  "k": 1852,
+  "s": "AB InBev",
+  "y": "St. Louis, Missouri",
+  "stil": "Kitlesel Amerikan lager",
+  "h": "Alman göçmeni Eberhard Anheuser ve damadı Adolphus Busch'un St. Louis fabrikası. 1876'da çıkan Budweiser ABD'nin ilk ulusal birası oldu; 2008'de InBev ile birleşerek dünyanın en büyük bira grubunu kurdu."
+ },
+ "Coors Brewing Company": {
+  "k": 1873,
+  "s": "Molson Coors",
+  "y": "Golden, Colorado",
+  "stil": "Hafif Amerikan lager",
+  "h": "Alman göçmeni Adolph Coors'un Golden'da kurduğu fabrika, tek noktadan dünyanın en büyük bira üretim tesislerinden biridir. 2005'te Kanadalı Molson ile birleşti."
+ },
+ "Miller Brewing Company": {
+  "k": 1855,
+  "s": "Molson Coors",
+  "y": "Milwaukee, Wisconsin",
+  "stil": "Amerikan lager ve light lager",
+  "h": "Frederick Miller'ın Milwaukee'de satın aldığı Plank Road fabrikasından doğdu. Miller Lite ile 1975'te light bira pazarını yarattı; ABD işleri bugün Molson Coors'ta."
+ },
+ "Pabst Brewing Company": {
+  "k": 1844,
+  "s": "Blue Ribbon Intermediate Holdings",
+  "y": "Milwaukee, Wisconsin (köken)",
+  "stil": "Klasik Amerikan lager",
+  "h": "Milwaukee'nin tarihî devlerinden. Kendi fabrikası olmadan sözleşmeli üretimle yaşayan PBR, 2000'lerde alt kültürün ucuz ve 'samimi' birası olarak yeniden doğdu."
+ },
+ "D.G. Yuengling & Son": {
+  "k": 1829,
+  "s": "Yuengling ailesi (bağımsız)",
+  "y": "Pottsville, Pennsylvania",
+  "stil": "Amber lager, porter",
+  "h": "ABD'nin hâlâ çalışan en eski bira fabrikası. Altı kuşaktır aynı ailede; Yasak döneminde dondurma üreterek ayakta kaldı."
+ },
+ "Blue Moon Brewing Co.": {
+  "k": 1995,
+  "s": "Molson Coors",
+  "y": "Denver, Colorado",
+  "stil": "Belçika tarzı witbier",
+  "h": "Coors Field stadyumundaki Sandlot fabrikasında Keith Villa tarafından yaratıldı. 'Craft gibi görünen' büyük şirket birası tartışmasının simgesi olsa da witbier'i Amerika'ya sevdirdi."
+ },
+ "Boston Beer Company": {
+  "k": 1984,
+  "s": "Halka açık (Jim Koch kontrolünde)",
+  "y": "Boston, Massachusetts",
+  "stil": "Lager, mevsimlik ve deneysel ale",
+  "h": "Jim Koch, büyük dedesinin tarifiyle Samuel Adams Boston Lager'ı mutfağında geliştirdi. Amerikan craft hareketinin ilk ulusal markası oldu; 2019'da Dogfish Head'i bünyesine kattı."
+ },
+ "Brooklyn Brewery": {
+  "k": 1988,
+  "s": "Bağımsız (Kirin ortaklığı)",
+  "y": "Brooklyn, New York",
+  "stil": "Lager, stout, Belçika etkili ale",
+  "h": "Steve Hindy ve Tom Potter'ın kurduğu fabrika, Garrett Oliver'ın ustalığında New York'un bira kimliği oldu. Logo, 'I ♥ NY' tasarımcısı Milton Glaser'a ait."
+ },
+ "Sierra Nevada": {
+  "k": 1980,
+  "s": "Grossman ailesi (bağımsız)",
+  "y": "Chico, Kaliforniya",
+  "stil": "Pale ale, IPA, barleywine",
+  "h": "Ken Grossman'ın hurda süt tanklarıyla kurduğu fabrika, Cascade şerbetçiotlu Pale Ale ile Amerikan craft birasının temelini attı. Bugün ABD'nin en büyük bağımsız fabrikalarından."
+ },
+ "Anchor Brewing": {
+  "k": 1896,
+  "s": "Hamdi Ulukaya (2024'ten beri)",
+  "y": "San Francisco, Kaliforniya",
+  "stil": "California Common (steam beer)",
+  "h": "Altına hücum döneminin 'steam beer' geleneğini yaşatan fabrika 1965'te Fritz Maytag'la craft öncüsü oldu. Sapporo döneminde 2023'te kapandı; Chobani kurucusu Hamdi Ulukaya 2024'te satın aldı, 2026 itibarıyla yeniden açılış hazırlığı sürüyor."
+ },
+ "Stone Brewing": {
+  "k": 1996,
+  "s": "Sapporo (2022'den beri)",
+  "y": "Escondido, Kaliforniya",
+  "stil": "West Coast IPA, güçlü ale",
+  "h": "Greg Koch ve Steve Wagner'in kurduğu Stone, saldırgan acılıktaki biralarıyla Batı Kıyısı IPA kimliğini tanımladı. 2022'de Japon Sapporo'ya satıldı."
+ },
+ "Russian River Brewing": {
+  "k": 1997,
+  "s": "Cilurzo ailesi (bağımsız)",
+  "y": "Santa Rosa, Kaliforniya",
+  "stil": "Double IPA, ekşi ve vahşi ale",
+  "h": "Şarap üreticisi Korbel'in fabrikası olarak başladı; Vinnie ve Natalie Cilurzo 2003'te markayı aldı. Pliny the Elder ile DIPA'yı popülerleştirdi, fıçıda yıllanan ekşileriyle de ünlü."
+ },
+ "Firestone Walker": {
+  "k": 1996,
+  "s": "Duvel Moortgat",
+  "y": "Paso Robles, Kaliforniya",
+  "stil": "IPA, fıçı yıllanmış stout",
+  "h": "Adam Firestone ve David Walker'ın şarap bölgesinde kurduğu fabrika; meşe fıçılarda fermantasyon geleneğiyle bilinir. Yıllık fıçı harmanları dünya çapında aranır."
+ },
+ "Lagunitas Brewing Company": {
+  "k": 1993,
+  "s": "Heineken",
+  "y": "Petaluma, Kaliforniya",
+  "stil": "IPA ve hop ağırlıklı ale",
+  "h": "Tony Magee'nin kurduğu, köpek logolu ve esprili etiketli fabrika. 2017'de tamamen Heineken'e geçti."
+ },
+ "Ballast Point": {
+  "k": 1996,
+  "s": "Kings & Convicts",
+  "y": "San Diego, Kaliforniya",
+  "stil": "West Coast IPA",
+  "h": "Ev biracılığı dükkânından doğdu; Sculpin IPA ile San Diego IPA'sını tanımladı. 2015'te 1 milyar dolara Constellation'a satıldı, 2019'da Kings & Convicts'e geçti."
+ },
+ "Deschutes Brewery": {
+  "k": 1988,
+  "s": "Çalışan ortaklığı (bağımsız)",
+  "y": "Bend, Oregon",
+  "stil": "Porter, IPA, imparatorluk stout",
+  "h": "Gary Fish'in Bend'de açtığı birahaneyle başladı. Black Butte Porter, IPA çağında bile porter'ın amiral gemisi olabildiğini kanıtladı."
+ },
+ "Rogue Ales": {
+  "k": 1988,
+  "s": "Bağımsız",
+  "y": "Newport, Oregon",
+  "stil": "Ale, maibock, deneysel",
+  "h": "Oregon kıyısındaki liman kasabasının asi fabrikası. Kendi arpasını ve şerbetçiotunu yetiştiren 'çiftlik' yaklaşımıyla bilinir."
+ },
+ "Elysian Brewing": {
+  "k": 1996,
+  "s": "AB InBev",
+  "y": "Seattle, Washington",
+  "stil": "IPA, kabak birası",
+  "h": "Seattle'ın craft öncülerinden; 2015'te AB InBev'e satılması craft camiasında büyük tartışma yarattı."
+ },
+ "New Belgium Brewing": {
+  "k": 1991,
+  "s": "Lion (Kirin)",
+  "y": "Fort Collins, Colorado",
+  "stil": "Amber ale, IPA, foeder ekşileri",
+  "h": "Jeff Lebesch'in Belçika bisiklet turundan dönüp kurduğu fabrika. Uzun süre çalışanlarına ait olan şirket 2019'da Kirin'in Lion grubuna satıldı; Bell's ile aynı çatı altında."
+ },
+ "Oskar Blues": {
+  "k": 1997,
+  "s": "Canarchy / Monster Beverage",
+  "y": "Longmont, Colorado",
+  "stil": "Kutu craft ale",
+  "h": "2002'de Dale's Pale Ale'ı kutulayarak 'craft bira şişede olur' kuralını yıktı."
+ },
+ "Great Divide": {
+  "k": 1994,
+  "s": "Bağımsız",
+  "y": "Denver, Colorado",
+  "stil": "Güçlü ale ve imparatorluk stout",
+  "h": "Brian Dunn'ın Denver'daki fabrikası; Yeti serisi Amerikan imparatorluk stout'unun tanınmış örneklerinden."
+ },
+ "Bell's Brewery": {
+  "k": 1985,
+  "s": "Lion (Kirin)",
+  "y": "Kalamazoo, Michigan",
+  "stil": "IPA, buğday ale, stout",
+  "h": "Larry Bell'in ev biracılığı dükkânı olarak başladı. Two Hearted IPA, Zymurgy okurlarınca birçok kez ABD'nin en iyi birası seçildi; 2021'de Lion'a satıldı."
+ },
+ "Founders Brewing": {
+  "k": 1997,
+  "s": "Mahou San Miguel",
+  "y": "Grand Rapids, Michigan",
+  "stil": "İmparatorluk stout, IPA",
+  "h": "Mike Stevens ve Dave Engbers'in kurduğu fabrika, eski alçı madenlerinde bourbon fıçılarında yıllandırdığı KBS ile kült oldu. 2020'de tamamen İspanyol Mahou'ya geçti."
+ },
+ "Goose Island": {
+  "k": 1988,
+  "s": "AB InBev",
+  "y": "Chicago, Illinois",
+  "stil": "IPA, fıçı yıllanmış stout, Belçika tarzı",
+  "h": "John Hall'un Chicago birahanesi; 1992'de Bourbon County Stout ile fıçı yıllandırma akımını başlattı. 2011'de AB InBev'e satıldı ve Goose IPA dünya geneline dağıtıldı."
+ },
+ "3 Floyds Brewing": {
+  "k": 1996,
+  "s": "Floyd ailesi (bağımsız)",
+  "y": "Munster, Indiana",
+  "stil": "Hop ağırlıklı ale, imparatorluk stout",
+  "h": "'Not normal' sloganıyla heavy metal estetiğini biraya taşıyan aile fabrikası. Zombie Dust ve Dark Lord Day ile kült statüsünde."
+ },
+ "Toppling Goliath": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Decorah, Iowa",
+  "stil": "Pale ale, IPA, fıçı stout",
+  "h": "Clark Lewey'nin küçük Iowa kasabasındaki fabrikası; Pseudo Sue ve Kentucky Brunch Brand Stout ile dünya listelerinin zirvesine çıktı."
+ },
+ "Great Lakes Brewing": {
+  "k": 1988,
+  "s": "Conway kardeşler (bağımsız)",
+  "y": "Cleveland, Ohio",
+  "stil": "Porter, lager, ale",
+  "h": "Ohio'nun ilk craft fabrikası. Edmund Fitzgerald Porter, Büyük Göller'de batan yük gemisinin anısını yaşatır."
+ },
+ "Boulevard Brewing": {
+  "k": 1989,
+  "s": "Duvel Moortgat",
+  "y": "Kansas City, Missouri",
+  "stil": "Saison, buğday, Belçika tarzı",
+  "h": "John McDonald'ın kurduğu Orta Batı fabrikası, Smokestack serisiyle Belçika tarzlarında uzmanlaştı; 2013'te Duvel'e katıldı."
+ },
+ "Dogfish Head": {
+  "k": 1995,
+  "s": "Boston Beer Company",
+  "y": "Milton, Delaware",
+  "stil": "Sürekli şerbetçiotlu IPA, deneysel ale",
+  "h": "Sam Calagione'nin 'normal olmayan insanlar için normal olmayan bira' felsefesiyle kurduğu fabrika; antik bira yeniden canlandırmalarıyla da tanınır. 2019'da Boston Beer ile birleşti."
+ },
+ "Victory Brewing": {
+  "k": 1996,
+  "s": "Artisanal Brewing Ventures",
+  "y": "Downingtown, Pennsylvania",
+  "stil": "Pils, IPA, Belçika tarzı",
+  "h": "Çocukluk arkadaşları Bill Covaleski ve Ron Barchet'in Almanya'da öğrendikleriyle kurduğu fabrika; Prima Pils Amerikan pilsner'ın ölçütü."
+ },
+ "Brewery Ommegang": {
+  "k": 1997,
+  "s": "Duvel Moortgat",
+  "y": "Cooperstown, New York",
+  "stil": "Belçika tarzı ale",
+  "h": "New York'ta bir şerbetçiotu çiftliğinde kurulan, tamamen Belçika tarzına adanmış fabrika."
+ },
+ "The Alchemist": {
+  "k": 2003,
+  "s": "Kimmich ailesi (bağımsız)",
+  "y": "Stowe, Vermont",
+  "stil": "New England IPA",
+  "h": "John ve Jen Kimmich'in Waterbury birahanesi 2011 kasırgasında yıkılınca yalnız Heady Topper'a odaklandılar; bu kutu NEIPA çılgınlığını başlattı."
+ },
+ "Hill Farmstead": {
+  "k": 2010,
+  "s": "Shaun Hill (bağımsız)",
+  "y": "Greensboro Bend, Vermont",
+  "stil": "Pale ale, saison, fıçı yıllanmış",
+  "h": "Shaun Hill'in aile çiftliğinde kurduğu fabrika; RateBeer tarafından defalarca dünyanın en iyi fabrikası seçildi. Biralar çoğunlukla yalnız çiftlikte satılır."
+ },
+ "Tree House Brewing": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Charlton, Massachusetts",
+  "stil": "New England IPA, stout",
+  "h": "Brimfield'da bir ahırda başlayıp Charlton'daki dev tesise taşındı. Julius ile NEIPA'nın referans fabrikalarından; satış yalnız fabrikada."
+ },
+ "Trillium Brewing": {
+  "k": 2013,
+  "s": "JC ve Esther Tetreault (bağımsız)",
+  "y": "Boston, Massachusetts",
+  "stil": "NEIPA, ekşi ale",
+  "h": "Boston'ın Fort Point semtinde küçük bir tesiste başladı; bugün Canton'daki çiftlik fabrikası ve birahaneleriyle New England'ın önde gelenlerinden."
+ },
+ "Lawson's Finest Liquids": {
+  "k": 2008,
+  "s": "Lawson ailesi (bağımsız)",
+  "y": "Waitsfield, Vermont",
+  "stil": "Double IPA",
+  "h": "Sean Lawson'ın ormandaki küçük şeker kulübesinde başladı; Sip of Sunshine Vermont'un en aranan kutularından."
+ },
+ "Maine Beer Company": {
+  "k": 2009,
+  "s": "Kleban kardeşler (bağımsız)",
+  "y": "Freeport, Maine",
+  "stil": "IPA ve pale ale",
+  "h": "'Sadece gerekeni yap' sloganıyla sade etiketli, berrak ve aromatik IPA'larla tanınır; kârının %1'ini doğaya bağışlar."
+ },
+ "Allagash Brewing": {
+  "k": 1995,
+  "s": "Rob Tod (bağımsız)",
+  "y": "Portland, Maine",
+  "stil": "Belçika tarzı witbier, tripel, coolship ekşileri",
+  "h": "Rob Tod, IPA çağında Belçika tarzını seçti; Allagash White on yıllar sonra Amerika'nın en ödüllü witbier'i oldu. Coolship ile spontane fermantasyonun da ABD öncüsü."
+ },
+ "Cigar City Brewing": {
+  "k": 2009,
+  "s": "Monster Beverage",
+  "y": "Tampa, Florida",
+  "stil": "IPA, baharatlı stout",
+  "h": "Joey Redner'ın Tampa'nın puro mirasına adanmış fabrikası. Hunahpu's Day festivali yılın en kalabalık bira etkinliklerinden."
+ },
+ "Spoetzl Brewery": {
+  "k": 1909,
+  "s": "Gambrinus",
+  "y": "Shiner, Texas",
+  "stil": "Bock ve lager",
+  "h": "Bavyeralı Kosmos Spoetzl'in Teksas kasabasındaki fabrikası; Shiner Bock Teksas'ın gayri resmî birası."
+ },
+ "Unibroue": {
+  "k": 1990,
+  "s": "Sapporo",
+  "y": "Chambly, Québec",
+  "stil": "Şişede mayalanan Belçika tarzı ale",
+  "h": "Québec'te Belçika tarzını yerleştiren fabrika; etiketleri Fransız-Kanada efsanelerini anlatır. 2006'dan beri Sapporo'nun."
+ },
+ "Dieu du Ciel!": {
+  "k": 1998,
+  "s": "Bağımsız",
+  "y": "Montréal ve Saint-Jérôme, Québec",
+  "stil": "Stout, çiçekli ve baharatlı ale",
+  "h": "Jean-François Gravel'in Montréal birahanesi; Péché Mortel ile dünya listelerine girdi. Üretim 2007'den beri Saint-Jérôme'da."
+ },
+ "Molson Brewery": {
+  "k": 1786,
+  "s": "Molson Coors",
+  "y": "Montréal, Québec",
+  "stil": "Kanada lageri",
+  "h": "John Molson'ın Montréal'de kurduğu, Kuzey Amerika'nın en eski bira markalarından. 2005'te Coors ile birleşti."
+ },
+ "Labatt Brewing": {
+  "k": 1847,
+  "s": "AB InBev",
+  "y": "London, Ontario",
+  "stil": "Kanada lageri",
+  "h": "John Kinder Labatt'ın Ontario fabrikası; Labatt Blue on yıllarca Kanada'nın en çok satan birası oldu."
+ },
+ "Sleeman Breweries": {
+  "k": 1834,
+  "s": "Sapporo",
+  "y": "Guelph, Ontario",
+  "stil": "Cream ale ve lager",
+  "h": "1834'te kurulan aile fabrikası 1933'te kaçakçılık skandalıyla kapandı; John Sleeman 1988'de büyük büyükbabasının tarifleriyle canlandırdı."
+ },
+ "Moosehead Breweries": {
+  "k": 1867,
+  "s": "Oland ailesi (bağımsız)",
+  "y": "Saint John, New Brunswick",
+  "stil": "Kanada lageri",
+  "h": "Kanada'nın en eski bağımsız fabrikası; altıncı kuşak Oland ailesi tarafından yönetilir."
+ },
+ "Steam Whistle Brewing": {
+  "k": 2000,
+  "s": "Bağımsız",
+  "y": "Toronto, Ontario",
+  "stil": "Pilsner",
+  "h": "Eski bir lokomotif atölyesinde kurulan, yıllarca yalnız tek bira yapan fabrika."
+ },
+ "Driftwood Brewery": {
+  "k": 2008,
+  "s": "Bağımsız",
+  "y": "Victoria, Britanya Kolumbiyası",
+  "stil": "West Coast IPA, Belçika tarzı",
+  "h": "Vancouver Adası'nın craft öncülerinden; Fat Tug Kanada'nın en sevilen IPA'larından."
+ },
+ "Bellwoods Brewery": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Toronto, Ontario",
+  "stil": "Ekşi, IPA, saison",
+  "h": "Ossington Caddesi'ndeki birahanede başlayan, Kanada'nın en çok övülen craft fabrikalarından."
+ },
+ "Grupo Modelo": {
+  "k": 1925,
+  "s": "AB InBev (ABD hakları Constellation Brands)",
+  "y": "Mexico City",
+  "stil": "Meksika lageri",
+  "h": "1925'te Mexico City'de kurulan grup Corona ile dünyanın en çok ihraç edilen biralarından birini yarattı. 2013'te AB InBev'e geçti; ABD'deki markalar Constellation'a ait."
+ },
+ "Cuauhtémoc Moctezuma": {
+  "k": 1890,
+  "s": "Heineken",
+  "y": "Monterrey, Nuevo León",
+  "stil": "Meksika lageri ve pilsner",
+  "h": "Monterrey'de kurulan Cervecería Cuauhtémoc, Moctezuma ile birleşerek Dos Equis, Sol, Tecate ve Bohemia'yı bir araya getirdi. 2010'dan beri Heineken bünyesinde."
+ },
+ "Sint-Sixtus (Westvleteren)": {
+  "k": 1838,
+  "s": "Sint-Sixtus Trappist manastırı",
+  "y": "Westvleteren, Batı Flandre",
+  "stil": "Trappist quad, dubbel, blond",
+  "h": "Keşişlerin yalnızca manastırın ihtiyacı kadar ürettiği, etiketsiz şişelerle ve rezervasyonla satılan bira. Westvleteren 12 yıllarca 'dünyanın en iyi birası' seçildi; kıtlığı efsaneyi büyüttü."
+ },
+ "Brasserie de Rochefort": {
+  "k": 1595,
+  "s": "Abbaye Notre-Dame de Saint-Rémy",
+  "y": "Rochefort, Namur",
+  "stil": "Koyu trappist ale",
+  "h": "Ardennes'teki manastırda 16. yüzyıldan beri bira yapılıyor. 6, 8 ve 10 numaralı koyu biraları yıllandırma için kült; 2020'de açık renkli Triple Extra eklendi."
+ },
+ "Brouwerij Westmalle": {
+  "k": 1836,
+  "s": "Abdij Onze-Lieve-Vrouw van het Heilig Hart",
+  "y": "Westmalle, Antwerp",
+  "stil": "Dubbel ve tripel",
+  "h": "Dubbel (1856 kökenli) ve Tripel (1934) stillerini tanımlayan manastır. Bugün dünyadaki tüm dubbel ve tripel'lerin şablonu sayılır."
+ },
+ "Chimay": {
+  "k": 1862,
+  "s": "Abbaye Notre-Dame de Scourmont",
+  "y": "Baileux / Chimay, Hainaut",
+  "stil": "Trappist ale",
+  "h": "En yaygın dağıtılan trappist. Kırmızı, Mavi ve Beyaz kapaklı biraları dünyada trappist kelimesini tanıtan markadır; manastır peyniri de ünlüdür."
+ },
+ "Brasserie d'Orval": {
+  "k": 1931,
+  "s": "Abbaye Notre-Dame d'Orval",
+  "y": "Villers-devant-Orval, Lüksemburg ili",
+  "stil": "Brettanomyces'li pale ale",
+  "h": "Tek bir bira üretir (keşişlerin Petite Orval'i hariç). Kuru şerbetçiotu ve Brettanomyces mayası sayesinde şişede yıllandıkça değişen eşsiz bir karakteri var."
+ },
+ "Achelse Kluis": {
+  "k": 1998,
+  "s": "Özel (2021'den beri; trappist statüsü sona erdi)",
+  "y": "Hamont-Achel, Limburg",
+  "stil": "Blond ve bruin manastır ale",
+  "h": "Saint-Benedictus manastırında 1998'de yeniden bira yapılmaya başlandı. Son keşişler 2021'de ayrılınca trappist logosunu kaybetti, üretim özel işletmeyle sürüyor."
+ },
+ "La Trappe (Koningshoeven)": {
+  "k": 1884,
+  "s": "Koningshoeven manastırı (Bavaria/Swinkels işletir)",
+  "y": "Berkel-Enschot, Kuzey Brabant",
+  "stil": "Trappist ale, quadrupel",
+  "h": "Belçika dışındaki ilk trappist fabrikası. Quadrupel adını ilk kullanan bira burada doğdu; günlük işletmeyi Swinkels ailesi yürütür."
+ },
+ "Brouwerij De Kievit (Zundert)": {
+  "k": 2013,
+  "s": "Maria Toevlucht manastırı",
+  "y": "Zundert, Kuzey Brabant",
+  "stil": "Trappist ale",
+  "h": "Van Gogh'un doğduğu kasabadaki küçük manastır 2013'te trappist bira üretmeye başladı. Zundert 8 ve 10 ile Hollanda'nın ikinci trappist'i oldu."
+ },
+ "Leffe": {
+  "k": 1240,
+  "s": "AB InBev",
+  "y": "Dinant (marka), Leuven'de üretim",
+  "stil": "Manastır ale",
+  "h": "Notre-Dame de Leffe manastırının 13. yüzyıla dayanan bira geleneğinin lisanslı devamı. Bugün AB InBev tarafından Leuven'de üretilen dünyanın en çok satan manastır birası."
+ },
+ "Grimbergen": {
+  "k": 1128,
+  "s": "Carlsberg (marka) / Heineken (Belçika'da üretim)",
+  "y": "Grimbergen, Flaman Brabant",
+  "stil": "Manastır ale",
+  "h": "Norbertine manastırının küllerinden doğan Anka kuşu amblemiyle bilinir. Manastırda 2021'de yeniden küçük bir mikro bira evi açıldı."
+ },
+ "Affligem": {
+  "k": 1074,
+  "s": "Heineken",
+  "y": "Opwijk, Flaman Brabant",
+  "stil": "Manastır ale",
+  "h": "11. yüzyılda kurulan Benediktin manastırının reçetelerini sürdürür. 1970'lerden beri ticari üretim, bugün Heineken çatısı altında."
+ },
+ "St. Bernardus": {
+  "k": 1946,
+  "s": "Aile işletmesi",
+  "y": "Watou, Batı Flandre",
+  "stil": "Manastır ale, quad",
+  "h": "1946-1992 arasında Westvleteren biralarını lisansla üretti; Abt 12 o mirasın devamı sayılır. Bugün dünyanın en saygın manastır tarzı üreticilerinden."
+ },
+ "Bosteels": {
+  "k": 1791,
+  "s": "AB InBev (2016'dan beri)",
+  "y": "Buggenhout, Doğu Flandre",
+  "stil": "Tripel ve güçlü amber",
+  "h": "Yedi kuşak aile işletmesiydi. Tripel Karmeliet ve kum saati bardaklı Kwak ile ün kazandı, 2016'da AB InBev'e satıldı."
+ },
+ "Maredsous": {
+  "k": 1872,
+  "s": "Maredsous manastırı (Duvel Moortgat üretir)",
+  "y": "Denée, Namur (üretim Breendonk)",
+  "stil": "Manastır ale",
+  "h": "Benediktin manastırının lisansıyla 1963'ten beri Duvel Moortgat üretir. Blond 6, Brune 8 ve Tripel 10 üçlüsüyle tanınır."
+ },
+ "St-Feuillien": {
+  "k": 1873,
+  "s": "Friart ailesi",
+  "y": "Le Rœulx, Hainaut",
+  "stil": "Manastır ale ve saison",
+  "h": "Dört kuşaktır Friart ailesinin elinde. Adını 7. yüzyılda şehit olan İrlandalı keşiş Feuillien'den alır."
+ },
+ "Cantillon": {
+  "k": 1900,
+  "s": "Van Roy-Cantillon ailesi",
+  "y": "Anderlecht, Brüksel",
+  "stil": "Geleneksel lambic, gueuze, kriek",
+  "h": "Brüksel'de faal kalan son geleneksel lambic fabrikası ve Gueuze Müzesi. Organik, şekersiz ve tamamen kendiliğinden fermente biralarıyla dünyanın en çok aranan üreticilerinden."
+ },
+ "3 Fonteinen": {
+  "k": 1887,
+  "s": "Debelder ailesi / ortaklar",
+  "y": "Beersel (Lot), Flaman Brabant",
+  "stil": "Oude geuze ve oude kriek",
+  "h": "Bir han-kafe olarak başlayan blender, Armand Debelder ile dünya çapında kült oldu. 2009'daki 'termostat felaketi' sonrası yeniden doğuşu ünlüdür."
+ },
+ "Boon": {
+  "k": 1680,
+  "s": "Boon ailesi (Palm ile ortaklık geçmişi)",
+  "y": "Lembeek, Flaman Brabant",
+  "stil": "Oude geuze ve kriek",
+  "h": "Frank Boon 1975'te tarihi fabrikayı devraldı ve lambic'in çöküşünü durduran isimlerden oldu. Dev meşe foederleriyle geleneksel üretimin büyük ölçekli temsilcisi."
+ },
+ "Lindemans": {
+  "k": 1822,
+  "s": "Lindemans ailesi",
+  "y": "Vlezenbeek, Flaman Brabant",
+  "stil": "Meyveli lambic ve gueuze",
+  "h": "Bir çiftlik bira evi olarak başladı. Tatlandırılmış meyveli lambic'leriyle dünyaya yayıldı; Cuvée René ile geleneksel çizgiyi de sürdürür."
+ },
+ "Timmermans": {
+  "k": 1702,
+  "s": "John Martin Group",
+  "y": "Itterbeek, Flaman Brabant",
+  "stil": "Lambic ve meyveli lambic",
+  "h": "Hâlâ faal en eski lambic fabrikası olduğunu iddia eder. Tatlı meyveli serisi yaygın, Oude serisi geleneksel."
+ },
+ "Girardin": {
+  "k": 1882,
+  "s": "Girardin ailesi",
+  "y": "Sint-Ulriks-Kapelle, Flaman Brabant",
+  "stil": "Lambic ve gueuze",
+  "h": "Kendi tahılını yetiştiren çiftlik lambic üreticisi. Siyah etiketli filtresiz Gueuze 1882 meraklılar arasında kült."
+ },
+ "Oud Beersel": {
+  "k": 1882,
+  "s": "Gert Christiaens",
+  "y": "Beersel, Flaman Brabant",
+  "stil": "Oude geuze ve kriek",
+  "h": "2002'de kapanan tarihi lambic evi 2005'te yeniden açıldı. Geleneksel yöntemlerle oude geuze ve oude kriek üretir."
+ },
+ "Tilquin": {
+  "k": 2009,
+  "s": "Pierre Tilquin",
+  "y": "Rebecq-Bierghes, Valon Brabantı",
+  "stil": "Gueuze blending",
+  "h": "Valonya'nın ilk ve tek gueuze blender'ı. Boon, Lindemans, Girardin ve Cantillon wort'larını fıçılarında olgunlaştırıp harmanlar."
+ },
+ "Belle-Vue": {
+  "k": 1913,
+  "s": "AB InBev",
+  "y": "Brüksel / Zuun",
+  "stil": "Meyveli lambic",
+  "h": "Brüksel'in Molenbeek'inde başlayan marka, bugün AB InBev bünyesinde tatlandırılmış kriek ve framboise üretir."
+ },
+ "Rodenbach": {
+  "k": 1821,
+  "s": "Swinkels Family Brewers (Palm)",
+  "y": "Roeselare, Batı Flandre",
+  "stil": "Flanders red ale",
+  "h": "Yaklaşık 300 dev meşe foederiyle Flanders red stilinin anavatanı. Genç ve yıllanmış biraları harmanlayan yöntemi İngiliz porter geleneğinden öğrenildi."
+ },
+ "Verhaeghe": {
+  "k": 1885,
+  "s": "Verhaeghe ailesi",
+  "y": "Vichte, Batı Flandre",
+  "stil": "Flanders red ale",
+  "h": "Aile işletmesi; Duchesse de Bourgogne ve Vichtenaar ile tanınır. Meşe fıçılarda 18 aya kadar olgunlaştırma yapar."
+ },
+ "Liefmans": {
+  "k": 1679,
+  "s": "Duvel Moortgat",
+  "y": "Oudenaarde, Doğu Flandre",
+  "stil": "Oud bruin ve meyveli bira",
+  "h": "Oudenaarde kahverengi ale geleneğinin taşıyıcısı. 2008'de Duvel Moortgat'a geçti; Goudenband ve buzla içilen Fruitesse ile bilinir."
+ },
+ "De Brabandere": {
+  "k": 1894,
+  "s": "De Brabandere ailesi",
+  "y": "Bavikhove, Batı Flandre",
+  "stil": "Foeder ekşi ale ve pils",
+  "h": "Beş kuşaklık aile fabrikası. Petrus serisi, foederde olgunlaşmış ekşi biralarıyla ABD craft sahnesini de etkiledi."
+ },
+ "Dupont": {
+  "k": 1844,
+  "s": "Dupont ailesi (Rosier)",
+  "y": "Tourpes, Hainaut",
+  "stil": "Saison ve çiftlik birası",
+  "h": "Çiftlik bira evi 1920'de Dupont ailesine geçti. Saison Dupont stilin dünya referansı; organik serisi ve peynirleri de ünlüdür."
+ },
+ "Fantôme": {
+  "k": 1988,
+  "s": "Dany Prignon",
+  "y": "Soy, Lüksemburg ili",
+  "stil": "Deneysel saison",
+  "h": "Hayalet etiketli küçük Ardennes bira evi. Her parti biraz farklı, meyveli ve ekşimsi saison'larıyla kült statüsünde."
+ },
+ "Brasserie de la Senne": {
+  "k": 2006,
+  "s": "Bernard Leboucq ve Yvan De Baets",
+  "y": "Brüksel",
+  "stil": "Kuru, şerbetçiotlu Belçika ale",
+  "h": "Brüksel'in yeni bira dalgasının öncüsü. Tatlı Belçika biralarına karşı kuru, acımsı ve içimli biralar üretir."
+ },
+ "Hoegaarden": {
+  "k": 1966,
+  "s": "AB InBev",
+  "y": "Hoegaarden, Flaman Brabant",
+  "stil": "Witbier",
+  "h": "Süt üreticisi Pierre Celis, kaybolmuş witbier stilini 1966'da kendi köyünde yeniden canlandırdı. Bugün dünyanın en tanınan buğday birası markalarından."
+ },
+ "Brasserie du Bocq": {
+  "k": 1858,
+  "s": "Belot ailesi",
+  "y": "Purnode, Namur",
+  "stil": "Witbier ve özel Belçika biraları",
+  "h": "Altı kuşaklık aile fabrikası. Blanche de Namur uluslararası yarışmalarda pek çok kez dünyanın en iyi witbier'i seçildi."
+ },
+ "Kronenbourg": {
+  "k": 1664,
+  "s": "Carlsberg Group",
+  "y": "Obernai, Alsas",
+  "stil": "Lager ve witbier",
+  "h": "Strasbourg'da 1664'te kurulan Fransa'nın en büyük bira üreticisi. 1664 Blanc ile Fransız usulü witbier'i dünyaya yaydı."
+ },
+ "Duvel Moortgat": {
+  "k": 1871,
+  "s": "Moortgat ailesi (borsada)",
+  "y": "Breendonk (Puurs), Antwerp",
+  "stil": "Belgian strong golden ale",
+  "h": "Birinci Dünya Savaşı sonrası 'Victory Ale' olarak doğan bira, 'şeytan gibi' denince Duvel adını aldı. Bugün La Chouffe, Liefmans, De Koninck ve Maredsous'u da çatısında tutar."
+ },
+ "Huyghe": {
+  "k": 1906,
+  "s": "Huyghe ailesi",
+  "y": "Melle, Doğu Flandre",
+  "stil": "Güçlü Belçika ale",
+  "h": "Pembe filli Delirium serisiyle dünyaca tanındı. Brüksel'deki Delirium Café binlerce çeşidiyle bira turizminin durağıdır."
+ },
+ "Achouffe": {
+  "k": 1982,
+  "s": "Duvel Moortgat (2006'dan beri)",
+  "y": "Achouffe, Ardennes",
+  "stil": "Güçlü blond ve koyu ale",
+  "h": "İki kayınbiraderin hobi olarak kurduğu cüce maskotlu fabrika. Ardennes vadisindeki üretimiyle Belçika craft'ının sevilen ismi."
+ },
+ "De Halve Maan": {
+  "k": 1856,
+  "s": "Vanneste ailesi",
+  "y": "Brugge, Batı Flandre",
+  "stil": "Blond, tripel, quad",
+  "h": "Brugge'nin tarihi merkezinde faal tek aile fabrikası. Şehrin altından geçen 3 km'lik bira boru hattıyla şişeleme tesisine bira gönderir."
+ },
+ "Van Steenberge": {
+  "k": 1784,
+  "s": "Van Steenberge ailesi",
+  "y": "Ertvelde, Doğu Flandre",
+  "stil": "Güçlü Belçika ale",
+  "h": "Gulden Draak ve Piraat'ın üreticisi. Beyaz boyalı Gulden Draak şişesi raflarda hemen tanınır."
+ },
+ "Van Honsebrouck": {
+  "k": 1900,
+  "s": "Van Honsebrouck ailesi",
+  "y": "Izegem, Batı Flandre",
+  "stil": "Güçlü ale ve meyveli bira",
+  "h": "Kasteel serisini Ingelmunster şatosunun mahzenlerinde olgunlaştırdığı yıllarla tanındı. 2016'da Izegem'de yeni tesise taşındı."
+ },
+ "Het Anker": {
+  "k": 1471,
+  "s": "Van Breedam ailesi",
+  "y": "Mechelen, Antwerp",
+  "stil": "Güçlü koyu ale",
+  "h": "Kökü 15. yüzyıl beginaj bira evine dayanır. Gouden Carolus serisi Kutsal Roma İmparatoru V. Karl'ın adını taşır."
+ },
+ "Dubuisson": {
+  "k": 1769,
+  "s": "Dubuisson ailesi",
+  "y": "Pipaix, Hainaut",
+  "stil": "Güçlü amber ale",
+  "h": "Valonya'nın en eski bira fabrikalarından. 1933'te İngiliz ale'lerine yanıt olarak yapılan Bush Ambrée uzun süre Belçika'nın en güçlü birası sayıldı."
+ },
+ "Stella Artois": {
+  "k": 1366,
+  "s": "AB InBev",
+  "y": "Leuven, Flaman Brabant",
+  "stil": "Pale lager",
+  "h": "Kökeni 1366'daki Den Hoorn bira evine dayanır; Stella Artois 1926'da Noel birası olarak doğdu. Bugün dünyanın en çok satan Belçika lageri, Türkiye'de lisansla üretilir."
+ },
+ "Jupiler": {
+  "k": 1853,
+  "s": "AB InBev",
+  "y": "Jupille-sur-Meuse, Liège",
+  "stil": "Pale lager",
+  "h": "Piedboeuf fabrikasının 1966'da piyasaya sürdüğü Jupiler, Belçika'nın en çok satan birasıdır ve ulusal futbol liginin adını taşır."
+ },
+ "Palm": {
+  "k": 1747,
+  "s": "Swinkels Family Brewers",
+  "y": "Steenhuffel, Flaman Brabant",
+  "stil": "Spéciale belge amber",
+  "h": "Brabant atı logolu Palm, 'Spéciale Belge' amber stilinin en bilinen temsilcisi. 2016'da Hollandalı Swinkels ailesine geçti."
+ },
+ "De Koninck": {
+  "k": 1833,
+  "s": "Duvel Moortgat",
+  "y": "Antwerp",
+  "stil": "Spéciale belge / pale ale",
+  "h": "Antwerp'in şehir fabrikası; yuvarlak 'bolleke' kadehiyle içilir. Ziyaretçi merkezi şehrin popüler duraklarından."
+ },
+ "Heineken": {
+  "k": 1864,
+  "s": "Heineken N.V.",
+  "y": "Amsterdam (kuruluş), Zoeterwoude (üretim)",
+  "stil": "Pale lager",
+  "h": "Gerard Adriaan Heineken'in 1864'te satın aldığı bira evinden dünyanın ikinci büyük bira grubuna. Kendine özgü A-maya ile üretilir."
+ },
+ "Amstel": {
+  "k": 1870,
+  "s": "Heineken N.V.",
+  "y": "Amsterdam (kuruluş), Zoeterwoude",
+  "stil": "Pale lager",
+  "h": "Adını Amsterdam'dan geçen Amstel nehrinden alır. 1968'de Heineken'e katıldı; dünya genelinde lisansla üretilir."
+ },
+ "Grolsch": {
+  "k": 1615,
+  "s": "Asahi Group",
+  "y": "Enschede, Overijssel",
+  "stil": "Pilsner",
+  "h": "Groenlo'da kuruldu, bugün Enschede'de üretiliyor. Mantar kapaklı 'swingtop' şişesi markanın simgesi."
+ },
+ "Bavaria (Swinkels)": {
+  "k": 1719,
+  "s": "Swinkels ailesi",
+  "y": "Lieshout, Kuzey Brabant",
+  "stil": "Pale lager",
+  "h": "Yedi kuşaktır Swinkels ailesinin elindeki Hollanda'nın en büyük bağımsız fabrikası. La Trappe, Palm ve Rodenbach da aynı grubun parçası."
+ },
+ "Brand": {
+  "k": 1340,
+  "s": "Heineken N.V.",
+  "y": "Wijlre, Limburg",
+  "stil": "Pilsner ve bock",
+  "h": "Hollanda'nın en eski faal bira fabrikası olarak bilinir. Kraliyet unvanlı fabrika, maltlı ve dolgun pils'iyle güney Limburg'un gururu."
+ },
+ "De Molen": {
+  "k": 2004,
+  "s": "Menno Olivier ve ortaklar",
+  "y": "Bodegraven, Güney Hollanda",
+  "stil": "Imperial stout, barleywine, deneysel",
+  "h": "Tarihi bir yel değirmeninde başlayan fabrika, yoğun stout'larıyla dünyanın en saygın craft üreticilerinden oldu. Yıllık Borefts Bira Festivali ünlüdür."
+ },
+ "Jopen": {
+  "k": 1994,
+  "s": "Bağımsız",
+  "y": "Haarlem, Kuzey Hollanda",
+  "stil": "Tarihi reçeteler ve modern craft",
+  "h": "Haarlem'in eski bira şehri mirasını canlandırmak için kuruldu. Bir kiliseyi bira evine dönüştüren Jopenkerk ile tanınır."
+ },
+ "Brouwerij 't IJ": {
+  "k": 1985,
+  "s": "Bağımsız",
+  "y": "Amsterdam",
+  "stil": "Belçika tarzı ve organik ale",
+  "h": "Amsterdam'daki De Gooyer yel değirmeninin dibindeki eski hamamda kuruldu. Devekuşu logolu biraları şehrin craft simgesi."
+ },
+ "Uiltje": {
+  "k": 2012,
+  "s": "Robbert Uiltje Kramer",
+  "y": "Haarlem, Kuzey Hollanda",
+  "stil": "IPA, NEIPA, stout",
+  "h": "Baykuş logolu, eğlenceli etiketli ve yüksek şerbetçiotlu biralarıyla yeni nesil Hollanda craft'ının öncülerinden."
+ },
+ "Texels": {
+  "k": 1994,
+  "s": "Bağımsız",
+  "y": "Oudeschild, Texel",
+  "stil": "Ada biraları",
+  "h": "Wadden Denizi'ndeki Texel adasında, ada suyu ve arpasıyla üretim yapar. Skuumkoppe Hollanda'nın en sevilen koyu buğdaylarından."
+ },
+ "Brasserie Duyck": {
+  "k": 1922,
+  "s": "Duyck ailesi",
+  "y": "Jenlain, Nord",
+  "stil": "Bière de garde",
+  "h": "Félix Duyck'in çiftlik bira evinden doğan Jenlain, unutulmaya yüz tutan bière de garde stilini 1950'lerden itibaren Fransa'nın sembolü yaptı."
+ },
+ "Brasserie de Saint-Sylvestre": {
+  "s": "Ricour ailesi",
+  "y": "Saint-Sylvestre-Cappel, Nord",
+  "stil": "Bière de garde",
+  "h": "Fransız Flandre'sının tepelik köyündeki aile işletmesi. 3 Monts adını yöredeki üç tepeden alır."
+ },
+ "La Choulette": {
+  "s": "Dhaussy ailesi",
+  "y": "Hordain, Nord",
+  "stil": "Bière de garde",
+  "h": "Eski bir çiftlik bira evinde 1977'den beri zanaat bière de garde üretir. Adını yöresel bir top oyunundan alır."
+ },
+ "Bofferding": {
+  "k": 1842,
+  "s": "Brasserie Nationale",
+  "y": "Bascharage, Lüksemburg",
+  "stil": "Pilsner",
+  "h": "Lüksemburg'un en çok satan birası. 1975'te Funck-Bricher ile birleşerek Brasserie Nationale'i oluşturdu."
+ },
+ "Guinness": {
+  "k": 1759,
+  "s": "Diageo",
+  "y": "St. James's Gate, Dublin",
+  "stil": "Irish stout, lager",
+  "h": "Arthur Guinness 1759'da St. James's Gate'i 9.000 yıllığına kiraladı. 19. yüzyılda dünyanın en büyük bira fabrikası oldu; bugün Diageo bünyesinde 150'den fazla ülkede satılıyor. Harp, Kilkenny ve Smithwick's de artık burada üretiliyor."
+ },
+ "Heineken Ireland (Lady's Well)": {
+  "k": 1856,
+  "s": "Heineken",
+  "y": "Lady's Well, Cork",
+  "stil": "Irish stout, lager",
+  "h": "Murphy ailesi 1856'da Cork'taki Lady's Well fabrikasını kurdu; 1983'ten beri Heineken'e ait. 2009'da Beamish & Crawford kapanınca Beamish üretimi de buraya taşındı."
+ },
+ "Smithwick's": {
+  "k": 1710,
+  "s": "Diageo",
+  "y": "Kilkenny (üretim bugün Dublin)",
+  "stil": "Irish red ale",
+  "h": "John Smithwick 1710'da St Francis Abbey manastır bahçesinde kurdu; İrlanda'nın en eski ale markası. Kilkenny ise 1987'de ihracat için geliştirildi. 2013'te üretim St. James's Gate'e taşındı, eski fabrika bugün ziyaretçi merkezi."
+ },
+ "Carlow Brewing Company": {
+  "k": 1996,
+  "s": "Bağımsız",
+  "y": "Bagenalstown, Carlow",
+  "stil": "Irish stout, red ale",
+  "h": "Seamus O'Hara'nın 1996'da kurduğu, İrlanda craft hareketinin öncülerinden. O'Hara's markasıyla stout ve red ale'leri dünyaya ihraç ediyor."
+ },
+ "Galway Bay Brewery": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Galway",
+  "stil": "IPA, stout",
+  "h": "2009'da Galway'de bir pub'ın arka odasında başladı; bugün İrlanda'nın en saygın bağımsız craft fabrikalarından ve kendi pub zinciri var."
+ },
+ "Porterhouse Brewing Company": {
+  "k": 1996,
+  "s": "Bağımsız",
+  "y": "Dublin",
+  "stil": "Stout, ale",
+  "h": "1996'da Temple Bar'daki pub'ında kuruldu; Guinness'in gölgesinde İrlanda'nın ilk bağımsız stout ustalarından biri oldu."
+ },
+ "Fuller's": {
+  "k": 1845,
+  "s": "Asahi",
+  "y": "Griffin Brewery, Chiswick, Londra",
+  "stil": "Bitter, ESB, porter, barleywine",
+  "h": "Chiswick'teki Griffin Brewery'de 1600'lerden beri bira yapılıyor; Fuller, Smith & Turner ortaklığı 1845'te kuruldu. ESB stilini tanımlayan fabrika 2019'da Asahi'ye satıldı."
+ },
+ "Samuel Smith": {
+  "k": 1758,
+  "s": "Bağımsız (aile)",
+  "y": "Old Brewery, Tadcaster, Yorkshire",
+  "stil": "Porter, stout, brown ale",
+  "h": "Yorkshire'ın en eski fabrikası; hâlâ taş Yorkshire Square teknelerde mayalıyor ve kendi kuyusunun suyunu kullanıyor. Reklamsız, gelenekçi bir aile şirketi."
+ },
+ "Timothy Taylor": {
+  "k": 1858,
+  "s": "Bağımsız (aile)",
+  "y": "Keighley, West Yorkshire",
+  "stil": "Bitter, pale ale",
+  "h": "1858'den beri Keighley'de; Knowle Spring kaynak suyuyla bira yapar. Landlord, Britanya'nın en çok ödül alan fıçı bitter'larından."
+ },
+ "Marston's": {
+  "k": 1834,
+  "s": "Carlsberg Marston's",
+  "y": "Burton upon Trent, Staffordshire",
+  "stil": "Bitter, pale ale",
+  "h": "Burton'un sert, sülfatlı suyuyla ünlü fabrika; dünyada Burton union mayalama sistemini hâlâ kullanan tek yer."
+ },
+ "Wychwood": {
+  "k": 1983,
+  "s": "Carlsberg Marston's",
+  "y": "Witney, Oxfordshire",
+  "stil": "Ruby ale, fantezi temalı ale'ler",
+  "h": "1983'te Witney'de kuruldu; Hobgoblin ile Britanya'nın en bilinen 'fantastik' ale markasına dönüştü. Marka bugün Carlsberg Marston's bünyesinde."
+ },
+ "Newcastle Brown Ale": {
+  "k": 1927,
+  "s": "Heineken",
+  "y": "Newcastle upon Tyne (köken)",
+  "stil": "Brown ale",
+  "h": "Albay Jim Porter 1927'de Newcastle Breweries için geliştirdi; mavi yıldızlı şişe kuzey İngiltere'nin simgesi oldu. Bugün Heineken tarafından üretiliyor."
+ },
+ "Greene King": {
+  "k": 1799,
+  "s": "CK Asset Holdings",
+  "y": "Bury St Edmunds, Suffolk",
+  "stil": "Bitter, IPA",
+  "h": "1799'dan beri Bury St Edmunds'ta; İngiltere'nin en büyük pub ve bira gruplarından. Old Speckled Hen ve Belhaven'ı bünyesine katmıştır."
+ },
+ "St Peter's Brewery": {
+  "k": 1996,
+  "s": "Bağımsız",
+  "y": "St Peter South Elmham, Bungay, Suffolk",
+  "stil": "Ale, stout",
+  "h": "Suffolk kırsalındaki ortaçağ malikânesinde kuruldu; 18. yüzyıl Philadelphia cin şişesinden esinlenen oval şişesiyle tanınır."
+ },
+ "Meantime": {
+  "k": 1999,
+  "s": "Asahi",
+  "y": "Greenwich, Londra",
+  "stil": "Lager, pale ale",
+  "h": "Alastair Hook'un 1999'da kurduğu, Londra'nın modern bira sahnesinin öncülerinden. 2015'te SABMiller'a, ardından Asahi'ye geçti."
+ },
+ "Thornbridge": {
+  "k": 2005,
+  "s": "Bağımsız",
+  "y": "Bakewell, Derbyshire",
+  "stil": "IPA, güçlü ale",
+  "h": "Thornbridge Hall malikânesinde başladı, Bakewell'daki Riverside fabrikasına taşındı. Jaipur ile Britanya'da Amerikan tarzı IPA'yı yaygınlaştıran isim."
+ },
+ "The Kernel": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Bermondsey, Londra",
+  "stil": "Pale ale, IPA, stout",
+  "h": "Evin O'Riordain'ın Bermondsey demiryolu kemerlerinin altında kurduğu fabrika; sade kahverengi etiketleri ve tarihî Londra stout'larıyla bir kült."
+ },
+ "Cloudwater": {
+  "k": 2014,
+  "s": "Bağımsız",
+  "y": "Manchester",
+  "stil": "Hazy IPA, DIPA",
+  "h": "2014'te Manchester'da kuruldu; mevsimsel serileri ve DIPA'larıyla Avrupa'da NEIPA furyasını başlatanlardan."
+ },
+ "Beavertown": {
+  "k": 2011,
+  "s": "Heineken",
+  "y": "Tottenham, Londra",
+  "stil": "Session IPA, pale ale",
+  "h": "Logan Plant'in bir barbekü restoranının mutfağında başlattığı fabrika; renkli kutularıyla Londra craft'ının yüzü. Heineken desteğiyle büyüdü."
+ },
+ "Magic Rock": {
+  "k": 2011,
+  "y": "Huddersfield, West Yorkshire",
+  "stil": "IPA, pale ale",
+  "h": "2011'de Huddersfield'da kuruldu; sirk temalı etiketleri ve Cannonball IPA serisiyle kuzey İngiltere craft sahnesinin öncülerinden."
+ },
+ "Siren Craft Brew": {
+  "k": 2013,
+  "s": "Bağımsız",
+  "y": "Finchampstead, Berkshire",
+  "stil": "Stout, IPA, fıçı yıllandırılmış",
+  "h": "2013'te Berkshire'da kuruldu; Broken Dream stout'u ve iş birlikleriyle tanınır."
+ },
+ "Northern Monk": {
+  "k": 2013,
+  "s": "Bağımsız",
+  "y": "Leeds, West Yorkshire",
+  "stil": "Hazy pale, IPA",
+  "h": "Leeds'teki tarihî Old Flax Store binasında; kuzeyin manastır bira geleneğinden ilham alan modern craft fabrikası."
+ },
+ "Theakston": {
+  "k": 1827,
+  "s": "Bağımsız (aile)",
+  "y": "Masham, North Yorkshire",
+  "stil": "Bitter, old ale",
+  "h": "1827'den beri Masham'da; Old Peculier adını Masham'ın ortaçağ kilise mahkemesinden alır. Hâlâ fabrikada fıçıcı (cooper) çalıştırır."
+ },
+ "J.W. Lees": {
+  "k": 1828,
+  "s": "Bağımsız (aile)",
+  "y": "Middleton Junction, Manchester",
+  "stil": "Bitter, barleywine",
+  "h": "John Willie Lees'in 1828'de kurduğu aile fabrikası; 1986'dan beri yıllık Harvest Ale'iyle yıllandırma meraklılarının gözdesi."
+ },
+ "Adnams": {
+  "k": 1872,
+  "s": "Bağımsız",
+  "y": "Southwold, Suffolk",
+  "stil": "Bitter, golden ale",
+  "h": "Kuzey Denizi kıyısındaki Southwold'da 1872'den beri; çevreci üretimi ve distilerisiyle de bilinir."
+ },
+ "Young's": {
+  "k": 1831,
+  "s": "Carlsberg Marston's",
+  "y": "Eagle Brewery, Bedford",
+  "stil": "Bitter, stout",
+  "h": "Köklü Londra markası Young's, 2006'da Wandsworth'ten ayrıldı; biraları bugün Bedford'daki Eagle Brewery'de üretiliyor."
+ },
+ "Camden Town Brewery": {
+  "k": 2010,
+  "s": "AB InBev",
+  "y": "Kentish Town, Londra",
+  "stil": "Lager",
+  "h": "Jasper Cuppaidge'in 2010'da Kentish Town demiryolu kemerleri altında kurduğu fabrika; 2015'te AB InBev'e satıldı."
+ },
+ "Worthington's": {
+  "k": 1761,
+  "s": "Molson Coors",
+  "y": "Burton upon Trent, Staffordshire",
+  "stil": "Burton pale ale / IPA",
+  "h": "William Worthington'ın 1761'de Burton'da kurduğu marka; White Shield, Hindistan'a gönderilen tarihî Burton IPA'larının yaşayan son temsilcisi sayılır."
+ },
+ "Burning Sky": {
+  "k": 2013,
+  "s": "Bağımsız",
+  "y": "Firle, East Sussex",
+  "stil": "Saison, fıçıda yıllandırılmış",
+  "h": "Dark Star'ın kurucularından Mark Tranter'ın South Downs'taki çiftlik fabrikası; meşe foeder'leriyle Britanya'nın en iyi saison üreticilerinden."
+ },
+ "BrewDog": {
+  "k": 2007,
+  "s": "Bağımsız (kurucular + yatırımcılar)",
+  "y": "Ellon, Aberdeenshire",
+  "stil": "IPA, craft",
+  "h": "James Watt ve Martin Dickie 2007'de Fraserburgh'da bir garajda başladı; 'equity for punks' kitle fonlamasıyla dünyanın en bilinen craft markalarından oldu."
+ },
+ "Innis & Gunn": {
+  "k": 2003,
+  "s": "Bağımsız",
+  "y": "Edinburgh",
+  "stil": "Meşe yıllandırılmış ale, lager",
+  "h": "Dougal Sharp'ın viski fıçılarını tatlandırmak için yaptığı bir ale'in fıçıdan sonra beğenilmesiyle doğdu; meşe olgunlaştırmayı marka kimliği yaptı."
+ },
+ "Belhaven": {
+  "k": 1719,
+  "s": "Greene King",
+  "y": "Dunbar, East Lothian",
+  "stil": "Scottish ale, stout",
+  "h": "1719'dan beri Dunbar'da; İskoçya'nın faaliyetteki en eski fabrikası. 2005'te Greene King'e katıldı."
+ },
+ "Tennent's": {
+  "k": 1885,
+  "s": "C&C Group",
+  "y": "Wellpark Brewery, Glasgow",
+  "stil": "Lager",
+  "h": "Wellpark'ta bira geleneği 16. yüzyıla uzanır; Tennent's 1885'te lager üretmeye başlayarak İskoçya'nın lager markası oldu."
+ },
+ "Harviestoun": {
+  "k": 1983,
+  "s": "Bağımsız",
+  "y": "Alva, Clackmannanshire",
+  "stil": "Porter, lager, fıçı yıllandırılmış",
+  "h": "Ken Brooker'ın 1983'te Dollar'da bir ahırda kurduğu fabrika; Old Engine Oil ve viski fıçılı Ola Dubh serisiyle ünlü."
+ },
+ "Traquair House": {
+  "k": 1965,
+  "s": "Bağımsız (aile)",
+  "y": "Innerleithen, Scottish Borders",
+  "stil": "Wee heavy",
+  "h": "İskoçya'nın en eski yerleşik evi Traquair'deki 18. yüzyıl bira mahzeni 1965'te Peter Maxwell Stuart tarafından yeniden canlandırıldı; hâlâ meşe teknelerde mayalanır."
+ },
+ "Williams Bros": {
+  "k": 1988,
+  "s": "Bağımsız",
+  "y": "Alloa, Clackmannanshire",
+  "stil": "Tarihî İskoç ale'leri",
+  "h": "Bruce Williams'ın 1988'de Fraoch funda birasıyla başladığı fabrika; unutulmuş İskoç bitkili ale'lerini yeniden canlandırır."
+ },
+ "Fyne Ales": {
+  "k": 2001,
+  "s": "Bağımsız",
+  "y": "Cairndow, Argyll",
+  "stil": "Golden ale, pale ale",
+  "h": "Loch Fyne kıyısındaki Achadunan çiftliğinde 2001'de kuruldu; Jarl ile Britanya'nın en çok sevilen session biralarından birini yarattı."
+ },
+ "Orkney Brewery": {
+  "k": 1988,
+  "s": "Sinclair Breweries",
+  "y": "Quoyloo, Orkney",
+  "stil": "Scottish ale, wee heavy",
+  "h": "Orkney adalarında eski bir köy okulunda kuruldu; Dark Island ve Skull Splitter ile ödüllü."
+ },
+ "Brains": {
+  "k": 1882,
+  "s": "Bağımsız (aile, üretim lisanslı)",
+  "y": "Cardiff",
+  "stil": "Bitter",
+  "h": "Samuel Arthur Brain 1882'de Cardiff'te kurdu; Galler'in en bilinen bira markası. Fabrika satıldıktan sonra biralar ortak üretimle sürüyor."
+ },
+ "Felinfoel": {
+  "k": 1878,
+  "s": "Bağımsız (aile)",
+  "y": "Llanelli",
+  "stil": "Bitter, pale ale",
+  "h": "1878'den beri Llanelli'de; 1935'te ABD dışında kutuda bira satan ilk fabrika oldu, yerel teneke sanayisinin katkısıyla."
+ },
+ "Tiny Rebel": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Newport",
+  "stil": "Red ale, modern ale",
+  "h": "Bradley Cummings ve Gazz Williams'ın 2012'de garajda başladığı fabrika; Cwtch ile Champion Beer of Britain kazanan ilk Galler birası oldu."
+ },
+ "Alhambra": {
+  "k": 1925,
+  "s": "Mahou San Miguel",
+  "y": "Granada, Endülüs, İspanya",
+  "stil": "Premium lager",
+  "h": "Granada'da 1925'te kuruldu; Reserva 1925'in kabartmalı yeşil şişesi İspanyol premium biranın simgesi oldu."
+ },
+ "Asahi": {
+  "k": 1889,
+  "s": "Asahi Group",
+  "y": "Tokyo, Japonya",
+  "stil": "Kuru Japon lageri",
+  "h": "Osaka'da doğan şirket, 1987'de Super Dry ile Japon bira pazarını altüst etti; bugün Peroni ve Pilsner Urquell de onun."
+ },
+ "Asia Pacific Breweries": {
+  "k": 1931,
+  "s": "Heineken",
+  "y": "Singapur",
+  "stil": "Lager",
+  "h": "Heineken ve Fraser & Neave ortaklığıyla kuruldu; Tiger 1932'den beri Singapur'un simgesi."
+ },
+ "Athenian Brewery": {
+  "k": 1963,
+  "s": "Heineken",
+  "y": "Atina, Attika, Yunanistan",
+  "stil": "Lager",
+  "h": "Yunanistan'ın en büyük bira üreticisi; Alfa yerli arpayla yapılan amiral marka."
+ },
+ "Backus": {
+  "k": 1879,
+  "s": "AB InBev",
+  "y": "Lima (Cusqueña Cusco'da), Peru",
+  "stil": "Lager",
+  "h": "Amerikalılar Backus ve Johnston'ın kurduğu, Peru'nun bira devi; Cusqueña 1911'den beri Cusco'da."
+ },
+ "Baladin": {
+  "k": 1996,
+  "s": "Bağımsız",
+  "y": "Piozzo, Piemonte, İtalya",
+  "stil": "Belçika esinli ve deneysel ale",
+  "h": "Teo Musso'nun barında başlayan İtalyan craft devriminin sembolü; şarap şişesi şeklindeki biraları gastronomiye taşıdı."
+ },
+ "Baltika": {
+  "k": 1990,
+  "s": "VG Invest (Rusya)",
+  "y": "St. Petersburg, Rusya",
+  "stil": "Numaralı lager ve porter serisi",
+  "h": "Sovyetlerin son yıllarında kuruldu; Carlsberg 2022'de el koyulması sonrası 2024 sonunda payını Rus VG Invest'e satarak çıktı."
+ },
+ "Bavaria": {
+  "k": 1889,
+  "s": "AB InBev",
+  "y": "Bogota, Kolombiya",
+  "stil": "Lager",
+  "h": "Alman göçmen Leo Kopp'un kurduğu fabrika; Kolombiya bira pazarının neredeyse tamamı onun."
+ },
+ "Birra Moretti": {
+  "k": 1859,
+  "s": "Heineken",
+  "y": "Udine, Friuli, İtalya",
+  "stil": "Lager ve bock",
+  "h": "Luigi Moretti'nin Udine'de kurduğu fabrika; şapkalı bıyıklı adam etiketi 1942'den kalma. 1996'dan beri Heineken bünyesinde."
+ },
+ "Birra del Borgo": {
+  "k": 2005,
+  "s": "AB InBev",
+  "y": "Borgorose, Lazio, İtalya",
+  "stil": "Pale ale, deneysel ale",
+  "h": "Leonardo Di Vincenzo'nun kurduğu, ReAle ile kült olan fabrika; 2016'da AB InBev'e satıldı."
+ },
+ "Birrificio Italiano": {
+  "k": 1994,
+  "s": "Bağımsız",
+  "y": "Limido Comasco, Lombardiya, İtalya",
+  "stil": "Italian Pilsner, lager",
+  "h": "Agostino Arioli'nin brewpub'ı; dry-hop'lu Tipopils ile dünya çapında 'Italian Pils' stilini doğurdu."
+ },
+ "Boon Rawd": {
+  "k": 1933,
+  "s": "Bağımsız aile şirketi",
+  "y": "Bangkok, Tayland",
+  "stil": "Lager",
+  "h": "Tayland'ın ilk bira fabrikası; Singha markasındaki aslan Kraliyet onayının sembolü."
+ },
+ "Brahma": {
+  "k": 1888,
+  "s": "AB InBev (Ambev)",
+  "y": "Rio de Janeiro, Brezilya",
+  "stil": "Lager",
+  "h": "İsviçreli Joseph Villiger'in Rio'da kurduğu fabrika; Ambev'in ve dolayısıyla AB InBev'in temeli."
+ },
+ "Carlsberg": {
+  "k": 1847,
+  "s": "Carlsberg Group",
+  "y": "Kopenhag, Danimarka",
+  "stil": "Pilsner ve güçlü lager",
+  "h": "J.C. Jacobsen'in kurduğu fabrika, saf lager mayası Saccharomyces carlsbergensis'i 1883'te izole edip dünyayla paylaştı. Bugün dünyanın en büyük bira gruplarından biri."
+ },
+ "Carlton & United Breweries": {
+  "k": 1907,
+  "s": "Asahi Group",
+  "y": "Abbotsford, Victoria, Avustralya",
+  "stil": "Avustralya lageri",
+  "h": "Victoria Bitter ve Foster's'ı üreten Avustralya devi; 2020'den beri Asahi'nin."
+ },
+ "Cervecería Polar": {
+  "k": 1941,
+  "s": "Empresas Polar",
+  "y": "Caracas, Venezuela",
+  "stil": "Lager",
+  "h": "Mendoza ailesinin kurduğu Venezuela devi; ünlü mısır unu Harina P.A.N. de bu grubun."
+ },
+ "Coedo": {
+  "k": 1996,
+  "s": "Bağımsız",
+  "y": "Kawagoe, Saitama, Japonya",
+  "stil": "Alman esinli lager ve ale",
+  "h": "Kawagoe'nin 'küçük Edo' lakabından adını alan fabrika; tatlı patatesli Beniaka ile tanınır."
+ },
+ "Coopers": {
+  "k": 1862,
+  "s": "Bağımsız aile şirketi",
+  "y": "Adelaide, Güney Avustralya",
+  "stil": "Şişede mayalı ale ve stout",
+  "h": "Thomas Cooper'ın karısı için yaptığı ev birasıyla başlayan, Avustralya'nın en büyük yerli aile fabrikası."
+ },
+ "Damm": {
+  "k": 1876,
+  "s": "Bağımsız (Damm Grubu)",
+  "y": "Barselona, Katalonya, İspanya",
+  "stil": "Akdeniz lageri, Märzen",
+  "h": "Alsaslı August Kuentzmann Damm'ın Barselona'da kurduğu fabrika; Estrella Damm şehrin simgesi."
+ },
+ "East African Breweries": {
+  "k": 1922,
+  "s": "Diageo",
+  "y": "Nairobi, Kenya",
+  "stil": "Lager",
+  "h": "Tusker, kurucu George Hurst'ü öldüren filin anısına adlandırıldı; EABL bugün Diageo'nun."
+ },
+ "Einstök": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Akureyri, İzlanda",
+  "stil": "Wit, pale ale, porter",
+  "h": "Kutup dairesinin 100 km güneyinde kurulu; buzul suyu ve Viking temalı etiketleriyle İzlanda birasını dünyaya tanıttı."
+ },
+ "Garage Project": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Wellington, Yeni Zelanda",
+  "stil": "Deneysel IPA ve ekşiler",
+  "h": "Eski bir benzin istasyonunda kuruldu; ilk yıl her hafta yeni bir bira çıkararak ün yaptı."
+ },
+ "Harbin": {
+  "k": 1900,
+  "s": "AB InBev",
+  "y": "Harbin, Heilongjiang, Çin",
+  "stil": "Lager",
+  "h": "Rus-Polonyalı Jan Wróblewski'nin kurduğu, Çin'in en eski bira fabrikası."
+ },
+ "Hartwall": {
+  "k": 1836,
+  "s": "Royal Unibrew",
+  "y": "Lahti, Finlandiya",
+  "stil": "Lager",
+  "h": "Maden suyu üreticisi olarak doğdu; 1873'te Tornio'da doğan Lapin Kulta markasını bugün Lahti'de üretiyor."
+ },
+ "Hijos de Rivera": {
+  "k": 1906,
+  "s": "Bağımsız aile şirketi",
+  "y": "A Coruña, Galiçya, İspanya",
+  "stil": "Lager",
+  "h": "José María Rivera'nın Küba dönüşü kurduğu aile şirketi; Estrella Galicia bugün de dördüncü kuşak tarafından yönetiliyor."
+ },
+ "Ichnusa": {
+  "k": 1912,
+  "s": "Heineken",
+  "y": "Assemini, Sardinya, İtalya",
+  "stil": "Lager",
+  "h": "Sardinya adasının adını taşıyan bira; adalıların kimlik sembolü, filtresiz versiyonu İtalya'da çok sevildi."
+ },
+ "KEO": {
+  "k": 1951,
+  "s": "KEO plc",
+  "y": "Limasol, Kıbrıs",
+  "stil": "Lager",
+  "h": "Kıbrıs'ın ulusal biracısı; Limasol sahilindeki tarihi tesisinde bira ve şarap üretir."
+ },
+ "Kaiser": {
+  "k": 1982,
+  "s": "Heineken",
+  "y": "Divinópolis, Minas Gerais, Brezilya",
+  "stil": "Lager",
+  "h": "Coca-Cola şişeleyicilerinin kurduğu marka; 2010'dan beri Heineken Brezilya portföyünde."
+ },
+ "Kirin": {
+  "k": 1907,
+  "s": "Kirin Holdings",
+  "y": "Tokyo, Japonya",
+  "stil": "Lager",
+  "h": "1885'teki Japan Brewery'nin devamı; Ichiban Shibori yalnızca ilk süzme şırayla yapılır."
+ },
+ "Kiuchi Brewery": {
+  "k": 1823,
+  "s": "Bağımsız aile şirketi",
+  "y": "Naka, Ibaraki, Japonya",
+  "stil": "Wit, Japon craft ale",
+  "h": "Sake üreticisi olarak kurulan aile şirketi 1996'da Hitachino Nest birasıyla Japon craft sahnesinin yüzü oldu."
+ },
+ "Lammin Sahti": {
+  "k": 1987,
+  "s": "Bağımsız",
+  "y": "Lammi, Kanta-Häme, Finlandiya",
+  "stil": "Sahti",
+  "h": "Geleneksel Fin çiftlik birası sahti'yi ticari olarak üreten ilk fabrika; AB coğrafi korumalı geleneksel ürün listesinde."
+ },
+ "Lao Brewery": {
+  "k": 1973,
+  "s": "Carlsberg Group / Laos devleti",
+  "y": "Vientiane, Laos",
+  "stil": "Pirinçli lager",
+  "h": "Laos'un neredeyse tüm bira pazarını elinde tutan fabrika; Beerlao yasemin pirinciyle yapılır."
+ },
+ "Lervig": {
+  "k": 2003,
+  "s": "Bağımsız",
+  "y": "Stavanger, Rogaland, Norveç",
+  "stil": "Pale ale, imperial stout",
+  "h": "Yerel lager fabrikası olarak açıldı; Amerikalı bira ustası Mike Murphy'nin gelişiyle Avrupa'nın sayılı craft üreticilerine dönüştü."
+ },
+ "Lion": {
+  "k": 1923,
+  "s": "Kirin Holdings",
+  "y": "Auckland, Yeni Zelanda",
+  "stil": "Lager",
+  "h": "Steinlager'ı (1958) üreten Yeni Zelanda devi; bugün Japon Kirin'e ait."
+ },
+ "Little Creatures": {
+  "k": 2000,
+  "s": "Lion (Kirin)",
+  "y": "Fremantle, Batı Avustralya",
+  "stil": "Amerikan esinli pale ale",
+  "h": "Fremantle limanındaki eski timsah çiftliğinde açıldı; Avustralya craft akımının ilk büyük başarısı."
+ },
+ "Lvivska Pivovarnia": {
+  "k": 1715,
+  "s": "Carlsberg Ukraine",
+  "y": "Lviv, Ukrayna",
+  "stil": "Lager",
+  "h": "Cizvit rahiplerinin 1715'te kurduğu, Ukrayna'nın en eski fabrikası; içinde bira müzesi de var."
+ },
+ "Macedonia-Thrace Brewery": {
+  "k": 1998,
+  "s": "Bağımsız",
+  "y": "Gümülcine, Trakya, Yunanistan",
+  "stil": "Lager",
+  "h": "Vergina markasıyla bilinen Yunan bağımsız fabrikası; adını Makedonya'nın antik başkentinden alır."
+ },
+ "Mahou": {
+  "k": 1890,
+  "s": "Mahou San Miguel",
+  "y": "Madrid, İspanya",
+  "stil": "Lager",
+  "h": "Madrid'in yerli birası; Mahou San Miguel grubu bugün İspanya bira pazarının lideri."
+ },
+ "Menabrea": {
+  "k": 1846,
+  "s": "Forst Grubu",
+  "y": "Biella, Piemonte, İtalya",
+  "stil": "Helles ve ambrata lager",
+  "h": "İtalya'nın faal en eski fabrikalarından; Alpler'in eteğinde, ödüllü zarif lagerleriyle tanınır."
+ },
+ "Mikkeller": {
+  "k": 2006,
+  "s": "Bağımsız",
+  "y": "Kopenhag, Danimarka",
+  "stil": "Deneysel stout, IPA ve ekşiler",
+  "h": "Matematik öğretmeni Mikkel Borg Bjergsø'nun başlattığı 'gipsi' fabrika; uzun süre başkalarının tesislerinde üretip İskandinav craft sahnesini dünyaya taşıdı."
+ },
+ "Mythos Brewery": {
+  "k": 1997,
+  "s": "Carlsberg Group",
+  "y": "Sindos, Selanik, Yunanistan",
+  "stil": "Lager",
+  "h": "1997'de Selanik yakınında kurulan fabrika; Mythos kısa sürede Yunanistan'ın en tanınan lageri oldu."
+ },
+ "Namibia Breweries": {
+  "k": 1920,
+  "s": "Heineken / Ohlthaver & List",
+  "y": "Windhoek, Namibya",
+  "stil": "Reinheitsgebot lager",
+  "h": "Alman sömürge mirasıyla saflık yasasına bağlı kalan fabrika; Windhoek Lager Afrika'nın ödüllü lagerlerinden."
+ },
+ "Natakhtari": {
+  "k": 2004,
+  "s": "Efes Georgia (Anadolu Efes)",
+  "y": "Natakhtari, Mtskheta-Mtianeti, Gürcistan",
+  "stil": "Lager",
+  "h": "Ünlü Natakhtari limonata kaynağının yanında kurulan fabrika; Anadolu Efes'in Gürcistan'daki iştiraki."
+ },
+ "Nigerian Breweries": {
+  "k": 1946,
+  "s": "Heineken",
+  "y": "Lagos, Nijerya",
+  "stil": "Lager",
+  "h": "Nijerya'nın ilk modern bira fabrikası; Star 1949'da ilk yerli bira olarak çıktı."
+ },
+ "Nøgne Ø": {
+  "k": 2002,
+  "s": "Hansa Borg",
+  "y": "Grimstad, Agder, Norveç",
+  "stil": "Amerikan esinli IPA ve stout",
+  "h": "Adı 'çıplak ada' demek; iki pilotun kurduğu, Norveç'in ilk modern craft fabrikası. İskandinav craft hareketinin öncüsü."
+ },
+ "OB": {
+  "k": 1933,
+  "s": "AB InBev",
+  "y": "Seul, Güney Kore",
+  "stil": "Lager",
+  "h": "Oriental Brewery, Cass ile Kore'nin en çok satan bira markasını üretiyor."
+ },
+ "Obolon": {
+  "k": 1980,
+  "s": "Bağımsız (Ukrayna)",
+  "y": "Kiev, Ukrayna",
+  "stil": "Lager",
+  "h": "1980 Moskova Olimpiyatları için kuruldu; çalışanlarına özelleştirilen fabrika savaş koşullarında da üretimini sürdürüyor."
+ },
+ "Okocim": {
+  "k": 1845,
+  "s": "Carlsberg Polska",
+  "y": "Brzesko, Küçük Polonya, Polonya",
+  "stil": "Lager ve porter",
+  "h": "Bavyeralı Jan Ewangelista Goetz'in kurduğu tarihi fabrika; güçlü lager ve porterlarıyla bilinir."
+ },
+ "Olympic Brewery": {
+  "k": 1864,
+  "s": "Carlsberg Group",
+  "y": "Atina, Attika, Yunanistan",
+  "stil": "Lager",
+  "h": "Bavyeralı Johann Karl Fuchs'un Kral Otto döneminde kurduğu Fix markası, 2009'da yeniden canlandırıldı."
+ },
+ "Omnipollo": {
+  "k": 2011,
+  "s": "Bağımsız (gipsi)",
+  "y": "Stockholm, İsveç",
+  "stil": "Pastry stout, sour, IPA",
+  "h": "Bira ustası Henok Fentie ve sanatçı Karl Grandin'in kurduğu, sıra dışı etiketleri ve tatlı 'pastry' biralarıyla tanınan fabrikasız marka."
+ },
+ "Peroni": {
+  "k": 1846,
+  "s": "Asahi Group",
+  "y": "Roma, Lazio, İtalya",
+  "stil": "Lager",
+  "h": "Giovanni Peroni'nin Vigevano'da kurup Roma'ya taşıdığı fabrika; Nastro Azzurro 1963'ten beri İtalyan şıklığının simgesi. 2016'dan beri Asahi'nin."
+ },
+ "Pinta": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Wieprz (Żywiec yakını), Polonya",
+  "stil": "IPA ve modern stiller",
+  "h": "Üç ev biracısının başlattığı marka; Atak Chmielu ile Polonya'da 'piwna rewolucja'yı (bira devrimi) ateşledi."
+ },
+ "Quilmes": {
+  "k": 1888,
+  "s": "AB InBev",
+  "y": "Quilmes, Buenos Aires, Arjantin",
+  "stil": "Lager",
+  "h": "Alman göçmen Otto Bemberg'in kurduğu fabrika; Arjantin'de bira neredeyse Quilmes ile eş anlamlı."
+ },
+ "Sabeco": {
+  "k": 1875,
+  "s": "ThaiBev",
+  "y": "Ho Chi Minh, Vietnam",
+  "stil": "Lager",
+  "h": "Fransız sömürge döneminde kurulan fabrika; Saigon ve 333 markalarıyla Vietnam'ın lideri."
+ },
+ "Sagres": {
+  "k": 1940,
+  "s": "Heineken (SCC)",
+  "y": "Vialonga, Lizbon, Portekiz",
+  "stil": "Lager",
+  "h": "Sociedade Central de Cervejas'ın 1940 Portekiz Dünya Sergisi için yarattığı marka; Super Bock'un ezeli rakibi."
+ },
+ "Saku": {
+  "k": 1820,
+  "s": "Carlsberg Group",
+  "y": "Saku, Harju, Estonya",
+  "stil": "Lager",
+  "h": "Kont Rehbinder'in malikanesinde kurulan fabrika; Estonya'nın en büyük bira üreticisi."
+ },
+ "San Miguel": {
+  "k": 1890,
+  "s": "San Miguel Corporation",
+  "y": "Manila, Filipinler",
+  "stil": "Lager",
+  "h": "İspanyol sömürge döneminde Manila'da kurulan, Güneydoğu Asya'nın ilk bira fabrikası."
+ },
+ "Sapporo": {
+  "k": 1876,
+  "s": "Sapporo Holdings",
+  "y": "Tokyo (köken Sapporo, Hokkaido), Japonya",
+  "stil": "Lager",
+  "h": "Meiji hükümetinin Hokkaido'da kurduğu ilk Japon bira fabrikası; Yebisu markası da bu gruba ait."
+ },
+ "Septem": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Orologio, Eğriboz, Yunanistan",
+  "stil": "Ale ve ballı golden ale",
+  "h": "Haftanın günlerinden ilham alan biralarıyla Yunanistan'ın en çok ödül alan mikro fabrikalarından."
+ },
+ "Sinebrychoff": {
+  "k": 1819,
+  "s": "Carlsberg Group",
+  "y": "Kerava, Uusimaa, Finlandiya",
+  "stil": "Lager ve Baltık porter",
+  "h": "Rus tüccar Nikolai Sinebrychoff'un Helsinki'de kurduğu, Kuzey Avrupa'nın en eski fabrikalarından. Koff Porter'ı efsaneleşti."
+ },
+ "South African Breweries": {
+  "k": 1895,
+  "s": "AB InBev",
+  "y": "Johannesburg, Gauteng, Güney Afrika",
+  "stil": "Lager",
+  "h": "Altın madencileri için kurulan fabrika; SABMiller 2016'da AB InBev'e satılana dek dünyanın en büyüklerindendi."
+ },
+ "St. George Brewery": {
+  "k": 1922,
+  "s": "BGI Ethiopia (Castel)",
+  "y": "Addis Ababa, Etiyopya",
+  "stil": "Lager",
+  "h": "Belçikalı bir girişimcinin kurduğu, Etiyopya'nın ilk bira fabrikası."
+ },
+ "Stone & Wood": {
+  "k": 2008,
+  "s": "Lion (Kirin)",
+  "y": "Byron Bay, Yeni Güney Galler, Avustralya",
+  "stil": "Pacific Ale",
+  "h": "Byron Bay'de üç arkadaşın kurduğu fabrika; Galaxy şerbetçiotlu Pacific Ale ile yeni bir Avustralya stili yarattı."
+ },
+ "Suntory": {
+  "k": 1899,
+  "s": "Suntory Holdings",
+  "y": "Tokyo, Japonya",
+  "stil": "Premium pilsner",
+  "h": "Viski ve içecek devinin bira kolu; The Premium Malt's Japonya'nın en çok ödüllü pilsnerlerinden."
+ },
+ "Super Bock": {
+  "k": 1927,
+  "s": "Super Bock Group",
+  "y": "Leça do Balio, Porto, Portekiz",
+  "stil": "Lager",
+  "h": "Portekiz'in en çok satan birası; kuzeyin, Porto'nun gururu."
+ },
+ "ThaiBev": {
+  "k": 2003,
+  "s": "Thai Beverage",
+  "y": "Bangkok, Tayland",
+  "stil": "Lager",
+  "h": "Chang birası 1995'te çıktı ve ucuzluğuyla kısa sürede Tayland pazarının lideri oldu."
+ },
+ "To Øl": {
+  "k": 2010,
+  "s": "Bağımsız",
+  "y": "Svinninge, Zelanda, Danimarka",
+  "stil": "Gose, IPA, deneysel ale",
+  "h": "Mikkeller'in öğrencileri Tobias Emil Jensen ve Tore Gynther'in kurduğu marka; 2019'da eski bir gıda fabrikasını 'To Øl City'ye dönüştürdü."
+ },
+ "Tsingtao": {
+  "k": 1903,
+  "s": "Tsingtao Brewery",
+  "y": "Qingdao, Shandong, Çin",
+  "stil": "Lager",
+  "h": "Alman ve İngiliz yerleşimcilerin Qingdao'da kurduğu fabrika; Çin'in en tanınan ihraç birası."
+ },
+ "Tuborg": {
+  "k": 1873,
+  "s": "Carlsberg Group",
+  "y": "Kopenhag (Hellerup), Danimarka",
+  "stil": "Pilsner",
+  "h": "1873'te Hellerup limanında kuruldu, 1970'te Carlsberg ile birleşti. Yeşil etiketli Grøn ve Noel birası Julebryg Danimarka'da kült."
+ },
+ "Tyskie": {
+  "k": 1629,
+  "s": "Kompania Piwowarska (Asahi)",
+  "y": "Tychy, Silezya, Polonya",
+  "stil": "Lager",
+  "h": "Kayıtlara göre 1629'dan beri Tychy'de bira yapılıyor; Polonya'nın en çok satan markası."
+ },
+ "United Breweries": {
+  "k": 1915,
+  "s": "Heineken",
+  "y": "Bengaluru, Karnataka, Hindistan",
+  "stil": "Lager",
+  "h": "Hindistan pazarının lideri; Kingfisher dünyada Hint restoranlarının standart birası."
+ },
+ "Valmiermuižas": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Valmiera, Vidzeme, Letonya",
+  "stil": "Filtresiz lager ve ale",
+  "h": "Tarihi bir malikane fabrikasını yeniden canlandıran aile işletmesi; Letonya'nın modern bira kültürünün öncülerinden."
+ },
+ "Švyturys": {
+  "k": 1784,
+  "s": "Carlsberg Group",
+  "y": "Klaipėda, Litvanya",
+  "stil": "Lager",
+  "h": "Adı 'deniz feneri'; Litvanya'nın en eski fabrikası, Baltık kıyısındaki Klaipėda'da."
+ },
+ "Żywiec": {
+  "k": 1856,
+  "s": "Heineken",
+  "y": "Żywiec, Silezya, Polonya",
+  "stil": "Lager ve Baltık porter",
+  "h": "Habsburg arşidükü Albrecht'in kurduğu fabrika; porter'ı Baltık porter stilinin referanslarından."
+ },
+ "Anadolu Efes": {
+  "k": 1969,
+  "s": "Anadolu Grubu (AG Anadolu Grubu Holding)",
+  "y": "İstanbul (Büyükçekmece); İzmir, Ankara, Adana tesisleri",
+  "stil": "Ana akım lager, filtresiz ve lisanslı uluslararası markalar",
+  "h": "1969'da İstanbul ve İzmir'de ilk üretime başlayan Anadolu Efes, Türkiye bira pazarının açık ara lideri. Efes Pilsen'in yanında Bomonti ve Marmara markalarını, lisansla Beck's, Miller ve Bud'ı üretir; AB InBev ile ortak Efes Beverage Group çatısında Rusya'dan Kazakistan'a uzanan bir ağı vardır."
+ },
+ "Türk Tuborg": {
+  "k": 1967,
+  "s": "Carlsberg Group",
+  "y": "Pınarbaşı, İzmir",
+  "stil": "Lager, güçlü lager ve Frederik craft serisi",
+  "h": "1967'de İzmir'de kurulan Türk Tuborg, Türkiye'nin malt üretiminden şişelemeye entegre tek bira fabrikası olarak tanıtılır. Carlsberg Grubu'nun parçasıdır; Tuborg, Carlsberg, Skol ve Venüs'ün yanı sıra Danimarkalı ilk usta biracıya adanmış Frederik serisini üretir."
+ },
+ "Gara Guzu": {
+  "k": 2011,
+  "s": "Bağımsız (aile işletmesi)",
+  "y": "Menteşe, Muğla",
+  "stil": "İngiliz ale'leri, IPA, saison, fıçı yıllandırma",
+  "h": "Akgonca ve Ataç Besi'nin 2011'de kurduğu, ilk üretimini 3,5 yıllık izin sürecinin ardından 2014'te yapan Türkiye'nin ilk gerçek mikro bira fabrikası. Saison, session IPA ve nitro stout gibi stilleri Türkiye'ye ilk getiren marka; Jameson ile fıçı iş birlikleriyle de bilinir."
+ },
+ "Pablo Bira": {
+  "k": 2017,
+  "s": "Bağımsız",
+  "y": "Konacık, Bodrum, Muğla",
+  "stil": "Akdeniz dokunuşlu klasik stiller",
+  "h": "Mustafa Yavaş'ın 2017'de Bodrum Konacık'ta kurduğu mikro bira fabrikası, adını kurucunun köpeği Pablo'dan alır. Pils, Weiss, IPA, Stout ve Bodrum mandalinalı Satsuma Wit ile Ege kıyısının craft markası olmuştur."
+ },
+ "3 Kafadar": {
+  "s": "Bağımsız",
+  "y": "Başakşehir, İstanbul",
+  "stil": "Modern IPA, NEIPA, Belçika ve lager",
+  "h": "Hakan Özkan, Harun Aydın ve Tarık Apak'ın 2013 Oktoberfest gezisinden doğan marka, gezgin (gypsy) bira olarak başlayıp İstanbul'da kendi tesisini kurdu. Untappd'de Türkiye'nin en yüksek puanlı fabrikaları arasında; SOMX gibi markalar da burada üretir."
+ },
+ "SOMX": {
+  "k": 2023,
+  "s": "Bağımsız (3 Kafadar tesisinde üretim)",
+  "y": "İstanbul (Taproomx, Asmalımescit)",
+  "stil": "NEIPA, session IPA, Kölsch, pilsner",
+  "h": "2023'te kurulan SOMX, biralarını 3 Kafadar'ın tesisinde üreten bir 'guguk kuşu' markası. Asmalımescit'teki Taproomx'te on musluktan servis yapar ve Untappd'de Türkiye'nin en üst sıralarında yer alır."
+ },
+ "DAS bira": {
+  "s": "Bağımsız (nano bira fabrikası)",
+  "y": "Lüleburgaz, Kırklareli",
+  "stil": "Amerikan IPA, barleywine, deneysel ale'ler",
+  "h": "Lüleburgaz'da küçük ölçekli bir nano bira fabrikası. Ey Ay Pi Ey IPA'sı Untappd topluluk ödülü kazandı, Old Queen Barling barleywine'ı 2025 European Beer Challenge'da altın madalya aldı."
+ },
+ "Torch Brewery": {
+  "s": "The Populist (kurumsal destekli)",
+  "y": "Bomontiada, Şişli, İstanbul",
+  "stil": "IPA, kırmızı ale, füzyon ve Belçika stilleri",
+  "h": "Tarihi Bomonti bira fabrikasının yerleşkesindeki The Populist'in kendi bira fabrikası. Biraları yalnızca The Populist şubelerinde (Bomonti, Galataport) tanktan servis edilir; pirinç-yeşil çaylı Tokyo Zen gibi füzyon denemeleriyle bilinir."
+ },
+ "Bosphorus Brewing Company": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Şişli, İstanbul",
+  "stil": "İngiliz tarzı ale'ler",
+  "h": "İngiliz bir çift ve Türk ortaklarının kurduğu Şişli'deki brewpub, İstanbul'un ilk nesil butik biracılarından. Norfolk şerbetçiotlarıyla İngiliz tarzı ale'ler üretir; Knidos markası da bu tesiste doğmuştur."
+ },
+ "Knidos Brewery": {
+  "k": 2019,
+  "s": "Bosphorus Brewing Company kökenli",
+  "y": "Başakşehir, İstanbul",
+  "stil": "Pale ale, Brut IPA, lager ve buğday",
+  "h": "Adını Datça'daki antik Karya kenti Knidos'tan alan marka, 2012'de Bosphorus Brewing Company'de başlayan üretimi 2019'dan beri fıçı ve şişede Knidos adıyla dağıtıyor."
+ },
+ "Feliz Kulpa": {
+  "s": "Bağımsız",
+  "y": "Çiğli, İzmir",
+  "stil": "Pale ale ve buğday biraları",
+  "h": "İzmir'in ilk craft bira markası; ev biracılığıyla başlayan iki arkadaş kurdu. Adı, mutlu sonla biten hatalar anlamındaki Latince 'felix culpa'dan gelir; biraları filtresiz ve pastörize edilmemiştir."
+ },
+ "Trokya": {
+  "s": "Bağımsız",
+  "y": "Edirne",
+  "stil": "Pale ale, Belçika wit, red ale",
+  "h": "Bangladeş'te tanışan iki iş arkadaşının, oradaki alkol kısıtlamaları yüzünden kendi biralarını yapmaya karar vermesiyle doğan Edirne markası. Dakka, Buğu ve Mars ile pazara girdi."
+ },
+ "Antiochs Brewery": {
+  "s": "Bağımsız (nano bira fabrikası)",
+  "y": "İskenderun, Hatay",
+  "stil": "Blonde, pale ale, pilsner, buğday",
+  "h": "Hatay'lı ev biracılarının kurduğu İskenderun merkezli nano bira fabrikası. Antik Antakya'ya gönderme yapan adıyla Doğu Akdeniz'in nadir craft üreticilerinden."
+ },
+ "Red Tower Brewery": {
+  "s": "Bağımsız (brewpub)",
+  "y": "Alanya, Antalya",
+  "stil": "Alman usulü lager ve buğday",
+  "h": "Alanya limanındaki Kızılkule'den adını alan, kendi birasını üretip satan brewpub. Pilsner, Märzen, Helles ve Weizen ile Alman bira geleneğini Akdeniz kıyısına taşır."
+ }
+}

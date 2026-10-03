@@ -1,4 +1,4 @@
-// Kulüp: davetle girilen kapalı viski topluluğu (hesap yok, üye başına gizli anahtar).
+// Kulüp: davetle girilen kapalı bira topluluğu (hesap yok, üye başına gizli anahtar).
 //   POST /api/kulup {islem:"olustur", ad, aciklama, benAd}          → {kid, davet, uid, anahtar}
 //   GET  /api/kulup?kid=...&davet=...                                 → katılmadan önce önizleme {ad, uyeSayisi}
 //   GET  /api/kulup?kid=...&uid=...&anahtar=...                       → üyeye kulüp sayfası

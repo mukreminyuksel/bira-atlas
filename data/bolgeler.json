@@ -1,0 +1,753 @@
+{
+ "_aciklama": "Bölge rehberleri. Anahtar 'ülke|bölge'. k: karakter, t: bilgi, i: ipucu.",
+ "Almanya|Bavyera": {
+  "k": "Lager ve buğday birasının anavatanı. Münih helles, Märzen, dunkel, doppelbock ve weissbier burada şekillendi; biralar maltlı, temiz ve içimi kolaydır.",
+  "t": "1516 Reinheitsgebot (saflık yasası) Bavyera'da ilan edildi. Oktoberfest 1810'dan beri Münih'te ve yalnızca şehrin altı fabrikasının birası sunulur.",
+  "i": "Weihenstephaner Hefeweissbier ile başla, ardından bir helles ve Ayinger Celebrator gibi bir doppelbock dene."
+ },
+ "Almanya|Franken": {
+  "k": "Dünyada fabrika yoğunluğunun en yüksek olduğu bölge. Küçük köy fabrikaları, filtresiz kellerbier ve Bamberg'in isli rauchbier'i ile meraklıların hac noktası.",
+  "t": "Bamberg'de malt eskiden odun ateşinde kurutulurdu; Schlenkerla ve Spezial bu geleneği hiç bırakmadı. Kulmbach eisbock'un doğduğu şehir sayılır.",
+  "i": "İsli biraya alışmak zaman alır: ilk yudumdan vazgeçme, ikinci ve üçüncü yudumda damak alışır."
+ },
+ "Almanya|Köln": {
+  "k": "Üstten mayalanıp soğuk dinlendirilen, açık renkli ve narin Kölsch'ün şehri.",
+  "t": "Kölsch Konvansiyonu (1986) adı yalnızca Köln çevresindeki fabrikalara ayırır. 20 cl'lik ince 'Stange' bardaklarda, garsonların 'Kranz' tepsisiyle servis edilir.",
+  "i": "Bardağın üzerine bira altlığı koymazsan garson yenisini getirmeye devam eder."
+ },
+ "Almanya|Düsseldorf": {
+  "k": "Bakır-kahverengi, maltlı ama kuru ve acı biten Altbier'in yuvası.",
+  "t": "'Alt' eski usul üstten mayalanma anlamına gelir. Altstadt'taki ev fabrikalarında biralar ahşap fıçılardan servis edilir.",
+  "i": "Uerige, Schumacher ve Füchschen'i aynı akşam karşılaştırmak, stilin çeşitliliğini görmenin en iyi yolu."
+ },
+ "Almanya|Kuzey Almanya": {
+  "k": "Kuru, otsu ve daha acı Kuzey Alman pilsner'ları ile tarihî bock mirası.",
+  "t": "Hansa liman şehirleri Orta Çağ'da birayı ihraç etti; Einbeck birası Münih'te 'bock' adını doğurdu.",
+  "i": "Jever'i bir güney Alman helles'iyle yan yana içerek kuzey-güney acılık farkını hisset."
+ },
+ "Almanya|Batı Almanya": {
+  "k": "Almanya'nın büyük ulusal pils markalarının üssü; temiz, hafif ve yaygın biralar.",
+  "t": "Sauerland, Siegerland ve Eifel'in yumuşak kaynak suları büyük pils fabrikalarının kurulmasında belirleyici oldu.",
+  "i": "Bu biralar Türkiye'de en kolay bulunan Alman pils'leri; soğuk ve taze iç."
+ },
+ "Almanya|Baden-Württemberg": {
+  "k": "Güneybatıda Kara Orman'ın kaynak suyuyla yapılan yumuşak pils ve lager'lar.",
+  "t": "Rothaus'un küçük Tannenzäpfle şişesi 2000'lerde bölgenin ötesinde de kült oldu.",
+  "i": "Şişeden içmek bu bira için neredeyse gelenek."
+ },
+ "Almanya|Saksonya": {
+  "k": "Hem zarif pilsner hem de tuzlu-ekşi Gose'nin bölgesi.",
+  "t": "Gose aslen Goslar'dan gelip Leipzig'de popülerleşti, 20. yüzyılda neredeyse yok oldu ve 1990'lardan sonra canlandı.",
+  "i": "Gose'yi ilk kez deneyeceksen soğuk ve tek başına iç; tuz ve kişniş şaşırtabilir."
+ },
+ "Almanya|Thüringen": {
+  "k": "Koyu ama hafif içimli Schwarzbier'in geleneksel bölgesi.",
+  "t": "Bad Köstritz'de 16. yüzyıldan beri bira yapılır; Schwarzbier Doğu Almanya döneminde de yaşadı.",
+  "i": "Schwarzbier'i stout sanma; çok daha hafif ve kuru bir lager."
+ },
+ "Almanya|Berlin": {
+  "k": "Ekşi ve düşük alkollü Berliner Weisse'in şehri, aynı zamanda canlı bir craft sahnesi.",
+  "t": "Napolyon askerlerinin 'Kuzeyin şampanyası' dediği anlatılan Berliner Weisse, yüzlerce fabrikadan neredeyse yoka indi.",
+  "i": "Şurupsuz geleneksel bir örnek dene; sonra ahududu şuruplu versiyonla karşılaştır."
+ },
+ "Avusturya|Salzburg": {
+  "k": "Yumuşak Avusturya Märzen'i ve zarif pils'lerin bölgesi.",
+  "t": "Stiegl 1492'den beri Salzburg'da bira yapıyor; Salzburg'da bira bahçesi kültürü çok güçlü.",
+  "i": "Stiegl Goldbräu ile Trumer Pils'i karşılaştırarak Avusturya'nın iki temel lager stilini öğren."
+ },
+ "Avusturya|Steiermark": {
+  "k": "Hafif tatlımsı, yumuşak Märzen geleneği.",
+  "t": "Göss manastırında 11. yüzyıla uzanan bira yapımı geleneği vardır.",
+  "i": "Avusturya Märzen'i Alman Märzen'inden daha açık renkli ve hafiftir."
+ },
+ "Avusturya|Viyana": {
+  "k": "Kehribar renkli Vienna lager'ın doğduğu şehir.",
+  "t": "Anton Dreher 1841'de açık kehribar maltla Vienna lager stilini yarattı; stil Meksika'da yaşamaya devam etti.",
+  "i": "Vienna lager'ı Meksika'nın kehribar lager'larıyla karşılaştırmak ilginç bir deneyim."
+ },
+ "Avusturya|Yukarı Avusturya": {
+  "k": "Şerbetçiotu vurgulu lager'lardan dünyanın en güçlü bock'larına kadar geniş yelpaze.",
+  "t": "Samichlaus, İsviçre'den Avusturya'daki Schloss Eggenberg'e taşınarak yaşatıldı.",
+  "i": "Samichlaus'u konyak kadehinde, oda sıcaklığına yakın yudumla."
+ },
+ "Avusturya|Aşağı Avusturya": {
+  "k": "Waldviertel'in küçük aile fabrikaları ve organik biralar.",
+  "t": "Bölge granit kayaları ve yumuşak suyuyla bilinir.",
+  "i": "Yerel birahanelerde fıçı Märzen iste."
+ },
+ "Çekya|Plzeň": {
+  "k": "Altın pilsner'ın doğduğu şehir; yumuşak su, Saaz şerbetçiotu ve Moravya maltı.",
+  "t": "1842'de Josef Groll ilk pilsner'ı burada mayaladı. Şehir adı stile ad oldu.",
+  "i": "Pilsner Urquell'i 'hladinka' (bol köpüklü) servisle dene; köpük acılığı yumuşatır."
+ },
+ "Çekya|Güney Bohemya": {
+  "k": "Uzun lagerlenen, yumuşak ve bal tonlu ležák'lar.",
+  "t": "České Budějovice'nin bira geleneği 13. yüzyıla dayanır; 'Budweiser' adı buradan gelir.",
+  "i": "Budvar'ın filtresiz 'kroužkovaný' versiyonunu bulursan kaçırma."
+ },
+ "Çekya|Prag": {
+  "k": "Büyük fabrikalardan mikro fabrikalara, Çek birahane kültürünün kalbi.",
+  "t": "Çekya kişi başı bira tüketiminde yıllardır dünya birincisi.",
+  "i": "Prag'da 'tanková' (tank) bira sunan barları ara; pastörize edilmemiş taze bira bambaşka."
+ },
+ "Çekya|Orta Bohemya": {
+  "k": "Prag çevresindeki köklü fabrikalar ve yeni craft dalga.",
+  "t": "Velké Popovice ve Krušovice yüzyıllardır bölgeyi besler; Matuška craft devriminin öncüsü oldu.",
+  "i": "Çek koyu lager'ı (tmavé) tatlımsı ve hafiftir; tatlı yemeklerle iyi gider."
+ },
+ "Çekya|Vysočina": {
+  "k": "Pastörize edilmemiş, canlı mayalı lager'ları ile bilinen yayla bölgesi.",
+  "t": "Humpolec'teki Bernard, 1990'larda özelleştirilen fabrikaların en başarılılarından.",
+  "i": "Bernard'ın filtresiz biralarını taze ve soğuk iç."
+ },
+ "Çekya|Kuzey Bohemya": {
+  "k": "Bağımsız, geleneksel yöntemlerle çalışan fabrikaların bölgesi.",
+  "t": "Svijany 16. yüzyıldan beri bira yapıyor ve büyük gruplara katılmadan ayakta kaldı.",
+  "i": "Svijany'nin farklı derecelerdeki (10°, 11°, 12°) biralarını karşılaştır; derece şıra yoğunluğunu gösterir."
+ },
+ "ABD|Kaliforniya": {
+  "k": "Amerikan craft birasının doğduğu yer. Batı Kıyısı IPA'sı kuru, acı ve reçineli; Sierra Nevada, Stone ve Russian River bu kimliği tanımladı.",
+  "t": "1849 Altına Hücum'un 'steam beer'i ve 1965'te Anchor'ı kurtaran Fritz Maytag ile modern craft hareketi burada başladı.",
+  "i": "Sierra Nevada Pale Ale ile başla, ardından Stone IPA ve fırsat bulursan taze bir Pliny the Elder dene."
+ },
+ "ABD|Pasifik Kuzeybatı": {
+  "k": "ABD şerbetçiotunun neredeyse tamamı Washington ve Oregon'da yetişir. Bira; çam, greyfurt ve toprak notalı, cömertçe şerbetçiotlu.",
+  "t": "Yakima Vadisi ve Willamette Vadisi dünyanın en önemli şerbetçiotu bölgelerinden; Portland 'Beervana' lakaplıdır.",
+  "i": "Deschutes Black Butte Porter ve Fresh Squeezed IPA bölgeyi iki uçtan tanıtır."
+ },
+ "ABD|Colorado": {
+  "k": "Büyük lager devlerinden (Coors) Belçika esintili craft'a uzanan geniş bir yelpaze. Great American Beer Festival'in evi.",
+  "t": "Golden'daki Coors 1873'ten beri; 1991'de kurulan New Belgium ve Oskar Blues craft'ı ulusal ölçeğe taşıdı.",
+  "i": "New Belgium Fat Tire ve Dale's Pale Ale kolay başlangıç; meraklılar La Folie'yi aramalı."
+ },
+ "ABD|Orta Batı": {
+  "k": "Alman göçmen mirası lager geleneği ile dünyanın en aranan fıçı yıllanmış stout'ları aynı bölgede. Michigan, Illinois, Indiana ve Iowa craft'ın merkezleri.",
+  "t": "Milwaukee ve St. Louis 19. yüzyılda Alman biracılarla kitlesel lagerin başkentleri oldu; 1992'de Goose Island fıçı yıllandırmayı başlattı.",
+  "i": "Bell's Two Hearted ve Founders Breakfast Stout bölgenin iki yüzünü gösterir."
+ },
+ "ABD|Orta Atlantik": {
+  "k": "New York, Pennsylvania ve Delaware'de Alman lager mirası ile deneysel craft yan yana. Sürekli şerbetçiotlama ve Belçika tarzı burada gelişti.",
+  "t": "Pottsville'deki Yuengling 1829'dan beri ABD'nin en eski aktif fabrikası; Brooklyn ve Dogfish Head 1990'larda craft'ı doğu kıyısına taşıdı.",
+  "i": "Victory Prima Pils ve Dogfish Head 60 Minute iyi bir giriş."
+ },
+ "ABD|New England": {
+  "k": "Bulanık, sulu ve düşük acılıklı New England IPA'nın (NEIPA) anavatanı; Maine'de ise Belçika tarzı ustalık.",
+  "t": "2011'de Heady Topper ile başlayan akım Tree House, Trillium ve Hill Farmstead'le dünya trendine dönüştü; kutular fabrika kapısında kuyrukla satılır.",
+  "i": "Taze içmek esastır: Heady Topper ya da Julius'u bulursan bekletme. Allagash White daha kolay bulunur."
+ },
+ "ABD|Güney": {
+  "k": "Sıcak iklime uygun ferah biralar ile tropikal meyve, baharat ve biberle oynayan cesur stout'lar.",
+  "t": "Florida ve Teksas'ın craft sahnesi 2000'lerin sonunda patladı; Shiner'daki Spoetzl ise 1909'dan beri Alman-Çek lager mirasını sürdürüyor.",
+  "i": "Cigar City Jai Alai'yi ferah bir IPA olarak dene; Hunahpu's festivalde efsanedir."
+ },
+ "Kanada|Québec": {
+  "k": "Fransız etkisiyle Belçika tarzı güçlü ale'ler, baharatlı ve şişede mayalanan biralar. Kanada craft'ının kalbi.",
+  "t": "Montréal'deki Molson 1786'dan beri; 1990'larda Unibroue ve Dieu du Ciel! Québec'i Belçika tarzının Kuzey Amerika merkezi yaptı.",
+  "i": "La Fin du Monde'yi lale bardakta, 8-10°C'de dene."
+ },
+ "Kanada|Ontario": {
+  "k": "Büyük Kanada lagerleri ile Toronto'nun hızlı büyüyen craft sahnesi; temiz pilsner'lardan kuru şerbetçiotlu ekşilere.",
+  "t": "Labatt 1847'den beri; Steam Whistle ve Bellwoods Toronto'yu craft şehri yaptı.",
+  "i": "Steam Whistle Pilsner güvenli başlangıç, Jelly King cesur adım."
+ },
+ "Kanada|Atlantik Kanada": {
+  "k": "Denizci kasabaların sade ve içimi kolay lagerleri, aile fabrikası geleneği.",
+  "t": "Moosehead 1867'den beri Oland ailesinde; Kanada'nın en eski bağımsız fabrikası.",
+  "i": "Moosehead'i soğuk ve deniz ürünleriyle iç."
+ },
+ "Kanada|Britanya Kolumbiyası": {
+  "k": "ABD Batı Kıyısı'na benzer şekilde şerbetçiotu öne çıkan IPA'lar ve yaratıcı küçük fabrikalar.",
+  "t": "Vancouver ve Victoria Kanada'nın craft yoğunluğu en yüksek şehirlerinden.",
+  "i": "Fat Tug IPA bölgenin ölçütüdür."
+ },
+ "Meksika|Mexico City": {
+  "k": "Hafif, ferah Meksika lagerleri ile 19. yüzyıl Avusturya mirası Viyana ve koyu lagerler.",
+  "t": "İmparator Maximilian döneminde gelen Avusturyalı biracılar Viyana lager stilini getirdi; Grupo Modelo 1925'te başkentte kuruldu.",
+  "i": "Corona'yı limonla, Negra Modelo'yu taco ve mole ile dene."
+ },
+ "Meksika|Monterrey": {
+  "k": "Meksika'nın sanayi başkenti; Cuauhtémoc Moctezuma'nın lager ve pilsner'ları.",
+  "t": "Cervecería Cuauhtémoc 1890'da Monterrey'de kuruldu; bugün Heineken'in Meksika üssü.",
+  "i": "Bohemia, Meksika lagerlerinin en 'şerbetçiotlu' olanıdır."
+ },
+ "Meksika|Sinaloa": {
+  "k": "Pasifik kıyısının ferah, hafif plaj lagerleri.",
+  "t": "Mazatlán'daki Cervecería del Pacífico 1900'de Alman göçmenlerce kuruldu.",
+  "i": "Pacífico'yu deniz ürünleri ve ceviche ile iç."
+ },
+ "Meksika|Baja California": {
+  "k": "ABD sınırındaki kasabaların sade lagerleri ve Ensenada-Tijuana'nın yükselen craft sahnesi.",
+  "t": "Tecate markası 1944'te sınır kasabası Tecate'de doğdu.",
+  "i": "Tecate'yi tuz ve limonla 'michelada' olarak dene."
+ },
+ "Belçika|Batı Flandre": {
+  "k": "Trappist Westvleteren, St. Bernardus ve Flanders red ale'in ülkesi. Meşe foederlerde olgunlaşan ekşi kırmızılar ve yoğun quad'lar bölgenin imzası.",
+  "t": "Roeselare'deki Rodenbach 19. yüzyılda İngiliz porter harmanlama tekniğini Flandre'ye taşıdı; Watou ile Westvleteren arasındaki şerbetçiotu tarlaları hâlâ işlenir.",
+  "i": "Önce Rodenbach Classic ile ekşi kırmızıyı tanı, sonra St. Bernardus Abt 12'yi dene."
+ },
+ "Belçika|Doğu Flandre": {
+  "k": "Oudenaarde kahverengi ale'i, güçlü golden ale ve tatlı-baharatlı koyu biraların bölgesi. Aile fabrikaları yüzyıllardır aynı şehirlerde.",
+  "t": "Oudenaarde'nin sert suyu ve sıcak fermantasyonu oud bruin stilini doğurdu; Melle ve Ertvelde güçlü bira gelenekleriyle tanınır.",
+  "i": "Delirium Tremens ve Gulden Draak'ı lale kadehte, buzdolabından 10 dakika önce çıkarıp iç."
+ },
+ "Belçika|Brüksel & Pajottenland": {
+  "k": "Dünyada kendiliğinden (spontane) fermantasyonun kalbi. Senne vadisinin havasındaki yabani mayalar lambic'i, harmanlanınca gueuze'u, meyveyle kriek'i yaratır.",
+  "t": "Lambic yüzyıllardır yalnızca Brüksel ve güneybatısındaki Pajottenland'de yapılır; 2000'lerde 'Oude' ibaresi AB korumasına alındı.",
+  "i": "Etikette 'Oude' ibaresi yoksa bira tatlandırılmıştır; gerçek tadı Oude Geuze Boon ile başla."
+ },
+ "Belçika|Antwerp": {
+  "k": "Dubbel ve tripel'in anavatanı Westmalle, Duvel'in Breendonk'u ve Antwerp'in şehir biralarıyla dengeli, şişede mayalanan güçlü ale'ler.",
+  "t": "Westmalle manastırı 1934'te Tripel'i yaratarak bütün dünyanın taklit ettiği şablonu belirledi.",
+  "i": "Westmalle Tripel ve Duvel'i yan yana tadarak manastır tripel'i ile golden strong ale farkını gör."
+ },
+ "Belçika|Flaman Brabant": {
+  "k": "Leuven'in büyük lager endüstrisi ile Hoegaarden'in witbier mirası yan yana. Pajottenland'e komşu köylerde lambic de yapılır.",
+  "t": "Hoegaarden köyü 15. yüzyıldan beri buğday birasıyla ünlüydü; stil 1957'de ölmüş, Pierre Celis 1966'da canlandırmıştı.",
+  "i": "Hoegaarden'ı sıfıra yakın değil 4-6 °C'de, kalın tabanlı bardakta iç."
+ },
+ "Belçika|Limburg": {
+  "k": "Hollanda sınırına yakın sakin bir bölge; Achel'in manastır biraları buranın temsilcisi.",
+  "t": "Achel manastırı 1998'de bira yapımını yeniden başlattı, 2021'de keşişlerin ayrılmasıyla trappist statüsünü kaybetti.",
+  "i": "Achel Blond'u Westmalle Tripel'le kıyasla; daha yumuşak ve tatlımsıdır."
+ },
+ "Belçika|Hainaut": {
+  "k": "Valonya'nın çiftlik birası (saison) diyarı. Kuru, baharatlı ve yüksek karbonasyonlu biralar; ayrıca Chimay trappist'i.",
+  "t": "Saison, tarım işçilerine yaz için kışın yapılan hafif biralardan doğdu; Dupont stili 20. yüzyılda yaşattı.",
+  "i": "Saison Dupont'u keçi peyniri veya ızgara tavukla dene."
+ },
+ "Belçika|Namur": {
+  "k": "Meuse vadisindeki manastırların koyu ve yoğun biraları; Rochefort trappist'i ve Leffe, Maredsous gibi manastır markaları.",
+  "t": "Leffe manastırı Dinant'ta 1240'tan beri bira yaptı; Rochefort'ta keşişler 16. yüzyıldan beri üretiyor.",
+  "i": "Rochefort 10'u oda sıcaklığına yakın (12-14 °C) kadeh bardakta yavaş iç."
+ },
+ "Belçika|Ardennes": {
+  "k": "Ormanlık Ardennes'in kırsal, bağımsız ruhlu bira evleri: Orval'in Brett'li pale ale'i, Chouffe'un cüceleri ve Fantôme'un deneysel saison'ları.",
+  "t": "Orval manastırı 1931'de manastırın yeniden inşasını finanse etmek için bira üretmeye başladı.",
+  "i": "Orval'i taze ve 1 yıllık olarak iki şişe al; Brett'in nasıl kuruttuğunu gör."
+ },
+ "Belçika|Liège": {
+  "k": "Endüstriyel lager'in güçlü olduğu Valon şehir bölgesi; Jupiler'in yuvası.",
+  "t": "Jupille-sur-Meuse'deki Piedboeuf fabrikası 19. yüzyıldan beri bira yapıyor.",
+  "i": "Jupiler'i Belçika'daki gibi küçük bardakta, soğuk ve köpüklü iç."
+ },
+ "Hollanda|Kuzey Brabant": {
+  "k": "Hollanda'nın trappist bölgesi: La Trappe ve Zundert, ayrıca Swinkels ailesinin büyük lager üretimi.",
+  "t": "Koningshoeven 1884'te Fransız keşişlerce kuruldu ve Belçika dışında ilk trappist fabrikası oldu.",
+  "i": "La Trappe Quadrupel'in fıçıda yıllanmış (Oak Aged) partilerini kaçırma."
+ },
+ "Hollanda|Kuzey Hollanda": {
+  "k": "Amsterdam ve Haarlem'in canlı craft sahnesi: tarihi reçeteler, Belçika tarzı ale'ler ve hoplu IPA'lar.",
+  "t": "Haarlem 15.-16. yüzyılda Hollanda'nın bira başkentiydi; Jopen bu mirası canlandırdı.",
+  "i": "Amsterdam'da Brouwerij 't IJ'nin yel değirmeni yanındaki tadım odasına uğra."
+ },
+ "Hollanda|Güney Hollanda": {
+  "k": "Heineken'in dev Zoeterwoude tesisi ile De Molen'in kült stout'ları aynı ilde.",
+  "t": "Heineken 1975'te üretimini Amsterdam'dan Zoeterwoude'ye taşıdı.",
+  "i": "De Molen'in barrel-aged sürümlerini bulursan yaşlandırmaya da uygun olduklarını bil."
+ },
+ "Hollanda|Limburg (NL)": {
+  "k": "Güney Limburg'un tepelik kırsalında maltlı, dolgun pils ve bock geleneği.",
+  "t": "Wijlre'deki Brand, 14. yüzyıla uzanan kökeniyle ülkenin en eski fabrikası sayılır.",
+  "i": "Brand Pilsener'i Hollanda usulü 25-30 cl bardakta, köpüğü sıyrılarak iç."
+ },
+ "Hollanda|Overijssel": {
+  "k": "Doğu Hollanda'nın Alman sınırındaki sanayi bölgesi; Grolsch'un yuvası.",
+  "t": "Grolsch 1615'te Groenlo'da kuruldu, 2004'te Enschede'deki yeni tesise taşındı.",
+  "i": "Swingtop şişeyi saklayın; ev birası yapanların favorisidir."
+ },
+ "Fransa|Alsas": {
+  "k": "Fransa'nın bira başkenti; Alman etkisinde lager geleneği ve Strisselspalt şerbetçiotu.",
+  "t": "Fransız birasının yarıdan fazlası Alsas'ta üretilir; Kronenbourg 1664'ten beri Strasbourg'ta.",
+  "i": "1664 Blanc'ı portakal dilimiyle değil, sade ve soğuk iç."
+ },
+ "Fransa|Nord": {
+  "k": "Belçika sınırındaki Fransız Flandre'sı; bière de garde (mahzende saklanan bira) diyarı. Maltlı, karamelli, hafif mantarımsı kokulu.",
+  "t": "Çiftliklerde kışın yapılıp yaz için mahzende saklanan biralardan doğdu; Jenlain 1950'lerde stili şişeye taşıdı.",
+  "i": "Bière de garde'ı mantarlı yemekler ve olgun peynirlerle dene."
+ },
+ "Lüksemburg|Bascharage": {
+  "k": "Lüksemburg'un küçük ama köklü pils geleneği; Alman ve Belçika etkileri iç içe.",
+  "t": "Bofferding 1842'den beri üretiyor, 1975'ten beri Brasserie Nationale çatısında.",
+  "i": "Lüksemburg'a giderseniz Bofferding'in fıçı halini yerel kafelerde arayın."
+ },
+ "İrlanda|Dublin": {
+  "k": "Stout'un dünya başkenti; Guinness'in gölgesinde gelişen küçük ama canlı bir craft sahnesi.",
+  "t": "St. James's Gate 1759'dan beri burada; 19. yüzyılda dünyanın en büyük fabrikasıydı.",
+  "i": "Guinness Storehouse'tan sonra Porterhouse gibi bağımsız pub'larda yerel stout'ları kıyaslayın."
+ },
+ "İrlanda|Cork": {
+  "k": "Dublin'e rakip ikinci stout geleneği: daha yumuşak, daha az acı stout'lar.",
+  "t": "Murphy's (1856) ve Beamish (1792) şehrin iki tarihî stout'u.",
+  "i": "Bir Cork pub'ında Murphy's'i Guinness ile yan yana deneyin; fark yumuşaklıkta."
+ },
+ "İrlanda|Kilkenny": {
+  "k": "İrlanda kırmızı ale'inin evi; karamel ve tostlu, düşük acılıklı biralar.",
+  "t": "Smithwick's 1710'da manastır bahçesinde kuruldu.",
+  "i": "Smithwick's Experience ziyaretçi merkezi tarihçeyi anlatır."
+ },
+ "İrlanda|Carlow": {
+  "k": "Güneydoğu İrlanda'nın arpa ovalarında bağımsız ale ve stout üretimi.",
+  "t": "O'Hara's ile İrlanda craft hareketinin ilk dalgası burada başladı.",
+  "i": "O'Hara's Irish Stout, büyük markalardan daha acı ve kuru bir stout tanıtır."
+ },
+ "İrlanda|Galway": {
+  "k": "Batı kıyısında hop odaklı, modern İrlanda craft'ının merkezi.",
+  "t": "Galway Bay Brewery 2009'dan beri şehrin craft pub'larını besliyor.",
+  "i": "Galway'de istiridye ile bir İrlanda stout'u klasik eşleşmedir."
+ },
+ "İngiltere|Londra": {
+  "k": "Porter'ın doğum yeri; tarihî Fuller's'tan Bermondsey Beer Mile'daki craft'lara uzanan geniş yelpaze.",
+  "t": "18. yüzyılda porter Londra hamallarının birasıydı; 2010'larda craft patlaması yaşandı.",
+  "i": "Cumartesi Bermondsey Beer Mile'ı yürüyün; Fuller's ESB ile klasikten başlayın."
+ },
+ "İngiltere|Yorkshire": {
+  "k": "Taş Yorkshire Square mayalama, kremsi köpüklü bitter'lar ve güçlü craft sahnesi.",
+  "t": "Tadcaster ve Masham yüzyıllardır bira kasabası; Leeds ve Huddersfield yeni nesli temsil eder.",
+  "i": "Kuzey usulü 'sparkler' ile servis edilen kremsi bir bitter deneyin."
+ },
+ "İngiltere|Staffordshire": {
+  "k": "Burton upon Trent: alçıtaşlı sert suyuyla pale ale ve IPA'nın tarihî başkenti.",
+  "t": "19. yüzyılda dünyanın bira başkentiydi; 'Burtonizasyon' terimi buradan gelir.",
+  "i": "White Shield ile tarihî bir Burton IPA'sı, Pedigree ile union sistemi tadın."
+ },
+ "İngiltere|Oxfordshire": {
+  "k": "Cotswolds kenarında geleneksel aile fabrikaları ve fıçı ale kültürü.",
+  "t": "Witney'deki Wychwood 1983'ten beri Hobgoblin'i üretti.",
+  "i": "Hobgoblin, İngiliz koyu ale'lerine yumuşak bir giriş sunar."
+ },
+ "İngiltere|Newcastle": {
+  "k": "Kuzeydoğu İngiltere'nin brown ale geleneği ve işçi pub kültürü.",
+  "t": "Newcastle Brown Ale 1927'de burada doğdu.",
+  "i": "Geleneksel olarak küçük 'schooner' bardağa azar azar doldurularak içilir."
+ },
+ "İngiltere|Suffolk": {
+  "k": "Doğu Anglia'nın arpa tarlaları; güçlü, maltlı ve meyvemsi ale'ler.",
+  "t": "Greene King ve Adnams iki yüzyıllık bölgesel güçler.",
+  "i": "Southwold'da Adnams Broadside'ı deniz ürünleriyle eşleştirin."
+ },
+ "İngiltere|Derbyshire": {
+  "k": "Peak District kenarında modern İngiliz craft'ının öncü IPA'ları.",
+  "t": "Thornbridge 2005'te bir malikânede kuruldu.",
+  "i": "Jaipur'u taze ve soğuk için; şerbetçiotu çabuk kaybolur."
+ },
+ "İngiltere|Manchester": {
+  "k": "Tarihî aile fabrikaları ile yenilikçi hazy IPA üreticileri yan yana.",
+  "t": "J.W. Lees 1828'den, Cloudwater 2014'ten beri şehirde.",
+  "i": "Harvest Ale'in birkaç yıllık şişesini kıyaslayarak yıllanmayı keşfedin."
+ },
+ "İngiltere|Berkshire": {
+  "k": "Londra'nın batısında yaratıcı craft fabrikaları.",
+  "t": "Siren 2013'te Finchampstead'de kuruldu.",
+  "i": "Broken Dream'i tatlılarla ya da kahvaltıda deneyin."
+ },
+ "İngiltere|Sussex": {
+  "k": "South Downs'ta çiftlik birası, saison ve fıçıda yıllandırma.",
+  "t": "Burning Sky, Britanya'da foeder kullanımının öncülerinden.",
+  "i": "Saison'u peynir tabağıyla, şampanya bardağında servis edin."
+ },
+ "İngiltere|Bedfordshire": {
+  "k": "Büyük ölçekli İngiliz ale üretimi.",
+  "t": "Eagle Brewery, Young's ve Courage gibi köklü Londra markalarını üretir.",
+  "i": "Double Chocolate Stout'u çikolatalı tatlıyla eşleştirin."
+ },
+ "İskoçya|Aberdeenshire": {
+  "k": "Kuzeydoğu İskoçya'da BrewDog ile başlayan agresif, hop odaklı craft akımı.",
+  "t": "BrewDog 2007'de Fraserburgh'da kuruldu, Ellon'a taşındı.",
+  "i": "Punk IPA'dan başlayıp Elvis Juice ile narenciyeye geçin."
+ },
+ "İskoçya|Edinburgh": {
+  "k": "Tarihî 'Auld Reekie' bira başkenti; bugün meşe olgunlaştırma ve craft.",
+  "t": "19. yüzyılda Edinburgh, Burton'a rakip pale ale merkeziydi.",
+  "i": "Innis & Gunn'ı viskiyle kıyaslayıp fıçının etkisini görün."
+ },
+ "İskoçya|East Lothian": {
+  "k": "Kıyı kasabası Dunbar'da İskoçya'nın en eski fabrikası.",
+  "t": "Belhaven 1719'dan beri aynı yerde bira yapar.",
+  "i": "Scotch ale'leri biraz serin (10-12°C) servis edin."
+ },
+ "İskoçya|Glasgow": {
+  "k": "İskoçya'nın lager şehri.",
+  "t": "Wellpark'ta bira yapımı 16. yüzyıla uzanır; Tennent's 1885'te lager'a geçti.",
+  "i": "Tennent's'i bir İskoç pub'ında, maç günü içmek bir ritüeldir."
+ },
+ "İskoçya|Clackmannanshire": {
+  "k": "Ochil tepelerinin eteğinde, yumuşak suyuyla tarihî bira ilçesi.",
+  "t": "Alloa bir zamanlar İskoçya'nın bira başkentiydi.",
+  "i": "Old Engine Oil ve Ola Dubh'u yan yana tadarak fıçının etkisini görün."
+ },
+ "İskoçya|Scottish Borders": {
+  "k": "Güney İskoçya'da tarihî malikâne bira geleneği.",
+  "t": "Traquair House 1107'den beri yerleşik; mahzen 1965'te canlandı.",
+  "i": "Wee heavy'leri lale bardakta, oda sıcaklığına yakın servis edin."
+ },
+ "İskoçya|Argyll": {
+  "k": "Batı Highlands'de temiz suyla hafif, şerbetçiotlu session biraları.",
+  "t": "Fyne Ales 2001'de Loch Fyne'da çiftlikte kuruldu.",
+  "i": "Jarl'ı deniz ürünleri ve istiridye ile eşleştirin."
+ },
+ "İskoçya|Orkney": {
+  "k": "Kuzey adalarında güçlü, maltlı İskoç ale'leri.",
+  "t": "Orkney Brewery 1988'de eski bir okulda kuruldu.",
+  "i": "Skull Splitter'ı kış akşamı, peynirle sindire sindire için."
+ },
+ "Galler|Cardiff": {
+  "k": "Galler başkentinde bitter ve ragbi kültürü.",
+  "t": "Brains 1882'den beri şehrin birası.",
+  "i": "Maç öncesi Cardiff pub'larında Brains SA geleneği."
+ },
+ "Galler|Llanelli": {
+  "k": "Güney Galler sanayi kasabalarında aile fabrikaları.",
+  "t": "Felinfoel 1935'te Avrupa'da kutu birayı başlattı.",
+  "i": "Double Dragon'ı Gal peyniriyle (Caerphilly) deneyin."
+ },
+ "Galler|Newport": {
+  "k": "Galler'in yükselen craft sahnesi.",
+  "t": "Tiny Rebel 2012'de kuruldu, 2015'te Britanya şampiyonu oldu.",
+  "i": "Cwtch, kırmızı ale ile modern şerbetçiotunu tanımak için ideal."
+ },
+ "Arjantin|Buenos Aires": {
+  "k": "Arjantin'de bira, şarabın gölgesinde ama asado sofralarının vazgeçilmezi; Bariloche'de güçlü craft sahnesi.",
+  "t": "Quilmes 1888'de Alman göçmen Otto Bemberg tarafından kuruldu.",
+  "i": "Asado'da litrelik Quilmes paylaşmak gelenek."
+ },
+ "Avustralya|Batı Avustralya": {
+  "k": "Fremantle ve Perth, Avustralya craft'ın erken başarılarının yaşandığı bölge.",
+  "t": "Little Creatures 2000'de Fremantle limanında açıldı.",
+  "i": "Pale Ale'i Fremantle limanında fish & chips ile dene."
+ },
+ "Avustralya|Güney Avustralya": {
+  "k": "Adelaide çevresi şarap kadar bira tarihiyle de önemli; Coopers'ın şişede mayalı ale'leri burada.",
+  "t": "Coopers 1862'den beri aile şirketi.",
+  "i": "Coopers şişesini servis öncesi yavaşça çevirip tortuyu karıştırmak gelenektir."
+ },
+ "Avustralya|Victoria": {
+  "k": "Melbourne, büyük Avustralya lager markalarının merkezi; aynı zamanda güçlü bir craft şehri.",
+  "t": "Carlton & United, VB ve Foster's'ı üretir; 2020'den beri Asahi'de.",
+  "i": "Avustralya'da bardak boyları eyalete göre değişir: Victoria'da 'pot' ya da 'schooner' iste."
+ },
+ "Avustralya|Yeni Güney Galler": {
+  "k": "Sörf kasabası Byron Bay'den Sidney'e uzanan bölge; hafif, meyvemsi 'Pacific Ale' stilinin doğduğu yer.",
+  "t": "Stone & Wood 2008'de Byron Bay'de kuruldu.",
+  "i": "Pacific Ale'i plajda, buz gibi ve bardakta iç."
+ },
+ "Brezilya|Minas Gerais": {
+  "k": "İç bölge Minas Gerais, 'boteco' bar kültürü ve gelişen craft sahnesiyle tanınır.",
+  "t": "Kaiser 1982'de Divinópolis'te doğdu.",
+  "i": "Belo Horizonte'nin botecolarında yerel craft biraları ara."
+ },
+ "Brezilya|Rio de Janeiro": {
+  "k": "Brezilya'da bira 'stupidamente gelada' (aptalca soğuk) içilir; hafif lagerler hakim.",
+  "t": "Brahma 1888'de Rio'da kuruldu, Ambev'in temeli oldu.",
+  "i": "Brezilya barlarında 600 ml şişe paylaşılır ve küçük bardaklarla içilir."
+ },
+ "Danimarka|Kopenhag": {
+  "k": "Dünya lager tarihinin kalbi: saf lager mayası burada izole edildi. Carlsberg ve Tuborg'un yanında Mikkeller'le İskandinav craft başkenti.",
+  "t": "Carlsberg laboratuvarı 1883'te saf maya kültürünü bulup bedelsiz paylaştı; bugünkü lager dünyası bu buluşa dayanır.",
+  "i": "Kasım'ın ilk cuması 'J-Dag'de Tuborg Julebryg'i, sonra bir Mikkeller barını dene."
+ },
+ "Danimarka|Zelanda": {
+  "k": "Kopenhag dışındaki Zelanda adası, yeni nesil Danimarka craft üreticilerinin büyük tesislerine ev sahipliği yapıyor.",
+  "t": "To Øl, 2019'da Svinninge'deki eski bir gıda fabrikasını bira kampüsüne çevirdi.",
+  "i": "Ekşi ve gose meraklısıysan To Øl'ün mevsimlik serilerini takip et."
+ },
+ "Estonya|Harju": {
+  "k": "Estonya'nın bira kültürü Alman ve İskandinav etkili; son yıllarda canlı bir craft sahnesi var.",
+  "t": "Saku 1820'de bir malikane fabrikası olarak doğdu.",
+  "i": "Tallinn'in craft barları Saku'dan çok daha cesur biralar sunar."
+ },
+ "Etiyopya|Addis Ababa": {
+  "k": "Etiyopya'da geleneksel 'tella' ev birasının yanında büyük lager markaları yaygın.",
+  "t": "St. George 1922'de ülkenin ilk bira fabrikası oldu.",
+  "i": "Etiyopya mutfağı (injera, tibs) ile hafif lager iyi gider."
+ },
+ "Filipinler|Manila": {
+  "k": "Filipinler'de bira kültürü San Miguel ile özdeşleşmiş durumda.",
+  "t": "San Miguel fabrikası 1890'da İspanyol döneminde Manila'da açıldı.",
+  "i": "San Miguel Pale Pilsen'i 'pulutan' (atıştırmalık) ile iç."
+ },
+ "Finlandiya|Kanta-Häme": {
+  "k": "Sahti, çavdar ve ardıçla yapılan, şerbetçiotsuz kadim Fin çiftlik birasıdır.",
+  "t": "Sahti AB'nin 'Geleneksel Özgün Ürün' (TSG) listesinde.",
+  "i": "Sahti tazeyken içilir; muz, ekmek ve ardıç notaları bekle."
+ },
+ "Finlandiya|Uusimaa": {
+  "k": "Helsinki çevresi Finlandiya biracılığının merkezi; temiz lagerler ve tarihi Baltık porter.",
+  "t": "Sinebrychoff 1819'da kuruldu; Koff Porter 1850'lerden kalma tarifin mirası.",
+  "i": "Koff Porter'ı oda sıcaklığına yakın, çikolatalı tatlıyla dene."
+ },
+ "Güney Afrika|Gauteng": {
+  "k": "Johannesburg çevresi Afrika'nın en büyük bira pazarının merkezi.",
+  "t": "SAB 1895'te altın madencileri için kuruldu, dünyanın en büyük bira gruplarından birine dönüştü.",
+  "i": "Castle Lager'ı 'braai' (mangal) ile iç."
+ },
+ "Güney Kore|Seul": {
+  "k": "Kore'de bira çoğunlukla soju ile karıştırılan hafif lagerlerdir; craft sahnesi Seul'de büyüyor.",
+  "t": "Cass 1994'te çıktı ve pazar lideri oldu.",
+  "i": "'Chimaek': kızarmış tavuk ve bira, Kore'nin sevilen ikilisi."
+ },
+ "Gürcistan|Mtskheta": {
+  "k": "Şarabın ana yurdu Gürcistan'da bira da yaygın; büyük lager markaları ve ilginç Kafkas craft'ı.",
+  "t": "Natakhtari fabrikası 2004'te açıldı, bugün Anadolu Efes'e bağlı.",
+  "i": "Gürcistan'da biranın yanına haçapuri ya da hinkali iste."
+ },
+ "Hindistan|Karnataka": {
+  "k": "Bengaluru 'Hindistan'ın pub başkenti'; büyük lager markaları ve gelişen brewpub kültürü.",
+  "t": "United Breweries 1915'te kuruldu, Kingfisher ile pazar lideri.",
+  "i": "Kingfisher'ı baharatlı köri ile dene; Bengaluru'da brewpub'lara uğra."
+ },
+ "Japonya|Hokkaido": {
+  "k": "Kuzey adası Hokkaido, Japon biracılığının resmi doğum yeri ve Sapporo'nun memleketi.",
+  "t": "Hükümetin Kaitakushi fabrikası 1876'da Sapporo'da açıldı.",
+  "i": "Sapporo Bira Müzesi'nin yanında 'Genghis Khan' kuzu ızgarasıyla iç."
+ },
+ "Japonya|Ibaraki": {
+  "k": "Tokyo'nun kuzeydoğusundaki Ibaraki, sake geleneğinden craft'a geçen fabrikalarıyla tanınır.",
+  "t": "Kiuchi ailesi 1823'ten beri sake yapıyor; bira 1996'da eklendi.",
+  "i": "Hitachino Nest White Ale Japon craft'a en iyi giriş biralarından."
+ },
+ "Japonya|Saitama": {
+  "k": "Tokyo'ya komşu Saitama'nın Kawagoe şehri, Edo dönemi dokusu ve tatlı patatesiyle ünlü.",
+  "t": "Coedo, yerel tatlı patatesi biraya katarak markalaştı.",
+  "i": "Coedo'nun renk adlı serisini (Shiro, Beniaka, Ruri) sırayla dene."
+ },
+ "Japonya|Tokyo": {
+  "k": "Japon bira dünyası dört dev (Asahi, Kirin, Sapporo, Suntory) etrafında döner; kuru, temiz, pirinçli lagerler.",
+  "t": "Japon biracılığı Meiji döneminde Alman ustalarla başladı.",
+  "i": "İzakaya'da 'toriaezu biru' (önce bira) ile başla; soğuk bardakta servis edilir."
+ },
+ "Kenya|Nairobi": {
+  "k": "Doğu Afrika'nın bira kalbi; Tusker ulusal sembol.",
+  "t": "Tusker adını 1923'te kurucuyu öldüren bir filden aldı.",
+  "i": "Kenya'da bira oda sıcaklığında da istenebilir, 'warm' ya da 'cold' diye sorarlar."
+ },
+ "Kolombiya|Bogota": {
+  "k": "Kolombiya bira pazarına Bavaria hakim; Bogota'da canlı bir craft sahnesi de var.",
+  "t": "Bavaria 1889'da Alman göçmen Leo Kopp tarafından kuruldu.",
+  "i": "Club Colombia'nın Dorada, Roja ve Negra serilerini karşılaştır."
+ },
+ "Kıbrıs|Limasol": {
+  "k": "Kıbrıs'ın sıcak iklimine uygun hafif lagerler; KEO ve Carlsberg ada pazarını paylaşır.",
+  "t": "KEO 1951'de Limasol'da kuruldu.",
+  "i": "KEO'yu hellim ve meze tabağıyla iç."
+ },
+ "Laos|Vientiane": {
+  "k": "Laos'un bira pazarı neredeyse tamamen Beerlao'nun; Asya'nın gizli kalmış iyi lageri.",
+  "t": "Lao Brewery 1973'te kuruldu, bugün Carlsberg ortaklığında.",
+  "i": "Beerlao Dark varsa onu da dene."
+ },
+ "Letonya|Vidzeme": {
+  "k": "Letonya'da filtresiz, ekmeksi lagerler ve küçük çiftlik fabrikaları sevilir.",
+  "t": "Valmiermuižas eski malikane bira geleneğini 2009'da yeniden canlandırdı.",
+  "i": "'Gaišais' açık, 'tumšais' koyu demek; etiketlerde bunlara bak."
+ },
+ "Litvanya|Klaipėda": {
+  "k": "Litvanya, çiftlik birası (kaimiškas) geleneğini koruyan ender Avrupa ülkelerinden.",
+  "t": "Švyturys 1784'te Klaipėda'da kuruldu.",
+  "i": "Fırsatın olursa Litvanya çiftlik birası 'kaimiškas' ara."
+ },
+ "Namibya|Windhoek": {
+  "k": "Alman sömürge mirası nedeniyle Reinheitsgebot'a bağlı lagerler ve Ekim festivalleri.",
+  "t": "Namibia Breweries 1920'de kuruldu.",
+  "i": "Windhoek Lager'ı oryx ya da kudu biftekiyle dene."
+ },
+ "Nijerya|Lagos": {
+  "k": "Batı Afrika'nın en büyük bira pazarı; büyük şişeler ve güçlü stout geleneği.",
+  "t": "Star 1949'da Nijerya'nın ilk yerli birası oldu.",
+  "i": "Nijerya'da Guinness Foreign Extra Stout da çok yaygındır."
+ },
+ "Norveç|Agder": {
+  "k": "Güney kıyısındaki Grimstad, Norveç craft hareketinin doğduğu yer; güçlü, Amerikan esinli biralar.",
+  "t": "Nøgne Ø 2002'de Norveç'in ilk modern craft fabrikası olarak açıldı.",
+  "i": "Norveç'te yüksek alkollü bira yalnızca devlet mağazası Vinmonopolet'te satılır."
+ },
+ "Norveç|Rogaland": {
+  "k": "Petrol şehri Stavanger, Lervig sayesinde Avrupa'nın önemli craft merkezlerinden biri.",
+  "t": "Lervig yerel lager fabrikasıyken Amerikalı bira ustası Mike Murphy ile craft'a döndü.",
+  "i": "Lucky Jack ile başla, kış için imperial stout'larına geç."
+ },
+ "Peru|Cusco": {
+  "k": "And dağlarının yüksek rakımlı şehri Cusco, Peru'nun premium lageri Cusqueña'nın evi.",
+  "t": "Cusqueña 1911'den beri Cusco'da üretiliyor.",
+  "i": "Ceviche ile Cusqueña Dorada klasik eşleşmedir."
+ },
+ "Polonya|Güney Polonya": {
+  "k": "Silezya ve Küçük Polonya, büyük lager markaları ve güçlü Baltık porter geleneğinin yurdu.",
+  "t": "Baltık porter, İngiliz porter'ının 19. yüzyılda lager mayasıyla yeniden yorumlanmasıdır.",
+  "i": "Żywiec Porter'ı kış akşamı, hafif serin servis edip dene."
+ },
+ "Portekiz|Lizbon": {
+  "k": "Lizbon ve güney Sagres'in kalesi; sahil kültürüne uygun hafif lagerler.",
+  "t": "Sagres markası 1940 Portekiz Dünya Sergisi için yaratıldı.",
+  "i": "Lizbon'da fıçı bira 'fino' diye istenir."
+ },
+ "Portekiz|Porto": {
+  "k": "Kuzey Portekiz Super Bock'un memleketi; Porto'da bira rekabeti bir futbol rekabeti gibi.",
+  "t": "Super Bock 1927'de çıktı.",
+  "i": "Porto'da 'fino' değil 'imperial' (küçük fıçı bira) iste."
+ },
+ "Rusya|St. Petersburg": {
+  "k": "Rusya'nın bira başkenti; büyük ölçekli lager ve uygun fiyatlı porter üretimi.",
+  "t": "Carlsberg 2022'de çıkış kararı aldı, Baltika'ya el koyuldu; satış 2024 sonunda tamamlandı.",
+  "i": "Baltika'nın numara sistemi: 3 klasik lager, 6 porter, 9 güçlü lager."
+ },
+ "Singapur|Singapur": {
+  "k": "Tropik şehir devleti; hafif lagerler ve son yıllarda gelişen craft sahnesi.",
+  "t": "Tiger 1932'de Singapur'un ilk yerli birası olarak çıktı.",
+  "i": "Tiger'ı hawker merkezinde chili crab ile iç."
+ },
+ "Tayland|Bangkok": {
+  "k": "Tayland'ın sıcak ikliminde hafif, gazlı lagerler; çoğunlukla buzla servis edilir.",
+  "t": "Boon Rawd 1933'te ülkenin ilk fabrikası olarak kuruldu.",
+  "i": "Tayland'da bardağa buz atmak normaldir; acı yemeklerle Singha ya da Chang."
+ },
+ "Ukrayna|Kiev": {
+  "k": "Ukrayna'nın en büyük bira üreticilerine ev sahipliği yapan başkent.",
+  "t": "Obolon 1980'de Moskova Olimpiyatları için kuruldu; savaşa rağmen üretim sürüyor.",
+  "i": "Obolon'un buğday ve filtresiz serileri de denemeye değer."
+ },
+ "Ukrayna|Lviv": {
+  "k": "Batı Ukrayna'nın kültür başkenti Lviv, kahve ve bira geleneğiyle tanınır.",
+  "t": "Lviv'deki fabrika 1715'te Cizvitlerce kuruldu, Ukrayna'nın en eskisi.",
+  "i": "Lviv'de bira müzesini gez, sonra fıçıdan taze iç."
+ },
+ "Venezuela|Caracas": {
+  "k": "Venezuela'da bira, küçük ve buz gibi 'tercio' şişelerle içilir.",
+  "t": "Cervecería Polar 1941'de kuruldu.",
+  "i": "Polar'ı küçük şişeden, çok soğuk iç."
+ },
+ "Vietnam|Ho Chi Minh": {
+  "k": "Vietnam dünyanın en çok bira tüketen ülkelerinden; sokak barları ve buzlu bira kültürü.",
+  "t": "Sabeco Fransız döneminde 1875'te kurulan fabrikanın mirasçısı.",
+  "i": "Kaldırım taburelerinde 'bia hơi' (taze fıçı) ve Saigon Special dene."
+ },
+ "Yeni Zelanda|Auckland": {
+  "k": "Ülkenin en büyük şehri, büyük lager üreticilerinin merkezi.",
+  "t": "Steinlager 1958'de ithal bira kısıtlamalarına yanıt olarak yaratıldı.",
+  "i": "Steinlager'ı Yeni Zelanda kuzusu ızgarasıyla dene."
+ },
+ "Yeni Zelanda|Wellington": {
+  "k": "Wellington, Yeni Zelanda'nın craft bira başkenti; Nelson Sauvin gibi yerel şerbetçiotları ünlü.",
+  "t": "Garage Project 2011'de eski bir benzin istasyonunda kuruldu.",
+  "i": "Yeni Zelanda şerbetçiotlu (Nelson Sauvin, Motueka) biralara özellikle bak."
+ },
+ "Yunanistan|Attika": {
+  "k": "Atina çevresi Yunan biracılığının başladığı yer; Bavyeralı kralın getirdiği bira kültürü.",
+  "t": "Fix, 1864'te Bavyeralı Fuchs ailesi tarafından kuruldu; Yunanistan'ın ilk birası.",
+  "i": "Fix ve Alfa'yı karşılaştırmalı tadarak Yunan lagerini öğren."
+ },
+ "Yunanistan|Eğriboz": {
+  "k": "Eğriboz adası, Yunan mikro bira sahnesinin en çok ödül alan üreticilerinden Septem'e ev sahipliği yapar.",
+  "t": "Septem 2009'da kuruldu; biraları haftanın günlerinden ad alır.",
+  "i": "Ballı golden ale'i Yunan peynirleriyle eşleştir."
+ },
+ "Yunanistan|Selanik": {
+  "k": "Kuzey Yunanistan büyük bira tesislerinin yoğunlaştığı bölge.",
+  "t": "Mythos 1997'de Sindos'ta doğdu, bugün Carlsberg'in.",
+  "i": "Mythos'u meze ve ızgara balıkla, buz gibi iç."
+ },
+ "Yunanistan|Trakya": {
+  "k": "Batı Trakya, büyük gruplardan bağımsız Yunan bira üreticilerine yer verir.",
+  "t": "Vergina adını Makedon krallarının antik başkentinden alır.",
+  "i": "Gümülcine çevresinde gezerken yerel lager iste."
+ },
+ "Çin|Heilongjiang": {
+  "k": "Çin'in en kuzeyi; Rus etkili Harbin şehri ülkenin en eski fabrikasına sahip.",
+  "t": "Harbin fabrikası 1900'de kuruldu.",
+  "i": "Harbin'i baharatlı Kuzey Çin mutfağıyla iç."
+ },
+ "Çin|Shandong": {
+  "k": "Shandong'un liman şehri Qingdao, Alman sömürge mirasıyla Çin biracılığının merkezi.",
+  "t": "Tsingtao fabrikası 1903'te Alman ve İngiliz yerleşimcilerce kuruldu.",
+  "i": "Her ağustos düzenlenen Qingdao Uluslararası Bira Festivali Asya'nın en büyüklerinden."
+ },
+ "İspanya|Endülüs": {
+  "k": "Sıcak güney İspanya'da hafif lagerler hakim, ama Granada'nın Alhambra'sı premium bir istisna.",
+  "t": "Cervezas Alhambra 1925'te Granada'da kuruldu.",
+  "i": "Reserva 1925'i bardaksız, doğrudan şişeden içmek gelenek."
+ },
+ "İspanya|Galiçya": {
+  "k": "Atlantik kıyısındaki yağmurlu Galiçya, deniz ürünleri ve gövdeli lagerleriyle ünlü.",
+  "t": "Estrella Galicia 1906'dan beri Rivera ailesinde.",
+  "i": "Estrella Galicia'yı ahtapot (pulpo a la gallega) ile dene."
+ },
+ "İspanya|Katalonya": {
+  "k": "Barselona Akdeniz yaşamına uygun hafif lagerlerin ve İspanya craft sahnesinin merkezi.",
+  "t": "Damm 1876'da Alsaslı bir göçmen tarafından kuruldu.",
+  "i": "Estrella Damm'ı tapas ve deniz ürünleriyle buz gibi iç."
+ },
+ "İspanya|Madrid": {
+  "k": "Başkentin bar kültürü 'caña' denen küçük fıçı bira bardaklarıyla döner.",
+  "t": "Mahou 1890'dan beri Madrid'in birası.",
+  "i": "Bir caña ve yanında ücretsiz tapa: Madrid usulü."
+ },
+ "İsveç|Stockholm": {
+  "k": "Devlet tekeli Systembolaget'e rağmen canlı bir craft sahnesi; tasarım odaklı, deneysel biralar.",
+  "t": "Omnipollo fabrikasız 'gipsi' modelle dünyanın en çok konuşulan markalarından oldu.",
+  "i": "Omnipollo'nun pastry stout'ları tatlıdır; tatlı yerine paylaşarak iç."
+ },
+ "İtalya|Friuli": {
+  "k": "Kuzeydoğu İtalya, Avusturya etkisiyle Orta Avrupa lager geleneğine yakın.",
+  "t": "Birra Moretti 1859'da Udine'de kuruldu.",
+  "i": "Moretti'nin La Rossa'sını sert peynirlerle eşleştir."
+ },
+ "İtalya|Lazio": {
+  "k": "Roma çevresi hem İtalya'nın büyük lager markası Peroni'nin hem de öncü craft fabrikalarının yurdu.",
+  "t": "Peroni 1864'te Roma'ya taşındı; Birra del Borgo 2005'te Rieti dağlarında doğdu.",
+  "i": "Peroni'yi pizzayla, ReAle'yi porchetta sandviçle dene."
+ },
+ "İtalya|Lombardiya": {
+  "k": "Milano-Como hattı İtalya'nın en yoğun craft fabrikası bölgesi; özellikle zarif lagerler.",
+  "t": "Birrificio Italiano'nun Tipopils'i dünyaya 'Italian Pils' stilini kazandırdı.",
+  "i": "Tipopils'i taze içmek için tarihine bak; dry-hop aroması zamanla söner."
+ },
+ "İtalya|Piemonte": {
+  "k": "Şarap diyarı Piemonte, gastronomiyle iç içe İtalyan craft birasının doğduğu bölge.",
+  "t": "Teo Musso'nun Baladin'i 1996'da İtalyan craft devrimini başlattı.",
+  "i": "Baladin biralarını şarap kadehinde, yemekle iç."
+ },
+ "İtalya|Sardinya": {
+  "k": "Adanın kendine özgü kimliği bira etiketlerine bile yansır; sıcak iklime uygun hafif lagerler.",
+  "t": "Ichnusa 1912'den beri adada üretiliyor, etiketinde Sardinya'nın dört Mağribi başı var.",
+  "i": "Non Filtrata'yı deniz ürünleriyle soğuk iç."
+ },
+ "İzlanda|Akureyri": {
+  "k": "1989'a kadar biranın yasak olduğu İzlanda'da genç ama hızla büyüyen bir bira kültürü.",
+  "t": "1 Mart 1989'da yasak kalktı; o gün hâlâ 'Bjórdagurinn' (Bira Günü) olarak kutlanır.",
+  "i": "Einstök White Ale yaz akşamları için ferah bir başlangıç."
+ },
+ "Türkiye|İstanbul": {
+  "k": "Türkiye biracılığının merkezi: Anadolu Efes'in ana tesisi ile 3 Kafadar, SOMX, Knidos, Torch ve Bosphorus Brewing gibi craft üreticileri burada. Kadıköy, Beyoğlu ve Bomonti birahaneleri yerli craft'ın vitrini.",
+  "t": "1890'larda İsviçreli Bomonti kardeşlerin kurduğu Bomonti fabrikası Osmanlı'nın ilk sanayi bira üretimiydi; yerleşke bugün Bomontiada adıyla Torch'a ev sahipliği yapıyor.",
+  "i": "Market rafında Bomonti Filtresiz ile başla, sonra Kadıköy veya Asmalımescit'te musluktan 3 Kafadar Stardust ve SOMX NEIPA dene."
+ },
+ "Türkiye|İzmir": {
+  "k": "Türk Tuborg'un Pınarbaşı'ndaki dev tesisiyle ülkenin ikinci bira başkenti; Feliz Kulpa ile kentin kendi craft sahnesi de var.",
+  "t": "Türk Tuborg 1967'de İzmir'de kuruldu; Tuborg Gold ve Carlsberg'in Türkiye üretimi buradan çıkar.",
+  "i": "Frederik serisi market rafındaki en kolay craft adımı; Kordon'da Feliz Kulpa Smyrn'Ale arayın."
+ },
+ "Türkiye|Muğla": {
+  "k": "Ege kıyısının craft yuvası: Menteşe'de Gara Guzu, Bodrum'da Pablo. Deneysel ale'ler, yerel meyveler ve tatil birası kültürü öne çıkıyor.",
+  "t": "Gara Guzu 2014'te Türkiye'nin ilk mikro bira fabrikası olarak üretime başladı ve ülkedeki craft dalgasını başlattı.",
+  "i": "Gara Guzu Amber Ale ile başlayın; Bodrum'da Pablo Satsuma Wit tam bir yaz birası."
+ },
+ "Türkiye|Kırklareli": {
+  "k": "Trakya'nın ödüllü nano biracılığı: Lüleburgaz'daki DAS bira, güçlü IPA ve barleywine'larıyla öne çıkıyor.",
+  "t": "DAS bira 2025'te hem Untappd topluluk ödülü hem de European Beer Challenge altın madalyası aldı.",
+  "i": "DAS Ey Ay Pi Ey'i İstanbul'daki craft barlarda (ör. Sanayi 1-A) arayın."
+ },
+ "Türkiye|Edirne": {
+  "k": "Trokya ile Trakya'nın sınır kentinde küçük ölçekli, Belçika ve İngiliz esintili craft üretimi.",
+  "t": "Trokya, Dakka, Buğu ve Mars adlı üç birayla pazara girdi.",
+  "i": "Ferah bir başlangıç için Buğu (Belçika wit) iyi seçim."
+ },
+ "Türkiye|Hatay": {
+  "k": "Doğu Akdeniz'in nadir craft noktası; İskenderun'daki Antiochs nano bira fabrikası blonde, pale ale ve buğday üretiyor.",
+  "t": "Antiochs, Hatay'lı ev biracılarınca kuruldu ve adını antik Antiokheia'dan alır.",
+  "i": "Antiochs Blonde Ale, baharatlı Hatay mutfağıyla iyi eşleşir."
+ },
+ "Türkiye|Antalya": {
+  "k": "Turizm kıyısında brewpub kültürü; Alanya'daki Red Tower Alman usulü lager ve buğday biraları üretiyor.",
+  "t": "Red Tower, Alanya'nın simgesi 13. yüzyıl Kızılkule'nin adını taşır.",
+  "i": "Sıcak akşamlar için Helles ya da Weizen'i tanktan taze isteyin."
+ }
+}
