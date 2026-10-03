@@ -396,7 +396,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 <header><div class="wrap">
   <div class="brand">
     <div style="font-size:34px">🍺</div>
-    <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Bira Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.3</span></h1>
+    <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Bira Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.4</span></h1>
       <div class="sub">Bölge → Bira fabrikası → Bira · Uzman & AI tercihleri · Türkiye katmanları · Kişisel koleksiyon</div></div>
   </div>
   <div class="stats">
@@ -438,7 +438,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div class="tab" data-group="oneri" data-view="yemek">🍽️ Yemek & Bira</div>
     <div class="tab" data-group="koleksiyon" data-view="mylist">📋 Listem</div>
     <div class="tab" data-group="koleksiyon" data-view="notes">📝 Tadım Notlarım</div>
-    <div class="tab" data-group="koleksiyon" data-view="gurme">🛂 Stil Pasaportu</div>
+    <div class="tab" data-group="koleksiyon" data-view="gurme">🎖️ Gurme & Pasaport</div>
     <div class="tab" data-group="koleksiyon" data-view="stats">📊 İstatistik</div>
     <div class="tab" data-group="sosyal" data-view="gece">🍻 Tadım Geceleri</div>
     <div class="tab" data-group="sosyal" data-view="kulup">🏛️ Kulüplerim</div>
@@ -599,7 +599,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   </section>
 
   <section id="view-gurme" class="hidden">
-    <p class="intro">Her yeni stil pasaportuna bir <b>damga</b>: denediğin biralar hangi stillerden, hangileri henüz eksik? Damga topladıkça unvanın yükselir; eksik stiller için Türkiye\'de bulunabilen bir bira önerilir.</p>
+    <p class="intro">Denediğin biralara göre <b>Gurme Puanın</b> (100 üzerinden) ve unvanın: stil çeşitliliği, stil ailesi kapsama, ülke keşfi, kalite, zorlu stiller (ekşi, trappist, fıçı yıllanmış), Türk craft desteği ve tadım notlarından hesaplanır. Altında <b>Stil Pasaportun</b>: her yeni stil bir damga; eksik stiller için Türkiye'de bulunabilen bir bira önerilir.</p>
     <div id="gurmeBox"></div>
   </section>
 
@@ -2064,12 +2064,55 @@ function stilOnerisi(stId){
   const UL={kolay:4,tekel:3,craft:2,zor:-2,yurtdisi:-6};
   return allBottles().filter(b=>stilAnahtar(b)===stId&&!state.have.includes(b.id)).sort((a,b)=>((b.puan||0)+(UL[b.bul]||0))-((a.puan||0)+(UL[a.bul]||0)))[0];
 }
+// Bira gurme puanı (100): stil çeşitliliği, aile kapsama, ülke keşfi, kalite, derinlik, zorlu stiller, Türk craft, tadım deneyimi
+const BIRA_GURME=[
+  {min:0,e:'🌱',t:'Acemi',d:'İlk yudumlar. Lager dışına bir adım at: bir buğday, bir IPA, bir stout.'},
+  {min:10,e:'🍺',t:'Meraklı',d:'Farklı stillerin tadına bakıyorsun; damak açılıyor.'},
+  {min:20,e:'🔎',t:'Heveskâr Tadımcı',d:'Sevdiğin stiller belirginleşti; neden sevdiğini sorgulamaya başladın.'},
+  {min:33,e:'📖',t:'Bilinçli İçici',d:'Stilleri ve bölgeleri ayırt ediyor, bilinçli seçiyorsun.'},
+  {min:46,e:'🎩',t:'Bira Gurmesi',d:'Geniş, dengeli ve kaliteli bir tadım geçmişin var.'},
+  {min:59,e:'🏆',t:'Uzman Tadımcı',d:'Trappist\'ler, lambic\'ler, fıçı yıllanmışlar… zorlu stiller de sende.'},
+  {min:71,e:'🧙',t:'Usta (Cicerone ruhu)',d:'Derinlik, çeşitlilik ve kalite bir arada; notların bir rehber gibi.'},
+  {min:83,e:'👑',t:'Büyük Usta',d:'Bira dünyasının haritası avucunda.'},
+  {min:93,e:'✨',t:'Efsane / Beer Sage',d:'Söylenecek söz kalmadı. Şerefe!'}
+];
+function biraGurme(ids){
+  const bs=allBottles().filter(b=>ids.includes(b.id)),n=bs.length;
+  const stil=new Set(bs.map(stilAnahtar)).size,aile=new Set(bs.map(b=>b.tur)).size,ulke=new Set(bs.map(b=>b.ulke)).size;
+  const ort=n?bs.reduce((s,b)=>s+(b.puan||0),0)/n:0;
+  const zor=bs.filter(b=>['Ekşi & Vahşi','Güçlü & Fıçı Yıllanmış'].includes(b.tur)||/trappist|lambic|gueuze|quad|abt|barleywine|imperial/i.test((b.stil||'')+' '+b.ad)).length;
+  const tr=bs.filter(b=>(b.ulke==='Türkiye'||b.ulke==='KKTC')&&!['Anadolu Efes','Türk Tuborg'].includes(b.dam)).length;
+  const notlu=bs.filter(b=>state.notes[b.id]&&((state.notes[b.id].p||0)>0||(state.notes[b.id].n||'').trim())).length;
+  const P={stil:Math.min(22,stil*0.55),aile:aile/10*14,ulke:Math.min(10,ulke*1),kalite:n?Math.max(0,Math.min(14,(ort-75)/(92-75)*14)):0,
+    derin:Math.min(12,bs.filter(b=>(b.puan||0)>=90).length*1.2),zor:Math.min(12,zor*1.5),tr:Math.min(6,tr*1),tadim:Math.min(10,notlu*0.5)};
+  const total=Math.round(Object.values(P).reduce((a,b)=>a+b,0));
+  return {total,P,n,stil,aile,ulke,ort,zor,tr,notlu};
+}
+function biraGurmeSeviye(sc){let L=BIRA_GURME[0],i=0;BIRA_GURME.forEach((l,k)=>{if(sc>=l.min){L=l;i=k;}});return {...L,i,sonraki:BIRA_GURME[i+1]||null};}
+function gurmeBlok(){
+  const g=biraGurme(state.have),lv=biraGurmeSeviye(g.total),pj=biraGurme([...new Set([...state.have,...state.target])]),plv=biraGurmeSeviye(pj.total);
+  const circ=2*Math.PI*66,off=circ*(1-g.total/100);
+  const MAX={stil:22,aile:14,ulke:10,kalite:14,derin:12,zor:12,tr:6,tadim:10};
+  const AD={stil:'Stil çeşitliliği',aile:'Stil ailesi kapsama',ulke:'Ülke keşfi',kalite:'Ortalama kalite',derin:'Derinlik (90+ puanlılar)',zor:'Zorlu stiller (ekşi, trappist, fıçı)',tr:'Türk craft desteği',tadim:'Tadım notların'};
+  const bar=k=>`<div class="bar"><div class="bl">${AD[k]}</div><div class="track"><div class="fillb" style="width:${Math.round(g.P[k]/MAX[k]*100)}%"></div></div><div class="bv">${g.P[k].toFixed(1)}/${MAX[k]}</div></div>`;
+  return `<div class="ghero">
+    <div class="ring"><svg width="150" height="150"><circle cx="75" cy="75" r="66" fill="none" stroke="rgba(0,0,0,.3)" stroke-width="11"/>
+      <circle cx="75" cy="75" r="66" fill="none" stroke="url(#gg)" stroke-width="11" stroke-linecap="round" stroke-dasharray="${circ}" stroke-dashoffset="${off}"/>
+      <defs><linearGradient id="gg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2c14e"/><stop offset="1" stop-color="#c8862a"/></linearGradient></defs></svg>
+      <div class="center"><div class="sc">${g.total}</div><div class="of">/ 100 gurme puanı</div></div></div>
+    <div class="who"><div class="emoji">${lv.e}</div><div class="title">${lv.t}</div><div class="desc">${lv.d}</div>
+      <div class="char">${g.n} bira · ${g.stil} stil · ${g.aile}/10 aile · ${g.ulke} ülke · ort. kalite <b>${g.ort?g.ort.toFixed(1):'—'}</b> · ${g.notlu} tadım notu${lv.sonraki?` · <b>${lv.sonraki.e} ${lv.sonraki.t}</b> için ${lv.sonraki.min-g.total} puan daha`:''}</div></div></div>
+    <div class="bars"><h3>📊 Puan dağılımı</h3>${Object.keys(MAX).map(bar).join('')}</div>
+    ${state.target.length?`<div class="proj"><div class="big">☆ Deneyeceklerini (${state.target.length}) de denersen: <b>${pj.total} puan</b>${pj.total>g.total?' (+'+(pj.total-g.total)+')':''} → <b>${plv.e} ${plv.t}</b>${plv.i>lv.i?' — seviye atlarsın! 🚀':''}</div></div>`:''}
+    <div class="ladder">${BIRA_GURME.map((l,i)=>`<div class="lvl ${i===lv.i?'cur':i<lv.i?'done':''}"><span class="e">${l.e}</span><span class="ln">${l.t}</span><span class="lr">${l.min}${BIRA_GURME[i+1]?'–'+(BIRA_GURME[i+1].min-1):'–100'} puan</span></div>`).join('')}</div>
+    <h3 style="margin:22px 0 4px;color:var(--amber2)">🛂 Stil Pasaportu</h3>`;
+}
 function renderGurme(){
   const box=document.getElementById('gurmeBox');
   const tum=stilListesi(),dn=denenenStiller(),n=[...dn].filter(k=>tum.some(x=>x.id===k)).length;
   const lv=pasaportSeviye(n),circ=2*Math.PI*66,off=circ*(1-(tum.length?n/tum.length:0));
   const haveBy={};allBottles().filter(b=>state.have.includes(b.id)).forEach(b=>{(haveBy[stilAnahtar(b)]=haveBy[stilAnahtar(b)]||[]).push(b);});
-  let html=`<div class="ghero">
+ let html=gurmeBlok()+`<div class="ghero">
     <div class="ring"><svg width="150" height="150"><circle cx="75" cy="75" r="66" fill="none" stroke="rgba(0,0,0,.3)" stroke-width="11"/>
       <circle cx="75" cy="75" r="66" fill="none" stroke="url(#g)" stroke-width="11" stroke-linecap="round" stroke-dasharray="${circ}" stroke-dashoffset="${off}"/>
       <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2c14e"/><stop offset="1" stop-color="#c8862a"/></linearGradient></defs></svg>
@@ -2383,6 +2426,18 @@ const YEMEKLER=[
  {k:'uzak',e:'🍣',ad:'Suşi, Uzak Doğu mutfağı',aile:['Lager & Pilsner','Buğday'],stil:/rice|japan|lager|wit|pils/i,neden:'Narin ve temiz Japon lager\'ları ile witbier, soya ve zencefili bastırmadan tamamlar.'}
 ];
 let YEMEK_SEC='kebap';
+// Bir biranın yanına yakışan yemekler: stil rehberinin sofra önerisi + Türk mutfağı eşleşme tablosu
+function yanindaHTML(b){
+  const st=b.sid&&stilBul(b.sid);
+  const uy=YEMEKLER.filter(y=>(y.aile.includes(b.tur)||y.stil.test((b.stil||'')+' '+b.ad))&&!(y.kacin&&y.kacin(b)))
+    .map(y=>({y,s:(y.stil.test((b.stil||'')+' '+b.ad)?2:0)+(y.aile.includes(b.tur)?1:0)})).sort((a,c)=>c.s-a.s).slice(0,4);
+  if(!uy.length&&!(st&&st.yemek))return '';
+  return `<div class="dt-sec"><h4>🍽️ Yanında ne iyi gider?</h4>
+    ${uy.length?`<div class="aromarow" style="margin-bottom:6px">${uy.map(o=>`<span class="aroma" data-yemek-git="${o.y.k}" title="${g$(o.y.neden)}">${o.y.e} ${o.y.ad}</span>`).join('')}</div>`:''}
+    ${st&&st.yemek?`<div class="dt-txt">${g$(st.yemek)}</div>`:''}
+    ${uy[0]?`<div class="dt-src">💡 ${g$(uy[0].y.neden)}</div>`:''}</div>`;
+}
+document.addEventListener('click',e=>{const y=e.target.closest('[data-yemek-git]');if(y){e.stopPropagation();YEMEK_SEC=y.dataset.yemekGit;closeDetay();goTab('yemek');}},true);
 function yemekBiralari(y){
   const UL={kolay:4,tekel:3,craft:2,zor:-3,yurtdisi:-8};
   const uy=b=>(y.aile.includes(b.tur)||y.stil.test((b.stil||'')+' '+b.ad))&&!(y.kacin&&y.kacin(b));
@@ -2901,6 +2956,7 @@ function openDetay(id){
     ${fl.length?`<div class="dt-sec"><h4>Tat profili</h4><div class="aromarow">${fl.map(f=>`<span class="aroma">${f}</span>`).join('')}</div></div>`:''}
     ${b.tlGecmis&&b.tlGecmis.length>1?`<div class="dt-sec"><h4>Fiyat geçmişi</h4>${sparkSVG(b.tlGecmis)}</div>`:''}
     ${nt&&nt.t?`<div class="dt-sec"><h4>Senin notun</h4><div class="dt-txt">${esc(nt.t)}</div></div>`:''}
+    ${yanindaHTML(b)}
     <div class="dt-sec"><h4>Benzer biralar</h4>${benzerler(b).map(x=>`<div class="mini">${thumb(x)}<div><div class="nm"><span class="isimlink" data-detay="${x.id}">${x.ad}</span></div><div class="meta">${x.bolge} · ${x.puan||'—'} puan</div></div><span class="price">${fmt(priceOf(x))}</span></div>`).join('')}</div>
     <div class="dt-acts">
       <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${id}">${haveOn?'✓ Denedim':'+ Denedim'}</button>
