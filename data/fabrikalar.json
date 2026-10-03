@@ -2341,5 +2341,189 @@
   "y": "Hernani, Gipuzkoa",
   "stil": "West Coast IPA ve Amerikan tarzı ale",
   "h": "San Sebastián yakınındaki bu fabrika Amerikan biracılık anlayışını Bask mutfak kültürüyle buluşturdu. Imparable IPA'sı İspanya'da referans kabul edilir."
+ },
+ "Jester King": {
+  "k": 2010,
+  "s": "Bağımsız",
+  "y": "Austin (Dripping Springs), Teksas",
+  "stil": "Çiftlik saison'u, vahşi ve spontane ale",
+  "h": "Teksas Hill Country'deki bir çiftlikte kuruldu; yerel vahşi maya, kendi suyu ve meşe fıçılarla çalışır. ABD'de 'farmhouse' akımının öncüsüdür."
+ },
+ "The Bruery": {
+  "k": 2008,
+  "y": "Placentia, Kaliforniya",
+  "stil": "Belçika esinli güçlü ale, fıçı yıllanmış stout",
+  "h": "Patrick Rue'nun ailesiyle kurduğu fabrika, deneysel Belçika tarzları ve dev fıçı programıyla tanındı. Black Tuesday ABD'nin kült fıçı stout'larındandır."
+ },
+ "Half Acre": {
+  "k": 2007,
+  "s": "Bağımsız",
+  "y": "Chicago, Illinois",
+  "stil": "Pale ale ve IPA",
+  "h": "Önce başka fabrikada sözleşmeli üretimle başladı, 2009'da Chicago'da kendi tesisini açtı. Daisy Cutter şehrin simge birasıdır."
+ },
+ "Other Half": {
+  "k": 2014,
+  "s": "Bağımsız",
+  "y": "Brooklyn, New York",
+  "stil": "Hazy IPA ve DIPA",
+  "h": "Brooklyn Carroll Gardens'ta küçük bir depoda kuruldu; bulanık IPA furyasının New York'taki yüzü oldu ve birçok eyalete yayıldı."
+ },
+ "Side Project Brewing": {
+  "k": 2013,
+  "s": "Bağımsız",
+  "y": "Maplewood (St. Louis), Missouri",
+  "stil": "Fıçı yıllanmış saison, vahşi ale, stout",
+  "h": "Cory King'in yan projesi olarak başladı; Missouri'deki çiftliğinin mikroflorası ve şarap fıçılarıyla dünyanın en çok aranan fıçı biralarını yapar."
+ },
+ "Odell Brewing": {
+  "k": 1989,
+  "s": "Çalışan ortaklı (ESOP)",
+  "y": "Fort Collins, Colorado",
+  "stil": "IPA, İskoç ve klasik ale",
+  "h": "Doug, Wynne ve Corkie Odell'in kurduğu aile fabrikası; 2015'te çalışanlarına devredildi. 90 Shilling ilk birasıdır."
+ },
+ "Avery Brewing": {
+  "k": 1993,
+  "s": "Mahou San Miguel (çoğunluk, 2015)",
+  "y": "Boulder, Colorado",
+  "stil": "Belçika esinli ale, güçlü ve fıçı biraları",
+  "h": "Adam Avery'nin kurduğu fabrika, aşırı güçlü 'şeytan' serisi ve fıçı programıyla ünlüdür; White Rascal en bilinen birasıdır."
+ },
+ "Surly Brewing": {
+  "k": 2006,
+  "s": "Bağımsız",
+  "y": "Minneapolis, Minnesota",
+  "stil": "Agresif şerbetçiotlu ale",
+  "h": "Omar Ansari'nin ailesinin fabrikasında başladı; Minnesota'da biraya yerinde satış izni getiren 'Surly Yasası'nın da sebebidir."
+ },
+ "AleSmith Brewing": {
+  "k": 1995,
+  "s": "Bağımsız",
+  "y": "San Diego, Kaliforniya",
+  "stil": "Imperial stout, İngiliz ve Belçika tarzı ale",
+  "h": "San Diego craft sahnesinin erken üyelerinden; Speedway Stout ve fıçılı versiyonları dünya listelerinin üst sıralarındadır."
+ },
+ "Collective Arts Brewing": {
+  "k": 2013,
+  "y": "Hamilton, Ontario",
+  "stil": "IPA, ekşi ve deneysel biralar",
+  "h": "Her etikette bağımsız bir sanatçının eserini taşıyan 'sanat + bira' fikriyle kuruldu; Hamilton'da eski bir fabrikada üretir."
+ },
+ "Verdant Brewing": {
+  "k": 2014,
+  "s": "Bağımsız",
+  "y": "Penryn, Cornwall",
+  "stil": "Hazy pale ve IPA",
+  "h": "Falmouth'ta garaj ölçeğinde başlayıp Britanya'nın en çok aranan hazy IPA üreticilerinden biri oldu."
+ },
+ "Track Brewing": {
+  "k": 2014,
+  "s": "Bağımsız",
+  "y": "Manchester",
+  "stil": "Pale ale, IPA, lager",
+  "h": "Sam Dyson'ın Piccadilly istasyonunun kemerleri altında kurduğu fabrika; adı onun Kanada'yı bisikletle geçmesinden gelir."
+ },
+ "DEYA Brewing": {
+  "k": 2015,
+  "s": "Bağımsız",
+  "y": "Cheltenham, Gloucestershire",
+  "stil": "Hazy pale ve IPA",
+  "h": "Theo Freyne'in kurduğu fabrika, Steady Rolling Man ile Britanya'da modern pale ale'ın en sevilen isimlerinden oldu."
+ },
+ "Buxton Brewery": {
+  "k": 2009,
+  "y": "Buxton, Derbyshire",
+  "stil": "IPA, stout, ekşi",
+  "h": "Peak District'in kaynak suyu kasabasında kuruldu; Axe Edge ve Omnipollo ortaklıkları ile tanınır."
+ },
+ "Harvey's": {
+  "k": 1790,
+  "s": "Aile şirketi",
+  "y": "Lewes, Doğu Sussex",
+  "stil": "Geleneksel fıçı bitter ve stout",
+  "h": "Ouse nehri kıyısındaki Viktorya dönemi fabrikasında hâlâ aile tarafından işletilir. Sussex Best güney İngiltere pub'larının vazgeçilmezidir."
+ },
+ "St Austell": {
+  "k": 1851,
+  "s": "Carlsberg grubu (2023'ten beri)",
+  "y": "St Austell, Cornwall",
+  "stil": "İngiliz pale ve IPA",
+  "h": "Walter Hicks'in kurduğu Cornwall'un en büyük fabrikası; Tribute ve Proper Job ile bölgenin bira kimliğini taşır."
+ },
+ "Brixton Brewery": {
+  "k": 2013,
+  "s": "Heineken ortaklığı",
+  "y": "Brixton, Londra",
+  "stil": "Pale ale, IPA, lager",
+  "h": "Brixton pazarı yakınında demiryolu kemerleri altında başladı; isimlerini semtin simge yapılarından alır."
+ },
+ "Shepherd Neame": {
+  "k": 1698,
+  "s": "Aile şirketi (halka açık)",
+  "y": "Faversham, Kent",
+  "stil": "Kent şerbetçiotlu bitter ve ale",
+  "h": "Britanya'nın en eski bira üreticisi olduğunu öne sürer; Kent'in şerbetçiotu bahçeleriyle iç içedir. Spitfire en ünlü birasıdır."
+ },
+ "Black Sheep Brewery": {
+  "k": 1992,
+  "y": "Masham, Kuzey Yorkshire",
+  "stil": "Yorkshire bitter",
+  "h": "Theakston ailesinden Paul Theakston, aile fabrikası el değiştirince kasabada 'kara koyun' olarak bu fabrikayı kurdu."
+ },
+ "Wells": {
+  "k": 1876,
+  "s": "Carlsberg grubu",
+  "y": "Bedford, Bedfordshire",
+  "stil": "İngiliz bitter",
+  "h": "Charles Wells'in kurduğu Eagle Brewery'nin markası; Bombardier bugün Bedford'da üretilen İngiliz bitter klasiğidir."
+ },
+ "Fierce Beer": {
+  "k": 2016,
+  "y": "Aberdeen",
+  "stil": "Imperial stout, meyveli ve deneysel",
+  "h": "İki ev bira üreticisinin kurduğu Aberdeen fabrikası, cesur tatlar ve her yıl yenilenen Very Big Moose ile tanınır."
+ },
+ "Cromarty Brewing": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Cromarty, Black Isle",
+  "stil": "Pale ale ve IPA",
+  "h": "Craig Middleton'ın ailesinin çiftliğinde kurulan Highland fabrikası; Rogue Wave ile ulusal ödüller kazandı."
+ },
+ "Tempest Brewing Co.": {
+  "k": 2010,
+  "s": "Bağımsız",
+  "y": "Galashiels, Scottish Borders",
+  "stil": "Pale ale, imperial stout",
+  "h": "Kelso'da bir mandırada kuruldu, sonra Galashiels'e taşındı. Yeni Zelanda kökenli kurucusu şerbetçiotuna o ülkenin aromalarını taşıdı."
+ },
+ "Wicklow Wolf": {
+  "k": 2014,
+  "s": "Bağımsız",
+  "y": "Newtownmountkennedy, Wicklow",
+  "stil": "Pale ale, IPA, lager",
+  "h": "Wicklow dağlarında kendi şerbetçiotu çiftliğine sahip İrlanda craft fabrikası; adı bölgede soyu tükenen kurtlardan gelir."
+ },
+ "Rascals Brewing": {
+  "k": 2013,
+  "s": "Bağımsız",
+  "y": "Inchicore, Dublin",
+  "stil": "Porter, pale ale",
+  "h": "Dublin'de pizza ve bira tap odasıyla tanınan aile fabrikası; Ginger Porter imza birasıdır."
+ },
+ "Whiplash": {
+  "k": 2016,
+  "s": "Bağımsız",
+  "y": "Ballyfermot, Dublin",
+  "stil": "Hazy IPA, DIPA, stout",
+  "h": "Alex Lawes ve Alan Wolfe'un kurduğu marka, İrlanda'da modern hoppy bira dalgasının öncüsüdür."
+ },
+ "Franciscan Well": {
+  "k": 1998,
+  "s": "Molson Coors (2013'ten beri)",
+  "y": "Cork",
+  "stil": "İrlanda red ale ve stout",
+  "h": "Eski bir Fransisken manastırının kuyusu üzerinde kurulan Cork birahanesi; Rebel Red adını 'asi ilçe' Cork'tan alır."
  }
 }

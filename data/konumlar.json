@@ -660,6 +660,26 @@
   "İspanya|Bask Ülkesi": [
    43.1,
    -2.2
+  ],
+  "İngiltere|Cornwall": [
+   50.4,
+   -4.9
+  ],
+  "İngiltere|Gloucestershire": [
+   51.85,
+   -2.2
+  ],
+  "İngiltere|Kent": [
+   51.2,
+   0.7
+  ],
+  "İskoçya|Highlands": [
+   57.5,
+   -4.5
+  ],
+  "İrlanda|Wicklow": [
+   53.0,
+   -6.3
   ]
  },
  "damlar": {
@@ -2018,6 +2038,114 @@
   "Basqueland": [
    43.27,
    -1.97
+  ],
+  "Jester King": [
+   30.21,
+   -97.98
+  ],
+  "The Bruery": [
+   33.87,
+   -117.87
+  ],
+  "Half Acre": [
+   41.98,
+   -87.69
+  ],
+  "Other Half": [
+   40.67,
+   -73.99
+  ],
+  "Side Project Brewing": [
+   38.61,
+   -90.32
+  ],
+  "Odell Brewing": [
+   40.59,
+   -105.07
+  ],
+  "Avery Brewing": [
+   40.06,
+   -105.21
+  ],
+  "Surly Brewing": [
+   44.97,
+   -93.21
+  ],
+  "AleSmith Brewing": [
+   32.89,
+   -117.15
+  ],
+  "Collective Arts Brewing": [
+   43.25,
+   -79.87
+  ],
+  "Verdant Brewing": [
+   50.17,
+   -5.11
+  ],
+  "Track Brewing": [
+   53.48,
+   -2.23
+  ],
+  "DEYA Brewing": [
+   51.9,
+   -2.08
+  ],
+  "Buxton Brewery": [
+   53.26,
+   -1.91
+  ],
+  "Harvey's": [
+   50.87,
+   0.01
+  ],
+  "St Austell": [
+   50.34,
+   -4.79
+  ],
+  "Brixton Brewery": [
+   51.46,
+   -0.11
+  ],
+  "Shepherd Neame": [
+   51.32,
+   0.89
+  ],
+  "Black Sheep Brewery": [
+   54.22,
+   -1.66
+  ],
+  "Wells": [
+   52.13,
+   -0.47
+  ],
+  "Fierce Beer": [
+   57.2,
+   -2.18
+  ],
+  "Cromarty Brewing": [
+   57.68,
+   -4.04
+  ],
+  "Tempest Brewing Co.": [
+   55.62,
+   -2.81
+  ],
+  "Wicklow Wolf": [
+   53.1,
+   -6.11
+  ],
+  "Rascals Brewing": [
+   53.34,
+   -6.31
+  ],
+  "Whiplash": [
+   53.34,
+   -6.35
+  ],
+  "Franciscan Well": [
+   51.9,
+   -8.48
   ]
  }
 }
