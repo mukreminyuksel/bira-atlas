@@ -1,5 +1,5 @@
 // Bira Atlası — Service Worker (çevrimdışı destek)
-const CACHE = 'bira-atlas-v4';
+const CACHE = 'bira-atlas-v5';
 const ASSETS = [
   './',
   './index.html',
@@ -25,6 +25,8 @@ self.addEventListener('fetch', e => {
   const url = new URL(req.url);
   // Güncel fiyat dosyası her zaman ağdan gelsin (önbelleğe alınmaz)
   if (url.hostname === 'raw.githubusercontent.com') return;
+  // Ziyaret sayacı istekleri önbelleğe alınmaz
+  if (url.hostname.endsWith('goatcounter.com') || url.hostname === 'gc.zgo.at') return;
   // Sunucu fonksiyonları (bulut senkronu, tadım gecesi) her zaman canlı yanıt vermeli
   if (url.origin === location.origin && url.pathname.startsWith('/api/')) return;
   // Harita karoları çok sayıda; önbelleği şişirmesin
