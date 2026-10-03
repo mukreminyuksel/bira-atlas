@@ -2180,5 +2180,166 @@
   "y": "Moskova",
   "stil": "Kvas, lager",
   "h": "Moskova merkezli büyük içecek üreticisi. Rusya kvas pazarının önde gelen markalarından biridir."
+ },
+ "Corsendonk": {
+  "s": "Keersmaekers ailesi",
+  "y": "Oud-Turnhout, Antwerp",
+  "stil": "Manastır tarzı dubbel ve tripel",
+  "h": "Adını 1398'de kurulan Corsendonk manastırından alan marka. Biraları uzun yıllar fason olarak demlendi; Pater ve Agnus ikilisi Belçika manastır birası kategorisinin tanınmış adlarıdır."
+ },
+ "De Ranke": {
+  "k": 1994,
+  "s": "Nino Bacelle ve Guido Devos",
+  "y": "Dottignies, Hainaut",
+  "stil": "Şerbetçiotlu Belçika ale ve saison",
+  "h": "İki arkadaşın hobi olarak başladığı fabrika, Belçika'da şerbetçiotunu yeniden öne çıkaranların başında gelir. Tam çiçek şerbetçiotu kullanır; XX Bitter modern Belçika craft'ının köşe taşlarındandır."
+ },
+ "De Dolle Brouwers": {
+  "k": 1980,
+  "s": "Herteleer ailesi",
+  "y": "Esen, Batı Flandre",
+  "stil": "Güçlü, karakterli Belçika ale",
+  "h": "'Deli Biracılar', kapanmak üzere olan eski bir köy fabrikasını 1980'de devralan Kris Herteleer ve kardeşlerinin eseridir. Eski ekipmanla, şişede mayalı ve yıllanabilir biralar üretir."
+ },
+ "Struise": {
+  "k": 2001,
+  "s": "Urbain Coutteau ve ortakları",
+  "y": "Oostvleteren, Batı Flandre",
+  "stil": "Güçlü koyu ale ve imperial stout",
+  "h": "Westvleteren'in hemen yanındaki bu ekip, 2000'lerde topluluk sıralamalarında dünyanın en iyi fabrikaları arasına girdi. Pannepot ve Black Albert gibi güçlü biralarıyla tanınır."
+ },
+ "Malheur": {
+  "s": "De Landtsheer ailesi",
+  "y": "Buggenhout, Doğu Flandre",
+  "stil": "Güçlü Belçika ale ve brut bira",
+  "h": "Eski bir aile fabrikası 1997'de Manu De Landtsheer tarafından Malheur markasıyla yeniden canlandırıldı. Champagne yöntemiyle yapılan 'brut' biralarıyla da bilinir."
+ },
+ "Hertog Jan": {
+  "s": "AB InBev",
+  "y": "Arcen, Limburg (NL)",
+  "stil": "Pilsener, bock ve güçlü özel biralar",
+  "h": "Hollanda'nın Limburg bölgesindeki Arcen'de üretilen, adını bir Brabant dükünden alan marka. Grand Prestige ile ülkenin bilinen barleywine örneklerinden birine sahiptir."
+ },
+ "Kees": {
+  "s": "Kees Bubberman",
+  "y": "Middelburg, Zeeland",
+  "stil": "Imperial stout/porter ve IPA",
+  "h": "Eski bir şef olan Kees Bubberman'ın Zeeland'deki fabrikası. Yoğun, tatlı imperial stout ve porterlarıyla Hollanda craft sahnesinin en çok ödül alanlarındandır."
+ },
+ "Oedipus": {
+  "k": 2010,
+  "s": "Dört kurucu arkadaş",
+  "y": "Amsterdam, Kuzey Hollanda",
+  "stil": "Deneysel ale ve saison",
+  "h": "Dört arkadaşın evde başlayıp Amsterdam Noord'da büyüttüğü renkli etiketli fabrika. Mannenliefde ve Thai Thai gibi baharatlı, oyunbaz biralarıyla bilinir."
+ },
+ "Two Chefs": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Amsterdam, Kuzey Hollanda",
+  "stil": "IPA ve modern ale",
+  "h": "Adından da anlaşılacağı gibi iki aşçı tarafından kuruldu. Yeni Zelanda şerbetçiotlu Green Bullet IPA'sı en bilinen birasıdır."
+ },
+ "Brasserie de l'Espérance": {
+  "s": "Heineken",
+  "y": "Schiltigheim, Alsas",
+  "stil": "Lager ve aromalı lager",
+  "h": "Strasbourg yanındaki Schiltigheim, Fransa'nın tarihî bira başkentidir. Heineken'in buradaki L'Espérance tesisi tekila aromalı Desperados'un evidir."
+ },
+ "Pelforth": {
+  "s": "Heineken",
+  "y": "Mons-en-Barœul, Nord",
+  "stil": "Brune ve blonde",
+  "h": "Lille çevresinde 20. yüzyıl başında kurulan, pelikan logolu kuzey Fransa markası. Pelforth Brune, Fransa'nın en tanınan koyu birasıdır."
+ },
+ "Ninkasi": {
+  "k": 1997,
+  "s": "Christophe Fargier",
+  "y": "Tarare (Lyon), Auvergne-Rhône-Alpes",
+  "stil": "Pale ale, IPA ve klasik ale",
+  "h": "Lyon'da bir brewpub olarak doğdu, bugün bölge genelinde birahaneleri olan bir zincire dönüştü. Üretim Tarare'deki eski bir tekstil fabrikasında yapılır."
+ },
+ "Mont Salève": {
+  "k": 2010,
+  "s": "Michaël Novo",
+  "y": "Neydens, Haute-Savoie",
+  "stil": "Şerbetçiotlu modern ale",
+  "h": "Cenevre sınırındaki Salève dağının eteğinde kurulan fabrika, Fransız craft dalgasının öncülerindendir. Bulanık, şerbetçiotlu biraları ve seri IPA'larıyla bilinir."
+ },
+ "Thiriez": {
+  "k": 1996,
+  "s": "Daniel Thiriez",
+  "y": "Esquelbecq, Nord",
+  "stil": "Fransız Flandre'sı çiftlik biraları",
+  "h": "Eski bir çiftlik binasında kurulan küçük aile fabrikası, kuzey Fransa'nın saison ve bière de garde geleneğini yaşatır. Biraları şişede yeniden mayalanır."
+ },
+ "Brasserie Saint-Germain": {
+  "k": 2003,
+  "s": "Bogaert ailesi",
+  "y": "Aix-Noulette, Pas-de-Calais",
+  "stil": "Bière de garde ve IPA",
+  "h": "Page 24 markasıyla tanınan fabrika, adını bir manastır elyazmasının sayfasından alır. Hildegarde serisi bière de garde geleneğine modern bir yorumdur."
+ },
+ "Toccalmatto": {
+  "k": 2008,
+  "s": "Bruno Carilli",
+  "y": "Fidenza, Emilia-Romagna",
+  "stil": "IPA, Belçika ve ekşi deneyler",
+  "h": "Parma yakınında kurulan fabrika, şerbetçiotlu ve yaratıcı biralarıyla kısa sürede İtalyan craft'ının önde gelenlerinden oldu."
+ },
+ "Birrificio del Ducato": {
+  "k": 2007,
+  "s": "Giovanni Campari (Duvel Moortgat ortaklığı)",
+  "y": "Soragna, Emilia-Romagna",
+  "stil": "Pils, imperial stout ve fıçı/ekşi biralar",
+  "h": "Verdi'nin memleketinde doğan fabrika, birçok uluslararası ödül kazandı. Via Emilia pils'i ve Verdi imperial stout'u en bilinenleridir."
+ },
+ "Brewfist": {
+  "k": 2010,
+  "s": "Bağımsız",
+  "y": "Codogno, Lombardiya",
+  "stil": "Amerikan tarzı IPA ve stout",
+  "h": "İtalya'da Amerikan tarzı şerbetçiotlu biraları ilk yaygınlaştıranlardan. Spaceman IPA fabrikanın simgesidir."
+ },
+ "LoverBeer": {
+  "k": 2009,
+  "s": "Valter Loverier",
+  "y": "Marentino, Piemonte",
+  "stil": "Ekşi ve vahşi, üzümlü biralar",
+  "h": "Piemonte'nin şarap kültürünü bira ile buluşturan küçük fabrika. Meşe fıçılar ve yerel üzümlerle kendiliğinden fermente biralar yapar."
+ },
+ "Extraomnes": {
+  "k": 2010,
+  "s": "Luigi 'Schigi' D'Amelio",
+  "y": "Marnate, Lombardiya",
+  "stil": "Belçika tarzı ale ve saison",
+  "h": "Belçika ekolüne tutkun bir biracının fabrikası. Zest ve Tripel gibi kuru, maya karakterli biralarıyla İtalya'nın en iyi Belçika tarzı üreticilerinden sayılır."
+ },
+ "Forst": {
+  "k": 1857,
+  "s": "Fuchs ailesi",
+  "y": "Forst (Merano), Güney Tirol",
+  "stil": "Alp lager ve bock",
+  "h": "Merano yakınlarında, Alplerin eteğinde 1857'den beri üretim yapan aile fabrikası. Güney Tirol'ün Alman bira kültürünü İtalya'ya taşır."
+ },
+ "La Pirata": {
+  "s": "Bağımsız",
+  "y": "Súria, Katalonya",
+  "stil": "Imperial stout, IPA ve güçlü ale",
+  "h": "Barselona ilinin küçük bir kasabasında kurulan fabrika, İspanyol craft'ının en çok ödül alan adlarından oldu. Black Block imperial stout'u simgesidir."
+ },
+ "Garage Beer Co.": {
+  "k": 2015,
+  "s": "Bağımsız",
+  "y": "Barselona, Katalonya",
+  "stil": "Hazy IPA ve modern ale",
+  "h": "Eixample'deki küçük bir brewpub olarak başladı, bulanık IPA'larıyla Avrupa'da tanındı. Soup IPA en bilinen birasıdır."
+ },
+ "Basqueland": {
+  "k": 2015,
+  "s": "Bağımsız",
+  "y": "Hernani, Gipuzkoa",
+  "stil": "West Coast IPA ve Amerikan tarzı ale",
+  "h": "San Sebastián yakınındaki bu fabrika Amerikan biracılık anlayışını Bask mutfak kültürüyle buluşturdu. Imparable IPA'sı İspanya'da referans kabul edilir."
  }
 }

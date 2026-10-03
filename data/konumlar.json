@@ -640,6 +640,26 @@
   "Rusya|Moskova": [
    55.75,
    37.62
+  ],
+  "Hollanda|Zeeland": [
+   51.5,
+   3.8
+  ],
+  "Fransa|Auvergne-Rhône-Alpes": [
+   45.7,
+   5.0
+  ],
+  "İtalya|Emilia-Romagna": [
+   44.6,
+   10.4
+  ],
+  "İtalya|Trentino-Alto Adige": [
+   46.5,
+   11.2
+  ],
+  "İspanya|Bask Ülkesi": [
+   43.1,
+   -2.2
   ]
  },
  "damlar": {
@@ -1902,6 +1922,102 @@
   "Ochakovo": [
    55.68,
    37.45
+  ],
+  "Corsendonk": [
+   51.31,
+   4.98
+  ],
+  "De Ranke": [
+   50.73,
+   3.3
+  ],
+  "De Dolle Brouwers": [
+   51.03,
+   2.9
+  ],
+  "Struise": [
+   50.93,
+   2.74
+  ],
+  "Malheur": [
+   51.01,
+   4.2
+  ],
+  "Hertog Jan": [
+   51.48,
+   6.18
+  ],
+  "Kees": [
+   51.5,
+   3.61
+  ],
+  "Oedipus": [
+   52.39,
+   4.92
+  ],
+  "Two Chefs": [
+   52.37,
+   4.88
+  ],
+  "Brasserie de l'Espérance": [
+   48.61,
+   7.75
+  ],
+  "Pelforth": [
+   50.64,
+   3.11
+  ],
+  "Ninkasi": [
+   45.9,
+   4.43
+  ],
+  "Mont Salève": [
+   46.12,
+   6.1
+  ],
+  "Thiriez": [
+   50.89,
+   2.43
+  ],
+  "Brasserie Saint-Germain": [
+   50.42,
+   2.71
+  ],
+  "Toccalmatto": [
+   44.87,
+   10.06
+  ],
+  "Birrificio del Ducato": [
+   44.93,
+   10.12
+  ],
+  "Brewfist": [
+   45.16,
+   9.7
+  ],
+  "LoverBeer": [
+   45.06,
+   7.88
+  ],
+  "Extraomnes": [
+   45.63,
+   8.9
+  ],
+  "Forst": [
+   46.68,
+   11.13
+  ],
+  "La Pirata": [
+   41.83,
+   1.75
+  ],
+  "Garage Beer Co.": [
+   41.39,
+   2.16
+  ],
+  "Basqueland": [
+   43.27,
+   -1.97
   ]
  }
 }

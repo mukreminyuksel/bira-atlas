@@ -180,6 +180,20 @@
     ]
    ]
   },
+  "desperados": {
+   "tl": 180,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     180
+    ]
+   ]
+  },
   "duvel": {
    "tl": 260,
    "tarih": "2026-10-03",
@@ -431,6 +445,20 @@
     [
      "2026-10-03",
      150
+    ]
+   ]
+  },
+  "heineken-00": {
+   "tl": 120,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     120
     ]
    ]
   },

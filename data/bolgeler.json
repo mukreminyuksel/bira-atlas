@@ -799,5 +799,30 @@
   "k": "Moskova, büyük lager üreticilerinin ve kvas markalarının merkezi.",
   "t": "Kvas Rusya'da bin yılı aşkın süredir ekmekten yapılan halk içeceğidir; Sovyet döneminde sokak tanklarında satılırdı.",
   "i": "Kvası soğuk ve yaz günü dene; okroşka çorbasıyla klasik."
+ },
+ "Hollanda|Zeeland": {
+  "k": "Deltadaki bu kıyı eyaleti Hollanda craft sahnesine yoğun, tatlı imperial stout'larla adını yazdırdı.",
+  "t": "Middelburg tarihî bir ticaret limanıdır; bugün bölgenin bira kimliğini büyük ölçüde Kees taşır.",
+  "i": "Güçlü stout ve porter'ları oda sıcaklığına yakın, küçük kadehte ve paylaşarak deneyin."
+ },
+ "Fransa|Auvergne-Rhône-Alpes": {
+  "k": "Lyon'dan Alplere uzanan bölge, Fransa'nın en canlı craft sahnelerinden birine sahiptir; şerbetçiotlu modern ale ağırlıktadır.",
+  "t": "Lyon'daki Ninkasi 1990'ların sonunda brewpub kültürünü başlattı; Haute-Savoie'de Mont Salève yeni dalgayı temsil eder.",
+  "i": "Fransız şerbetçiotlarıyla (Aramis, Mistral) yapılan IPA'lar Amerikan örneklerden daha otsu ve çiçeksidir."
+ },
+ "İtalya|Emilia-Romagna": {
+  "k": "Parma ve çevresi İtalyan craft'ının kalbidir: temiz pils'ler, yaratıcı IPA'lar ve fıçı deneyleri bir arada.",
+  "t": "2000'lerde Ducato ve Toccalmatto gibi fabrikalar uluslararası ödüllerle bölgeyi bira haritasına soktu.",
+  "i": "Parmigiano ve prosciutto ile Via Emilia gibi bir pils, kırmızı etle imperial stout deneyin."
+ },
+ "İtalya|Trentino-Alto Adige": {
+  "k": "Güney Tirol, Alman-Avusturya etkisiyle İtalya'nın en 'Bavyeralı' bira bölgesidir; lager ve bock ön plandadır.",
+  "t": "Merano yakınındaki Forst 1857'den bu yana bölgenin en büyük bağımsız fabrikasıdır.",
+  "i": "Speck ve dağ peynirleriyle koyu bock'lar çok iyi gider."
+ },
+ "İspanya|Bask Ülkesi": {
+  "k": "Gastronomisiyle ünlü Bask Ülkesi'nde craft bira, pintxos kültürünün yanında hızla büyüdü; Amerikan tarzı IPA'lar öne çıkar.",
+  "t": "Hernani'deki Basqueland 2015'te kuruldu ve kısa sürede İspanya'nın en saygın fabrikalarından oldu.",
+  "i": "San Sebastián'da pintxos turuna bir West Coast IPA eşlik ettirin."
  }
 }
