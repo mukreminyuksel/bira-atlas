@@ -800,6 +800,41 @@
   "t": "Kvas Rusya'da bin yılı aşkın süredir ekmekten yapılan halk içeceğidir; Sovyet döneminde sokak tanklarında satılırdı.",
   "i": "Kvası soğuk ve yaz günü dene; okroşka çorbasıyla klasik."
  },
+ "Çekya|Moravya": {
+  "k": "Moravya şarapla anılsa da kuzeydeki Moravya-Silezya'da sert, acı lagerler yapılır. Radegast gibi büyük üreticiler yanında Brno ve Ostrava'da canlı bir craft sahnesi vardır.",
+  "t": "Nošovice'deki Radegast 1970'te kurulmuş, bölgenin en büyük fabrikasıdır.",
+  "i": "Önce Radegast Ryze Hořká 12 ile Çek acısını tanı."
+ },
+ "Çekya|Doğu Bohemya": {
+  "k": "Hradec Králové ve Pardubice çevresi; büyük fabrikaların yanında Clock gibi deneyci craft üreticileri barındırır.",
+  "t": "Pardubice'nin Porter'ı ve Potštejn'in Clock'u bölgenin iki ucunu gösterir: gelenek ve yenilik.",
+  "i": "Clock'un APA'sıyla başla, sonra fıçılı stoutlarına geç."
+ },
+ "Çekya|Batı Bohemya": {
+  "k": "Karlovy Vary kaplıca bölgesi; Sokolov ve Cheb çevresinde küçük craft fabrikaları ve tarihi köy üreticileri.",
+  "t": "Permon 2006'da Sokolov'da kurulmuş, şehirden bira yapma hakkını 2011'de almıştır.",
+  "i": "Permon Sherpa IPA ile Çek craft'ının şerbetçiotu cesaretini tat."
+ },
+ "Avusturya|Kärnten": {
+  "k": "Avusturya'nın güneyi; göller ve dağlar arasında sade, temiz Pils ve Märzen geleneği.",
+  "t": "Hirt köyündeki Hirter 1270'ten beri bira yapar ve bölgenin tek bağımsız orta ölçekli fabrikasıdır.",
+  "i": "Hirter Privat Pils'i soğuk servis et, ardından koyu Morchl'u dene."
+ },
+ "İsviçre|Aargau": {
+  "k": "Ren kıyısındaki Aargau, İsviçre'nin bira sanayisinin merkezidir; hafif ve temiz lagerler hâkimdir.",
+  "t": "Feldschlösschen 1876'da Rheinfelden'de kuruldu, bugün Carlsberg'e aittir.",
+  "i": "Feldschlösschen'i İsviçre'nin 'gündelik birası' olarak düşün; craft için Jura ve Appenzell'e bak."
+ },
+ "İsviçre|Appenzell": {
+  "k": "Alp eteklerinde peynir ve kaynak suyu diyarı; maltlı, yumuşak lagerler ve yerel malzemeli özel biralar.",
+  "t": "Locher ailesi 1886'dan beri Appenzell'de bira yapar ve Säntis Malt viskisini de üretir.",
+  "i": "Quöllfrisch hell'i Appenzeller peyniriyle eşleştir."
+ },
+ "İsviçre|Jura": {
+  "k": "Fransızca konuşulan Jura dağları; Belçika esintili, şişede mayalı ve fıçıda yıllanmış cesur biralar.",
+  "t": "Saignelégier'deki BFM 1997'den beri İsviçre craft'ının bayrak taşıyıcısıdır.",
+  "i": "BFM La Meule ile başla; Saint Bon-Chien özel bir akşamın şişesi."
+ },
  "Hollanda|Zeeland": {
   "k": "Deltadaki bu kıyı eyaleti Hollanda craft sahnesine yoğun, tatlı imperial stout'larla adını yazdırdı.",
   "t": "Middelburg tarihî bir ticaret limanıdır; bugün bölgenin bira kimliğini büyük ölçüde Kees taşır.",

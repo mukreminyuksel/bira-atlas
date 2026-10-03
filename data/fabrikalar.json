@@ -2181,6 +2181,256 @@
   "stil": "Kvas, lager",
   "h": "Moskova merkezli büyük içecek üreticisi. Rusya kvas pazarının önde gelen markalarından biridir."
  },
+ "BFM": {
+  "k": 1997,
+  "s": "Bağımsız",
+  "y": "Saignelégier, Jura",
+  "stil": "Belçika esintili ve fıçıda yıllanmış ekşi ale",
+  "h": "Jura dağlarında Jérôme Rebetez'in kurduğu küçük fabrika. Saint Bon-Chien adlı fıçı ekşisiyle dünya ekşi bira listelerinin kalıcı üyesi oldu; İsviçre craft'ının öncüsü sayılır."
+ },
+ "BRLO": {
+  "k": 2014,
+  "s": "Bağımsız",
+  "y": "Berlin",
+  "stil": "Modern Alman craft: helles, pale ale, IPA",
+  "h": "Adı Berlin'in eski Slav adından gelir. Gleisdreieck parkında deniz konteynerlerinden kurulan bira bahçesi ve fabrikasıyla Berlin craft sahnesinin en görünür markalarından."
+ },
+ "Brauerei Hönig": {
+  "k": 1478,
+  "s": "Aile işletmesi",
+  "y": "Tiefenellern (Litzendorf), Franken",
+  "stil": "Ungespundet Franken lageri",
+  "h": "Bamberg'in doğusundaki küçük köyde 1478'den beri bira yapan aile fabrikası. Fıçı gazı düşük, kehribar lageriyle Franken bira yürüyüşlerinin uğrak durağı."
+ },
+ "Brauerei Locher": {
+  "k": 1886,
+  "s": "Locher ailesi (5. kuşak)",
+  "y": "Appenzell",
+  "stil": "Appenzeller Bier: lager, buğday ve 40'ı aşkın özel bira",
+  "h": "Appenzell'de beş kuşaktır Locher ailesinin elinde. Quöllfrisch markası İsviçre'nin en sevilen bağımsız biralarından; aynı çatı altında Säntis Malt viskisi de damıtılır."
+ },
+ "Brew Age": {
+  "s": "Bağımsız",
+  "y": "Viyana",
+  "stil": "IPA, NEIPA ve güçlü craft ale",
+  "h": "Viyana'nın öncü craft fabrikalarından; maymun ve orman temalı etiketleriyle tanınır. Alphatier NEIPA ve Affenkönig imperial IPA çekirdek serinin yıldızlarıdır."
+ },
+ "Chodovar": {
+  "k": 1573,
+  "s": "Aile işletmesi",
+  "y": "Chodová Planá, Plzeň bölgesi",
+  "stil": "Çek ležák ve özel biralar",
+  "h": "Granit kayaya oyulmuş mahzenleri ve bira banyolu oteliyle ünlü tarihi fabrika. Prezident 12° ležák amiral birasıdır."
+ },
+ "Clock": {
+  "s": "Bağımsız",
+  "y": "Potštejn, Hradec Králové bölgesi",
+  "stil": "APA, IPA, imperial stout",
+  "h": "Doğu Bohemya'da küçük bir kasabada kurulan, Çek craft dalgasının en yaratıcı fabrikalarından. Fıçıda yıllanmış stoutları ve 'No Idols!' IPA serisiyle tanınır."
+ },
+ "Diebels": {
+  "k": 1878,
+  "y": "Issum, Aşağı Ren",
+  "stil": "Altbier",
+  "h": "Düsseldorf yakınındaki Issum'da kurulan, Altbier'i ülke çapında tanıtan en büyük marka. Kahverengi ale stilinin süpermarket yüzü."
+ },
+ "Edelweiss": {
+  "k": 1475,
+  "s": "Brau Union (Heineken)",
+  "y": "Kaltenhausen, Salzburg",
+  "stil": "Avusturya buğday birası",
+  "h": "Salzburg yakınındaki tarihi Kaltenhausen fabrikasında üretilen buğday markası. Alp çiçeği etiketiyle Avusturya'nın en bilinen Weissbier'i."
+ },
+ "Feldschlösschen": {
+  "k": 1876,
+  "s": "Carlsberg Grubu",
+  "y": "Rheinfelden, Aargau",
+  "stil": "İsviçre lageri",
+  "h": "Ren kıyısında şato görünümlü tuğla binasıyla İsviçre'nin en büyük bira fabrikası. Brauereipferde (bira atları) geleneği hâlâ yaşar."
+ },
+ "Fässla": {
+  "k": 1649,
+  "s": "Aile işletmesi",
+  "y": "Bamberg, Franken",
+  "stil": "Bamberg lageri, Pils ve güçlü bock",
+  "h": "Bamberg'in Königstraße'sinde 1649'dan beri bira yapan meyhane fabrika; Spezial'in tam karşısında. Cüce maskotu ve şehrin en güçlü birası Bambergator ile bilinir."
+ },
+ "Gambrinus": {
+  "k": 1869,
+  "s": "Plzeňský Prazdroj (Asahi)",
+  "y": "Plzeň",
+  "stil": "Çek gündelik lageri",
+  "h": "Pilsner Urquell ile aynı tesiste üretilen, Çekya'nın en çok içilen bira markası. Adını efsanevi bira kralı Gambrinus'tan alır."
+ },
+ "Greif": {
+  "s": "Aile işletmesi",
+  "y": "Forchheim, Franken",
+  "stil": "Franken lager, festbier, weizen",
+  "h": "Forchheim'da 150 yılı aşkın süredir bira yapan aile fabrikası. Annafest için yapılan festbier'i 2025'te World Beer Awards'ta dünyanın en iyi Märzen'i seçildi; tüm hammaddeler bölgeden."
+ },
+ "Hirter": {
+  "k": 1270,
+  "s": "Bağımsız aile fabrikası",
+  "y": "Hirt, Kärnten",
+  "stil": "Avusturya Pils, Märzen, Zwickl",
+  "h": "1270'ten beri bira yapan, Avusturya'nın en eski fabrikalarından ve Kärnten'in tek orta ölçekli bağımsız fabrikası. Privat Pils ülkenin en sevilen pilslerindendir."
+ },
+ "Hopfmeister": {
+  "k": 2015,
+  "s": "Bağımsız (gezgin üretici)",
+  "y": "Münih",
+  "stil": "Filtresiz modern Bavyera craft'ı",
+  "h": "Marc Gallo'nun kurduğu, kendi sabit tesisi olmadan Münih çevresinde ürettiği craft marka. Hallertau şerbetçiotunu dünya çeşitleriyle birleştirir; Red Dot tasarım ödülü de aldı."
+ },
+ "Kaiserdom": {
+  "k": 1718,
+  "s": "Aile işletmesi",
+  "y": "Bamberg, Franken",
+  "stil": "İhracata dönük Pils ve buğday",
+  "h": "Bamberg'in Gaustadt semtindeki fabrika; 60'tan fazla ülkeye ihracat yapar. Uygun fiyatlı Alman bira kutularının yurtdışındaki tanıdık yüzü."
+ },
+ "Kehrwieder": {
+  "s": "Bağımsız",
+  "y": "Hamburg",
+  "stil": "Şerbetçiotlu lager ve alkolsüz craft",
+  "h": "Dünya bira sommelier şampiyonu Oliver Wesseloh'un fabrikası. Prototyp şerbetçiotlu lageri ve ü.NN alkolsüz IPA'sı Alman craft'ının referansları."
+ },
+ "Kocour": {
+  "k": 2008,
+  "s": "Bağımsız",
+  "y": "Varnsdorf, Kuzey Bohemya",
+  "stil": "Çek craft: APA, IPA, ležák",
+  "h": "Çek craft devriminin ilk dalgasından; Ballast Point ile tasarlanan Catfish Sumeček APA'sı bir kuşağa şerbetçiotunu sevdirdi."
+ },
+ "Krostitzer": {
+  "k": 1534,
+  "s": "Radeberger Grubu",
+  "y": "Krostitz, Saksonya",
+  "stil": "Saksonya Pils'i",
+  "h": "Leipzig'in kuzeyinde 1534'ten beri bira yapan köy fabrikası. Ur-Krostitzer, Doğu Almanya'nın en yaygın Pils'lerinden."
+ },
+ "König": {
+  "k": 1858,
+  "s": "Bitburger Grubu",
+  "y": "Duisburg-Beeck",
+  "stil": "Ruhr Pils'i",
+  "h": "Ruhr bölgesinin işçi kültürüyle büyüyen Pils markası. Belirgin acısıyla Batı Almanya meyhanelerinin klasiği."
+ },
+ "Malzmühle": {
+  "k": 1858,
+  "s": "Schwartz ailesi",
+  "y": "Köln (Heumarkt)",
+  "stil": "Kölsch",
+  "h": "Köln eski şehrinde Heumarkt'taki meyhane fabrikası. Mühlen Kölsch daha maltlı ve yumuşak karakteriyle bilinir."
+ },
+ "Murauer": {
+  "k": 1495,
+  "s": "Kooperatif",
+  "y": "Murau, Steiermark",
+  "stil": "Avusturya Märzen ve Pils",
+  "h": "Steiermark dağlarında kooperatif olarak işletilen tarihi fabrika. Doğal enerji ve yerel hammaddeyle öne çıkar."
+ },
+ "Permon": {
+  "k": 2006,
+  "s": "Bağımsız",
+  "y": "Sokolov, Karlovy Vary bölgesi",
+  "stil": "Çek craft IPA'ları ve ležák",
+  "h": "Batı Bohemya'da 2006'da başlayan, 2011'de modernleşen craft fabrika. Sherpa IPA ve P.I.P.A. gibi şerbetçiotlu biralarıyla tanınır."
+ },
+ "Peters": {
+  "k": 1847,
+  "s": "Aile işletmesi",
+  "y": "Köln (Monheim'da üretim)",
+  "stil": "Kölsch",
+  "h": "Köln'ün klasik Kölsch markalarından; Altstadt'taki Peters Brauhaus meyhanesiyle bilinir."
+ },
+ "Puntigamer": {
+  "k": 1838,
+  "s": "Brau Union (Heineken)",
+  "y": "Graz, Steiermark",
+  "stil": "Avusturya Märzen",
+  "h": "Graz'ın simgesi olan fabrika; 'das bierige Bier' sloganıyla Steiermark'ın en sevilen birası."
+ },
+ "Radegast": {
+  "k": 1970,
+  "s": "Plzeňský Prazdroj (Asahi)",
+  "y": "Nošovice, Moravya-Silezya",
+  "stil": "Acı Çek lageri",
+  "h": "Beskidler'in eteğinde kurulan, adını Slav misafirperverlik tanrısından alan fabrika. 'Ryze hořká' (saf acı) sloganıyla en acı Çek lagerlerini yapar."
+ },
+ "Ratsherrn": {
+  "s": "Bağımsız",
+  "y": "Hamburg (Schanzenviertel)",
+  "stil": "Pils ve craft ale",
+  "h": "Tarihi Hamburg markasını Schanzenhöfe'de yeniden canlandıran fabrika; liman şehrinin craft yüzü."
+ },
+ "Rittmayer": {
+  "k": 1422,
+  "s": "Rittmayer ailesi",
+  "y": "Hallerndorf, Franken",
+  "stil": "Kellerbier, Landbier, Hefeweizen",
+  "h": "Hallerndorf'ta 600 yılı aşkın bira geleneği. Kreuzberg'in bira mahzenleri ve Franken kelleriyle bilinir."
+ },
+ "Schlüssel": {
+  "k": 1850,
+  "s": "Aile işletmesi",
+  "y": "Düsseldorf Altstadt",
+  "stil": "Altbier",
+  "h": "Düsseldorf eski şehrindeki dört tarihi Altbier ev fabrikasından biri. Bolkerstraße'deki meyhanesinde bira fıçıdan servis edilir."
+ },
+ "Schöfferhofer": {
+  "s": "Radeberger Grubu",
+  "y": "Frankfurt am Main (Binding-Brauerei)",
+  "stil": "Buğday birası ve buğday-meyve karışımları",
+  "h": "Mainz kökenli buğday markası; bugün Frankfurt'taki Binding fabrikasında üretilir. Greyfurtlu buğday karışımıyla tüm dünyada yaz birası olarak tanındı."
+ },
+ "Schönramer": {
+  "k": 1780,
+  "s": "Aile işletmesi",
+  "y": "Schönram, Bavyera",
+  "stil": "Pils, helles ve Bavyera klasikleri",
+  "h": "Salzburg sınırında Amerikalı usta Eric Toft yönetiminde ünlenen köy fabrikası. Pils'i Almanya'nın en iyileri arasında gösterilir."
+ },
+ "Sion": {
+  "s": "Bağımsız",
+  "y": "Köln",
+  "stil": "Kölsch",
+  "h": "Köln'ün en eski Kölsch markalarından; katedrale yakın Sion Brauhaus meyhanesiyle bilinir."
+ },
+ "St. GeorgenBräu": {
+  "k": 1624,
+  "s": "Aile işletmesi",
+  "y": "Buttenheim, Franken",
+  "stil": "Franken kelleri",
+  "h": "Levi Strauss'un doğduğu Buttenheim'da 1624'ten beri bira yapan fabrika. Keller Bier'i ihracatla yurtdışında en kolay bulunan Franken birasıdır."
+ },
+ "Störtebeker": {
+  "k": 1827,
+  "s": "Bağımsız (Nordmann ailesi)",
+  "y": "Stralsund",
+  "stil": "Alman lager ve craft esintili ale",
+  "h": "Ünlü korsanın adını taşıyan, Baltık kıyısındaki Stralsund fabrikası. Geniş Braumanufaktur serisiyle Kuzey Almanya'nın en çeşitli üreticilerinden."
+ },
+ "Veltins": {
+  "k": 1824,
+  "s": "Veltins ailesi",
+  "y": "Meschede-Grevenstein, Sauerland",
+  "stil": "Alman Pils",
+  "h": "Sauerland ormanlarında yumuşak kaynak suyuyla üretilen, Almanya'nın en büyük özel aile fabrikalarından. Pils'i ülkenin en çok satanlarındandır."
+ },
+ "Wernesgrüner": {
+  "k": 1436,
+  "s": "Bitburger Grubu",
+  "y": "Wernesgrün, Vogtland (Saksonya)",
+  "stil": "Saksonya Pils'i",
+  "h": "1436'dan beri bira yapan, Doğu Almanya döneminde bile 'Pils-Legende' olarak aranan marka."
+ },
+ "Zehendner": {
+  "s": "Zehendner ailesi",
+  "y": "Mönchsambach (Burgebrach), Franken",
+  "stil": "Ungespundet Franken lageri",
+  "h": "Steigerwald'daki küçük köyde aile işletmesi. Mönchsambacher Lagerbier, Franken bira avcılarının efsane listesinde ilk sıralarda."
+ },
  "Corsendonk": {
   "s": "Keersmaekers ailesi",
   "y": "Oud-Turnhout, Antwerp",
