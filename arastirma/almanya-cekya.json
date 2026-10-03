@@ -1,0 +1,3098 @@
+{
+ "biralar": [
+  {
+   "id": "weihenstephaner-hefeweissbier",
+   "ad": "Weihenstephaner Hefeweissbier",
+   "fab": "Weihenstephan",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.4,
+   "ibu": 14,
+   "hacim": 33,
+   "tl": 160,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/weihenstephaner-bira-fiyat",
+   "bul": "market",
+   "puan": 92,
+   "filtresiz": 1,
+   "uz": "Hefeweizen stil referansı",
+   "not": "Muz ve karanfil; dünyanın en eski fabrikasından buğday klasiği"
+  },
+  {
+   "id": "weihenstephaner-vitus",
+   "ad": "Weihenstephaner Vitus",
+   "fab": "Weihenstephan",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Weizenbock",
+   "aile": "Buğday",
+   "abv": 7.7,
+   "ibu": 17,
+   "hacim": 33,
+   "tl": 195,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/weihenstephaner-bira-fiyat",
+   "bul": "market",
+   "puan": 93,
+   "filtresiz": 1,
+   "uz": "Weizenbock stil referansı",
+   "not": "Kayısı, muz ve baharat; açık renkli, güçlü buğday bock"
+  },
+  {
+   "id": "weihenstephaner-hefeweissbier-dunkel",
+   "ad": "Weihenstephaner Hefeweissbier Dunkel",
+   "fab": "Weihenstephan",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Dunkelweizen",
+   "aile": "Buğday",
+   "abv": 5.3,
+   "ibu": 14,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Karamel ve muzlu ekmek; koyu maltlı buğday"
+  },
+  {
+   "id": "weihenstephaner-kristallweissbier",
+   "ad": "Weihenstephaner Kristallweissbier",
+   "fab": "Weihenstephan",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Kristallweizen",
+   "aile": "Buğday",
+   "abv": 5.4,
+   "ibu": 14,
+   "hacim": 50,
+   "tl": 195,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Filtrelenmiş, berrak ve köpüklü buğday; hafif meyvemsi"
+  },
+  {
+   "id": "weihenstephaner-original-helles",
+   "ad": "Weihenstephaner Original Helles",
+   "fab": "Weihenstephan",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 5.1,
+   "ibu": 21,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Yumuşak malt, hafif çiçeksi şerbetçiotu; temiz Bavyera helles"
+  },
+  {
+   "id": "weihenstephaner-korbinian",
+   "ad": "Weihenstephaner Korbinian",
+   "fab": "Weihenstephan",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.4,
+   "ibu": 32,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Erik, kuru üzüm ve kavrulmuş malt; kadifemsi doppelbock"
+  },
+  {
+   "id": "paulaner-hefe-weissbier",
+   "ad": "Paulaner Hefe-Weißbier Naturtrüb",
+   "fab": "Paulaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.5,
+   "ibu": 12,
+   "hacim": 50,
+   "tl": 185,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Dengeli muz-karanfil, kremsi gövde; Münih'in en bilinen weissbier'i"
+  },
+  {
+   "id": "paulaner-munchner-hell",
+   "ad": "Paulaner Münchner Hell",
+   "fab": "Paulaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "ibu": 18,
+   "hacim": 50,
+   "tl": 175,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Tatlımsı ekmek maltı, yumuşak ve içimi kolay"
+  },
+  {
+   "id": "paulaner-salvator",
+   "ad": "Paulaner Salvator",
+   "fab": "Paulaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.9,
+   "ibu": 25,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Doppelbock'un atası; karamel, kuru meyve, 'sıvı ekmek'"
+  },
+  {
+   "id": "paulaner-oktoberfest-bier",
+   "ad": "Paulaner Oktoberfest Bier",
+   "fab": "Paulaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Festbier",
+   "aile": "Lager & Pilsner",
+   "abv": 6.0,
+   "ibu": 24,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Altın renkli, güçlü ama temiz Oktoberfest çadır birası"
+  },
+  {
+   "id": "paulaner-hefe-weissbier-dunkel",
+   "ad": "Paulaner Hefe-Weißbier Dunkel",
+   "fab": "Paulaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Dunkelweizen",
+   "aile": "Buğday",
+   "abv": 5.3,
+   "hacim": 50,
+   "tl": 195,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Karamel, muz ve hafif kakao; koyu buğday"
+  },
+  {
+   "id": "erdinger-weissbier",
+   "ad": "Erdinger Weissbier",
+   "fab": "Erdinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.3,
+   "ibu": 13,
+   "hacim": 33,
+   "tl": 195,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "bul": "market",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Dünyanın en çok satan weissbier'i; yumuşak, hafif muzlu"
+  },
+  {
+   "id": "erdinger-dunkel",
+   "ad": "Erdinger Dunkel",
+   "fab": "Erdinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Dunkelweizen",
+   "aile": "Buğday",
+   "abv": 5.3,
+   "ibu": 14,
+   "hacim": 50,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kavrulmuş malt, çikolata ve muz; koyu ama hafif içim"
+  },
+  {
+   "id": "erdinger-pikantus",
+   "ad": "Erdinger Pikantus",
+   "fab": "Erdinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Weizenbock",
+   "aile": "Buğday",
+   "abv": 7.3,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Koyu weizenbock; kuru meyve, karamel ve baharat"
+  },
+  {
+   "id": "erdinger-alkoholfrei",
+   "ad": "Erdinger Alkoholfrei",
+   "fab": "Erdinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Alkolsüz Weissbier",
+   "aile": "Buğday",
+   "abv": 0.4,
+   "hacim": 50,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 76,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Sporcuların izotonik bira alternatifi; hafif tahıl ve limon"
+  },
+  {
+   "id": "augustiner-lagerbier-hell",
+   "ad": "Augustiner Lagerbier Hell",
+   "fab": "Augustiner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "ibu": 20,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 91,
+   "filtresiz": 0,
+   "uz": "Helles stilinin kült referansı",
+   "not": "Münihlilerin favorisi; kremsi malt, ince şerbetçiotu, kusursuz denge"
+  },
+  {
+   "id": "augustiner-edelstoff",
+   "ad": "Augustiner Edelstoff",
+   "fab": "Augustiner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Export",
+   "aile": "Lager & Pilsner",
+   "abv": 5.6,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Biraz daha dolgun ve güçlü helles; bal ve ekmek kabuğu"
+  },
+  {
+   "id": "augustiner-maximator",
+   "ad": "Augustiner Maximator",
+   "fab": "Augustiner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.5,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Koyu kehribar doppelbock; karamel, kuru erik, sıcak bitiş"
+  },
+  {
+   "id": "hacker-pschorr-hefe-weisse",
+   "ad": "Hacker-Pschorr Hefe Weisse",
+   "fab": "Hacker-Pschorr",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.5,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Muz ve bal tonlu, yumuşak Münih buğdayı"
+  },
+  {
+   "id": "hacker-pschorr-kellerbier-anno-1417",
+   "ad": "Hacker-Pschorr Münchner Kellerbier Anno 1417",
+   "fab": "Hacker-Pschorr",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Kellerbier",
+   "aile": "Lager & Pilsner",
+   "abv": 5.5,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Filtresiz, bakır renkli mahzen birası; ekmeksi ve yumuşak"
+  },
+  {
+   "id": "hacker-pschorr-oktoberfest-maerzen",
+   "ad": "Hacker-Pschorr Oktoberfest Märzen",
+   "fab": "Hacker-Pschorr",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Märzen",
+   "aile": "Koyu Lager & Bock",
+   "abv": 5.8,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kehribar Märzen; kızarmış ekmek ve karamel"
+  },
+  {
+   "id": "lowenbrau-original",
+   "ad": "Löwenbräu Original",
+   "fab": "Löwenbräu",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "ibu": 20,
+   "hacim": 50,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Aslan logolu klasik Münih helles; hafif, temiz, tahıllı"
+  },
+  {
+   "id": "lowenbrau-oktoberfestbier",
+   "ad": "Löwenbräu Oktoberfestbier",
+   "fab": "Löwenbräu",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Festbier",
+   "aile": "Lager & Pilsner",
+   "abv": 6.1,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 83,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Altın renkli festbier; dolgun malt, yumuşak bitiş"
+  },
+  {
+   "id": "spaten-munchner-hell",
+   "ad": "Spaten Münchner Hell",
+   "fab": "Spaten",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "ibu": 21,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "1894'te ilk Münih helles'ini yapan fabrikadan; tahıl ve bal"
+  },
+  {
+   "id": "spaten-oktoberfestbier",
+   "ad": "Spaten Oktoberfestbier",
+   "fab": "Spaten",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Festbier",
+   "aile": "Lager & Pilsner",
+   "abv": 5.9,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Oktoberfest'in açılış fıçısının birası; dolgun ve parlak"
+  },
+  {
+   "id": "spaten-optimator",
+   "ad": "Spaten Optimator",
+   "fab": "Spaten",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.6,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Koyu, kahve ve karamel tonlu klasik Münih doppelbock"
+  },
+  {
+   "id": "franziskaner-hefe-weissbier",
+   "ad": "Franziskaner Hefe-Weissbier Naturtrüb",
+   "fab": "Franziskaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.0,
+   "ibu": 12,
+   "hacim": 50,
+   "tl": 185,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Keşiş logolu Münih weissbier'i; meyvemsi, hafif ve ferah"
+  },
+  {
+   "id": "hofbrau-original",
+   "ad": "Hofbräu Original",
+   "fab": "Hofbräu München",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 5.1,
+   "ibu": 21,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 83,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Hofbräuhaus'un altın birası; temiz malt, hafif acılık"
+  },
+  {
+   "id": "hofbrau-hefe-weizen",
+   "ad": "Hofbräu Hefe Weizen",
+   "fab": "Hofbräu München",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.1,
+   "hacim": 50,
+   "tl": 195,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Muz ve karanfil, hafif ekşimsi ferahlık"
+  },
+  {
+   "id": "hofbrau-oktoberfestbier",
+   "ad": "Hofbräu Oktoberfestbier",
+   "fab": "Hofbräu München",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Festbier",
+   "aile": "Lager & Pilsner",
+   "abv": 6.3,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Güçlü ve parlak festbier; bal ve tahıl"
+  },
+  {
+   "id": "hofbrau-maibock",
+   "ad": "Hofbräu Maibock",
+   "fab": "Hofbräu München",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Maibock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.2,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bahar bock'u; açık bakır renk, bal ve çiçeksi şerbetçiotu"
+  },
+  {
+   "id": "schneider-weisse-tap7-original",
+   "ad": "Schneider Weisse TAP7 Unser Original",
+   "fab": "Schneider Weisse",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Weissbier (kehribar)",
+   "aile": "Buğday",
+   "abv": 5.4,
+   "ibu": 14,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kehribar weissbier; karanfil, muz ve hafif karamel"
+  },
+  {
+   "id": "schneider-aventinus",
+   "ad": "Schneider Weisse TAP6 Unser Aventinus",
+   "fab": "Schneider Weisse",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Weizenbock",
+   "aile": "Buğday",
+   "abv": 8.2,
+   "ibu": 16,
+   "hacim": 50,
+   "tl": 290,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "RateBeer en iyi biralar listesi müdavimi",
+   "not": "İlk weizenbock; muz, kuru erik, karamel ve baharat"
+  },
+  {
+   "id": "schneider-aventinus-eisbock",
+   "ad": "Schneider Weisse Aventinus Weizen-Eisbock",
+   "fab": "Schneider Weisse",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Weizen-Eisbock",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 12.0,
+   "hacim": 33,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "filtresiz": 1,
+   "uz": "Eisbock kategorisinin ikonlarından",
+   "not": "Dondurularak yoğunlaştırılmış Aventinus; likör gibi kuru meyve"
+  },
+  {
+   "id": "schneider-hopfenweisse",
+   "ad": "Schneider Weisse TAP5 Meine Hopfenweisse",
+   "fab": "Schneider Weisse",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Weizenbock (şerbetçiotlu)",
+   "aile": "Buğday",
+   "abv": 8.2,
+   "ibu": 40,
+   "hacim": 50,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Bavyera buğdayı ile Amerikan şerbetçiotu buluşması; ananas, muz"
+  },
+  {
+   "id": "ayinger-celebrator",
+   "ad": "Ayinger Celebrator",
+   "fab": "Ayinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 6.7,
+   "ibu": 24,
+   "hacim": 33,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 96,
+   "filtresiz": 0,
+   "uz": "Doppelbock kategorisinde dünyanın en çok ödüllülerinden",
+   "not": "Kavrulmuş malt, çikolata, kuru erik; boynunda keçi figürü"
+  },
+  {
+   "id": "ayinger-brauweisse",
+   "ad": "Ayinger Bräuweisse",
+   "fab": "Ayinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.1,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Canlı muz, karanfil ve limon; ferah köy buğdayı"
+  },
+  {
+   "id": "ayinger-jahrhundert-bier",
+   "ad": "Ayinger Jahrhundert-Bier",
+   "fab": "Ayinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Export",
+   "aile": "Lager & Pilsner",
+   "abv": 5.5,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Fabrikanın 100. yılı için; altın renk, bal ve tahıl"
+  },
+  {
+   "id": "ayinger-kellerbier",
+   "ad": "Ayinger Kellerbier",
+   "fab": "Ayinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Kellerbier",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Filtresiz mahzen birası; ekmeksi, yumuşak, hafif otsu"
+  },
+  {
+   "id": "ayinger-oktober-fest-maerzen",
+   "ad": "Ayinger Oktober Fest-Märzen",
+   "fab": "Ayinger",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Märzen",
+   "aile": "Koyu Lager & Bock",
+   "abv": 5.8,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 89,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Altın-kehribar Märzen; kızarmış malt, temiz bitiş"
+  },
+  {
+   "id": "andechser-doppelbock-dunkel",
+   "ad": "Andechser Doppelbock Dunkel",
+   "fab": "Klosterbrauerei Andechs",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.1,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 94,
+   "filtresiz": 0,
+   "uz": "Doppelbock'un en yüksek puanlılarından",
+   "not": "Manastır doppelbock'u; kakao, kuru meyve ve kavrulmuş ekmek"
+  },
+  {
+   "id": "andechser-weissbier-hefetrub",
+   "ad": "Andechser Weissbier Hefetrüb",
+   "fab": "Klosterbrauerei Andechs",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.5,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kremsi gövde, olgun muz ve karanfil"
+  },
+  {
+   "id": "andechser-vollbier-hell",
+   "ad": "Andechser Vollbier Hell",
+   "fab": "Klosterbrauerei Andechs",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Hafif ve ekmeksi; manastır terasının günlük birası"
+  },
+  {
+   "id": "tegernseer-hell",
+   "ad": "Tegernseer Hell",
+   "fab": "Tegernseer",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bavyera'da kült statüsünde helles; yumuşak, çiçeksi, tatlımsı"
+  },
+  {
+   "id": "tegernseer-spezial",
+   "ad": "Tegernseer Spezial",
+   "fab": "Tegernseer",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Export",
+   "aile": "Lager & Pilsner",
+   "abv": 5.6,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Daha dolgun malt, bal tonları; Tegernsee göl manastırından"
+  },
+  {
+   "id": "riegele-commerzienrat-privat",
+   "ad": "Riegele Commerzienrat Riegele Privat",
+   "fab": "Riegele",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Export",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "World Beer Cup altın madalya",
+   "not": "Augsburg'dan altın renkli, dengeli ve zarif lager"
+  },
+  {
+   "id": "crew-republic-drunken-sailor",
+   "ad": "Crew Republic Drunken Sailor",
+   "fab": "Crew Republic",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.4,
+   "ibu": 65,
+   "hacim": 33,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Alman craft hareketinin öncülerinden; tropik meyve, reçine"
+  },
+  {
+   "id": "schlenkerla-rauchbier-maerzen",
+   "ad": "Aecht Schlenkerla Rauchbier Märzen",
+   "fab": "Schlenkerla",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Rauchbier",
+   "aile": "Özel & Diğer",
+   "abv": 5.1,
+   "ibu": 30,
+   "hacim": 50,
+   "tl": 290,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 93,
+   "filtresiz": 0,
+   "uz": "Rauchbier stilinin tartışmasız referansı",
+   "not": "Kayın odunu dumanında kurutulmuş malt; isli jambon ve kavrulmuş ekmek"
+  },
+  {
+   "id": "schlenkerla-urbock",
+   "ad": "Aecht Schlenkerla Rauchbier Urbock",
+   "fab": "Schlenkerla",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Rauchbock",
+   "aile": "Özel & Diğer",
+   "abv": 6.5,
+   "hacim": 50,
+   "tl": 310,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 92,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Daha güçlü, dolgun isli bock; karamel ve odun ateşi"
+  },
+  {
+   "id": "schlenkerla-eiche",
+   "ad": "Aecht Schlenkerla Eiche",
+   "fab": "Schlenkerla",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Rauch-Doppelbock",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 8.0,
+   "hacim": 50,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Meşe dumanlı malt; daha yumuşak is, kuru meyve ve vanilya"
+  },
+  {
+   "id": "schlenkerla-helles",
+   "ad": "Aecht Schlenkerla Helles Lagerbier",
+   "fab": "Schlenkerla",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.3,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İsli malt kullanılmaz ama ekipmandan gelen hafif is izi taşır"
+  },
+  {
+   "id": "spezial-rauchbier-lager",
+   "ad": "Spezial Rauchbier Lager",
+   "fab": "Brauerei Spezial",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Rauchbier",
+   "aile": "Özel & Diğer",
+   "abv": 4.7,
+   "hacim": 50,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Schlenkerla'dan daha nazik isli lager; Bamberg'in ikinci klasiği"
+  },
+  {
+   "id": "mahrs-ungespundet",
+   "ad": "Mahr's Bräu Ungespundet Lagerbier \"U\"",
+   "fab": "Mahr's Bräu",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Kellerbier",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "Kellerbier stilinin ikonlarından",
+   "not": "Bamberg'in efsanevi 'U'su; filtresiz, düşük karbonasyon, ekmeksi"
+  },
+  {
+   "id": "mahrs-der-weisse-bock",
+   "ad": "Mahr's Bräu Der Weisse Bock",
+   "fab": "Mahr's Bräu",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Weizenbock",
+   "aile": "Buğday",
+   "abv": 7.2,
+   "hacim": 50,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Açık renkli buğday bock; muz, bal ve hafif baharat"
+  },
+  {
+   "id": "kulmbacher-eisbock",
+   "ad": "Kulmbacher Eisbock",
+   "fab": "Kulmbacher",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Eisbock",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 9.2,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "Eisbock stilinin tarihî referansı",
+   "not": "Eisbock'un doğduğu şehirden; karamel, kuru meyve, likörümsü"
+  },
+  {
+   "id": "monchshof-kellerbier",
+   "ad": "Mönchshof Kellerbier",
+   "fab": "Kulmbacher",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Kellerbier",
+   "aile": "Lager & Pilsner",
+   "abv": 5.4,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kehribar renkli, filtresiz Franken mahzen birası"
+  },
+  {
+   "id": "keesmann-herren-pils",
+   "ad": "Keesmann Herren Pils",
+   "fab": "Keesmann",
+   "ulke": "Almanya",
+   "bolge": "Franken",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.6,
+   "hacim": 50,
+   "tl": 270,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bamberg'in en sevilen pilsi; zarif, yumuşak acılık"
+  },
+  {
+   "id": "weltenburger-barock-dunkel",
+   "ad": "Weltenburger Kloster Barock Dunkel",
+   "fab": "Weltenburger Kloster",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Münchner Dunkel",
+   "aile": "Koyu Lager & Bock",
+   "abv": 4.7,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "World Beer Cup'ta defalarca Dunkel altını",
+   "not": "Dünyanın en eski manastır fabrikalarından; kakao, ekmek kabuğu"
+  },
+  {
+   "id": "weltenburger-asam-bock",
+   "ad": "Weltenburger Kloster Asam Bock",
+   "fab": "Weltenburger Kloster",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 6.9,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Barok kilisenin adını taşıyan koyu, kremsi doppelbock"
+  },
+  {
+   "id": "fruh-kolsch",
+   "ad": "Früh Kölsch",
+   "fab": "Früh",
+   "ulke": "Almanya",
+   "bolge": "Köln",
+   "stil": "Kölsch",
+   "aile": "Özel & Diğer",
+   "abv": 4.8,
+   "ibu": 22,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Katedralin dibindeki birahanenin kölsch'ü; hafif meyve, kuru bitiş"
+  },
+  {
+   "id": "reissdorf-kolsch",
+   "ad": "Reissdorf Kölsch",
+   "fab": "Reissdorf",
+   "ulke": "Almanya",
+   "bolge": "Köln",
+   "stil": "Kölsch",
+   "aile": "Özel & Diğer",
+   "abv": 4.8,
+   "ibu": 21,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kölnlülerin favorilerinden; yumuşak, hafif armut ve ekmek"
+  },
+  {
+   "id": "gaffel-kolsch",
+   "ad": "Gaffel Kölsch",
+   "fab": "Gaffel",
+   "ulke": "Almanya",
+   "bolge": "Köln",
+   "stil": "Kölsch",
+   "aile": "Özel & Diğer",
+   "abv": 4.8,
+   "ibu": 24,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Daha belirgin şerbetçiotu, temiz ve canlı"
+  },
+  {
+   "id": "paffgen-kolsch",
+   "ad": "Päffgen Kölsch",
+   "fab": "Päffgen",
+   "ulke": "Almanya",
+   "bolge": "Köln",
+   "stil": "Kölsch",
+   "aile": "Özel & Diğer",
+   "abv": 4.8,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Yalnızca fıçıdan servis edilen geleneksel aile kölsch'ü"
+  },
+  {
+   "id": "uerige-alt",
+   "ad": "Uerige Alt",
+   "fab": "Uerige",
+   "ulke": "Almanya",
+   "bolge": "Düsseldorf",
+   "stil": "Altbier",
+   "aile": "Özel & Diğer",
+   "abv": 4.7,
+   "ibu": 50,
+   "hacim": 50,
+   "tl": 270,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "Altbier stil referansı",
+   "not": "Düsseldorf'un en acı altı; kavrulmuş malt ve otsu şerbetçiotu"
+  },
+  {
+   "id": "uerige-sticke",
+   "ad": "Uerige Sticke",
+   "fab": "Uerige",
+   "ulke": "Almanya",
+   "bolge": "Düsseldorf",
+   "stil": "Sticke Alt",
+   "aile": "Özel & Diğer",
+   "abv": 6.0,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Yılda iki kez çıkan 'gizli' güçlü alt; karamel ve sert acılık"
+  },
+  {
+   "id": "schumacher-alt",
+   "ad": "Schumacher Alt",
+   "fab": "Schumacher",
+   "ulke": "Almanya",
+   "bolge": "Düsseldorf",
+   "stil": "Altbier",
+   "aile": "Özel & Diğer",
+   "abv": 4.6,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Şehrin en eski alt fabrikası; yumuşak malt, kuru bitiş"
+  },
+  {
+   "id": "fuchschen-alt",
+   "ad": "Füchschen Alt",
+   "fab": "Füchschen",
+   "ulke": "Almanya",
+   "bolge": "Düsseldorf",
+   "stil": "Altbier",
+   "aile": "Özel & Diğer",
+   "abv": 4.5,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Altstadt'ın tilki logolu altı; dengeli, kahverengi ekmek"
+  },
+  {
+   "id": "jever-pilsener",
+   "ad": "Jever Pilsener",
+   "fab": "Jever",
+   "ulke": "Almanya",
+   "bolge": "Kuzey Almanya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "ibu": 38,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "'Frizya acısı'; Almanya'nın en kuru ve acı ana akım pilsi"
+  },
+  {
+   "id": "becks",
+   "ad": "Beck's",
+   "fab": "Beck's",
+   "ulke": "Almanya",
+   "bolge": "Kuzey Almanya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "ibu": 20,
+   "hacim": 50,
+   "tl": 135,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/carrefour-bira-fiyatlari",
+   "bul": "market",
+   "puan": 77,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bremen'in yeşil şişesi; temiz, hafif acı, her markette"
+  },
+  {
+   "id": "flensburger-pilsener",
+   "ad": "Flensburger Pilsener",
+   "fab": "Flensburger",
+   "ulke": "Almanya",
+   "bolge": "Kuzey Almanya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "ibu": 34,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Klipsli 'plop' şişesiyle ünlü, kuru ve otsu kuzey pilsi"
+  },
+  {
+   "id": "einbecker-ur-bock-dunkel",
+   "ad": "Einbecker Ur-Bock Dunkel",
+   "fab": "Einbecker",
+   "ulke": "Almanya",
+   "bolge": "Kuzey Almanya",
+   "stil": "Dunkles Bock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 6.5,
+   "hacim": 33,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bock adını veren şehirden; karamel, ekmek kabuğu"
+  },
+  {
+   "id": "warsteiner-premium",
+   "ad": "Warsteiner Premium Pilsener",
+   "fab": "Warsteiner",
+   "ulke": "Almanya",
+   "bolge": "Batı Almanya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "ibu": 25,
+   "hacim": 50,
+   "tl": 160,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 78,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Sauerland'den hafif ve ferah, yaygın Alman pilsi"
+  },
+  {
+   "id": "krombacher-pils",
+   "ad": "Krombacher Pils",
+   "fab": "Krombacher",
+   "ulke": "Almanya",
+   "bolge": "Batı Almanya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "ibu": 24,
+   "hacim": 50,
+   "tl": 130,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "bul": "market",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kaya kaynağı suyuyla; yumuşak, dengeli, Almanya'nın en çok satanlarından"
+  },
+  {
+   "id": "bitburger-premium-pils",
+   "ad": "Bitburger Premium Pils",
+   "fab": "Bitburger",
+   "ulke": "Almanya",
+   "bolge": "Batı Almanya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "ibu": 30,
+   "hacim": 50,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "'Bitte ein Bit'; kuru, otsu ve net acılık"
+  },
+  {
+   "id": "rothaus-tannenzaepfle",
+   "ad": "Rothaus Pils Tannenzäpfle",
+   "fab": "Rothaus",
+   "ulke": "Almanya",
+   "bolge": "Baden-Württemberg",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 5.1,
+   "hacim": 33,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kara Orman'ın kült küçük şişesi; çiçeksi, yumuşak, berrak"
+  },
+  {
+   "id": "radeberger-pilsner",
+   "ad": "Radeberger Pilsner",
+   "fab": "Radeberger",
+   "ulke": "Almanya",
+   "bolge": "Saksonya",
+   "stil": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "ibu": 30,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Dresden yakınından ince, kuru ve zarif pils"
+  },
+  {
+   "id": "kostritzer-schwarzbier",
+   "ad": "Köstritzer Schwarzbier",
+   "fab": "Köstritzer",
+   "ulke": "Almanya",
+   "bolge": "Thüringen",
+   "stil": "Schwarzbier",
+   "aile": "Koyu Lager & Bock",
+   "abv": 4.8,
+   "ibu": 25,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "Schwarzbier stil referansı",
+   "not": "Siyah ama hafif; kahve, bitter çikolata, kuru bitiş"
+  },
+  {
+   "id": "berliner-kindl-weisse",
+   "ad": "Berliner Kindl Weisse",
+   "fab": "Berliner Kindl",
+   "ulke": "Almanya",
+   "bolge": "Berlin",
+   "stil": "Berliner Weisse",
+   "aile": "Ekşi & Vahşi",
+   "abv": 3.0,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 75,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Ekşi, hafif buğday; geleneksel olarak ahududu ya da lamba şurubuyla"
+  },
+  {
+   "id": "schneeeule-marlene",
+   "ad": "Schneeeule Marlene",
+   "fab": "Schneeeule",
+   "ulke": "Almanya",
+   "bolge": "Berlin",
+   "stil": "Berliner Weisse",
+   "aile": "Ekşi & Vahşi",
+   "abv": 3.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Brettanomyces'li geleneksel Berliner Weisse yeniden doğuşu; limon, çiftlik",
+   "guven": "tahmin"
+  },
+  {
+   "id": "ritterguts-gose",
+   "ad": "Original Ritterguts Gose",
+   "fab": "Ritterguts Gose",
+   "ulke": "Almanya",
+   "bolge": "Saksonya",
+   "stil": "Gose",
+   "aile": "Ekşi & Vahşi",
+   "abv": 4.7,
+   "hacim": 50,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kişniş ve tuzlu ekşi buğday; unutulan Leipzig stilinin canlanışı"
+  },
+  {
+   "id": "bayerischer-bahnhof-gose",
+   "ad": "Leipziger Gose (Bayerischer Bahnhof)",
+   "fab": "Bayerischer Bahnhof",
+   "ulke": "Almanya",
+   "bolge": "Saksonya",
+   "stil": "Gose",
+   "aile": "Ekşi & Vahşi",
+   "abv": 4.5,
+   "hacim": 50,
+   "tl": 290,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Leipzig garından; hafif tuz, kişniş ve limon"
+  },
+  {
+   "id": "stiegl-goldbrau",
+   "ad": "Stiegl Goldbräu",
+   "fab": "Stiegl",
+   "ulke": "Avusturya",
+   "bolge": "Salzburg",
+   "stil": "Avusturya Märzen",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "ibu": 19,
+   "hacim": 50,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Avusturya'nın tipik açık Märzen'i; yumuşak malt, hafif acılık"
+  },
+  {
+   "id": "stiegl-grapefruit-radler",
+   "ad": "Stiegl Grapefruit Radler",
+   "fab": "Stiegl",
+   "ulke": "Avusturya",
+   "bolge": "Salzburg",
+   "stil": "Radler",
+   "aile": "Özel & Diğer",
+   "abv": 2.0,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bira ve greyfurt suyu; yaz için ferah, düşük alkollü"
+  },
+  {
+   "id": "trumer-pils",
+   "ad": "Trumer Pils",
+   "fab": "Trumer",
+   "ulke": "Avusturya",
+   "bolge": "Salzburg",
+   "stil": "Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "ibu": 26,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Açık fermantasyon tanklarında; zarif, çiçeksi, şampanya gibi köpük"
+  },
+  {
+   "id": "gosser-marzen",
+   "ad": "Gösser Märzen",
+   "fab": "Gösser",
+   "ulke": "Avusturya",
+   "bolge": "Steiermark",
+   "stil": "Avusturya Märzen",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Leoben'den yumuşak, tahıllı ve hafif tatlımsı Märzen"
+  },
+  {
+   "id": "zipfer-urtyp",
+   "ad": "Zipfer Urtyp",
+   "fab": "Zipfer",
+   "ulke": "Avusturya",
+   "bolge": "Yukarı Avusturya",
+   "stil": "Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 5.4,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Belirgin şerbetçiotu, kuru ve canlı Avusturya lager'ı"
+  },
+  {
+   "id": "samichlaus-classic",
+   "ad": "Samichlaus Classic",
+   "fab": "Schloss Eggenberg",
+   "ulke": "Avusturya",
+   "bolge": "Yukarı Avusturya",
+   "stil": "Doppelbock",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 14.0,
+   "hacim": 33,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "Bir dönem dünyanın en güçlü birası (Guinness kaydı)",
+   "not": "Yalnızca 6 Aralık'ta mayalanan dünyanın en güçlü lager'larından"
+  },
+  {
+   "id": "ottakringer-wiener-original",
+   "ad": "Ottakringer Wiener Original",
+   "fab": "Ottakringer",
+   "ulke": "Avusturya",
+   "bolge": "Viyana",
+   "stil": "Vienna Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 5.3,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Viyana'nın kendi stili; kehribar, karamel ve tost"
+  },
+  {
+   "id": "schremser-edelmarzen",
+   "ad": "Schremser Edelmärzen",
+   "fab": "Schremser",
+   "ulke": "Avusturya",
+   "bolge": "Aşağı Avusturya",
+   "stil": "Avusturya Märzen",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Waldviertel'in granit suyuyla yumuşak, ekmeksi Märzen",
+   "guven": "tahmin"
+  },
+  {
+   "id": "pilsner-urquell",
+   "ad": "Pilsner Urquell",
+   "fab": "Pilsner Urquell",
+   "ulke": "Çekya",
+   "bolge": "Plzeň",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.4,
+   "ibu": 40,
+   "hacim": 50,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 92,
+   "filtresiz": 0,
+   "uz": "Pilsner stilinin atası",
+   "not": "1842'de ilk pilsner; Saaz şerbetçiotu, bal tonlu malt, belirgin acılık"
+  },
+  {
+   "id": "budweiser-budvar-original",
+   "ad": "Budweiser Budvar Original",
+   "fab": "Budějovický Budvar",
+   "ulke": "Çekya",
+   "bolge": "Güney Bohemya",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "ibu": 22,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "Korumalı coğrafi işaret (Budějovické pivo)",
+   "not": "90 gün lagerlenen devlet fabrikası birası; yumuşak, bal, Saaz"
+  },
+  {
+   "id": "budvar-tmavy-lezak",
+   "ad": "Budweiser Budvar Dark",
+   "fab": "Budějovický Budvar",
+   "ulke": "Çekya",
+   "bolge": "Güney Bohemya",
+   "stil": "Czech Dark Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 4.7,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kahve, karamel ve meyankökü; yumuşak koyu Çek lager'ı"
+  },
+  {
+   "id": "kozel-premium",
+   "ad": "Velkopopovický Kozel Premium",
+   "fab": "Kozel",
+   "ulke": "Çekya",
+   "bolge": "Orta Bohemya",
+   "stil": "Czech Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.6,
+   "hacim": 50,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Keçi logolu hafif Çek lager'ı; tahıl ve yumuşak acılık"
+  },
+  {
+   "id": "kozel-cerny",
+   "ad": "Velkopopovický Kozel Černý",
+   "fab": "Kozel",
+   "ulke": "Çekya",
+   "bolge": "Orta Bohemya",
+   "stil": "Czech Dark Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 3.8,
+   "hacim": 50,
+   "tl": 145,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kremsi koyu lager; karamel, kahve, düşük alkol"
+  },
+  {
+   "id": "staropramen-premium",
+   "ad": "Staropramen Premium",
+   "fab": "Staropramen",
+   "ulke": "Çekya",
+   "bolge": "Prag",
+   "stil": "Czech Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Prag'ın Smíchov semtinden; tahıllı, hafif ve dengeli"
+  },
+  {
+   "id": "unetice-12",
+   "ad": "Únětické pivo 12°",
+   "fab": "Únětický pivovar",
+   "ulke": "Çekya",
+   "bolge": "Prag",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Prag kenarından filtresiz, pastörize edilmemiş ležák; taze ve dolgun"
+  },
+  {
+   "id": "bernard-svatecni-lezak",
+   "ad": "Bernard Sváteční ležák",
+   "fab": "Bernard",
+   "ulke": "Çekya",
+   "bolge": "Vysočina",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Pastörize edilmemiş 'bayram birası'; bal, ekmek, otsu acılık"
+  },
+  {
+   "id": "bernard-cerny-lezak",
+   "ad": "Bernard Černý ležák",
+   "fab": "Bernard",
+   "ulke": "Çekya",
+   "bolge": "Vysočina",
+   "stil": "Czech Dark Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 5.1,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kakao ve karamel; tatlımsı ama temiz koyu lager"
+  },
+  {
+   "id": "krusovice-imperial",
+   "ad": "Krušovice Imperial",
+   "fab": "Krušovice",
+   "ulke": "Çekya",
+   "bolge": "Orta Bohemya",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kraliyet fabrikasından altın lager; tatlımsı malt, hafif acılık"
+  },
+  {
+   "id": "krusovice-cerne",
+   "ad": "Krušovice Černé",
+   "fab": "Krušovice",
+   "ulke": "Çekya",
+   "bolge": "Orta Bohemya",
+   "stil": "Czech Dark Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 3.8,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Hafif gövdeli, karamel ve kavrulmuş malt tonlu koyu bira"
+  },
+  {
+   "id": "svijansky-maz-11",
+   "ad": "Svijanský Máz 11°",
+   "fab": "Svijany",
+   "ulke": "Çekya",
+   "bolge": "Kuzey Bohemya",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Pastörize edilmemiş, bağımsız fabrika; dolgun malt, temiz acılık"
+  },
+  {
+   "id": "matuska-raptor-ipa",
+   "ad": "Matuška Raptor IPA",
+   "fab": "Matuška",
+   "ulke": "Çekya",
+   "bolge": "Orta Bohemya",
+   "stil": "IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.3,
+   "hacim": 50,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Çek craft sahnesinin yıldızı; narenciye, reçine, kuru bitiş",
+   "guven": "tahmin"
+  },
+  {
+   "id": "kout-na-sumave-12",
+   "ad": "Kout na Šumavě 12°",
+   "fab": "Kout na Šumavě",
+   "ulke": "Çekya",
+   "bolge": "Plzeň",
+   "stil": "Czech Premium Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Meraklıların 'en iyi Çek ležák'ı; yoğun malt, ince Saaz"
+  }
+ ],
+ "fabrikalar": {
+  "Weihenstephan": {
+   "k": 1040,
+   "s": "Bavyera eyaleti",
+   "y": "Freising, Bavyera",
+   "stil": "Bavyera buğday ve lager",
+   "h": "Benediktin manastırında kurulduğu kabul edilen, dünyanın hâlâ çalışan en eski bira fabrikası. Bugün Münih Teknik Üniversitesi'nin bira bilimi kampüsüyle iç içe ve Bavyera eyaletine ait."
+  },
+  "Paulaner": {
+   "k": 1634,
+   "s": "Paulaner Brauerei Gruppe (Schörghuber & Heineken)",
+   "y": "Münih, Bavyera",
+   "stil": "Weissbier, helles, doppelbock",
+   "h": "Paulaner rahiplerinin oruç dönemi için yaptığı 'Salvator' ile doppelbock stilini başlattı. Oktoberfest'in altı resmi fabrikasından biri ve Almanya'nın en büyük ihracatçılarından."
+  },
+  "Erdinger": {
+   "k": 1886,
+   "s": "Brombach ailesi",
+   "y": "Erding, Bavyera",
+   "stil": "Weissbier",
+   "h": "Dünyanın en büyük weissbier fabrikası. Yalnızca buğday birası üretir, ayrıca alkolsüz versiyonuyla spor dünyasında çok bilinir."
+  },
+  "Augustiner": {
+   "k": 1328,
+   "s": "Edith-Haberland-Wagner Vakfı",
+   "y": "Münih, Bavyera",
+   "stil": "Helles ve Bavyera lager",
+   "h": "Münih'in en eski fabrikası; Augustin rahiplerinin manastırından doğdu. Reklam yapmamasıyla ünlü, buna rağmen şehirde kült statüsünde."
+  },
+  "Hacker-Pschorr": {
+   "k": 1417,
+   "s": "Paulaner Brauerei Gruppe",
+   "y": "Münih, Bavyera",
+   "stil": "Münih lager ve weissbier",
+   "h": "Hacker ve Pschorr ailelerinin birleşmesiyle oluşan tarihî Münih markası. Oktoberfest'in altı resmi fabrikasından biri."
+  },
+  "Löwenbräu": {
+   "k": 1383,
+   "s": "AB InBev",
+   "y": "Münih, Bavyera",
+   "stil": "Münih helles ve festbier",
+   "h": "Aslan logosuyla dünyaca tanınan Münih fabrikası. Oktoberfest'te kendi çadırı bulunur."
+  },
+  "Spaten": {
+   "k": 1397,
+   "s": "AB InBev",
+   "y": "Münih, Bavyera",
+   "stil": "Helles, Märzen, doppelbock",
+   "h": "Gabriel Sedlmayr döneminde lager biliminin öncüsü oldu; 1894'te Münih'in ilk helles'ini üretti. Oktoberfest açılış fıçısı geleneksel olarak Spaten'dir."
+  },
+  "Franziskaner": {
+   "k": 1363,
+   "s": "AB InBev (Spaten-Franziskaner-Bräu)",
+   "y": "Münih, Bavyera",
+   "stil": "Weissbier",
+   "h": "Adını Fransisken manastırına komşu ilk fabrikasından alır. Keşiş logolu weissbier'leriyle dünya çapında yaygın."
+  },
+  "Hofbräu München": {
+   "k": 1589,
+   "s": "Bavyera eyaleti",
+   "y": "Münih, Bavyera",
+   "stil": "Helles, weizen, bock",
+   "h": "Bavyera Dükü V. Wilhelm'in saray fabrikası olarak kuruldu. Dünyaca ünlü Hofbräuhaus birahanesi ve Maibock geleneğiyle bilinir."
+  },
+  "Schneider Weisse": {
+   "k": 1872,
+   "s": "Schneider ailesi",
+   "y": "Kelheim, Bavyera",
+   "stil": "Weissbier ve weizenbock",
+   "h": "Georg Schneider, buğday birası tekelini kraliyetten satın alarak weissbier'i halka taşıdı. 1907'de ilk weizenbock Aventinus'u yarattı; bugün hâlâ aile işletmesi."
+  },
+  "Ayinger": {
+   "k": 1878,
+   "s": "Inselkammer ailesi",
+   "y": "Aying, Bavyera",
+   "stil": "Bavyera lager, doppelbock, weissbier",
+   "h": "Münih'in güneyindeki köy fabrikası. Celebrator doppelbock'u ile uluslararası yarışmalarda en çok ödül alan Alman fabrikalarından."
+  },
+  "Klosterbrauerei Andechs": {
+   "k": 1455,
+   "s": "Benediktin manastırı (St. Bonifaz)",
+   "y": "Andechs, Bavyera",
+   "stil": "Manastır lager ve doppelbock",
+   "h": "Ammersee yakınında tepedeki hac manastırının fabrikası. Hâlâ rahiplerin sahipliğinde; doppelbock'u stilin zirvesi sayılır."
+  },
+  "Tegernseer": {
+   "k": 1675,
+   "s": "Wittelsbach hanedanı (Herzogliches Brauhaus Tegernsee)",
+   "y": "Tegernsee, Bavyera",
+   "stil": "Helles",
+   "h": "Eski Benediktin manastırında, Tegernsee gölü kıyısında. Helles'i Bavyera'da yeni nesil arasında kült hâline geldi."
+  },
+  "Riegele": {
+   "k": 1884,
+   "s": "Riegele ailesi",
+   "y": "Augsburg, Bavyera",
+   "stil": "Lager ve özel biralar",
+   "h": "Augsburg'un köklü aile fabrikası; Sebastian Priller-Riegele döneminde yaratıcı biralar ve uluslararası ödüllerle öne çıktı."
+  },
+  "Crew Republic": {
+   "k": 2011,
+   "s": "Bağımsız",
+   "y": "Unterschleißheim, Bavyera",
+   "stil": "IPA ve craft",
+   "h": "İki arkadaşın kurduğu, Alman craft bira hareketinin ilk dalgasındaki markalardan. Saflık yasası ülkesinde Amerikan tarzı IPA'larıyla tanındı."
+  },
+  "Schlenkerla": {
+   "k": 1405,
+   "s": "Trum ailesi (Brauerei Heller-Trum)",
+   "y": "Bamberg, Franken",
+   "stil": "Rauchbier",
+   "h": "Bamberg'in tarihî birahanesi ve isli biranın simgesi. Maltı hâlâ kendi tesislerinde kayın odunu dumanıyla kurutur."
+  },
+  "Brauerei Spezial": {
+   "k": 1536,
+   "s": "Merz ailesi",
+   "y": "Bamberg, Franken",
+   "stil": "Rauchbier",
+   "h": "Bamberg'de kendi isli maltını üreten iki fabrikadan biri. Daha yumuşak dumanlı biralarıyla Schlenkerla'nın nazik kardeşi sayılır."
+  },
+  "Mahr's Bräu": {
+   "k": 1670,
+   "s": "Michel ailesi",
+   "y": "Bamberg, Franken",
+   "stil": "Kellerbier ve Franken lager",
+   "h": "Bamberg'in Wunderburg semtinde aile fabrikası ve birahanesi. 'U' (ungespundet) kellerbier'i dünyaca meraklıların hac noktası."
+  },
+  "Kulmbacher": {
+   "k": 1846,
+   "s": "Kulmbacher Gruppe (Paulaner grubu)",
+   "y": "Kulmbach, Franken",
+   "stil": "Eisbock, kellerbier, lager",
+   "h": "Eisbock'un doğduğu Kulmbach'ın büyük fabrikası; Mönchshof markasını da üretir. Şehrin bira müzesi de bu çatı altında."
+  },
+  "Keesmann": {
+   "k": 1867,
+   "s": "Keesmann ailesi",
+   "y": "Bamberg, Franken",
+   "stil": "Pils ve Franken lager",
+   "h": "Bamberg'in Wunderburg semtinde, Mahr's'ın tam karşısında küçük bir aile fabrikası. Herren Pils'i şehrin en sevilen pilsi."
+  },
+  "Weltenburger Kloster": {
+   "k": 1050,
+   "s": "Benediktin manastırı (Bischofshof işletir)",
+   "y": "Kelheim, Bavyera",
+   "stil": "Dunkel ve bock",
+   "h": "Tuna kıyısındaki Weltenburg manastırında; dünyanın en eski manastır fabrikalarından. Barock Dunkel'i uluslararası yarışmalarda pek çok kez birinci oldu."
+  },
+  "Früh": {
+   "k": 1904,
+   "s": "Cölner Hofbräu P. Josef Früh",
+   "y": "Köln",
+   "stil": "Kölsch",
+   "h": "Köln Katedrali'nin yanındaki dev birahanesiyle şehrin simgelerinden. Kölsch, ince 'Stange' bardaklarda servis edilir."
+  },
+  "Reissdorf": {
+   "k": 1894,
+   "s": "Reissdorf ailesi",
+   "y": "Köln",
+   "stil": "Kölsch",
+   "h": "Kölnlülerin en sevdiği kölsch'lerden biri. Aile işletmesi olarak kalmaya devam ediyor."
+  },
+  "Gaffel": {
+   "k": 1908,
+   "s": "Becker ailesi",
+   "y": "Köln",
+   "stil": "Kölsch",
+   "h": "Becker ailesinin işlettiği Kölsch markası. Şehir merkezindeki Gaffel am Dom birahanesiyle tanınır."
+  },
+  "Päffgen": {
+   "k": 1883,
+   "s": "Päffgen ailesi",
+   "y": "Köln",
+   "stil": "Kölsch",
+   "h": "Friesenstraße'deki birahanesinde yalnızca ahşap fıçıdan servis yapan geleneksel aile fabrikası. Şişelenmez, sadece yerinde içilir."
+  },
+  "Uerige": {
+   "k": 1862,
+   "s": "Bağımsız (Uerige Obergärige Hausbrauerei)",
+   "y": "Düsseldorf",
+   "stil": "Altbier",
+   "h": "Düsseldorf Altstadt'taki ev fabrikası; adı 'huysuz' anlamına gelir. Altbier'in en acı ve karakterli örneğini yapar, Sticke'si yılda iki kez çıkar."
+  },
+  "Schumacher": {
+   "k": 1838,
+   "s": "Schumacher ailesi",
+   "y": "Düsseldorf",
+   "stil": "Altbier",
+   "h": "Düsseldorf'un hâlâ çalışan en eski altbier fabrikası. Oststraße'deki birahanesi şehrin klasiklerinden."
+  },
+  "Füchschen": {
+   "k": 1848,
+   "s": "König ailesi",
+   "y": "Düsseldorf",
+   "stil": "Altbier",
+   "h": "Altstadt'ta tilki logolu ev fabrikası ve birahane. Noel dönemi 'Weihnachtsbier'i meraklılarca beklenir."
+  },
+  "Jever": {
+   "k": 1848,
+   "s": "Radeberger Gruppe (Oetker)",
+   "y": "Jever, Aşağı Saksonya",
+   "stil": "Kuzey Alman pilsner",
+   "h": "Frizya bölgesinin kuru ve acı pilsiyle tanınır. Almanya'da 'en acı ana akım pils' unvanıyla anılır."
+  },
+  "Beck's": {
+   "k": 1873,
+   "s": "AB InBev",
+   "y": "Bremen",
+   "stil": "Alman pilsner",
+   "h": "Yeşil şişesi ve anahtar logosuyla dünyanın en çok ihraç edilen Alman birası. Türkiye'de de marketlerde yaygın."
+  },
+  "Flensburger": {
+   "k": 1888,
+   "s": "Bağımsız aile şirketi",
+   "y": "Flensburg, Schleswig-Holstein",
+   "stil": "Kuzey Alman pilsner",
+   "h": "Danimarka sınırındaki bağımsız fabrika. Klipsli kapaklı şişesinin 'plop' sesi markanın simgesi."
+  },
+  "Einbecker": {
+   "k": 1378,
+   "s": "Einbecker Brauhaus AG",
+   "y": "Einbeck, Aşağı Saksonya",
+   "stil": "Bock",
+   "h": "Orta Çağ'da Hansa ticaretiyle ünlenen Einbeck birası, Münih'te 'Ainpöckisch' denerek 'Bock' adını doğurdu. Fabrika bu mirası Ur-Bock'larıyla sürdürür."
+  },
+  "Warsteiner": {
+   "k": 1753,
+   "s": "Cramer ailesi",
+   "y": "Warstein, Kuzey Ren-Vestfalya",
+   "stil": "Alman pilsner",
+   "h": "Sauerland'deki büyük aile fabrikası. Almanya'nın en büyük özel sahipli fabrikalarından ve yaygın ihraç markası."
+  },
+  "Krombacher": {
+   "k": 1803,
+   "s": "Schadeberg ailesi",
+   "y": "Kreuztal-Krombach, Kuzey Ren-Vestfalya",
+   "stil": "Alman pilsner",
+   "h": "Almanya'nın en çok satan pils markalarından. 'Felsquellwasser' (kaya kaynağı suyu) vurgusuyla tanınır."
+  },
+  "Bitburger": {
+   "k": 1817,
+   "s": "Bitburger Braugruppe (Simon ailesi)",
+   "y": "Bitburg, Renanya-Pfalz",
+   "stil": "Alman pilsner",
+   "h": "Eifel bölgesinde, 'Bitte ein Bit' sloganıyla bilinen pils devi. Köstritzer de aynı gruba aittir."
+  },
+  "Rothaus": {
+   "k": 1791,
+   "s": "Baden-Württemberg eyaleti",
+   "y": "Grafenhausen, Kara Orman",
+   "stil": "Pils",
+   "h": "Kara Orman'da bir manastır fabrikası olarak kuruldu, bugün eyalet malı. Küçük 'Tannenzäpfle' şişesi gençler arasında kült oldu."
+  },
+  "Radeberger": {
+   "k": 1872,
+   "s": "Radeberger Gruppe (Oetker)",
+   "y": "Radeberg, Saksonya",
+   "stil": "Pilsner",
+   "h": "Almanya'nın pilsner tarzını üreten ilk fabrikalarından. Dresden yakınında, Saksonya kraliyet sarayına bira sağlamış."
+  },
+  "Köstritzer": {
+   "k": 1543,
+   "s": "Bitburger Braugruppe",
+   "y": "Bad Köstritz, Thüringen",
+   "stil": "Schwarzbier",
+   "h": "Schwarzbier stilinin en bilinen temsilcisi. Goethe'nin de bu birayı sevdiği anlatılır."
+  },
+  "Berliner Kindl": {
+   "k": 1872,
+   "s": "Radeberger Gruppe (Oetker)",
+   "y": "Berlin",
+   "stil": "Berliner Weisse ve lager",
+   "h": "Berlin'in büyük ana akım markası. Şuruplu servis edilen Berliner Weisse'i turistlerin ilk tanıştığı versiyondur."
+  },
+  "Schneeeule": {
+   "k": 2015,
+   "s": "Bağımsız (Ulrike Genz)",
+   "y": "Berlin",
+   "stil": "Geleneksel Berliner Weisse",
+   "h": "Ulrike Genz'in kurduğu, yalnızca geleneksel brett'li Berliner Weisse yapan küçük fabrika. Unutulan stilin yeniden doğuşunun simgesi."
+  },
+  "Ritterguts Gose": {
+   "s": "Bağımsız (Tilo Jänichen)",
+   "y": "Borna, Saksonya",
+   "stil": "Gose",
+   "h": "Leipzig yakınındaki Döllnitz malikânesinin tarihî gose'si 1999'da yeniden canlandırıldı. Tuzlu-ekşi stilin en otantik örneklerinden sayılır."
+  },
+  "Bayerischer Bahnhof": {
+   "k": 2000,
+   "s": "Bağımsız",
+   "y": "Leipzig, Saksonya",
+   "stil": "Gose",
+   "h": "Leipzig'in tarihî tren garı binasında gose fabrikası ve birahane. Şehrin kendi stilini yeniden gündelik biraya dönüştürdü."
+  },
+  "Stiegl": {
+   "k": 1492,
+   "s": "Kiener ailesi",
+   "y": "Salzburg",
+   "stil": "Avusturya Märzen ve radler",
+   "h": "Avusturya'nın en büyük bağımsız fabrikası. Goldbräu'su ülkenin en tanınan biralarından, greyfurtlu radler'i de çok popüler."
+  },
+  "Trumer": {
+   "k": 1601,
+   "s": "Sigl ailesi",
+   "y": "Obertrum, Salzburg",
+   "stil": "Pilsner",
+   "h": "Salzburg kırsalında aile fabrikası. Açık fermantasyonla yapılan zarif Trumer Pils'iyle tanınır, ABD'de de kardeş fabrikası açtı."
+  },
+  "Gösser": {
+   "k": 1459,
+   "s": "Heineken (Brau Union Österreich)",
+   "y": "Leoben, Steiermark",
+   "stil": "Avusturya Märzen",
+   "h": "Eski Göss manastırının fabrikası. Avusturya'nın en çok bilinen bira markalarından."
+  },
+  "Zipfer": {
+   "k": 1858,
+   "s": "Heineken (Brau Union Österreich)",
+   "y": "Zipf, Yukarı Avusturya",
+   "stil": "Pilsner ve lager",
+   "h": "Yukarı Avusturya'da kurulan, şerbetçiotu vurgulu biralarıyla bilinen fabrika. Urtyp'i ülkede çok sevilir."
+  },
+  "Schloss Eggenberg": {
+   "s": "Stöhr ailesi",
+   "y": "Vorchdorf, Yukarı Avusturya",
+   "stil": "Lager ve güçlü bock",
+   "h": "Bir şato içindeki aile fabrikası. İsviçreli Hürlimann kapanınca Samichlaus'un tarifini devralıp yaşatmaya devam etti."
+  },
+  "Ottakringer": {
+   "k": 1837,
+   "s": "Ottakringer Getränke AG",
+   "y": "Viyana",
+   "stil": "Vienna lager",
+   "h": "Viyana'nın şehir içindeki son büyük fabrikası. Ottakring semtinde düzenli bira festivalleri ve turlarla şehrin kültür mekânı."
+  },
+  "Schremser": {
+   "s": "Trojan ailesi (Brauerei Schrems)",
+   "y": "Schrems, Aşağı Avusturya",
+   "stil": "Märzen ve organik biralar",
+   "h": "Waldviertel bölgesinde yüzyıllardır bira yapan küçük aile fabrikası. Organik ve çavdar biralarıyla da bilinir."
+  },
+  "Pilsner Urquell": {
+   "k": 1842,
+   "s": "Asahi",
+   "y": "Plzeň",
+   "stil": "Çek pilsner",
+   "h": "Bavyeralı Josef Groll 1842'de burada ilk berrak altın lager'ı yaptı; dünyadaki pilsner'ların hepsi bu biranın torunudur. Urquell 'orijinal kaynak' demektir."
+  },
+  "Budějovický Budvar": {
+   "k": 1895,
+   "s": "Çek devleti",
+   "y": "České Budějovice, Güney Bohemya",
+   "stil": "Çek lager",
+   "h": "Çek devletine ait fabrika; uzun lagerleme ile yumuşak ležák'ı yapar. 'Budweiser' adı yüzünden Anheuser-Busch ile bir asırdır hukuk savaşında."
+  },
+  "Kozel": {
+   "k": 1874,
+   "s": "Asahi",
+   "y": "Velké Popovice, Orta Bohemya",
+   "stil": "Çek lager ve koyu lager",
+   "h": "Keçi (kozel) logosuyla bilinen Prag yakınındaki fabrika. Koyu biralarıyla dünyada en çok satan Çek markalarından; Türkiye'de de yaygın."
+  },
+  "Staropramen": {
+   "k": 1869,
+   "s": "Molson Coors",
+   "y": "Prag (Smíchov)",
+   "stil": "Çek lager",
+   "h": "Prag'ın en büyük fabrikası; adı 'eski kaynak' demek. Çekya'nın en çok ihraç edilen biralarından."
+  },
+  "Únětický pivovar": {
+   "k": 1710,
+   "s": "Bağımsız",
+   "y": "Únětice, Prag yakını",
+   "stil": "Pastörize edilmemiş Çek lager",
+   "h": "Uzun süre kapalı kalan tarihî fabrika 2011'de yeniden açıldı. Filtresiz, taze ležák'ları Prag barlarının gözdesi."
+  },
+  "Bernard": {
+   "k": 1597,
+   "s": "Bernard ailesi & Duvel Moortgat",
+   "y": "Humpolec, Vysočina",
+   "stil": "Pastörize edilmemiş Çek lager",
+   "h": "1991'de Bernard ailesinin devraldığı tarihî fabrika. Pastörizasyona karşı kampanyalarıyla ve canlı mayalı biralarıyla ünlü."
+  },
+  "Krušovice": {
+   "k": 1581,
+   "s": "Heineken",
+   "y": "Krušovice, Orta Bohemya",
+   "stil": "Çek lager",
+   "h": "Bir dönem Habsburg kraliyetine ait olan fabrika. Kraliyet tacı logosuyla tanınır."
+  },
+  "Svijany": {
+   "k": 1564,
+   "s": "Bağımsız",
+   "y": "Svijany, Kuzey Bohemya",
+   "stil": "Pastörize edilmemiş Çek lager",
+   "h": "Liberec yakınındaki köklü, bağımsız fabrika. Pastörize edilmemiş, geleneksel ležák'larıyla Çek meraklılar arasında çok sevilir."
+  },
+  "Matuška": {
+   "k": 2009,
+   "s": "Matuška ailesi",
+   "y": "Broumy, Orta Bohemya",
+   "stil": "Craft ale ve lager",
+   "h": "Baba-oğul Matuška'nın kurduğu, Çek craft devriminin öncü fabrikası. IPA'ları ve lager'larıyla ülkenin en çok ödül alan küçük fabrikalarından."
+  },
+  "Kout na Šumavě": {
+   "k": 1736,
+   "s": "Bağımsız",
+   "y": "Kout na Šumavě, Plzeň bölgesi",
+   "stil": "Çek lager",
+   "h": "Bohemya Ormanı eteğinde tarihî bir şato fabrikası; 2006'da yeniden açıldı. Geleneksel yöntemle yaptığı 12° ležák meraklılarca Çekya'nın en iyisi sayılır."
+  }
+ },
+ "bolgeler": {
+  "Almanya|Bavyera": {
+   "k": "Lager ve buğday birasının anavatanı. Münih helles, Märzen, dunkel, doppelbock ve weissbier burada şekillendi; biralar maltlı, temiz ve içimi kolaydır.",
+   "t": "1516 Reinheitsgebot (saflık yasası) Bavyera'da ilan edildi. Oktoberfest 1810'dan beri Münih'te ve yalnızca şehrin altı fabrikasının birası sunulur.",
+   "i": "Weihenstephaner Hefeweissbier ile başla, ardından bir helles ve Ayinger Celebrator gibi bir doppelbock dene.",
+   "konum": [
+    48.14,
+    11.58
+   ]
+  },
+  "Almanya|Franken": {
+   "k": "Dünyada fabrika yoğunluğunun en yüksek olduğu bölge. Küçük köy fabrikaları, filtresiz kellerbier ve Bamberg'in isli rauchbier'i ile meraklıların hac noktası.",
+   "t": "Bamberg'de malt eskiden odun ateşinde kurutulurdu; Schlenkerla ve Spezial bu geleneği hiç bırakmadı. Kulmbach eisbock'un doğduğu şehir sayılır.",
+   "i": "İsli biraya alışmak zaman alır: ilk yudumdan vazgeçme, ikinci ve üçüncü yudumda damak alışır.",
+   "konum": [
+    49.89,
+    10.89
+   ]
+  },
+  "Almanya|Köln": {
+   "k": "Üstten mayalanıp soğuk dinlendirilen, açık renkli ve narin Kölsch'ün şehri.",
+   "t": "Kölsch Konvansiyonu (1986) adı yalnızca Köln çevresindeki fabrikalara ayırır. 20 cl'lik ince 'Stange' bardaklarda, garsonların 'Kranz' tepsisiyle servis edilir.",
+   "i": "Bardağın üzerine bira altlığı koymazsan garson yenisini getirmeye devam eder.",
+   "konum": [
+    50.94,
+    6.96
+   ]
+  },
+  "Almanya|Düsseldorf": {
+   "k": "Bakır-kahverengi, maltlı ama kuru ve acı biten Altbier'in yuvası.",
+   "t": "'Alt' eski usul üstten mayalanma anlamına gelir. Altstadt'taki ev fabrikalarında biralar ahşap fıçılardan servis edilir.",
+   "i": "Uerige, Schumacher ve Füchschen'i aynı akşam karşılaştırmak, stilin çeşitliliğini görmenin en iyi yolu.",
+   "konum": [
+    51.23,
+    6.78
+   ]
+  },
+  "Almanya|Kuzey Almanya": {
+   "k": "Kuru, otsu ve daha acı Kuzey Alman pilsner'ları ile tarihî bock mirası.",
+   "t": "Hansa liman şehirleri Orta Çağ'da birayı ihraç etti; Einbeck birası Münih'te 'bock' adını doğurdu.",
+   "i": "Jever'i bir güney Alman helles'iyle yan yana içerek kuzey-güney acılık farkını hisset.",
+   "konum": [
+    53.08,
+    8.8
+   ]
+  },
+  "Almanya|Batı Almanya": {
+   "k": "Almanya'nın büyük ulusal pils markalarının üssü; temiz, hafif ve yaygın biralar.",
+   "t": "Sauerland, Siegerland ve Eifel'in yumuşak kaynak suları büyük pils fabrikalarının kurulmasında belirleyici oldu.",
+   "i": "Bu biralar Türkiye'de en kolay bulunan Alman pils'leri; soğuk ve taze iç.",
+   "konum": [
+    50.9,
+    7.6
+   ]
+  },
+  "Almanya|Baden-Württemberg": {
+   "k": "Güneybatıda Kara Orman'ın kaynak suyuyla yapılan yumuşak pils ve lager'lar.",
+   "t": "Rothaus'un küçük Tannenzäpfle şişesi 2000'lerde bölgenin ötesinde de kült oldu.",
+   "i": "Şişeden içmek bu bira için neredeyse gelenek.",
+   "konum": [
+    48.0,
+    8.2
+   ]
+  },
+  "Almanya|Saksonya": {
+   "k": "Hem zarif pilsner hem de tuzlu-ekşi Gose'nin bölgesi.",
+   "t": "Gose aslen Goslar'dan gelip Leipzig'de popülerleşti, 20. yüzyılda neredeyse yok oldu ve 1990'lardan sonra canlandı.",
+   "i": "Gose'yi ilk kez deneyeceksen soğuk ve tek başına iç; tuz ve kişniş şaşırtabilir.",
+   "konum": [
+    51.34,
+    12.37
+   ]
+  },
+  "Almanya|Thüringen": {
+   "k": "Koyu ama hafif içimli Schwarzbier'in geleneksel bölgesi.",
+   "t": "Bad Köstritz'de 16. yüzyıldan beri bira yapılır; Schwarzbier Doğu Almanya döneminde de yaşadı.",
+   "i": "Schwarzbier'i stout sanma; çok daha hafif ve kuru bir lager.",
+   "konum": [
+    50.93,
+    12.01
+   ]
+  },
+  "Almanya|Berlin": {
+   "k": "Ekşi ve düşük alkollü Berliner Weisse'in şehri, aynı zamanda canlı bir craft sahnesi.",
+   "t": "Napolyon askerlerinin 'Kuzeyin şampanyası' dediği anlatılan Berliner Weisse, yüzlerce fabrikadan neredeyse yoka indi.",
+   "i": "Şurupsuz geleneksel bir örnek dene; sonra ahududu şuruplu versiyonla karşılaştır.",
+   "konum": [
+    52.52,
+    13.4
+   ]
+  },
+  "Avusturya|Salzburg": {
+   "k": "Yumuşak Avusturya Märzen'i ve zarif pils'lerin bölgesi.",
+   "t": "Stiegl 1492'den beri Salzburg'da bira yapıyor; Salzburg'da bira bahçesi kültürü çok güçlü.",
+   "i": "Stiegl Goldbräu ile Trumer Pils'i karşılaştırarak Avusturya'nın iki temel lager stilini öğren.",
+   "konum": [
+    47.8,
+    13.04
+   ]
+  },
+  "Avusturya|Steiermark": {
+   "k": "Hafif tatlımsı, yumuşak Märzen geleneği.",
+   "t": "Göss manastırında 11. yüzyıla uzanan bira yapımı geleneği vardır.",
+   "i": "Avusturya Märzen'i Alman Märzen'inden daha açık renkli ve hafiftir.",
+   "konum": [
+    47.38,
+    15.09
+   ]
+  },
+  "Avusturya|Viyana": {
+   "k": "Kehribar renkli Vienna lager'ın doğduğu şehir.",
+   "t": "Anton Dreher 1841'de açık kehribar maltla Vienna lager stilini yarattı; stil Meksika'da yaşamaya devam etti.",
+   "i": "Vienna lager'ı Meksika'nın kehribar lager'larıyla karşılaştırmak ilginç bir deneyim.",
+   "konum": [
+    48.21,
+    16.37
+   ]
+  },
+  "Avusturya|Yukarı Avusturya": {
+   "k": "Şerbetçiotu vurgulu lager'lardan dünyanın en güçlü bock'larına kadar geniş yelpaze.",
+   "t": "Samichlaus, İsviçre'den Avusturya'daki Schloss Eggenberg'e taşınarak yaşatıldı.",
+   "i": "Samichlaus'u konyak kadehinde, oda sıcaklığına yakın yudumla.",
+   "konum": [
+    48.0,
+    13.8
+   ]
+  },
+  "Avusturya|Aşağı Avusturya": {
+   "k": "Waldviertel'in küçük aile fabrikaları ve organik biralar.",
+   "t": "Bölge granit kayaları ve yumuşak suyuyla bilinir.",
+   "i": "Yerel birahanelerde fıçı Märzen iste.",
+   "konum": [
+    48.78,
+    15.07
+   ]
+  },
+  "Çekya|Plzeň": {
+   "k": "Altın pilsner'ın doğduğu şehir; yumuşak su, Saaz şerbetçiotu ve Moravya maltı.",
+   "t": "1842'de Josef Groll ilk pilsner'ı burada mayaladı. Şehir adı stile ad oldu.",
+   "i": "Pilsner Urquell'i 'hladinka' (bol köpüklü) servisle dene; köpük acılığı yumuşatır.",
+   "konum": [
+    49.74,
+    13.38
+   ]
+  },
+  "Çekya|Güney Bohemya": {
+   "k": "Uzun lagerlenen, yumuşak ve bal tonlu ležák'lar.",
+   "t": "České Budějovice'nin bira geleneği 13. yüzyıla dayanır; 'Budweiser' adı buradan gelir.",
+   "i": "Budvar'ın filtresiz 'kroužkovaný' versiyonunu bulursan kaçırma.",
+   "konum": [
+    48.97,
+    14.47
+   ]
+  },
+  "Çekya|Prag": {
+   "k": "Büyük fabrikalardan mikro fabrikalara, Çek birahane kültürünün kalbi.",
+   "t": "Çekya kişi başı bira tüketiminde yıllardır dünya birincisi.",
+   "i": "Prag'da 'tanková' (tank) bira sunan barları ara; pastörize edilmemiş taze bira bambaşka.",
+   "konum": [
+    50.08,
+    14.42
+   ]
+  },
+  "Çekya|Orta Bohemya": {
+   "k": "Prag çevresindeki köklü fabrikalar ve yeni craft dalga.",
+   "t": "Velké Popovice ve Krušovice yüzyıllardır bölgeyi besler; Matuška craft devriminin öncüsü oldu.",
+   "i": "Çek koyu lager'ı (tmavé) tatlımsı ve hafiftir; tatlı yemeklerle iyi gider.",
+   "konum": [
+    50.0,
+    14.4
+   ]
+  },
+  "Çekya|Vysočina": {
+   "k": "Pastörize edilmemiş, canlı mayalı lager'ları ile bilinen yayla bölgesi.",
+   "t": "Humpolec'teki Bernard, 1990'larda özelleştirilen fabrikaların en başarılılarından.",
+   "i": "Bernard'ın filtresiz biralarını taze ve soğuk iç.",
+   "konum": [
+    49.54,
+    15.36
+   ]
+  },
+  "Çekya|Kuzey Bohemya": {
+   "k": "Bağımsız, geleneksel yöntemlerle çalışan fabrikaların bölgesi.",
+   "t": "Svijany 16. yüzyıldan beri bira yapıyor ve büyük gruplara katılmadan ayakta kaldı.",
+   "i": "Svijany'nin farklı derecelerdeki (10°, 11°, 12°) biralarını karşılaştır; derece şıra yoğunluğunu gösterir.",
+   "konum": [
+    50.57,
+    15.06
+   ]
+  }
+ },
+ "konumlar": {
+  "Weihenstephan": [
+   48.395,
+   11.728
+  ],
+  "Paulaner": [
+   48.106,
+   11.58
+  ],
+  "Erdinger": [
+   48.306,
+   11.907
+  ],
+  "Augustiner": [
+   48.143,
+   11.548
+  ],
+  "Hacker-Pschorr": [
+   48.106,
+   11.58
+  ],
+  "Löwenbräu": [
+   48.148,
+   11.56
+  ],
+  "Spaten": [
+   48.147,
+   11.558
+  ],
+  "Franziskaner": [
+   48.147,
+   11.558
+  ],
+  "Hofbräu München": [
+   48.136,
+   11.58
+  ],
+  "Schneider Weisse": [
+   48.917,
+   11.889
+  ],
+  "Ayinger": [
+   47.971,
+   11.782
+  ],
+  "Klosterbrauerei Andechs": [
+   47.975,
+   11.183
+  ],
+  "Tegernseer": [
+   47.712,
+   11.758
+  ],
+  "Riegele": [
+   48.365,
+   10.885
+  ],
+  "Crew Republic": [
+   48.28,
+   11.577
+  ],
+  "Schlenkerla": [
+   49.891,
+   10.886
+  ],
+  "Brauerei Spezial": [
+   49.895,
+   10.902
+  ],
+  "Mahr's Bräu": [
+   49.882,
+   10.903
+  ],
+  "Kulmbacher": [
+   50.101,
+   11.453
+  ],
+  "Keesmann": [
+   49.882,
+   10.903
+  ],
+  "Weltenburger Kloster": [
+   48.9,
+   11.82
+  ],
+  "Früh": [
+   50.94,
+   6.957
+  ],
+  "Reissdorf": [
+   50.89,
+   6.99
+  ],
+  "Gaffel": [
+   50.945,
+   6.983
+  ],
+  "Päffgen": [
+   50.939,
+   6.94
+  ],
+  "Uerige": [
+   51.226,
+   6.772
+  ],
+  "Schumacher": [
+   51.22,
+   6.786
+  ],
+  "Füchschen": [
+   51.229,
+   6.775
+  ],
+  "Jever": [
+   53.573,
+   7.898
+  ],
+  "Beck's": [
+   53.075,
+   8.79
+  ],
+  "Flensburger": [
+   54.784,
+   9.437
+  ],
+  "Einbecker": [
+   51.818,
+   9.867
+  ],
+  "Warsteiner": [
+   51.443,
+   8.349
+  ],
+  "Krombacher": [
+   50.965,
+   7.94
+  ],
+  "Bitburger": [
+   49.968,
+   6.524
+  ],
+  "Rothaus": [
+   47.833,
+   8.25
+  ],
+  "Radeberger": [
+   51.117,
+   13.917
+  ],
+  "Köstritzer": [
+   50.93,
+   12.015
+  ],
+  "Berliner Kindl": [
+   52.476,
+   13.44
+  ],
+  "Schneeeule": [
+   52.48,
+   13.43
+  ],
+  "Ritterguts Gose": [
+   51.124,
+   12.497
+  ],
+  "Bayerischer Bahnhof": [
+   51.33,
+   12.381
+  ],
+  "Stiegl": [
+   47.795,
+   13.02
+  ],
+  "Trumer": [
+   47.935,
+   13.077
+  ],
+  "Gösser": [
+   47.36,
+   15.09
+  ],
+  "Zipfer": [
+   48.04,
+   13.58
+  ],
+  "Schloss Eggenberg": [
+   47.985,
+   13.92
+  ],
+  "Ottakringer": [
+   48.213,
+   16.323
+  ],
+  "Schremser": [
+   48.784,
+   15.07
+  ],
+  "Pilsner Urquell": [
+   49.747,
+   13.387
+  ],
+  "Budějovický Budvar": [
+   48.99,
+   14.47
+  ],
+  "Kozel": [
+   49.92,
+   14.83
+  ],
+  "Staropramen": [
+   50.071,
+   14.405
+  ],
+  "Únětický pivovar": [
+   50.15,
+   14.355
+  ],
+  "Bernard": [
+   49.542,
+   15.359
+  ],
+  "Krušovice": [
+   50.172,
+   13.776
+  ],
+  "Svijany": [
+   50.573,
+   15.059
+  ],
+  "Matuška": [
+   50.028,
+   13.935
+  ],
+  "Kout na Šumavě": [
+   49.403,
+   13.004
+  ]
+ },
+ "tadim": {
+  "weihenstephaner-hefeweissbier": {
+   "b": "Olgun muz, karanfil, hafif vanilya ve maya",
+   "d": "Kremsi, yumuşak buğday, hafif tatlımsı ekmek",
+   "f": "Kısa, ferah, hafif ekşimsi",
+   "s": "Uzun weizen bardağı, 6-8°C; beyaz sosis, simit (brezel), salata"
+  },
+  "weihenstephaner-vitus": {
+   "b": "Kayısı, muz, karanfil ve bal",
+   "d": "Dolgun, ipeksi, meyveli ve hafif baharatlı",
+   "f": "Sıcak, alkol hissettirmeden orta uzunlukta",
+   "s": "Weizen bardağı, 8-10°C; ördek, olgun peynirler, elmalı tatlılar"
+  },
+  "paulaner-hefe-weissbier": {
+   "b": "Muz, karanfil, hafif limon",
+   "d": "Yumuşak, kremsi, orta gövdeli",
+   "f": "Temiz ve ferah",
+   "s": "Weizen bardağı, 6-8°C; beyaz sosis, tavuk, hafif salatalar"
+  },
+  "paulaner-munchner-hell": {
+   "b": "Taze ekmek, hafif çiçeksi şerbetçiotu",
+   "d": "Tatlımsı malt, yumuşak ve hafif",
+   "f": "Kısa, temiz",
+   "s": "Bira kupası, 5-7°C; ızgara tavuk, pizza, meze"
+  },
+  "paulaner-salvator": {
+   "b": "Karamel, kuru erik, kızarmış ekmek",
+   "d": "Dolgun, tatlımsı malt, kuru meyve",
+   "f": "Sıcak, hafif acı, orta uzunlukta",
+   "s": "Lale kadeh, 8-10°C; domuz eti yerine dana kaburga, sert peynirler"
+  },
+  "erdinger-weissbier": {
+   "b": "Hafif muz, maya, ekmek",
+   "d": "Yumuşak, hafif tatlı, köpüklü",
+   "f": "Kısa, ferah",
+   "s": "Weizen bardağı, 6-8°C; hafif yemekler, salata"
+  },
+  "erdinger-dunkel": {
+   "b": "Kavrulmuş malt, kakao, muz",
+   "d": "Hafif-orta gövde, karamel ve çikolata",
+   "f": "Kuru, hafif kavrulmuş",
+   "s": "Weizen bardağı, 7-9°C; ızgara et, mantarlı yemekler"
+  },
+  "augustiner-lagerbier-hell": {
+   "b": "Taze tahıl, bal, hafif çiçek",
+   "d": "Kremsi, yumuşak, mükemmel dengeli",
+   "f": "Temiz, hafif otsu",
+   "s": "Bira kupası, 6-7°C; Bavyera bira bahçesi yemekleri, brezel"
+  },
+  "schneider-weisse-tap7-original": {
+   "b": "Karanfil, muz, hafif karamel",
+   "d": "Orta gövde, meyveli ve ekmeksi",
+   "f": "Kuru, baharatlı",
+   "s": "Weizen bardağı, 7-9°C; kızarmış tavuk, mantar"
+  },
+  "schneider-aventinus": {
+   "b": "Muz, kuru erik, karamel, karanfil",
+   "d": "Dolgun, tatlımsı, kuru meyve ve baharat",
+   "f": "Uzun, ısıtan",
+   "s": "Weizen ya da lale kadeh, 8-12°C; çikolatalı tatlılar, yıllanmış peynirler"
+  },
+  "schneider-aventinus-eisbock": {
+   "b": "Likör gibi kuru üzüm, erik, muz, karamel",
+   "d": "Yoğun, yağlı, şeker ve alkol sıcaklığı",
+   "f": "Çok uzun, konyak gibi",
+   "s": "Konyak kadehi, 12-14°C; sindirim sonrası, bitter çikolata"
+  },
+  "ayinger-celebrator": {
+   "b": "Kavrulmuş malt, kakao, kuru erik, hafif is",
+   "d": "Kadifemsi, zengin karamel ve çikolata",
+   "f": "Uzun, hafif kavrulmuş acılık",
+   "s": "Lale kadeh, 8-10°C; dana yanak, rosto, çikolatalı kek"
+  },
+  "ayinger-brauweisse": {
+   "b": "Canlı muz, karanfil, limon",
+   "d": "Hafif, kremsi, ferah",
+   "f": "Kısa, ekşimsi ferahlık",
+   "s": "Weizen bardağı, 6-8°C; brunch, yumurtalı yemekler"
+  },
+  "andechser-doppelbock-dunkel": {
+   "b": "Kakao, kuru meyve, kızarmış ekmek",
+   "d": "Dolgun ama içimli; karamel, çikolata",
+   "f": "Orta uzunlukta, hafif kavrulmuş",
+   "s": "Bira kupası ya da lale, 8-10°C; et yahnisi, sert peynir"
+  },
+  "schlenkerla-rauchbier-maerzen": {
+   "b": "Yoğun kayın dumanı, isli jambon, kamp ateşi",
+   "d": "Orta gövde, kavrulmuş malt ve is",
+   "f": "Kuru, isli, uzun",
+   "s": "Kupa, 8-10°C; füme et, pastırma, ızgara, isli peynir"
+  },
+  "schlenkerla-urbock": {
+   "b": "Daha yoğun is, karamel",
+   "d": "Dolgun, tatlımsı malt ve duman",
+   "f": "Uzun, isli",
+   "s": "Lale kadeh, 9-11°C; mangal, kavurma"
+  },
+  "mahrs-ungespundet": {
+   "b": "Taze ekmek, hafif otsu şerbetçiotu, maya",
+   "d": "Yumuşak, düşük karbonasyon, ekmeksi",
+   "f": "Kuru, hafif acı",
+   "s": "Seramik kupa, 7-9°C; sosis, patates salatası, Franken yemekleri"
+  },
+  "weltenburger-barock-dunkel": {
+   "b": "Kakao, ekmek kabuğu, hafif karamel",
+   "d": "Yumuşak, maltlı, hafif kavrulmuş",
+   "f": "Temiz, kuru",
+   "s": "Kupa, 7-9°C; rosto, köfte, mantar"
+  },
+  "fruh-kolsch": {
+   "b": "Hafif armut, çiçek, ekmek",
+   "d": "Narin, hafif, kuru",
+   "f": "Kısa, temiz, hafif acı",
+   "s": "20 cl 'Stange', 5-7°C; hafif mezeler, peynir tabağı"
+  },
+  "reissdorf-kolsch": {
+   "b": "Armut, beyaz ekmek",
+   "d": "Yumuşak, hafif tatlımsı",
+   "f": "Temiz",
+   "s": "Stange, 5-7°C; balık, salata"
+  },
+  "uerige-alt": {
+   "b": "Kavrulmuş malt, otsu ve çiçeksi şerbetçiotu",
+   "d": "Orta gövde, maltlı ama kuru",
+   "f": "Belirgin ve uzun acılık",
+   "s": "Altbier bardağı (Becher), 8-10°C; et yemekleri, olgun peynir"
+  },
+  "schumacher-alt": {
+   "b": "Ekmek kabuğu, hafif karamel",
+   "d": "Yumuşak, dengeli",
+   "f": "Kuru, orta acılık",
+   "s": "Becher, 8-10°C; sosis, köfte"
+  },
+  "jever-pilsener": {
+   "b": "Otsu şerbetçiotu, hafif tahıl",
+   "d": "Hafif, çok kuru",
+   "f": "Keskin, uzun acılık",
+   "s": "Pils kadehi, 5-7°C; balık, deniz ürünleri"
+  },
+  "becks": {
+   "b": "Hafif tahıl, otsu şerbetçiotu",
+   "d": "Hafif, temiz",
+   "f": "Kısa, hafif acı",
+   "s": "Pils kadehi, 4-6°C; pizza, çerezler"
+  },
+  "krombacher-pils": {
+   "b": "Tahıl, hafif çiçek",
+   "d": "Yumuşak, hafif",
+   "f": "Temiz, orta acılık",
+   "s": "Pils kadehi, 5-7°C; ızgara, hamburger"
+  },
+  "warsteiner-premium": {
+   "b": "Hafif tahıl ve şerbetçiotu",
+   "d": "Hafif, ferah",
+   "f": "Kısa, temiz",
+   "s": "Pils kadehi, 4-6°C; günlük içim, aperatifler"
+  },
+  "bitburger-premium-pils": {
+   "b": "Otsu şerbetçiotu, tahıl",
+   "d": "Hafif, kuru",
+   "f": "Net acılık",
+   "s": "Pils kadehi, 5-7°C; ızgara tavuk, salata"
+  },
+  "kostritzer-schwarzbier": {
+   "b": "Kahve, bitter çikolata, kızarmış ekmek",
+   "d": "Hafif gövde, kavrulmuş ama yumuşak",
+   "f": "Kuru, hafif acı",
+   "s": "Pils kadehi ya da kupa, 7-9°C; ızgara et, mantar, çikolata"
+  },
+  "berliner-kindl-weisse": {
+   "b": "Limon, buğday, hafif ekşi",
+   "d": "Çok hafif, ekşi ve köpüklü",
+   "f": "Kısa, ekşi",
+   "s": "Geniş kadeh, 4-6°C; şuruplu ya da sade, yaz günleri"
+  },
+  "ritterguts-gose": {
+   "b": "Kişniş, limon, deniz tuzu",
+   "d": "Hafif, ekşi, tuzlu",
+   "f": "Ferah ve kuru",
+   "s": "Silindir bardak, 5-7°C; deniz ürünleri, keçi peyniri"
+  },
+  "stiegl-goldbrau": {
+   "b": "Hafif bal, tahıl",
+   "d": "Yumuşak, hafif tatlımsı",
+   "f": "Temiz",
+   "s": "Kupa, 5-7°C; şnitzel, sosis"
+  },
+  "trumer-pils": {
+   "b": "Çiçeksi Saaz, hafif limon",
+   "d": "Hafif, zarif, canlı",
+   "f": "Kuru, temiz acılık",
+   "s": "Pils kadehi, 5-7°C; sushi, balık"
+  },
+  "samichlaus-classic": {
+   "b": "Kuru erik, karamel, şeri, alkol",
+   "d": "Çok yoğun, tatlı, likörümsü",
+   "f": "Çok uzun, ısıtıcı",
+   "s": "Konyak kadehi, 12-14°C; tatlı, yıllanmış peynir; mahzende yıllanabilir"
+  },
+  "pilsner-urquell": {
+   "b": "Bal, ekmek, Saaz'ın baharatlı çiçekleri",
+   "d": "Yumuşak malt, tereyağımsı hafif yuvarlaklık",
+   "f": "Belirgin, temiz acılık",
+   "s": "Kulplu Çek kupası, 6-8°C; ızgara et, kızarmış tavuk, Çek gulaşı"
+  },
+  "budweiser-budvar-original": {
+   "b": "Bal, tahıl, hafif çiçek",
+   "d": "Yumuşak, dolgun malt",
+   "f": "Orta acılık, temiz",
+   "s": "Kupa, 6-8°C; ızgara, sosis, peynir"
+  },
+  "kozel-cerny": {
+   "b": "Karamel, kahve, şeker",
+   "d": "Kremsi, tatlımsı, hafif",
+   "f": "Kısa, yumuşak",
+   "s": "Kupa, 6-8°C; tatlılar, kızarmış et"
+  },
+  "kozel-premium": {
+   "b": "Tahıl, hafif şerbetçiotu",
+   "d": "Hafif, yumuşak",
+   "f": "Kısa, hafif acı",
+   "s": "Kupa, 5-7°C; meze, ızgara"
+  },
+  "staropramen-premium": {
+   "b": "Tahıl, hafif bal",
+   "d": "Hafif ve dengeli",
+   "f": "Temiz",
+   "s": "Kupa, 5-7°C; günlük yemekler"
+  },
+  "unetice-12": {
+   "b": "Taze ekmek, maya, Saaz çiçeği",
+   "d": "Dolgun, kremsi, canlı",
+   "f": "Uzun, otsu acılık",
+   "s": "Kupa, 7-8°C; Çek mutfağı, kızarmış domuz yerine dana rosto"
+  },
+  "kout-na-sumave-12": {
+   "b": "Bal, ekmek kabuğu, çiçeksi Saaz",
+   "d": "Yoğun malt, kremsi doku",
+   "f": "Uzun ve zarif acılık",
+   "s": "Kupa, 7-8°C; et yemekleri, sert peynir"
+  },
+  "spaten-munchner-hell": {
+   "b": "Bal, tahıl",
+   "d": "Yumuşak, hafif",
+   "f": "Temiz",
+   "s": "Kupa, 5-7°C; brezel, beyaz sosis"
+  },
+  "franziskaner-hefe-weissbier": {
+   "b": "Muz, hafif karanfil",
+   "d": "Hafif, köpüklü, meyvemsi",
+   "f": "Ferah",
+   "s": "Weizen bardağı, 6-8°C; salata, tavuk"
+  }
+ }
+}

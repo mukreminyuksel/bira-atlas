@@ -1,0 +1,2166 @@
+{
+ "biralar": [
+  {
+   "id": "guinness-draught",
+   "ad": "Guinness Draught",
+   "fab": "Guinness",
+   "ulke": "İrlanda",
+   "bolge": "Dublin",
+   "stil": "Irish Stout",
+   "aile": "Stout & Porter",
+   "abv": 4.2,
+   "ibu": 45,
+   "hacim": 44,
+   "tl": 215,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.birgun.net/haber/bira-fiyatlari-2026-guncel-282109",
+   "bul": "market",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Widget'lı kutuda azotlu, kremsi köpük; kavrulmuş arpa ve hafif acılık"
+  },
+  {
+   "id": "guinness-extra-stout",
+   "ad": "Guinness Extra Stout",
+   "fab": "Guinness",
+   "ulke": "İrlanda",
+   "bolge": "Dublin",
+   "stil": "Irish Extra Stout",
+   "aile": "Stout & Porter",
+   "abv": 5.6,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 83,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "1821 reçetesine dayanan şişe stout; azotsuz, daha keskin ve kuru"
+  },
+  {
+   "id": "guinness-foreign-extra-stout",
+   "ad": "Guinness Foreign Extra Stout",
+   "fab": "Guinness",
+   "ulke": "İrlanda",
+   "bolge": "Dublin",
+   "stil": "Foreign Extra Stout",
+   "aile": "Stout & Porter",
+   "abv": 7.5,
+   "hacim": 33,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Tropik pazarlar için güçlü stout; kahve, melas ve hafif ekşimsi derinlik"
+  },
+  {
+   "id": "murphys-irish-stout",
+   "ad": "Murphy's Irish Stout",
+   "fab": "Heineken Ireland (Lady's Well)",
+   "ulke": "İrlanda",
+   "bolge": "Cork",
+   "stil": "Irish Stout",
+   "aile": "Stout & Porter",
+   "abv": 4.0,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Cork'un stout'u; Guinness'ten daha yumuşak, sütlü kahve ve karamel"
+  },
+  {
+   "id": "beamish-irish-stout",
+   "ad": "Beamish Irish Stout",
+   "fab": "Heineken Ireland (Lady's Well)",
+   "ulke": "İrlanda",
+   "bolge": "Cork",
+   "stil": "Irish Stout",
+   "aile": "Stout & Porter",
+   "abv": 4.1,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "1792'den Cork klasiği; kuru, çikolatalı ve kavrulmuş"
+  },
+  {
+   "id": "kilkenny",
+   "ad": "Kilkenny Irish Cream Ale",
+   "fab": "Smithwick's",
+   "ulke": "İrlanda",
+   "bolge": "Kilkenny",
+   "stil": "Irish Red Ale (nitro)",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.3,
+   "hacim": 44,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 78,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Azotlu, kremsi kırmızı ale; bal, karamel ve yumuşak bitiş"
+  },
+  {
+   "id": "smithwicks-red-ale",
+   "ad": "Smithwick's Red Ale",
+   "fab": "Smithwick's",
+   "ulke": "İrlanda",
+   "bolge": "Kilkenny",
+   "stil": "Irish Red Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 3.8,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İrlanda'nın en eski ale markası; karamel, tost ve hafif şerbetçiotu"
+  },
+  {
+   "id": "harp-lager",
+   "ad": "Harp Lager",
+   "fab": "Guinness",
+   "ulke": "İrlanda",
+   "bolge": "Dublin",
+   "stil": "Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 50,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "1960'tan İrlanda lager'ı; temiz, hafif tahıllı ve serinletici"
+  },
+  {
+   "id": "ohara-irish-stout",
+   "ad": "O'Hara's Irish Stout",
+   "fab": "Carlow Brewing Company",
+   "ulke": "İrlanda",
+   "bolge": "Carlow",
+   "stil": "Irish Stout",
+   "aile": "Stout & Porter",
+   "abv": 4.3,
+   "ibu": 36,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Bağımsız İrlanda stout'u; belirgin acılık, espresso ve bitter çikolata"
+  },
+  {
+   "id": "ohara-irish-red",
+   "ad": "O'Hara's Irish Red",
+   "fab": "Carlow Brewing Company",
+   "ulke": "İrlanda",
+   "bolge": "Carlow",
+   "stil": "Irish Red Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.3,
+   "hacim": 50,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Toffee, kızarmış ekmek ve meyve; Kilkenny'nin craft karşılığı"
+  },
+  {
+   "id": "ohara-leann-follain",
+   "ad": "O'Hara's Leann Folláin",
+   "fab": "Carlow Brewing Company",
+   "ulke": "İrlanda",
+   "bolge": "Carlow",
+   "stil": "Irish Extra Stout",
+   "aile": "Stout & Porter",
+   "abv": 6.0,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "\"Sağlıklı bira\" anlamına gelen dolgun stout; melas ve kavrulmuş kahve"
+  },
+  {
+   "id": "galway-bay-of-foam-and-fury",
+   "ad": "Galway Bay Of Foam and Fury",
+   "fab": "Galway Bay Brewery",
+   "ulke": "İrlanda",
+   "bolge": "Galway",
+   "stil": "Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.5,
+   "hacim": 44,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İrlanda'nın en ünlü DIPA'sı; reçine, tropik meyve ve sert acılık"
+  },
+  {
+   "id": "galway-bay-buried-at-sea",
+   "ad": "Galway Bay Buried at Sea",
+   "fab": "Galway Bay Brewery",
+   "ulke": "İrlanda",
+   "bolge": "Galway",
+   "stil": "Milk Stout",
+   "aile": "Stout & Porter",
+   "abv": 4.5,
+   "hacim": 44,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Çikolatalı milk stout; laktozlu yumuşak gövde, hafif tatlılık"
+  },
+  {
+   "id": "porterhouse-wrasslers-xxxx",
+   "ad": "Porterhouse Wrasslers XXXX Stout",
+   "fab": "Porterhouse Brewing Company",
+   "ulke": "İrlanda",
+   "bolge": "Dublin",
+   "stil": "Irish Extra Stout",
+   "aile": "Stout & Porter",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Cork tarzı eski usul stout; şerbetçiotu ağırlıklı, kuru ve kavrulmuş"
+  },
+  {
+   "id": "fullers-london-pride",
+   "ad": "Fuller's London Pride",
+   "fab": "Fuller's",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Best Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.7,
+   "ibu": 30,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 83,
+   "filtresiz": 0,
+   "uz": "CAMRA Champion Beer of Britain 1979",
+   "not": "Londra'nın simge bitter'ı; bisküvi malt, portakal kabuğu ve toprak şerbetçiotu"
+  },
+  {
+   "id": "fullers-esb",
+   "ad": "Fuller's ESB",
+   "fab": "Fuller's",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Extra Special Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 5.9,
+   "ibu": 35,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "CAMRA Champion Beer of Britain (3 kez)",
+   "not": "ESB stilinin kendisi; marmelat, karamel ve dengeli acılık"
+  },
+  {
+   "id": "fullers-vintage-ale",
+   "ad": "Fuller's Vintage Ale",
+   "fab": "Fuller's",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "English Barleywine",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 8.5,
+   "hacim": 50,
+   "tl": 900,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "1997'den beri yıllık seri",
+   "not": "Her yıl numaralı şişe; yıllandıkça sherry, kuru meyve ve bal"
+  },
+  {
+   "id": "fullers-london-porter",
+   "ad": "Fuller's London Porter",
+   "fab": "Fuller's",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "English Porter",
+   "aile": "Stout & Porter",
+   "abv": 5.4,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kahverengi malt ağırlıklı klasik porter; çikolata, kahve ve kadifemsi gövde"
+  },
+  {
+   "id": "samuel-smith-taddy-porter",
+   "ad": "Samuel Smith's Taddy Porter",
+   "fab": "Samuel Smith",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "English Porter",
+   "aile": "Stout & Porter",
+   "abv": 5.0,
+   "hacim": 55,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Taş Yorkshire Square'lerde mayalanır; meyan, kakao ve kuru bitiş"
+  },
+  {
+   "id": "samuel-smith-oatmeal-stout",
+   "ad": "Samuel Smith's Oatmeal Stout",
+   "fab": "Samuel Smith",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "Oatmeal Stout",
+   "aile": "Stout & Porter",
+   "abv": 5.0,
+   "ibu": 32,
+   "hacim": 55,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "Stilin dünya referansı",
+   "not": "Yulaf sayesinde ipeksi gövde; sütlü kahve ve bitter çikolata"
+  },
+  {
+   "id": "samuel-smith-imperial-stout",
+   "ad": "Samuel Smith's Imperial Stout",
+   "fab": "Samuel Smith",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "Russian Imperial Stout",
+   "aile": "Stout & Porter",
+   "abv": 7.0,
+   "hacim": 55,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 89,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Daha hafif tarihî imperial; kuru erik, melas ve kavrulmuş arpa"
+  },
+  {
+   "id": "samuel-smith-nut-brown-ale",
+   "ad": "Samuel Smith's Nut Brown Ale",
+   "fab": "Samuel Smith",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "English Brown Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 5.0,
+   "hacim": 55,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Fındık, karamel ve tost; İngiliz brown ale'in tanımı"
+  },
+  {
+   "id": "timothy-taylor-landlord",
+   "ad": "Timothy Taylor's Landlord",
+   "fab": "Timothy Taylor",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "Strong Bitter (Pale Ale)",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.3,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "CAMRA Champion Beer of Britain (4 kez)",
+   "not": "Fıçıda efsane; narenciye-çiçek şerbetçiotu, bisküvi malt ve kuru bitiş"
+  },
+  {
+   "id": "marstons-pedigree",
+   "ad": "Marston's Pedigree",
+   "fab": "Marston's",
+   "ulke": "İngiltere",
+   "bolge": "Staffordshire",
+   "stil": "Best Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.5,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 78,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Burton union sistemiyle mayalanır; sülfürlü 'Burton snatch', elma ve malt"
+  },
+  {
+   "id": "wychwood-hobgoblin",
+   "ad": "Wychwood Hobgoblin Ruby",
+   "fab": "Wychwood",
+   "ulke": "İngiltere",
+   "bolge": "Oxfordshire",
+   "stil": "English Ruby Ale (Strong Bitter)",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Yakut renkli 'cadı birası'; çikolatalı malt, karamel ve hafif meyve"
+  },
+  {
+   "id": "newcastle-brown-ale",
+   "ad": "Newcastle Brown Ale",
+   "fab": "Newcastle Brown Ale",
+   "ulke": "İngiltere",
+   "bolge": "Newcastle",
+   "stil": "Northern English Brown Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.7,
+   "ibu": 24,
+   "hacim": 55,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 74,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "1927'den mavi yıldızlı şişe; fındık, karamel ve kuru bitiş"
+  },
+  {
+   "id": "old-speckled-hen",
+   "ad": "Old Speckled Hen",
+   "fab": "Greene King",
+   "ulke": "İngiltere",
+   "bolge": "Suffolk",
+   "stil": "Strong Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 77,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Toffee ve kırmızı meyveli amber ale; MG fabrikasının şerefine doğdu"
+  },
+  {
+   "id": "st-peters-cream-stout",
+   "ad": "St Peter's Cream Stout",
+   "fab": "St Peter's Brewery",
+   "ulke": "İngiltere",
+   "bolge": "Suffolk",
+   "stil": "Sweet Stout",
+   "aile": "Stout & Porter",
+   "abv": 6.5,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Oval şişede kremsi stout; kahve, meyan ve kuru üzüm"
+  },
+  {
+   "id": "st-peters-best-bitter",
+   "ad": "St Peter's Best Bitter",
+   "fab": "St Peter's Brewery",
+   "ulke": "İngiltere",
+   "bolge": "Suffolk",
+   "stil": "Ordinary Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 3.7,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Hafif, malt odaklı ve toprak şerbetçiotlu, ikinci bardağa davet eden bitter"
+  },
+  {
+   "id": "meantime-london-lager",
+   "ad": "Meantime London Lager",
+   "fab": "Meantime",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Helles / Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Greenwich'ten temiz lager; ekmeksi malt ve hafif çiçeksi şerbetçiotu"
+  },
+  {
+   "id": "meantime-london-pale-ale",
+   "ad": "Meantime London Pale Ale",
+   "fab": "Meantime",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "English Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 4.3,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 78,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İngiliz şerbetçiotlarıyla greyfurt ve çiçek; hafif gövde"
+  },
+  {
+   "id": "thornbridge-jaipur",
+   "ad": "Thornbridge Jaipur",
+   "fab": "Thornbridge",
+   "ulke": "İngiltere",
+   "bolge": "Derbyshire",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.9,
+   "hacim": 33,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 91,
+   "filtresiz": 0,
+   "uz": "100'den fazla ödül",
+   "not": "Britanya craft devriminin IPA'sı; mango, greyfurt, bal ve keskin bitiş"
+  },
+  {
+   "id": "thornbridge-bracia",
+   "ad": "Thornbridge Bracia",
+   "fab": "Thornbridge",
+   "ulke": "İngiltere",
+   "bolge": "Derbyshire",
+   "stil": "Strong Dark Ale (bal katkılı)",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 10.0,
+   "hacim": 33,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 91,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İtalyan kestane balıyla güçlü koyu ale; kakao, kahve ve acımsı bal"
+  },
+  {
+   "id": "kernel-export-stout-london-1890",
+   "ad": "The Kernel Export Stout London 1890",
+   "fab": "The Kernel",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Export Stout",
+   "aile": "Stout & Porter",
+   "abv": 7.8,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 92,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "1890 Londra reçetesi; yoğun kahve, meyan ve kuru meyve, şişede mayalı"
+  },
+  {
+   "id": "kernel-table-beer",
+   "ad": "The Kernel Table Beer",
+   "fab": "The Kernel",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Table Beer / Session Pale",
+   "aile": "Pale Ale & IPA",
+   "abv": 3.0,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Düşük alkolde dolu şerbetçiotu; değişen hoplarla sofra birası"
+  },
+  {
+   "id": "cloudwater-ddh-pale",
+   "ad": "Cloudwater DDH Pale",
+   "fab": "Cloudwater",
+   "ulke": "İngiltere",
+   "bolge": "Manchester",
+   "stil": "Hazy Pale Ale (NEPA)",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.5,
+   "hacim": 44,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Çift kuru şerbetçiotlu bulanık pale; şeftali, narenciye ve yumuşak gövde"
+  },
+  {
+   "id": "beavertown-neck-oil",
+   "ad": "Beavertown Neck Oil",
+   "fab": "Beavertown",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Session IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 4.3,
+   "hacim": 33,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Londra pub'larının craft standardı; greyfurt, çam ve hafif gövde"
+  },
+  {
+   "id": "beavertown-gamma-ray",
+   "ad": "Beavertown Gamma Ray",
+   "fab": "Beavertown",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.4,
+   "hacim": 33,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Uzay temalı kutuda tropik meyve, mango ve tatlımsı malt"
+  },
+  {
+   "id": "magic-rock-cannonball",
+   "ad": "Magic Rock Cannonball",
+   "fab": "Magic Rock",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.4,
+   "hacim": 33,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Huddersfield'ın sirk temalı IPA'sı; reçine, tropik meyve ve kuru bitiş"
+  },
+  {
+   "id": "siren-broken-dream",
+   "ad": "Siren Broken Dream Breakfast Stout",
+   "fab": "Siren Craft Brew",
+   "ulke": "İngiltere",
+   "bolge": "Berkshire",
+   "stil": "Breakfast Stout",
+   "aile": "Stout & Porter",
+   "abv": 6.5,
+   "hacim": 44,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kahve, yulaf ve laktozlu kadifemsi stout; hafif dumanlı"
+  },
+  {
+   "id": "northern-monk-faith",
+   "ad": "Northern Monk Faith",
+   "fab": "Northern Monk",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "Hazy Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.4,
+   "hacim": 44,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Leeds'in amiral pale'i; yulaflı yumuşak gövde, mango ve narenciye"
+  },
+  {
+   "id": "theakston-old-peculier",
+   "ad": "Theakston Old Peculier",
+   "fab": "Theakston",
+   "ulke": "İngiltere",
+   "bolge": "Yorkshire",
+   "stil": "Old Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 5.6,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Masham'ın efsane old ale'i; kuru üzüm, melas ve kahverengi şeker"
+  },
+  {
+   "id": "jw-lees-harvest-ale",
+   "ad": "J.W. Lees Harvest Ale",
+   "fab": "J.W. Lees",
+   "ulke": "İngiltere",
+   "bolge": "Manchester",
+   "stil": "English Barleywine",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 11.5,
+   "hacim": 27.5,
+   "tl": 600,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 92,
+   "filtresiz": 0,
+   "uz": "1986'dan beri yıllık vintage",
+   "not": "Yeni hasat malt ve şerbetçiotuyla; marmelat, bal, sherry, on yıllarca yıllanır"
+  },
+  {
+   "id": "adnams-broadside",
+   "ad": "Adnams Broadside",
+   "fab": "Adnams",
+   "ulke": "İngiltere",
+   "bolge": "Suffolk",
+   "stil": "Strong Bitter / Old Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 6.3,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Southwold'dan güçlü koyu ale; kuru üzüm, badem ve meyvemsi kek"
+  },
+  {
+   "id": "youngs-double-chocolate-stout",
+   "ad": "Young's Double Chocolate Stout",
+   "fab": "Young's",
+   "ulke": "İngiltere",
+   "bolge": "Bedfordshire",
+   "stil": "Sweet Stout (çikolatalı)",
+   "aile": "Stout & Porter",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Gerçek bitter çikolata ve çikolata maltı; tatlı, kremsi tatlı-stout"
+  },
+  {
+   "id": "camden-hells-lager",
+   "ad": "Camden Hells Lager",
+   "fab": "Camden Town Brewery",
+   "ulke": "İngiltere",
+   "bolge": "Londra",
+   "stil": "Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.6,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 79,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kentish Town'dan Helles-Pils karışımı; ekmeksi, çiçeksi ve gevrek"
+  },
+  {
+   "id": "worthington-white-shield",
+   "ad": "Worthington's White Shield",
+   "fab": "Worthington's",
+   "ulke": "İngiltere",
+   "bolge": "Staffordshire",
+   "stil": "English IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.6,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Şişede mayalı tarihî Burton IPA'sı; mineral su, kayısı ve baharatlı şerbetçiotu"
+  },
+  {
+   "id": "burning-sky-saison-a-la-provision",
+   "ad": "Burning Sky Saison à la Provision",
+   "fab": "Burning Sky",
+   "ulke": "İngiltere",
+   "bolge": "Sussex",
+   "stil": "Saison (fıçıda yıllandırılmış)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.7,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Meşe foeder'de Brett'le olgunlaşan saison; limon, saman ve çiftlik kokusu"
+  },
+  {
+   "id": "brewdog-punk-ipa",
+   "ad": "BrewDog Punk IPA",
+   "fab": "BrewDog",
+   "ulke": "İskoçya",
+   "bolge": "Aberdeenshire",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.4,
+   "ibu": 45,
+   "hacim": 33,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Britanya craft dalgasının sembolü; greyfurt, ananas ve çam"
+  },
+  {
+   "id": "brewdog-hazy-jane",
+   "ad": "BrewDog Hazy Jane",
+   "fab": "BrewDog",
+   "ulke": "İskoçya",
+   "bolge": "Aberdeenshire",
+   "stil": "New England IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Bulanık, meyvemsi NEIPA; mango, ananas ve yumuşak gövde"
+  },
+  {
+   "id": "brewdog-elvis-juice",
+   "ad": "BrewDog Elvis Juice",
+   "fab": "BrewDog",
+   "ulke": "İskoçya",
+   "bolge": "Aberdeenshire",
+   "stil": "Grapefruit IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.5,
+   "ibu": 40,
+   "hacim": 33,
+   "tl": 195,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Greyfurt kabuğu katkılı IPA; acı narenciye ve karamel"
+  },
+  {
+   "id": "brewdog-lost-lager",
+   "ad": "BrewDog Lost Lager",
+   "fab": "BrewDog",
+   "ulke": "İskoçya",
+   "bolge": "Aberdeenshire",
+   "stil": "Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 76,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Dry-hop'lu Pils; temiz malt, çiçeksi ve kuru"
+  },
+  {
+   "id": "brewdog-jet-black-heart",
+   "ad": "BrewDog Jet Black Heart",
+   "fab": "BrewDog",
+   "ulke": "İskoçya",
+   "bolge": "Aberdeenshire",
+   "stil": "Nitro Milk Stout",
+   "aile": "Stout & Porter",
+   "abv": 4.7,
+   "hacim": 33,
+   "tl": 195,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Azotlu, kremsi milk stout; kahve, çikolata ve vanilya"
+  },
+  {
+   "id": "innis-gunn-original",
+   "ad": "Innis & Gunn The Original",
+   "fab": "Innis & Gunn",
+   "ulke": "İskoçya",
+   "bolge": "Edinburgh",
+   "stil": "Scottish Ale (meşe yıllandırılmış)",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 6.6,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 78,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Meşe fıçıda olgunlaşan amber ale; vanilya, toffee ve hafif viski"
+  },
+  {
+   "id": "belhaven-scottish-stout",
+   "ad": "Belhaven Scottish Stout",
+   "fab": "Belhaven",
+   "ulke": "İskoçya",
+   "bolge": "East Lothian",
+   "stil": "Foreign Extra Stout",
+   "aile": "Stout & Porter",
+   "abv": 7.0,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 81,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İskoçya'nın en eski fabrikasından güçlü stout; kakao, kahve ve meyan"
+  },
+  {
+   "id": "tennents-lager",
+   "ad": "Tennent's Lager",
+   "fab": "Tennent's",
+   "ulke": "İskoçya",
+   "bolge": "Glasgow",
+   "stil": "Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.0,
+   "hacim": 50,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 68,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İskoçya'nın en çok içilen birası; hafif, tatlımsı malt, gevrek"
+  },
+  {
+   "id": "harviestoun-old-engine-oil",
+   "ad": "Harviestoun Old Engine Oil",
+   "fab": "Harviestoun",
+   "ulke": "İskoçya",
+   "bolge": "Clackmannanshire",
+   "stil": "Strong Porter / Black Ale",
+   "aile": "Stout & Porter",
+   "abv": 6.0,
+   "hacim": 33,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Motor yağı kıvamında siyah ale; bitter çikolata, kahve ve kavrulmuş malt"
+  },
+  {
+   "id": "harviestoun-ola-dubh-12",
+   "ad": "Harviestoun Ola Dubh 12",
+   "fab": "Harviestoun",
+   "ulke": "İskoçya",
+   "bolge": "Clackmannanshire",
+   "stil": "Fıçı Yıllanmış Strong Porter",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Highland Park viski fıçılarında olgunlaşan Old Engine Oil; turba ve vanilya"
+  },
+  {
+   "id": "harviestoun-schiehallion",
+   "ad": "Harviestoun Schiehallion",
+   "fab": "Harviestoun",
+   "ulke": "İskoçya",
+   "bolge": "Clackmannanshire",
+   "stil": "Craft Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 50,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "İskoç craft lager klasiği; çimensi şerbetçiotu, limon ve bisküvi"
+  },
+  {
+   "id": "traquair-house-ale",
+   "ad": "Traquair House Ale",
+   "fab": "Traquair House",
+   "ulke": "İskoçya",
+   "bolge": "Scottish Borders",
+   "stil": "Wee Heavy (Strong Scotch Ale)",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 7.2,
+   "hacim": 33,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Şato mahzeninde meşe teknelerde mayalanır; karamel, kuru meyve, baharat"
+  },
+  {
+   "id": "traquair-jacobite-ale",
+   "ad": "Traquair Jacobite Ale",
+   "fab": "Traquair House",
+   "ulke": "İskoçya",
+   "bolge": "Scottish Borders",
+   "stil": "Wee Heavy (kişnişli)",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 370,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kişniş katkılı güçlü Scotch ale; baharatlı, tatlı malt ve kurutulmuş meyve"
+  },
+  {
+   "id": "williams-bros-fraoch-heather-ale",
+   "ad": "Williams Bros Fraoch Heather Ale",
+   "fab": "Williams Bros",
+   "ulke": "İskoçya",
+   "bolge": "Clackmannanshire",
+   "stil": "Gruit / Heather Ale",
+   "aile": "Özel & Diğer",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Funda çiçeğiyle Kelt tarifi; çiçeksi, ballı ve otsu, az şerbetçiotu"
+  },
+  {
+   "id": "fyne-ales-jarl",
+   "ad": "Fyne Ales Jarl",
+   "fab": "Fyne Ales",
+   "ulke": "İskoçya",
+   "bolge": "Argyll",
+   "stil": "Golden Ale (Session)",
+   "aile": "Pale Ale & IPA",
+   "abv": 3.8,
+   "hacim": 50,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Tek şerbetçiotu Citra ile limon, liçi; gölde serinlik gibi hafif"
+  },
+  {
+   "id": "orkney-skull-splitter",
+   "ad": "Orkney Skull Splitter",
+   "fab": "Orkney Brewery",
+   "ulke": "İskoçya",
+   "bolge": "Orkney",
+   "stil": "Wee Heavy",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 8.5,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Viking jarlının adını taşıyan Scotch ale; incir, karamel ve tarçın"
+  },
+  {
+   "id": "brains-sa",
+   "ad": "Brains SA",
+   "fab": "Brains",
+   "ulke": "Galler",
+   "bolge": "Cardiff",
+   "stil": "Best Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.2,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Cardiff'in 'Skull Attack' lakaplı bitter'ı; malt, karamel ve hafif meyve"
+  },
+  {
+   "id": "felinfoel-double-dragon",
+   "ad": "Felinfoel Double Dragon",
+   "fab": "Felinfoel",
+   "ulke": "Galler",
+   "bolge": "Llanelli",
+   "stil": "Best Bitter / Pale Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.2,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 77,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Galler'in 'ulusal birası'; karamel, tost ve dengeli acılık"
+  },
+  {
+   "id": "tiny-rebel-cwtch",
+   "ad": "Tiny Rebel Cwtch",
+   "fab": "Tiny Rebel",
+   "ulke": "Galler",
+   "bolge": "Newport",
+   "stil": "Welsh Red Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 4.6,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 83,
+   "filtresiz": 0,
+   "uz": "CAMRA Champion Beer of Britain 2015",
+   "not": "Kırmızı ale ile Amerikan şerbetçiotu; karamel ve narenciye kucaklaşması"
+  }
+ ],
+ "fabrikalar": {
+  "Guinness": {
+   "k": 1759,
+   "s": "Diageo",
+   "y": "St. James's Gate, Dublin",
+   "stil": "Irish stout, lager",
+   "h": "Arthur Guinness 1759'da St. James's Gate'i 9.000 yıllığına kiraladı. 19. yüzyılda dünyanın en büyük bira fabrikası oldu; bugün Diageo bünyesinde 150'den fazla ülkede satılıyor. Harp, Kilkenny ve Smithwick's de artık burada üretiliyor."
+  },
+  "Heineken Ireland (Lady's Well)": {
+   "k": 1856,
+   "s": "Heineken",
+   "y": "Lady's Well, Cork",
+   "stil": "Irish stout, lager",
+   "h": "Murphy ailesi 1856'da Cork'taki Lady's Well fabrikasını kurdu; 1983'ten beri Heineken'e ait. 2009'da Beamish & Crawford kapanınca Beamish üretimi de buraya taşındı."
+  },
+  "Smithwick's": {
+   "k": 1710,
+   "s": "Diageo",
+   "y": "Kilkenny (üretim bugün Dublin)",
+   "stil": "Irish red ale",
+   "h": "John Smithwick 1710'da St Francis Abbey manastır bahçesinde kurdu; İrlanda'nın en eski ale markası. Kilkenny ise 1987'de ihracat için geliştirildi. 2013'te üretim St. James's Gate'e taşındı, eski fabrika bugün ziyaretçi merkezi."
+  },
+  "Carlow Brewing Company": {
+   "k": 1996,
+   "s": "Bağımsız",
+   "y": "Bagenalstown, Carlow",
+   "stil": "Irish stout, red ale",
+   "h": "Seamus O'Hara'nın 1996'da kurduğu, İrlanda craft hareketinin öncülerinden. O'Hara's markasıyla stout ve red ale'leri dünyaya ihraç ediyor."
+  },
+  "Galway Bay Brewery": {
+   "k": 2009,
+   "s": "Bağımsız",
+   "y": "Galway",
+   "stil": "IPA, stout",
+   "h": "2009'da Galway'de bir pub'ın arka odasında başladı; bugün İrlanda'nın en saygın bağımsız craft fabrikalarından ve kendi pub zinciri var."
+  },
+  "Porterhouse Brewing Company": {
+   "k": 1996,
+   "s": "Bağımsız",
+   "y": "Dublin",
+   "stil": "Stout, ale",
+   "h": "1996'da Temple Bar'daki pub'ında kuruldu; Guinness'in gölgesinde İrlanda'nın ilk bağımsız stout ustalarından biri oldu."
+  },
+  "Fuller's": {
+   "k": 1845,
+   "s": "Asahi",
+   "y": "Griffin Brewery, Chiswick, Londra",
+   "stil": "Bitter, ESB, porter, barleywine",
+   "h": "Chiswick'teki Griffin Brewery'de 1600'lerden beri bira yapılıyor; Fuller, Smith & Turner ortaklığı 1845'te kuruldu. ESB stilini tanımlayan fabrika 2019'da Asahi'ye satıldı."
+  },
+  "Samuel Smith": {
+   "k": 1758,
+   "s": "Bağımsız (aile)",
+   "y": "Old Brewery, Tadcaster, Yorkshire",
+   "stil": "Porter, stout, brown ale",
+   "h": "Yorkshire'ın en eski fabrikası; hâlâ taş Yorkshire Square teknelerde mayalıyor ve kendi kuyusunun suyunu kullanıyor. Reklamsız, gelenekçi bir aile şirketi."
+  },
+  "Timothy Taylor": {
+   "k": 1858,
+   "s": "Bağımsız (aile)",
+   "y": "Keighley, West Yorkshire",
+   "stil": "Bitter, pale ale",
+   "h": "1858'den beri Keighley'de; Knowle Spring kaynak suyuyla bira yapar. Landlord, Britanya'nın en çok ödül alan fıçı bitter'larından."
+  },
+  "Marston's": {
+   "k": 1834,
+   "s": "Carlsberg Marston's",
+   "y": "Burton upon Trent, Staffordshire",
+   "stil": "Bitter, pale ale",
+   "h": "Burton'un sert, sülfatlı suyuyla ünlü fabrika; dünyada Burton union mayalama sistemini hâlâ kullanan tek yer."
+  },
+  "Wychwood": {
+   "k": 1983,
+   "s": "Carlsberg Marston's",
+   "y": "Witney, Oxfordshire",
+   "stil": "Ruby ale, fantezi temalı ale'ler",
+   "h": "1983'te Witney'de kuruldu; Hobgoblin ile Britanya'nın en bilinen 'fantastik' ale markasına dönüştü. Marka bugün Carlsberg Marston's bünyesinde."
+  },
+  "Newcastle Brown Ale": {
+   "k": 1927,
+   "s": "Heineken",
+   "y": "Newcastle upon Tyne (köken)",
+   "stil": "Brown ale",
+   "h": "Albay Jim Porter 1927'de Newcastle Breweries için geliştirdi; mavi yıldızlı şişe kuzey İngiltere'nin simgesi oldu. Bugün Heineken tarafından üretiliyor."
+  },
+  "Greene King": {
+   "k": 1799,
+   "s": "CK Asset Holdings",
+   "y": "Bury St Edmunds, Suffolk",
+   "stil": "Bitter, IPA",
+   "h": "1799'dan beri Bury St Edmunds'ta; İngiltere'nin en büyük pub ve bira gruplarından. Old Speckled Hen ve Belhaven'ı bünyesine katmıştır."
+  },
+  "St Peter's Brewery": {
+   "k": 1996,
+   "s": "Bağımsız",
+   "y": "St Peter South Elmham, Bungay, Suffolk",
+   "stil": "Ale, stout",
+   "h": "Suffolk kırsalındaki ortaçağ malikânesinde kuruldu; 18. yüzyıl Philadelphia cin şişesinden esinlenen oval şişesiyle tanınır."
+  },
+  "Meantime": {
+   "k": 1999,
+   "s": "Asahi",
+   "y": "Greenwich, Londra",
+   "stil": "Lager, pale ale",
+   "h": "Alastair Hook'un 1999'da kurduğu, Londra'nın modern bira sahnesinin öncülerinden. 2015'te SABMiller'a, ardından Asahi'ye geçti."
+  },
+  "Thornbridge": {
+   "k": 2005,
+   "s": "Bağımsız",
+   "y": "Bakewell, Derbyshire",
+   "stil": "IPA, güçlü ale",
+   "h": "Thornbridge Hall malikânesinde başladı, Bakewell'daki Riverside fabrikasına taşındı. Jaipur ile Britanya'da Amerikan tarzı IPA'yı yaygınlaştıran isim."
+  },
+  "The Kernel": {
+   "k": 2009,
+   "s": "Bağımsız",
+   "y": "Bermondsey, Londra",
+   "stil": "Pale ale, IPA, stout",
+   "h": "Evin O'Riordain'ın Bermondsey demiryolu kemerlerinin altında kurduğu fabrika; sade kahverengi etiketleri ve tarihî Londra stout'larıyla bir kült."
+  },
+  "Cloudwater": {
+   "k": 2014,
+   "s": "Bağımsız",
+   "y": "Manchester",
+   "stil": "Hazy IPA, DIPA",
+   "h": "2014'te Manchester'da kuruldu; mevsimsel serileri ve DIPA'larıyla Avrupa'da NEIPA furyasını başlatanlardan."
+  },
+  "Beavertown": {
+   "k": 2011,
+   "s": "Heineken",
+   "y": "Tottenham, Londra",
+   "stil": "Session IPA, pale ale",
+   "h": "Logan Plant'in bir barbekü restoranının mutfağında başlattığı fabrika; renkli kutularıyla Londra craft'ının yüzü. Heineken desteğiyle büyüdü."
+  },
+  "Magic Rock": {
+   "k": 2011,
+   "y": "Huddersfield, West Yorkshire",
+   "stil": "IPA, pale ale",
+   "h": "2011'de Huddersfield'da kuruldu; sirk temalı etiketleri ve Cannonball IPA serisiyle kuzey İngiltere craft sahnesinin öncülerinden."
+  },
+  "Siren Craft Brew": {
+   "k": 2013,
+   "s": "Bağımsız",
+   "y": "Finchampstead, Berkshire",
+   "stil": "Stout, IPA, fıçı yıllandırılmış",
+   "h": "2013'te Berkshire'da kuruldu; Broken Dream stout'u ve iş birlikleriyle tanınır."
+  },
+  "Northern Monk": {
+   "k": 2013,
+   "s": "Bağımsız",
+   "y": "Leeds, West Yorkshire",
+   "stil": "Hazy pale, IPA",
+   "h": "Leeds'teki tarihî Old Flax Store binasında; kuzeyin manastır bira geleneğinden ilham alan modern craft fabrikası."
+  },
+  "Theakston": {
+   "k": 1827,
+   "s": "Bağımsız (aile)",
+   "y": "Masham, North Yorkshire",
+   "stil": "Bitter, old ale",
+   "h": "1827'den beri Masham'da; Old Peculier adını Masham'ın ortaçağ kilise mahkemesinden alır. Hâlâ fabrikada fıçıcı (cooper) çalıştırır."
+  },
+  "J.W. Lees": {
+   "k": 1828,
+   "s": "Bağımsız (aile)",
+   "y": "Middleton Junction, Manchester",
+   "stil": "Bitter, barleywine",
+   "h": "John Willie Lees'in 1828'de kurduğu aile fabrikası; 1986'dan beri yıllık Harvest Ale'iyle yıllandırma meraklılarının gözdesi."
+  },
+  "Adnams": {
+   "k": 1872,
+   "s": "Bağımsız",
+   "y": "Southwold, Suffolk",
+   "stil": "Bitter, golden ale",
+   "h": "Kuzey Denizi kıyısındaki Southwold'da 1872'den beri; çevreci üretimi ve distilerisiyle de bilinir."
+  },
+  "Young's": {
+   "k": 1831,
+   "s": "Carlsberg Marston's",
+   "y": "Eagle Brewery, Bedford",
+   "stil": "Bitter, stout",
+   "h": "Köklü Londra markası Young's, 2006'da Wandsworth'ten ayrıldı; biraları bugün Bedford'daki Eagle Brewery'de üretiliyor."
+  },
+  "Camden Town Brewery": {
+   "k": 2010,
+   "s": "AB InBev",
+   "y": "Kentish Town, Londra",
+   "stil": "Lager",
+   "h": "Jasper Cuppaidge'in 2010'da Kentish Town demiryolu kemerleri altında kurduğu fabrika; 2015'te AB InBev'e satıldı."
+  },
+  "Worthington's": {
+   "k": 1761,
+   "s": "Molson Coors",
+   "y": "Burton upon Trent, Staffordshire",
+   "stil": "Burton pale ale / IPA",
+   "h": "William Worthington'ın 1761'de Burton'da kurduğu marka; White Shield, Hindistan'a gönderilen tarihî Burton IPA'larının yaşayan son temsilcisi sayılır."
+  },
+  "Burning Sky": {
+   "k": 2013,
+   "s": "Bağımsız",
+   "y": "Firle, East Sussex",
+   "stil": "Saison, fıçıda yıllandırılmış",
+   "h": "Dark Star'ın kurucularından Mark Tranter'ın South Downs'taki çiftlik fabrikası; meşe foeder'leriyle Britanya'nın en iyi saison üreticilerinden."
+  },
+  "BrewDog": {
+   "k": 2007,
+   "s": "Bağımsız (kurucular + yatırımcılar)",
+   "y": "Ellon, Aberdeenshire",
+   "stil": "IPA, craft",
+   "h": "James Watt ve Martin Dickie 2007'de Fraserburgh'da bir garajda başladı; 'equity for punks' kitle fonlamasıyla dünyanın en bilinen craft markalarından oldu."
+  },
+  "Innis & Gunn": {
+   "k": 2003,
+   "s": "Bağımsız",
+   "y": "Edinburgh",
+   "stil": "Meşe yıllandırılmış ale, lager",
+   "h": "Dougal Sharp'ın viski fıçılarını tatlandırmak için yaptığı bir ale'in fıçıdan sonra beğenilmesiyle doğdu; meşe olgunlaştırmayı marka kimliği yaptı."
+  },
+  "Belhaven": {
+   "k": 1719,
+   "s": "Greene King",
+   "y": "Dunbar, East Lothian",
+   "stil": "Scottish ale, stout",
+   "h": "1719'dan beri Dunbar'da; İskoçya'nın faaliyetteki en eski fabrikası. 2005'te Greene King'e katıldı."
+  },
+  "Tennent's": {
+   "k": 1885,
+   "s": "C&C Group",
+   "y": "Wellpark Brewery, Glasgow",
+   "stil": "Lager",
+   "h": "Wellpark'ta bira geleneği 16. yüzyıla uzanır; Tennent's 1885'te lager üretmeye başlayarak İskoçya'nın lager markası oldu."
+  },
+  "Harviestoun": {
+   "k": 1983,
+   "s": "Bağımsız",
+   "y": "Alva, Clackmannanshire",
+   "stil": "Porter, lager, fıçı yıllandırılmış",
+   "h": "Ken Brooker'ın 1983'te Dollar'da bir ahırda kurduğu fabrika; Old Engine Oil ve viski fıçılı Ola Dubh serisiyle ünlü."
+  },
+  "Traquair House": {
+   "k": 1965,
+   "s": "Bağımsız (aile)",
+   "y": "Innerleithen, Scottish Borders",
+   "stil": "Wee heavy",
+   "h": "İskoçya'nın en eski yerleşik evi Traquair'deki 18. yüzyıl bira mahzeni 1965'te Peter Maxwell Stuart tarafından yeniden canlandırıldı; hâlâ meşe teknelerde mayalanır."
+  },
+  "Williams Bros": {
+   "k": 1988,
+   "s": "Bağımsız",
+   "y": "Alloa, Clackmannanshire",
+   "stil": "Tarihî İskoç ale'leri",
+   "h": "Bruce Williams'ın 1988'de Fraoch funda birasıyla başladığı fabrika; unutulmuş İskoç bitkili ale'lerini yeniden canlandırır."
+  },
+  "Fyne Ales": {
+   "k": 2001,
+   "s": "Bağımsız",
+   "y": "Cairndow, Argyll",
+   "stil": "Golden ale, pale ale",
+   "h": "Loch Fyne kıyısındaki Achadunan çiftliğinde 2001'de kuruldu; Jarl ile Britanya'nın en çok sevilen session biralarından birini yarattı."
+  },
+  "Orkney Brewery": {
+   "k": 1988,
+   "s": "Sinclair Breweries",
+   "y": "Quoyloo, Orkney",
+   "stil": "Scottish ale, wee heavy",
+   "h": "Orkney adalarında eski bir köy okulunda kuruldu; Dark Island ve Skull Splitter ile ödüllü."
+  },
+  "Brains": {
+   "k": 1882,
+   "s": "Bağımsız (aile, üretim lisanslı)",
+   "y": "Cardiff",
+   "stil": "Bitter",
+   "h": "Samuel Arthur Brain 1882'de Cardiff'te kurdu; Galler'in en bilinen bira markası. Fabrika satıldıktan sonra biralar ortak üretimle sürüyor."
+  },
+  "Felinfoel": {
+   "k": 1878,
+   "s": "Bağımsız (aile)",
+   "y": "Llanelli",
+   "stil": "Bitter, pale ale",
+   "h": "1878'den beri Llanelli'de; 1935'te ABD dışında kutuda bira satan ilk fabrika oldu, yerel teneke sanayisinin katkısıyla."
+  },
+  "Tiny Rebel": {
+   "k": 2012,
+   "s": "Bağımsız",
+   "y": "Newport",
+   "stil": "Red ale, modern ale",
+   "h": "Bradley Cummings ve Gazz Williams'ın 2012'de garajda başladığı fabrika; Cwtch ile Champion Beer of Britain kazanan ilk Galler birası oldu."
+  }
+ },
+ "bolgeler": {
+  "İrlanda|Dublin": {
+   "k": "Stout'un dünya başkenti; Guinness'in gölgesinde gelişen küçük ama canlı bir craft sahnesi.",
+   "t": "St. James's Gate 1759'dan beri burada; 19. yüzyılda dünyanın en büyük fabrikasıydı.",
+   "i": "Guinness Storehouse'tan sonra Porterhouse gibi bağımsız pub'larda yerel stout'ları kıyaslayın.",
+   "konum": [
+    53.35,
+    -6.26
+   ]
+  },
+  "İrlanda|Cork": {
+   "k": "Dublin'e rakip ikinci stout geleneği: daha yumuşak, daha az acı stout'lar.",
+   "t": "Murphy's (1856) ve Beamish (1792) şehrin iki tarihî stout'u.",
+   "i": "Bir Cork pub'ında Murphy's'i Guinness ile yan yana deneyin; fark yumuşaklıkta.",
+   "konum": [
+    51.9,
+    -8.47
+   ]
+  },
+  "İrlanda|Kilkenny": {
+   "k": "İrlanda kırmızı ale'inin evi; karamel ve tostlu, düşük acılıklı biralar.",
+   "t": "Smithwick's 1710'da manastır bahçesinde kuruldu.",
+   "i": "Smithwick's Experience ziyaretçi merkezi tarihçeyi anlatır.",
+   "konum": [
+    52.65,
+    -7.25
+   ]
+  },
+  "İrlanda|Carlow": {
+   "k": "Güneydoğu İrlanda'nın arpa ovalarında bağımsız ale ve stout üretimi.",
+   "t": "O'Hara's ile İrlanda craft hareketinin ilk dalgası burada başladı.",
+   "i": "O'Hara's Irish Stout, büyük markalardan daha acı ve kuru bir stout tanıtır.",
+   "konum": [
+    52.84,
+    -6.93
+   ]
+  },
+  "İrlanda|Galway": {
+   "k": "Batı kıyısında hop odaklı, modern İrlanda craft'ının merkezi.",
+   "t": "Galway Bay Brewery 2009'dan beri şehrin craft pub'larını besliyor.",
+   "i": "Galway'de istiridye ile bir İrlanda stout'u klasik eşleşmedir.",
+   "konum": [
+    53.27,
+    -9.05
+   ]
+  },
+  "İngiltere|Londra": {
+   "k": "Porter'ın doğum yeri; tarihî Fuller's'tan Bermondsey Beer Mile'daki craft'lara uzanan geniş yelpaze.",
+   "t": "18. yüzyılda porter Londra hamallarının birasıydı; 2010'larda craft patlaması yaşandı.",
+   "i": "Cumartesi Bermondsey Beer Mile'ı yürüyün; Fuller's ESB ile klasikten başlayın.",
+   "konum": [
+    51.51,
+    -0.13
+   ]
+  },
+  "İngiltere|Yorkshire": {
+   "k": "Taş Yorkshire Square mayalama, kremsi köpüklü bitter'lar ve güçlü craft sahnesi.",
+   "t": "Tadcaster ve Masham yüzyıllardır bira kasabası; Leeds ve Huddersfield yeni nesli temsil eder.",
+   "i": "Kuzey usulü 'sparkler' ile servis edilen kremsi bir bitter deneyin.",
+   "konum": [
+    53.95,
+    -1.5
+   ]
+  },
+  "İngiltere|Staffordshire": {
+   "k": "Burton upon Trent: alçıtaşlı sert suyuyla pale ale ve IPA'nın tarihî başkenti.",
+   "t": "19. yüzyılda dünyanın bira başkentiydi; 'Burtonizasyon' terimi buradan gelir.",
+   "i": "White Shield ile tarihî bir Burton IPA'sı, Pedigree ile union sistemi tadın.",
+   "konum": [
+    52.8,
+    -1.64
+   ]
+  },
+  "İngiltere|Oxfordshire": {
+   "k": "Cotswolds kenarında geleneksel aile fabrikaları ve fıçı ale kültürü.",
+   "t": "Witney'deki Wychwood 1983'ten beri Hobgoblin'i üretti.",
+   "i": "Hobgoblin, İngiliz koyu ale'lerine yumuşak bir giriş sunar.",
+   "konum": [
+    51.78,
+    -1.48
+   ]
+  },
+  "İngiltere|Newcastle": {
+   "k": "Kuzeydoğu İngiltere'nin brown ale geleneği ve işçi pub kültürü.",
+   "t": "Newcastle Brown Ale 1927'de burada doğdu.",
+   "i": "Geleneksel olarak küçük 'schooner' bardağa azar azar doldurularak içilir.",
+   "konum": [
+    54.98,
+    -1.62
+   ]
+  },
+  "İngiltere|Suffolk": {
+   "k": "Doğu Anglia'nın arpa tarlaları; güçlü, maltlı ve meyvemsi ale'ler.",
+   "t": "Greene King ve Adnams iki yüzyıllık bölgesel güçler.",
+   "i": "Southwold'da Adnams Broadside'ı deniz ürünleriyle eşleştirin.",
+   "konum": [
+    52.19,
+    1.0
+   ]
+  },
+  "İngiltere|Derbyshire": {
+   "k": "Peak District kenarında modern İngiliz craft'ının öncü IPA'ları.",
+   "t": "Thornbridge 2005'te bir malikânede kuruldu.",
+   "i": "Jaipur'u taze ve soğuk için; şerbetçiotu çabuk kaybolur.",
+   "konum": [
+    53.21,
+    -1.68
+   ]
+  },
+  "İngiltere|Manchester": {
+   "k": "Tarihî aile fabrikaları ile yenilikçi hazy IPA üreticileri yan yana.",
+   "t": "J.W. Lees 1828'den, Cloudwater 2014'ten beri şehirde.",
+   "i": "Harvest Ale'in birkaç yıllık şişesini kıyaslayarak yıllanmayı keşfedin.",
+   "konum": [
+    53.48,
+    -2.24
+   ]
+  },
+  "İngiltere|Berkshire": {
+   "k": "Londra'nın batısında yaratıcı craft fabrikaları.",
+   "t": "Siren 2013'te Finchampstead'de kuruldu.",
+   "i": "Broken Dream'i tatlılarla ya da kahvaltıda deneyin.",
+   "konum": [
+    51.4,
+    -1.0
+   ]
+  },
+  "İngiltere|Sussex": {
+   "k": "South Downs'ta çiftlik birası, saison ve fıçıda yıllandırma.",
+   "t": "Burning Sky, Britanya'da foeder kullanımının öncülerinden.",
+   "i": "Saison'u peynir tabağıyla, şampanya bardağında servis edin.",
+   "konum": [
+    50.9,
+    0.1
+   ]
+  },
+  "İngiltere|Bedfordshire": {
+   "k": "Büyük ölçekli İngiliz ale üretimi.",
+   "t": "Eagle Brewery, Young's ve Courage gibi köklü Londra markalarını üretir.",
+   "i": "Double Chocolate Stout'u çikolatalı tatlıyla eşleştirin.",
+   "konum": [
+    52.13,
+    -0.47
+   ]
+  },
+  "İskoçya|Aberdeenshire": {
+   "k": "Kuzeydoğu İskoçya'da BrewDog ile başlayan agresif, hop odaklı craft akımı.",
+   "t": "BrewDog 2007'de Fraserburgh'da kuruldu, Ellon'a taşındı.",
+   "i": "Punk IPA'dan başlayıp Elvis Juice ile narenciyeye geçin.",
+   "konum": [
+    57.3,
+    -2.3
+   ]
+  },
+  "İskoçya|Edinburgh": {
+   "k": "Tarihî 'Auld Reekie' bira başkenti; bugün meşe olgunlaştırma ve craft.",
+   "t": "19. yüzyılda Edinburgh, Burton'a rakip pale ale merkeziydi.",
+   "i": "Innis & Gunn'ı viskiyle kıyaslayıp fıçının etkisini görün.",
+   "konum": [
+    55.95,
+    -3.19
+   ]
+  },
+  "İskoçya|East Lothian": {
+   "k": "Kıyı kasabası Dunbar'da İskoçya'nın en eski fabrikası.",
+   "t": "Belhaven 1719'dan beri aynı yerde bira yapar.",
+   "i": "Scotch ale'leri biraz serin (10-12°C) servis edin.",
+   "konum": [
+    55.98,
+    -2.7
+   ]
+  },
+  "İskoçya|Glasgow": {
+   "k": "İskoçya'nın lager şehri.",
+   "t": "Wellpark'ta bira yapımı 16. yüzyıla uzanır; Tennent's 1885'te lager'a geçti.",
+   "i": "Tennent's'i bir İskoç pub'ında, maç günü içmek bir ritüeldir.",
+   "konum": [
+    55.86,
+    -4.25
+   ]
+  },
+  "İskoçya|Clackmannanshire": {
+   "k": "Ochil tepelerinin eteğinde, yumuşak suyuyla tarihî bira ilçesi.",
+   "t": "Alloa bir zamanlar İskoçya'nın bira başkentiydi.",
+   "i": "Old Engine Oil ve Ola Dubh'u yan yana tadarak fıçının etkisini görün.",
+   "konum": [
+    56.13,
+    -3.75
+   ]
+  },
+  "İskoçya|Scottish Borders": {
+   "k": "Güney İskoçya'da tarihî malikâne bira geleneği.",
+   "t": "Traquair House 1107'den beri yerleşik; mahzen 1965'te canlandı.",
+   "i": "Wee heavy'leri lale bardakta, oda sıcaklığına yakın servis edin.",
+   "konum": [
+    55.6,
+    -3.0
+   ]
+  },
+  "İskoçya|Argyll": {
+   "k": "Batı Highlands'de temiz suyla hafif, şerbetçiotlu session biraları.",
+   "t": "Fyne Ales 2001'de Loch Fyne'da çiftlikte kuruldu.",
+   "i": "Jarl'ı deniz ürünleri ve istiridye ile eşleştirin.",
+   "konum": [
+    56.2,
+    -5.0
+   ]
+  },
+  "İskoçya|Orkney": {
+   "k": "Kuzey adalarında güçlü, maltlı İskoç ale'leri.",
+   "t": "Orkney Brewery 1988'de eski bir okulda kuruldu.",
+   "i": "Skull Splitter'ı kış akşamı, peynirle sindire sindire için.",
+   "konum": [
+    59.0,
+    -3.1
+   ]
+  },
+  "Galler|Cardiff": {
+   "k": "Galler başkentinde bitter ve ragbi kültürü.",
+   "t": "Brains 1882'den beri şehrin birası.",
+   "i": "Maç öncesi Cardiff pub'larında Brains SA geleneği.",
+   "konum": [
+    51.48,
+    -3.18
+   ]
+  },
+  "Galler|Llanelli": {
+   "k": "Güney Galler sanayi kasabalarında aile fabrikaları.",
+   "t": "Felinfoel 1935'te Avrupa'da kutu birayı başlattı.",
+   "i": "Double Dragon'ı Gal peyniriyle (Caerphilly) deneyin.",
+   "konum": [
+    51.68,
+    -4.16
+   ]
+  },
+  "Galler|Newport": {
+   "k": "Galler'in yükselen craft sahnesi.",
+   "t": "Tiny Rebel 2012'de kuruldu, 2015'te Britanya şampiyonu oldu.",
+   "i": "Cwtch, kırmızı ale ile modern şerbetçiotunu tanımak için ideal.",
+   "konum": [
+    51.58,
+    -3.0
+   ]
+  }
+ },
+ "konumlar": {
+  "Guinness": [
+   53.343,
+   -6.287
+  ],
+  "Heineken Ireland (Lady's Well)": [
+   51.904,
+   -8.476
+  ],
+  "Smithwick's": [
+   52.654,
+   -7.25
+  ],
+  "Carlow Brewing Company": [
+   52.7,
+   -6.958
+  ],
+  "Galway Bay Brewery": [
+   53.271,
+   -9.057
+  ],
+  "Porterhouse Brewing Company": [
+   53.345,
+   -6.267
+  ],
+  "Fuller's": [
+   51.487,
+   -0.25
+  ],
+  "Samuel Smith": [
+   53.884,
+   -1.262
+  ],
+  "Timothy Taylor": [
+   53.867,
+   -1.911
+  ],
+  "Marston's": [
+   52.806,
+   -1.64
+  ],
+  "Wychwood": [
+   51.785,
+   -1.485
+  ],
+  "Newcastle Brown Ale": [
+   54.978,
+   -1.618
+  ],
+  "Greene King": [
+   52.243,
+   0.716
+  ],
+  "St Peter's Brewery": [
+   52.42,
+   1.43
+  ],
+  "Meantime": [
+   51.48,
+   0.008
+  ],
+  "Thornbridge": [
+   53.214,
+   -1.676
+  ],
+  "The Kernel": [
+   51.494,
+   -0.068
+  ],
+  "Cloudwater": [
+   53.474,
+   -2.223
+  ],
+  "Beavertown": [
+   51.6,
+   -0.066
+  ],
+  "Magic Rock": [
+   53.645,
+   -1.78
+  ],
+  "Siren Craft Brew": [
+   51.36,
+   -0.866
+  ],
+  "Northern Monk": [
+   53.791,
+   -1.555
+  ],
+  "Theakston": [
+   54.222,
+   -1.657
+  ],
+  "J.W. Lees": [
+   53.536,
+   -2.18
+  ],
+  "Adnams": [
+   52.327,
+   1.68
+  ],
+  "Young's": [
+   52.13,
+   -0.475
+  ],
+  "Camden Town Brewery": [
+   51.548,
+   -0.142
+  ],
+  "Worthington's": [
+   52.807,
+   -1.633
+  ],
+  "Burning Sky": [
+   50.851,
+   0.083
+  ],
+  "BrewDog": [
+   57.366,
+   -2.072
+  ],
+  "Innis & Gunn": [
+   55.953,
+   -3.188
+  ],
+  "Belhaven": [
+   56.0,
+   -2.524
+  ],
+  "Tennent's": [
+   55.861,
+   -4.229
+  ],
+  "Harviestoun": [
+   56.153,
+   -3.8
+  ],
+  "Traquair House": [
+   55.609,
+   -3.065
+  ],
+  "Williams Bros": [
+   56.116,
+   -3.792
+  ],
+  "Fyne Ales": [
+   56.256,
+   -4.932
+  ],
+  "Orkney Brewery": [
+   59.067,
+   -3.311
+  ],
+  "Brains": [
+   51.476,
+   -3.18
+  ],
+  "Felinfoel": [
+   51.697,
+   -4.159
+  ],
+  "Tiny Rebel": [
+   51.584,
+   -2.998
+  ]
+ },
+ "tadim": {
+  "guinness-draught": {
+   "b": "Kavrulmuş arpa, kahve, hafif çikolata",
+   "d": "İnce gövde, kremsi azot dokusu, kuru",
+   "f": "Kısa, kuru ve hafif acı",
+   "s": "Tulip pint, 6-8°C; iki aşamalı doldurma. İstiridye, güveç"
+  },
+  "guinness-foreign-extra-stout": {
+   "b": "Espresso, melas, kuru erik, hafif ekşimsi meyve",
+   "d": "Dolgun, keskin karbonasyon, tatlı-acı denge",
+   "f": "Uzun, kavrulmuş ve acı",
+   "s": "Snifter veya pint, 10-12°C. Barbekü, bitter çikolata"
+  },
+  "murphys-irish-stout": {
+   "b": "Sütlü kahve, karamel",
+   "d": "Yumuşak, kremsi, az acı",
+   "f": "Kısa ve tatlımsı",
+   "s": "Pint, 6-8°C. Balık-patates, peynirli tost"
+  },
+  "kilkenny": {
+   "b": "Karamel, bal, tost",
+   "d": "Kremsi, orta-hafif gövde, düşük acılık",
+   "f": "Yumuşak, hafif maltlı",
+   "s": "Pint, 6-8°C. Burger, kızarmış tavuk"
+  },
+  "ohara-irish-stout": {
+   "b": "Espresso, kavrulmuş arpa, hafif duman",
+   "d": "Orta gövde, belirgin acılık",
+   "f": "Kuru ve kalıcı acı",
+   "s": "Pint, 8-10°C. İstiridye, kuzu yahni"
+  },
+  "galway-bay-of-foam-and-fury": {
+   "b": "Çam reçinesi, mango, greyfurt",
+   "d": "Dolgun, hafif tatlı malt, yağsı",
+   "f": "Sert ve uzun acılık",
+   "s": "Tulip, 6-8°C. Baharatlı Asya mutfağı, cheddar"
+  },
+  "fullers-london-pride": {
+   "b": "Bisküvi, portakal marmelatı, toprak",
+   "d": "Orta gövde, dengeli malt",
+   "f": "Kuru, çiçeksi acılık",
+   "s": "Nonic pint, 10-12°C. Pub yemekleri, rosto"
+  },
+  "fullers-esb": {
+   "b": "Marmelat, karamel, baharat",
+   "d": "Dolgun, tatlı malt ve meyve",
+   "f": "Uzun, şerbetçiotlu ve hafif alkollü",
+   "s": "Pint, 10-12°C. Yaşlı cheddar, biftekli turta"
+  },
+  "fullers-vintage-ale": {
+   "b": "Sherry, kuru meyve, bal",
+   "d": "Yoğun, likörümsü, tatlı",
+   "f": "Isıtıcı ve uzun",
+   "s": "Snifter, 12-14°C. Stilton, meyveli kek"
+  },
+  "samuel-smith-taddy-porter": {
+   "b": "Meyan, kakao, kahve",
+   "d": "Orta gövde, yumuşak ve kuru",
+   "f": "Kavrulmuş, hafif acı",
+   "s": "Pint, 10-12°C. İstiridye, çikolatalı tatlı"
+  },
+  "samuel-smith-oatmeal-stout": {
+   "b": "Sütlü kahve, çikolata, yulaf ezmesi",
+   "d": "İpeksi, dolgun, hafif tatlı",
+   "f": "Kuru, kavrulmuş",
+   "s": "Pint, 10-12°C. Tiramisu, ızgara et"
+  },
+  "samuel-smith-nut-brown-ale": {
+   "b": "Fındık, karamel, tost",
+   "d": "Orta-hafif gövde, maltlı",
+   "f": "Kuru, fındıksı",
+   "s": "Pint, 10°C. Kızarmış tavuk, kuru yemiş"
+  },
+  "timothy-taylor-landlord": {
+   "b": "Narenciye, çiçek, bisküvi",
+   "d": "Hafif-orta gövde, canlı",
+   "f": "Kuru, temiz acılık",
+   "s": "Fıçıdan pint, 11-13°C. Balık-patates, domuz turtası"
+  },
+  "newcastle-brown-ale": {
+   "b": "Fındık, karamel, kuru meyve",
+   "d": "Hafif gövde, düşük acılık",
+   "f": "Kısa ve kuru",
+   "s": "Schooner veya pint, 8°C. Hamburger, sosis"
+  },
+  "thornbridge-jaipur": {
+   "b": "Mango, greyfurt, bal",
+   "d": "Orta gövde, canlı karbonasyon",
+   "f": "Uzun, keskin acılık",
+   "s": "Tulip, 6-8°C. Köri, Hint yemekleri"
+  },
+  "kernel-export-stout-london-1890": {
+   "b": "Kahve, meyan, kuru meyve",
+   "d": "Dolgun, kremsi",
+   "f": "Kavrulmuş, acı-çikolatalı",
+   "s": "Tulip, 10-12°C. Biftek, bitter çikolata"
+  },
+  "beavertown-gamma-ray": {
+   "b": "Tropik meyve, mango, çam",
+   "d": "Orta gövde, hafif tatlı",
+   "f": "Kuru, temiz acılık",
+   "s": "Kutudan bardağa, 6°C. Taco, burger"
+  },
+  "theakston-old-peculier": {
+   "b": "Kuru üzüm, melas, esmer şeker",
+   "d": "Dolgun, tatlımsı",
+   "f": "Meyvemsi ve yumuşak",
+   "s": "Pint, 12°C. Av eti, Yorkshire pudingi"
+  },
+  "jw-lees-harvest-ale": {
+   "b": "Marmelat, bal, sherry",
+   "d": "Şurupsu, çok yoğun",
+   "f": "Çok uzun, ısıtıcı",
+   "s": "Snifter, 12-14°C. Mavi peynir, Noel pudingi"
+  },
+  "worthington-white-shield": {
+   "b": "Kayısı, mineral, baharatlı şerbetçiotu",
+   "d": "Orta gövde, kuru",
+   "f": "Acı ve mineral",
+   "s": "Pint, tortuyu bırakarak dökün, 10-12°C. Köri"
+  },
+  "burning-sky-saison-a-la-provision": {
+   "b": "Limon, saman, ahır, karabiber",
+   "d": "Çok kuru, canlı köpüklü",
+   "f": "Ekşimsi, uzun",
+   "s": "Şampanya/tulip, 8-10°C. Keçi peyniri, deniz ürünleri"
+  },
+  "brewdog-punk-ipa": {
+   "b": "Greyfurt, ananas, çam",
+   "d": "Hafif-orta gövde, canlı",
+   "f": "Keskin, kuru acılık",
+   "s": "Kutu veya tulip, 6-8°C. Baharatlı kanat, pizza"
+  },
+  "brewdog-hazy-jane": {
+   "b": "Mango, ananas, şeftali",
+   "d": "Yumuşak, bulanık, sulu",
+   "f": "Hafif acı",
+   "s": "Tulip, 5-7°C. Tavuk şiş, Meksika mutfağı"
+  },
+  "brewdog-elvis-juice": {
+   "b": "Greyfurt kabuğu, portakal",
+   "d": "Orta gövde, karamelli",
+   "f": "Acı narenciye",
+   "s": "Tulip, 6-8°C. Izgara balık, Tayland yemekleri"
+  },
+  "innis-gunn-original": {
+   "b": "Vanilya, toffee, hafif viski",
+   "d": "Tatlımsı, yumuşak",
+   "f": "Meşeli, kısa",
+   "s": "Lale bardak, 8°C. Fümeli et, karamelli tatlı"
+  },
+  "harviestoun-old-engine-oil": {
+   "b": "Bitter çikolata, kahve, karamel",
+   "d": "Yoğun, yağsı",
+   "f": "Kavrulmuş ve acı",
+   "s": "Snifter, 10-12°C. Çikolatalı kek, biftek"
+  },
+  "harviestoun-ola-dubh-12": {
+   "b": "Turba, vanilya, kakao",
+   "d": "Dolgun, ipeksi",
+   "f": "Isıtıcı, hafif dumanlı",
+   "s": "Snifter, 12°C. Viski yanında, bitter çikolata"
+  },
+  "traquair-house-ale": {
+   "b": "Karamel, kuru meyve, baharat",
+   "d": "Dolgun, tatlı malt",
+   "f": "Uzun ve ısıtıcı",
+   "s": "Tulip, 12°C. Av eti, yaşlı peynir"
+  },
+  "williams-bros-fraoch-heather-ale": {
+   "b": "Funda çiçeği, bal, ot",
+   "d": "Hafif, yağsı",
+   "f": "Çiçeksi, az acı",
+   "s": "Pint, 8°C. Somon, hafif peynirler"
+  },
+  "tiny-rebel-cwtch": {
+   "b": "Karamel, narenciye, tropik meyve",
+   "d": "Orta gövde, dengeli",
+   "f": "Kuru, şerbetçiotlu",
+   "s": "Pint, 8-10°C. Burger, Gal rarebit"
+  }
+ }
+}

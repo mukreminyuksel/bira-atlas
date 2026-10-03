@@ -1,0 +1,546 @@
+{
+ "magazin": [
+  {
+   "g": "unlu",
+   "e": "🇮🇪",
+   "ad": "Barack Obama",
+   "rol": "ABD Başkanı (2009–2017)",
+   "blurb": "23 Mayıs 2011'de atalarının köyü Moneygall'daki Ollie Hayes pub'ında bir pint Guinness içti; Beyaz Saray'da kendi parasıyla aldığı ekipmanla 'White House Honey Ale' adlı ev birası da yaptırdı ve tarifi 2012'de kamuoyu baskısıyla yayımlandı.",
+   "picks": [
+    "Guinness Draught"
+   ],
+   "kaynak": "https://obamawhitehouse.archives.gov/node/45211"
+  },
+  {
+   "g": "unlu",
+   "e": "🍺",
+   "ad": "'Beer Summit' (Obama, Biden, Gates, Crowley)",
+   "rol": "Beyaz Saray, 30 Temmuz 2009",
+   "blurb": "Harvard profesörü Henry Louis Gates'in gözaltına alınmasının ardından Obama, Gates ve polis çavuşu James Crowley'yi Gül Bahçesi'nde biraya davet etti: Obama Bud Light, Gates Samuel Adams Light, Crowley Blue Moon, Biden alkolsüz Buckler içti.",
+   "picks": [
+    "Bud Light",
+    "Samuel Adams Light",
+    "Blue Moon Belgian White",
+    "Buckler"
+   ],
+   "kaynak": "https://www.npr.org/2009/07/30/111385257/three-beers-for-improving-race-relations"
+  },
+  {
+   "g": "unlu",
+   "e": "🇨🇳",
+   "ad": "Xi Jinping & David Cameron",
+   "rol": "Çin Devlet Başkanı & İngiltere Başbakanı",
+   "blurb": "Ekim 2015 devlet ziyaretinde Buckinghamshire'daki The Plough at Cadsden pub'ında birlikte Greene King IPA içtiler; Greene King, ziyaretin ardından Çin'e IPA ihracatının 16 kat arttığını açıkladı.",
+   "picks": [
+    "Greene King IPA"
+   ],
+   "kaynak": "https://fortune.com/2016/12/06/most-famous-british-pub-china"
+  },
+  {
+   "g": "unlu",
+   "e": "👑",
+   "ad": "Kraliçe II. Elizabeth",
+   "rol": "Birleşik Krallık Kraliçesi",
+   "blurb": "Mayıs 2011 İrlanda devlet ziyaretinde Guinness Storehouse'u gezdi; usta bira yapımcısı Fergal Murray kendisine ve Prens Philip'e birer pint doldurdu ama ikisi de nazikçe tatmadan bıraktı.",
+   "picks": [
+    "Guinness Draught"
+   ],
+   "kaynak": "https://www.npr.org/sections/thetwo-way/2011/05/18/136428934/no-guinness-for-her-please-shes-the-queen"
+  },
+  {
+   "g": "unlu",
+   "e": "🤘",
+   "ad": "Bruce Dickinson (Iron Maiden)",
+   "rol": "Iron Maiden vokalisti",
+   "blurb": "Robinsons Brewery ile 2013'te çıkan Trooper birasının şerbetçiotlarını kör tadımla bizzat seçti; bira 2021'de 30 milyon pint satışı geçti ve 60'tan fazla ülkeye ihraç ediliyor.",
+   "picks": [
+    "Iron Maiden Trooper"
+   ],
+   "kaynak": "https://www.ironmaidenbeer.com/trooper-marks-its-8th-birthday-with-30-million-pints-sold/"
+  },
+  {
+   "g": "unlu",
+   "e": "🇩🇰",
+   "ad": "Danimarka Kraliyet Sarayı",
+   "rol": "Kraliyet tedarikçisi beratı",
+   "blurb": "Carlsberg, Danimarka Kraliyet Sarayı tedarikçisi (Kongelig Hofleverandør) unvanını taşıyan şirketler arasında; Kral X. Frederik 2024'te bu beratların 2029 sonunda sona ereceğini duyurdu.",
+   "picks": [
+    "Carlsberg Pilsner"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/List_of_purveyors_to_the_Court_of_Denmark"
+  },
+  {
+   "g": "unlu",
+   "e": "🎨",
+   "ad": "Milton Glaser",
+   "rol": "Grafik tasarımcı ('I ♥ NY' logosunun yaratıcısı)",
+   "blurb": "Brooklyn Brewery'nin el yazısı 'B' logosunu 1980'lerde ücret yerine şirketten hisse ve ömür boyu bedava bira karşılığında tasarladı.",
+   "picks": [
+    "Brooklyn Lager"
+   ],
+   "kaynak": "https://www.fastcompany.com/3059055/the-true-story-of-milton-glasers-greatest-client"
+  },
+  {
+   "g": "unlu",
+   "e": "🦈",
+   "ad": "Jimmy Buffett",
+   "rol": "Şarkıcı, Margaritaville markasının kurucusu",
+   "blurb": "Anheuser-Busch, Buffett'ın Margaritaville markasıyla ortaklık kurarak 2007'de LandShark Lager'ı çıkardı; adı Buffett'ın 'Fins' şarkısındaki 'karada yüzen köpekbalıkları' dizesinden gelir.",
+   "picks": [
+    "LandShark Lager"
+   ],
+   "kaynak": "https://vinepair.com/articles/jimmy-buffet-corona-landshark-lager/"
+  },
+  {
+   "g": "unlu",
+   "e": "🇺🇸",
+   "ad": "Samuel Adams",
+   "rol": "ABD kurucu babalarından",
+   "blurb": "Babasından kalan Boston'daki malt işinde çalışmış devrimci; Jim Koch 1984'te kurduğu Boston Beer Company'nin ilk birasına onun adını verdi.",
+   "picks": [
+    "Samuel Adams Boston Lager"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Samuel_Adams_(beer)"
+  },
+  {
+   "g": "unlu",
+   "e": "🏰",
+   "ad": "II. Katerina (Büyük Katerina)",
+   "rol": "Rus Çariçesi",
+   "blurb": "Londra'daki Thrale'in Anchor Brewery'sinin 1780'lerden itibaren Rus sarayına ihraç ettiği güçlü stout'un çariçenin gözdesi olduğu anlatılır; 'Imperial Russian Stout' stilinin adı buradan gelir.",
+   "picks": [
+    "Courage Imperial Russian Stout"
+   ],
+   "kaynak": "https://www.beerandbrewing.com/dictionary/CbJrC7sCtH"
+  },
+  {
+   "g": "yazar",
+   "e": "🎩",
+   "ad": "Michael Jackson",
+   "rol": "'The Beer Hunter', The World Guide to Beer (1977) yazarı",
+   "blurb": "Modern bira eleştirisinin kurucusu sayılan İngiliz yazar, Orval'ı 'harika bir aperatif' ve 'dünya klasiği' diye anar; Rodenbach Grand Cru'yu ise 'dünyanın en ferahlatıcı birası' ilan etmişti.",
+   "picks": [
+    "Orval",
+    "Rodenbach Grand Cru"
+   ],
+   "kaynak": "https://vinepair.com/articles/best-sour-beer-rodenbach-belgium/"
+  },
+  {
+   "g": "yazar",
+   "e": "🍫",
+   "ad": "Garrett Oliver",
+   "rol": "Brooklyn Brewery brewmaster'ı, The Brewmaster's Table yazarı",
+   "blurb": "1994'te Brooklyn Brewery'ye katılırken 'seçme sınavı' olarak Black Chocolate Stout'u yaptı; The Oxford Companion to Beer'ın genel yayın yönetmenidir.",
+   "picks": [
+    "Brooklyn Black Chocolate Stout"
+   ],
+   "kaynak": "https://www.ediblebrooklyn.com/2016/brooklyn-brewery-black-chocolate-stout"
+  },
+  {
+   "g": "yazar",
+   "e": "⛵",
+   "ad": "Pete Brown",
+   "rol": "İngiliz bira yazarı, Hops and Glory",
+   "blurb": "2008'de Burton'da Steve Wellington'ın yaptığı bir fıçı IPA'yı, tarihi rotayı izleyerek Ümit Burnu üzerinden Kalküta'ya taşıdı; araştırmasında White Shield'ın 19. yüzyılda Kalküta'ya giden Burton IPA'larının soyundan geldiğini kaydetti.",
+   "picks": [
+    "Worthington's White Shield"
+   ],
+   "kaynak": "https://www.petebrown.net/book/hops-and-glory/"
+  },
+  {
+   "g": "yazar",
+   "e": "🙏",
+   "ad": "Stan Hieronymus",
+   "rol": "Brew Like a Monk (2005) yazarı",
+   "blurb": "Trappist ve manastır biralarını anlatan kitabında Westmalle, Chimay, Rochefort, Orval, Westvleteren ve Achel'in bira yapımını ayrıntılı inceler.",
+   "picks": [
+    "Westmalle Tripel",
+    "Chimay Blue",
+    "Rochefort 10",
+    "Orval"
+   ],
+   "kaynak": "https://archive.org/details/brewlikemonktrap0000hier"
+  },
+  {
+   "g": "yazar",
+   "e": "✏️",
+   "ad": "Mark Dredge",
+   "rol": "İngiliz bira yazarı (Pencil & Spoon)",
+   "blurb": "Pilsner Urquell'i 'sevmekten kendini alamadığını' yazar; bira fabrikasının mahzenlerinde meşe fıçıdan filtresiz içtiği Urquell'i 'en inanılmaz içme deneyimi' olarak anlatır.",
+   "picks": [
+    "Pilsner Urquell"
+   ],
+   "kaynak": "http://www.pencilandspoon.com/2010/09/most-incredible-drinking-experience-so.html"
+  },
+  {
+   "g": "yazar",
+   "e": "🇨🇿",
+   "ad": "Evan Rail",
+   "rol": "Prag'da yaşayan Amerikalı yazar, Good Beer Guide Prague & the Czech Republic",
+   "blurb": "Çek birası üzerine İngilizce en çok yazan isimlerden; Pilsner Urquell için 'bize hem bir stil, hem bir malt, hem de bir bardak türü için pilsner kelimesini kazandırdı' der.",
+   "picks": [
+    "Pilsner Urquell"
+   ],
+   "kaynak": "https://allaboutbeer.com/pilsner-urquell/"
+  },
+  {
+   "g": "yazar",
+   "e": "📖",
+   "ad": "Jeff Alworth",
+   "rol": "The Beer Bible yazarı, Beervana blogu",
+   "blurb": "2026'da All About Beer için başlattığı 'One Iconic Beer' podcast'inde her bölümde tek bir ikon birayı inceliyor: Allagash White, Heady Topper, Bass Pale Ale, New Glarus Wisconsin Belgian Red, Pilsner Urquell.",
+   "picks": [
+    "Allagash White",
+    "Heady Topper",
+    "Bass Pale Ale",
+    "Pilsner Urquell"
+   ],
+   "kaynak": "https://www.beervanablog.com/beervana/2026/3/12/one-iconic-beer"
+  },
+  {
+   "g": "yazar",
+   "e": "🥛",
+   "ad": "Pierre Celis",
+   "rol": "Witbier'i yeniden dirilten Belçikalı usta",
+   "blurb": "1957'de Hoegaarden'daki son witbier üreticisi kapanınca, sütçülük yapan Celis 1966'da kendi bira evini açıp stili yeniden canlandırdı; sonra Teksas'ta Celis White'ı üretti.",
+   "picks": [
+    "Hoegaarden",
+    "Celis White"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Pierre_Celis"
+  },
+  {
+   "g": "yazar",
+   "e": "🐖",
+   "ad": "Vinnie Cilurzo",
+   "rol": "Russian River Brewing kurucu-brewmaster'ı",
+   "blurb": "23 Haziran 1994'te Blind Pig Brewery'de ilk 'double IPA' kabul edilen Inaugural Ale'i yaptı; 1999'da yarattığı Pliny the Elder stili popülerleştirdi.",
+   "picks": [
+    "Pliny the Elder"
+   ],
+   "kaynak": "https://guide.michelin.com/en/article/people/vinnie-cilurzo-russian-river-brewing-company"
+  },
+  {
+   "g": "yazar",
+   "e": "👩‍🔬",
+   "ad": "Anne-Françoise Pypaert",
+   "rol": "Orval brewmaster'ı",
+   "blurb": "1992'de Orval'a katıldı; 2013'te Jean-Marie Rock'tan devralarak bir Trappist bira fabrikasında brewmaster unvanı alan ilk kadın oldu.",
+   "picks": [
+    "Orval"
+   ],
+   "kaynak": "https://www.hopculture.com/orval-brewmaster-anne-francoise-pypaert/"
+  },
+  {
+   "g": "hikaye",
+   "e": "✨",
+   "ad": "Pilsner Urquell ve Josef Groll (1842)",
+   "rol": "Dünyanın ilk altın renkli lager'ı",
+   "blurb": "Bavyeralı Josef Groll, 5 Ekim 1842'de Plzeň'de yumuşak su, Saaz şerbetçiotu ve açık malt ile ilk pale lager'ı yaptı; bira 11 Kasım 1842'de ilk kez sunuldu ve bugün dünyada üretilen biranın büyük kısmına ilham oldu.",
+   "picks": [
+    "Pilsner Urquell"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Pilsner_Urquell"
+  },
+  {
+   "g": "hikaye",
+   "e": "📜",
+   "ad": "Guinness'in 9.000 yıllık kira kontratı",
+   "rol": "St. James's Gate, Dublin, 1759",
+   "blurb": "Arthur Guinness 31 Aralık 1759'da St. James's Gate'teki bira fabrikası için yıllık 45 sterline 9.000 yıllık kira sözleşmesi imzaladı; şirket sonradan araziyi satın aldığından kontrat artık geçersiz.",
+   "picks": [
+    "Guinness Draught",
+    "Guinness Foreign Extra Stout"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Guinness_Brewery"
+  },
+  {
+   "g": "hikaye",
+   "e": "⛪",
+   "ad": "Westvleteren 12 ve Sint-Sixtus keşişleri",
+   "rol": "Trappist manastırı, Belçika",
+   "blurb": "Westvleteren keşişleri yalnızca manastır yaşamını sürdürecek kadar bira üretir; bira sadece web mağazasından rezervasyonla, yeniden satmama taahhüdüyle ve manastırdan teslim alınarak satılır.",
+   "picks": [
+    "Westvleteren 12",
+    "Westvleteren 8",
+    "Westvleteren Blond"
+   ],
+   "kaynak": "https://www.trappistwestvleteren.be/en/beer-sales"
+  },
+  {
+   "g": "hikaye",
+   "e": "🏛️",
+   "ad": "Weihenstephan (1040)",
+   "rol": "Dünyanın en eski faal bira fabrikası",
+   "blurb": "Freising'deki Benedikten manastırı alanında en az 1040'tan beri bira yapılıyor; 1923'ten beri Bavyera Devlet Bira Fabrikası olarak Münih Teknik Üniversitesi ile birlikte işletiliyor.",
+   "picks": [
+    "Weihenstephaner Hefeweissbier",
+    "Weihenstephaner Vitus",
+    "Weihenstephaner Original Helles"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Weihenstephan_Abbey"
+  },
+  {
+   "g": "hikaye",
+   "e": "⚖️",
+   "ad": "Reinheitsgebot (1516)",
+   "rol": "Bavyera bira saflık yasası",
+   "blurb": "Bavyera Dükü IV. Wilhelm 23 Nisan 1516'da Ingolstadt'ta biranın yalnızca arpa, şerbetçiotu ve sudan yapılmasını emretti; maya o dönem bilinmediğinden metinde geçmez.",
+   "picks": [
+    "Augustiner Lagerbier Hell",
+    "Paulaner Original Münchner Hell"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Reinheitsgebot"
+  },
+  {
+   "g": "hikaye",
+   "e": "🌫️",
+   "ad": "Heady Topper ve NEIPA'nın doğuşu",
+   "rol": "The Alchemist, Vermont",
+   "blurb": "John ve Jen Kimmich'in 2003'te açtığı pub'da ilk kez yapılan bu %8'lik double IPA, bulanık New England IPA'nın öncüsü sayılır; 2011'de İrene fırtınası pub'ı yıkınca kutulama tesisine odaklandılar.",
+   "picks": [
+    "Heady Topper",
+    "Focal Banger"
+   ],
+   "kaynak": "https://alchemistbeer.com/story/"
+  },
+  {
+   "g": "hikaye",
+   "e": "🍒",
+   "ad": "Cantillon ve lambic",
+   "rol": "Brüksel, 1900'den beri",
+   "blurb": "Paul Cantillon ve Marie Troch'un kurduğu, şehirde kalan tek geleneksel lambic bira evi aynı zamanda 'Brüksel Gueuze Müzesi'; 20. yüzyıl başından kalma ekipmanla hâlâ spontane fermantasyonla bira yapılıyor ve aile işletmesi sürüyor.",
+   "picks": [
+    "Cantillon Gueuze 100% Lambic Bio",
+    "Cantillon Kriek",
+    "Cantillon Rosé de Gambrinus"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Cantillon_(brewery)"
+  },
+  {
+   "g": "hikaye",
+   "e": "⚓",
+   "ad": "Anchor Steam ve Fritz Maytag",
+   "rol": "San Francisco, craft biranın başlangıcı",
+   "blurb": "Fritz Maytag 1965'te iflasın eşiğindeki Anchor'ın %51'ini 10.000 dolardan azına aldı ve onu ilk modern ABD craft bira fabrikasına dönüştürdü; 2023'te kapanan markayı 2024'te Türk asıllı Chobani kurucusu Hamdi Ulukaya satın aldı.",
+   "picks": [
+    "Anchor Steam Beer",
+    "Anchor Liberty Ale"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Anchor_Brewing_Company"
+  },
+  {
+   "g": "hikaye",
+   "e": "🌲",
+   "ad": "Sierra Nevada Pale Ale ve Cascade",
+   "rol": "Chico, Kaliforniya, 1980",
+   "blurb": "Ken Grossman 1980'de hurda süthane ekipmanından kurduğu bira evinde, bütün kozalak Cascade şerbetçiotuyla Pale Ale'i yaptı; turunçgil-çam aromalı bu bira Amerikan craft akımını ana akıma taşıdı.",
+   "picks": [
+    "Sierra Nevada Pale Ale"
+   ],
+   "kaynak": "https://sierranevada.com/about-us"
+  },
+  {
+   "g": "hikaye",
+   "e": "🏭",
+   "ad": "Bomonti (1890)",
+   "rol": "Osmanlı'nın ilk modern bira fabrikası",
+   "blurb": "İsviçreli Bomonti kardeşler 1890'da Feriköy'de Osmanlı topraklarındaki ilk modern bira fabrikasını kurdu ve semte adını verdi; fabrika 1991'de kapandı, bugün Bomontiada olarak yaşıyor, marka ise Anadolu Efes tarafından yeniden canlandırıldı.",
+   "picks": [
+    "Bomonti Filtresiz"
+   ],
+   "kaynak": "https://tr.wikipedia.org/wiki/Bomonti_Bira_Fabrikası"
+  },
+  {
+   "g": "hikaye",
+   "e": "🇹🇷",
+   "ad": "Efes Pilsen (1969)",
+   "rol": "Türkiye'nin ilk özel sektör birası",
+   "blurb": "1955'te biranın Tekel tekelinden çıkarılmasının ardından kurulan Erciyas ve Ege Biracılık, 1969'da İstanbul, İzmir ve Adana'da ilk özel sektör birası Efes Pilsen'i üretmeye başladı.",
+   "picks": [
+    "Efes Pilsen"
+   ],
+   "kaynak": "https://tr.wikipedia.org/wiki/Efes_Pilsen"
+  },
+  {
+   "g": "hikaye",
+   "e": "🐟",
+   "ad": "Orval ve alabalık efsanesi",
+   "rol": "Orval Manastırı, Belçika",
+   "blurb": "Efsaneye göre Toskana Kontesi Matilda kaynağa düşürdüğü yüzüğü ağzında taşıyan bir alabalık sayesinde geri aldı ve buraya manastır yaptırdı; balık-yüzük bugün Orval'ın logosu. Bira 1932'den beri Brettanomyces ile şişede olgunlaşır.",
+   "picks": [
+    "Orval"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Orval_Brewery"
+  },
+  {
+   "g": "hikaye",
+   "e": "⚔️",
+   "ad": "Budweiser isim savaşı",
+   "rol": "Çekya vs. ABD, 1907'den beri",
+   "blurb": "České Budějovice'deki Budvar ile Anheuser-Busch arasında 'Budweiser' adı için 100'ü aşkın dava görüldü; bu yüzden Avrupa'nın çoğunda Amerikan bira 'Bud', ABD'de Çek birası 'Czechvar' adıyla satılır.",
+   "picks": [
+    "Budweiser Budvar Original"
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Budweiser_trademark_dispute"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "grup": "Küresel Veritabanı & Puanlama",
+   "ad": "Untappd",
+   "url": "https://untappd.com",
+   "meta": "Dünyanın en büyük bira check-in uygulaması; bira, bira evi ve mekân puanları ile Türkiye'deki mekânların menüleri."
+  },
+  {
+   "grup": "Küresel Veritabanı & Puanlama",
+   "ad": "BeerAdvocate",
+   "url": "https://www.beeradvocate.com",
+   "meta": "1996'dan beri yayında olan ABD merkezli bira puanlama veritabanı ve forum."
+  },
+  {
+   "grup": "Küresel Veritabanı & Puanlama",
+   "ad": "Oxford Companion to Beer (Craft Beer & Brewing sözlüğü)",
+   "url": "https://beerandbrewing.com/dictionary/",
+   "meta": "Garrett Oliver editörlüğündeki Oxford Companion to Beer'ın çevrimiçi, ücretsiz bira ansiklopedisi."
+  },
+  {
+   "grup": "Küresel Veritabanı & Puanlama",
+   "ad": "CAMRA Good Beer Guide",
+   "url": "https://www.camra.org.uk/good-beer-guide",
+   "meta": "Real ale kampanyası CAMRA'nın her yıl güncellenen İngiltere pub ve bira evi rehberi."
+  },
+  {
+   "grup": "Stil Rehberleri & Yarışmalar",
+   "ad": "BJCP Style Guidelines (2021)",
+   "url": "https://www.bjcp.org/style/2021/beer/",
+   "meta": "Bira hakemlerinin standart stil rehberi; her stilin aroma, görünüm, tat ve tarih tanımları."
+  },
+  {
+   "grup": "Stil Rehberleri & Yarışmalar",
+   "ad": "Brewers Association Beer Style Guidelines",
+   "url": "https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/",
+   "meta": "World Beer Cup ve GABF kategorilerinin temeli olan, her yıl güncellenen stil rehberi."
+  },
+  {
+   "grup": "Stil Rehberleri & Yarışmalar",
+   "ad": "World Beer Cup",
+   "url": "https://www.worldbeercup.org",
+   "meta": "Brewers Association'ın dünya bira yarışması; 2026'da 50 ülkeden hakemle 8.166 bira değerlendirildi."
+  },
+  {
+   "grup": "Stil Rehberleri & Yarışmalar",
+   "ad": "European Beer Star",
+   "url": "https://www.european-beer-star.de",
+   "meta": "Almanya merkezli, özellikle Avrupa geleneksel stillerine odaklanan uluslararası bira yarışması."
+  },
+  {
+   "grup": "Stil Rehberleri & Yarışmalar",
+   "ad": "Brussels Beer Challenge",
+   "url": "https://brusselsbeerchallenge.com/en/",
+   "meta": "Belçika'da düzenlenen uluslararası bira yarışması; 2026 edisyonu Ekim sonunda Roeselare'de."
+  },
+  {
+   "grup": "Stil Rehberleri & Yarışmalar",
+   "ad": "World Beer Awards",
+   "url": "https://www.worldbeerawards.com",
+   "meta": "Stil bazında 'dünyanın en iyisi' unvanları veren yıllık uluslararası bira ödülleri."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Craft Beer & Brewing",
+   "url": "https://beerandbrewing.com",
+   "meta": "Bira stilleri, tarifler ve bira evleri üzerine ABD'li dergi ve web sitesi."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Pellicle",
+   "url": "https://www.pelliclemag.com",
+   "meta": "İngiltere merkezli bağımsız bira yazıları dergisi; 2025'te British Guild of Beer Writers'ın yılın yayını ödülünü aldı."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "All About Beer",
+   "url": "https://allaboutbeer.com",
+   "meta": "Köklü ABD bira dergisi; Jeff Alworth'ün 'One Iconic Beer' podcast'ine ev sahipliği yapıyor."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Beervana (Jeff Alworth)",
+   "url": "https://www.beervanablog.com",
+   "meta": "The Beer Bible yazarının bira tarihi ve kültürü üzerine aktif blogu."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Protz on Beer",
+   "url": "https://protzonbeer.co.uk",
+   "meta": "Usta İngiliz bira yazarı Roger Protz'un haber, yorum ve röportaj sitesi."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Pete Brown",
+   "url": "https://www.petebrown.net",
+   "meta": "Hops and Glory yazarı Pete Brown'ın kitapları ve yazıları."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Boak & Bailey",
+   "url": "https://boakandbailey.com",
+   "meta": "İngiliz bira ve pub kültürü üzerine uzun soluklu, düzenli güncellenen blog."
+  },
+  {
+   "grup": "Yazarlar & Yayınlar",
+   "ad": "Shut up about Barclay Perkins (Ron Pattinson)",
+   "url": "https://barclayperkins.blogspot.com",
+   "meta": "Arşiv kayıtlarıyla tarihi bira tariflerini inceleyen bira tarihçisi blogu."
+  },
+  {
+   "grup": "Türkçe Kaynaklar",
+   "ad": "BiraSever",
+   "url": "https://birasever.com/blog",
+   "meta": "Bira incelemeleri, BiraWiki, haberler ve Türkiye craft bira listeleri sunan Türkçe blog."
+  },
+  {
+   "grup": "Türkçe Kaynaklar",
+   "ad": "Istanbul School of Beers",
+   "url": "https://istanbulschoolofbeers.com/tr",
+   "meta": "İstanbul'daki craft bira mekânları, fiyatlar ve Türk craft markaları üzerine rehber/blog."
+  },
+  {
+   "grup": "Türkçe Kaynaklar",
+   "ad": "Ege Malt Blog",
+   "url": "https://egemalt.com/blog",
+   "meta": "Ev birası yapımı ve Türk bira tarihi üzerine Türkçe yazılar."
+  },
+  {
+   "grup": "Türkiye'de Satın Alma",
+   "ad": "The Populist",
+   "url": "https://thepopulist.com.tr",
+   "meta": "Tarihi Bomonti fabrikası (Bomontiada) ve Galataport'ta, Torch biralarını fıçıdan sunan craft bira mekânları."
+  },
+  {
+   "grup": "Türkiye'de Satın Alma",
+   "ad": "Gara Guzu",
+   "url": "https://garaguzu.com.tr",
+   "meta": "Muğla merkezli, Türkiye'nin ilk craft bira evlerinden; ale, saison ve pancarlı biralarıyla bilinir."
+  },
+  {
+   "grup": "Türkiye'de Satın Alma",
+   "ad": "Bosphorus Brewing Company",
+   "url": "https://untappd.com/BBC-TR",
+   "meta": "Şişli/Gayrettepe'de İngiliz tarzı ale'ler üreten brewpub."
+  },
+  {
+   "grup": "Türkiye'de Satın Alma",
+   "ad": "Butik Bira",
+   "url": "https://www.butikbira.com",
+   "meta": "İstanbul ve İzmir depolarından ev birası kitleri, malt, şerbetçiotu ve ekipman satan mağaza."
+  },
+  {
+   "grup": "Türkiye'de Satın Alma",
+   "ad": "Ege Malt",
+   "url": "https://egemalt.com",
+   "meta": "Ev birası kitleri, malt özleri, maya ve ekipman satan Türk mağazası."
+  }
+ ]
+}

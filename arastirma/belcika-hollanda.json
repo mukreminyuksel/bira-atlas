@@ -1,0 +1,2984 @@
+{
+ "biralar": [
+  {
+   "id": "westvleteren-12",
+   "ad": "Westvleteren 12",
+   "fab": "Sint-Sixtus (Westvleteren)",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": 10.2,
+   "hacim": 33,
+   "tl": 750,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 99,
+   "filtresiz": 1,
+   "uz": "Yıllarca RateBeer dünyanın en iyi birası",
+   "not": "Sadece manastırdan rezervasyonla; kuru incir, karamel, koyu meyve — efsane quad"
+  },
+  {
+   "id": "westvleteren-8",
+   "ad": "Westvleteren 8",
+   "fab": "Sint-Sixtus (Westvleteren)",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 600,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kuru erik, kahverengi şeker ve baharat; 12'nin daha çevik kardeşi"
+  },
+  {
+   "id": "westvleteren-blond",
+   "ad": "Westvleteren Blond",
+   "fab": "Sint-Sixtus (Westvleteren)",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Blond / Trappist Single",
+   "aile": "Belçika & Manastır",
+   "abv": 5.8,
+   "hacim": 33,
+   "tl": 500,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Otsu şerbetçiotu ve ekmeksi malt; manastırın en hafif, en içimli birası"
+  },
+  {
+   "id": "rochefort-6",
+   "ad": "Rochefort 6",
+   "fab": "Brasserie de Rochefort",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 7.5,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kırmızı kapak; toprak, kuru meyve ve hafif baharat, nadir üretilen klasik"
+  },
+  {
+   "id": "rochefort-8",
+   "ad": "Rochefort 8",
+   "fab": "Brasserie de Rochefort",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 9.2,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 93,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Yeşil kapak; incir, çikolata, karamel; yıllandırmaya çok uygun"
+  },
+  {
+   "id": "rochefort-10",
+   "ad": "Rochefort 10",
+   "fab": "Brasserie de Rochefort",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": 11.3,
+   "hacim": 33,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 96,
+   "filtresiz": 1,
+   "uz": "Dünyanın en iyi trappist'lerinden",
+   "not": "Mavi kapak; porto şarabı gibi derin, kakao ve kuru meyve; quad referansı"
+  },
+  {
+   "id": "westmalle-dubbel",
+   "ad": "Westmalle Dubbel",
+   "fab": "Brouwerij Westmalle",
+   "ulke": "Belçika",
+   "bolge": "Antwerp",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 7.0,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "Dubbel stilinin tanımlayıcısı",
+   "not": "Dubbel stilinin mucidi; muz, karamel ve kuru meyve"
+  },
+  {
+   "id": "westmalle-tripel",
+   "ad": "Westmalle Tripel",
+   "fab": "Brouwerij Westmalle",
+   "ulke": "Belçika",
+   "bolge": "Antwerp",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 9.5,
+   "ibu": 36,
+   "hacim": 33,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 94,
+   "filtresiz": 1,
+   "uz": "Tripel stilinin referansı (1934)",
+   "not": "Tripel'in anası: kuru, baharatlı, şerbetçiotu acılığı belirgin altın bira"
+  },
+  {
+   "id": "chimay-kirmizi",
+   "ad": "Chimay Rouge (Kırmızı)",
+   "fab": "Chimay",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 7.0,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kayısı ve karamel; Chimay'ın en eski reçetesi, yumuşak dubbel"
+  },
+  {
+   "id": "chimay-mavi",
+   "ad": "Chimay Bleue (Grande Réserve)",
+   "fab": "Chimay",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 9.0,
+   "ibu": 35,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 92,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Karabiber, kuru üzüm, karamel; yıllandıkça porto benzeri derinleşir"
+  },
+  {
+   "id": "chimay-beyaz",
+   "ad": "Chimay Blanche (Cinq Cents)",
+   "fab": "Chimay",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "ibu": 35,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kuru ve acımsı tripel; misket, şeftali ve beyaz biber"
+  },
+  {
+   "id": "orval",
+   "ad": "Orval",
+   "fab": "Brasserie d'Orval",
+   "ulke": "Belçika",
+   "bolge": "Ardennes",
+   "stil": "Belgian Pale Ale (Brettanomyces)",
+   "aile": "Belçika & Manastır",
+   "abv": 6.2,
+   "ibu": 36,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 94,
+   "filtresiz": 1,
+   "uz": "Tek biralık trappist; tarz ikonu",
+   "not": "Kuru şerbetçiotu ve Brett; şişede yıllandıkça daha kuru ve 'ahır'lı olur"
+  },
+  {
+   "id": "achel-blond",
+   "ad": "Achel Blond",
+   "fab": "Achelse Kluis",
+   "ulke": "Belçika",
+   "bolge": "Limburg",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Narenciye, bal ve maya baharatı; Hollanda sınırındaki eski trappist"
+  },
+  {
+   "id": "achel-bruin",
+   "ad": "Achel Bruin",
+   "fab": "Achelse Kluis",
+   "ulke": "Belçika",
+   "bolge": "Limburg",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kahverengi şeker, kuru erik ve çikolata; dolgun gövdeli dubbel"
+  },
+  {
+   "id": "la-trappe-quadrupel",
+   "ad": "La Trappe Quadrupel",
+   "fab": "La Trappe (Koningshoeven)",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Brabant",
+   "stil": "Belgian Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": 10.0,
+   "hacim": 33,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "Quadrupel adını ilk kullanan bira",
+   "not": "Hollanda'nın trappist'i; karamel, hurma, ılık baharat"
+  },
+  {
+   "id": "la-trappe-tripel",
+   "ad": "La Trappe Tripel",
+   "fab": "La Trappe (Koningshoeven)",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Brabant",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Bal, şeftali ve yumuşak baharat; dengeli ve tatlımsı tripel"
+  },
+  {
+   "id": "la-trappe-dubbel",
+   "ad": "La Trappe Dubbel",
+   "fab": "La Trappe (Koningshoeven)",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Brabant",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 7.0,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Karamel, kuru meyve ve kakao; yumuşak içimli dubbel"
+  },
+  {
+   "id": "zundert-8",
+   "ad": "Zundert 8",
+   "fab": "Brouwerij De Kievit (Zundert)",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Brabant",
+   "stil": "Belgian Strong Ale (Trappist)",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Maria Toevlucht manastırından; amber, kuru meyve ve otsu acılık"
+  },
+  {
+   "id": "leffe-blonde",
+   "ad": "Leffe Blonde",
+   "fab": "Leffe",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Blond Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 6.6,
+   "ibu": 20,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 79,
+   "uz": "",
+   "not": "Vanilya, karanfil ve hafif tatlı malt; Türkiye'nin en bilinen Belçika birası"
+  },
+  {
+   "id": "leffe-brune",
+   "ad": "Leffe Brune",
+   "fab": "Leffe",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 6.5,
+   "ibu": 20,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 78,
+   "uz": "",
+   "not": "Karamel, kahve ve kuru meyve; tatlımsı, erişilebilir koyu manastır"
+  },
+  {
+   "id": "leffe-triple",
+   "ad": "Leffe Triple",
+   "fab": "Leffe",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Portakal kabuğu ve kişniş dokunuşu; şişede ikinci fermantasyon"
+  },
+  {
+   "id": "grimbergen-blonde",
+   "ad": "Grimbergen Blonde",
+   "fab": "Grimbergen",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Belgian Blond Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 6.7,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 77,
+   "uz": "",
+   "not": "Ananas, karanfil ve tatlı malt; Anka kuşlu manastır markası"
+  },
+  {
+   "id": "grimbergen-double-ambree",
+   "ad": "Grimbergen Double Ambrée",
+   "fab": "Grimbergen",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 6.5,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 77,
+   "uz": "",
+   "not": "Karamel, kuru erik ve hafif baharat; marketin dubbel seçeneği"
+  },
+  {
+   "id": "affligem-blond",
+   "ad": "Affligem Blond",
+   "fab": "Affligem",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Belgian Blond Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 6.7,
+   "hacim": 33,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Meyvemsi esterler, hafif baharat ve kuru bitiş"
+  },
+  {
+   "id": "affligem-tripel",
+   "ad": "Affligem Tripel",
+   "fab": "Affligem",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 9.0,
+   "hacim": 33,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "tekel",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Turunçgil, bal ve biber; güçlü ama dengeli manastır tripel'i"
+  },
+  {
+   "id": "st-bernardus-abt-12",
+   "ad": "St. Bernardus Abt 12",
+   "fab": "St. Bernardus",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": 10.0,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "RateBeer/BA en iyi quad'lar arasında",
+   "not": "Westvleteren'in eski lisansından; çikolata, incir, anason — erişilebilir efsane"
+  },
+  {
+   "id": "st-bernardus-prior-8",
+   "ad": "St. Bernardus Prior 8",
+   "fab": "St. Bernardus",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 340,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Erik, karamel ve sıcak baharat; yoğun dubbel"
+  },
+  {
+   "id": "st-bernardus-tripel",
+   "ad": "St. Bernardus Tripel",
+   "fab": "St. Bernardus",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 340,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kayısı, bal ve narenciye; yumuşak ve meyveli"
+  },
+  {
+   "id": "tripel-karmeliet",
+   "ad": "Tripel Karmeliet",
+   "fab": "Bosteels",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.4,
+   "hacim": 33,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 92,
+   "filtresiz": 1,
+   "uz": "World Beer Awards dünyanın en iyi birası 2008",
+   "not": "Arpa, buğday ve yulaf; kremamsı gövde, vanilya ve muz — tripel favorisi"
+  },
+  {
+   "id": "maredsous-10-tripel",
+   "ad": "Maredsous 10 Tripel",
+   "fab": "Maredsous",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 10.0,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Portakal, bal ve beyaz biber; Duvel Moortgat'ın bira ustalığıyla"
+  },
+  {
+   "id": "maredsous-8-brune",
+   "ad": "Maredsous 8 Brune",
+   "fab": "Maredsous",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Belgian Dubbel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 290,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kuru meyve, karamel ve kavrulmuş malt; dolgun koyu manastır"
+  },
+  {
+   "id": "st-feuillien-tripel",
+   "ad": "St-Feuillien Tripel",
+   "fab": "St-Feuillien",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "hacim": 33,
+   "tl": 290,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Narenciye kabuğu ve çiçeksi şerbetçiotu; aile işletmesinden tripel"
+  },
+  {
+   "id": "st-feuillien-saison",
+   "ad": "St-Feuillien Saison",
+   "fab": "St-Feuillien",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Saison",
+   "aile": "Özel & Diğer",
+   "abv": 6.5,
+   "hacim": 33,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "World Beer Awards en iyi saison",
+   "not": "Biberli, kuru ve köpüklü; Hainaut çiftlik birası geleneği"
+  },
+  {
+   "id": "cantillon-gueuze",
+   "ad": "Cantillon Classic Gueuze",
+   "fab": "Cantillon",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.5,
+   "hacim": 37.5,
+   "tl": 600,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "Lambic dünyasının referansı",
+   "not": "Kemik kuru, limon, at battaniyesi ve elma; Brüksel'in yaşayan müzesinden"
+  },
+  {
+   "id": "cantillon-kriek",
+   "ad": "Cantillon Kriek",
+   "fab": "Cantillon",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Kriek (Fruit Lambic)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.0,
+   "hacim": 37.5,
+   "tl": 650,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 94,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Bütün ekşi vişneyle; badem, vişne çekirdeği, sert ekşilik — şekersiz"
+  },
+  {
+   "id": "cantillon-rose-de-gambrinus",
+   "ad": "Cantillon Rosé de Gambrinus",
+   "fab": "Cantillon",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Framboise (Fruit Lambic)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.0,
+   "hacim": 37.5,
+   "tl": 650,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Taze ahududu patlaması üzerinde kuru, keskin lambic"
+  },
+  {
+   "id": "3-fonteinen-oude-geuze",
+   "ad": "3 Fonteinen Oude Geuze",
+   "fab": "3 Fonteinen",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.0,
+   "hacim": 37.5,
+   "tl": 550,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "Oude Geuze ikonlarından",
+   "not": "Greyfurt, saman ve meşe; zarif ve kompleks harman"
+  },
+  {
+   "id": "3-fonteinen-oude-kriek",
+   "ad": "3 Fonteinen Oude Kriek",
+   "fab": "3 Fonteinen",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Kriek (Fruit Lambic)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.0,
+   "hacim": 37.5,
+   "tl": 600,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Schaerbeek vişnesiyle; derin meyve, badem ve canlı asidite",
+   "guven": "tahmin"
+  },
+  {
+   "id": "boon-oude-geuze",
+   "ad": "Oude Geuze Boon",
+   "fab": "Boon",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 7.0,
+   "hacim": 37.5,
+   "tl": 400,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Elma, limon ve vanilyalı meşe; yumuşak, erişilebilir oude geuze"
+  },
+  {
+   "id": "boon-oude-kriek",
+   "ad": "Oude Kriek Boon",
+   "fab": "Boon",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Kriek (Fruit Lambic)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.5,
+   "hacim": 37.5,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Bol vişne, badem ve tatlı-ekşi denge; büyük fıçılarda olgunlaşmış"
+  },
+  {
+   "id": "lindemans-kriek",
+   "ad": "Lindemans Kriek",
+   "fab": "Lindemans",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Fruit Lambic (tatlandırılmış)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 3.5,
+   "hacim": 25,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 74,
+   "uz": "",
+   "not": "Vişneli gazoz gibi tatlı ve hafif; lambic dünyasına giriş kapısı"
+  },
+  {
+   "id": "lindemans-framboise",
+   "ad": "Lindemans Framboise",
+   "fab": "Lindemans",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Fruit Lambic (tatlandırılmış)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 2.5,
+   "hacim": 25,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 74,
+   "uz": "",
+   "not": "Ahududu reçeli tatlılığı, hafif ekşilik; tatlı sevenlere"
+  },
+  {
+   "id": "lindemans-cuvee-rene",
+   "ad": "Lindemans Oude Gueuze Cuvée René",
+   "fab": "Lindemans",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.5,
+   "hacim": 37.5,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Lindemans'ın geleneksel yüzü: kuru, elmalı, limonlu oude gueuze"
+  },
+  {
+   "id": "timmermans-oude-gueuze",
+   "ad": "Timmermans Oude Gueuze",
+   "fab": "Timmermans",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.5,
+   "hacim": 37.5,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Dünyanın en eski lambic üreticilerinden; greyfurt ve saman"
+  },
+  {
+   "id": "timmermans-kriek",
+   "ad": "Timmermans Kriek Lambicus",
+   "fab": "Timmermans",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Fruit Lambic (tatlandırılmış)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 4.0,
+   "hacim": 25,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 75,
+   "uz": "",
+   "not": "Tatlı vişne ve hafif ekşilik; kolay içimli meyveli lambic"
+  },
+  {
+   "id": "girardin-gueuze-1882",
+   "ad": "Girardin Gueuze 1882 (Siyah Etiket)",
+   "fab": "Girardin",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.0,
+   "hacim": 37.5,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Filtresiz siyah etiket; ladin, limon ve toprak — kültleşmiş gueuze"
+  },
+  {
+   "id": "oud-beersel-oude-geuze",
+   "ad": "Oud Beersel Oude Geuze",
+   "fab": "Oud Beersel",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.0,
+   "hacim": 37.5,
+   "tl": 400,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Turunçgil, mantar ve meşe; kurtarılmış tarihi blender"
+  },
+  {
+   "id": "oud-beersel-oude-kriek",
+   "ad": "Oud Beersel Oude Kriek",
+   "fab": "Oud Beersel",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Kriek (Fruit Lambic)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.5,
+   "hacim": 37.5,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 90,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Litre başına 400 g vişne; ekşi, meyveli ve kuru"
+  },
+  {
+   "id": "tilquin-oude-gueuze",
+   "ad": "Gueuze Tilquin à l'Ancienne",
+   "fab": "Tilquin",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Gueuze",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.4,
+   "hacim": 37.5,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Valonya'nın tek blender'ı; dört üreticinin wort'undan zarif harman"
+  },
+  {
+   "id": "belle-vue-kriek",
+   "ad": "Belle-Vue Kriek",
+   "fab": "Belle-Vue",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Fruit Lambic (tatlandırılmış)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.1,
+   "hacim": 25,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 72,
+   "uz": "",
+   "not": "AB InBev'in tatlı vişneli lambic'i; ekşiden çok meyve"
+  },
+  {
+   "id": "rodenbach-classic",
+   "ad": "Rodenbach Classic",
+   "fab": "Rodenbach",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Flanders Red Ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.2,
+   "hacim": 33,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "uz": "",
+   "not": "Genç ve fıçı yıllanmış harman; kırmızı meyve, sirke ve karamel"
+  },
+  {
+   "id": "rodenbach-grand-cru",
+   "ad": "Rodenbach Grand Cru",
+   "fab": "Rodenbach",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Flanders Red Ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.0,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 93,
+   "uz": "Michael Jackson'ın 'dünyanın en ferahlatıcı birası'",
+   "not": "Dev meşe foederlerde 2 yıl; balzamik, vişne ve tanen — 'Burgonya'nın birası'"
+  },
+  {
+   "id": "duchesse-de-bourgogne",
+   "ad": "Duchesse de Bourgogne",
+   "fab": "Verhaeghe",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Flanders Red Ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": 6.2,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 89,
+   "uz": "",
+   "not": "Tatlı-ekşi; vişne, balzamik sirke ve vanilya — şarap sevenlerin birası"
+  },
+  {
+   "id": "liefmans-goudenband",
+   "ad": "Liefmans Goudenband",
+   "fab": "Liefmans",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Oud Bruin",
+   "aile": "Ekşi & Vahşi",
+   "abv": 8.0,
+   "hacim": 37.5,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "uz": "",
+   "not": "Oudenaarde kahverengisi; kuru erik, sherry ve hafif ekşilik"
+  },
+  {
+   "id": "liefmans-fruitesse",
+   "ad": "Liefmans Fruitesse",
+   "fab": "Liefmans",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Fruit Beer",
+   "aile": "Özel & Diğer",
+   "abv": 3.8,
+   "hacim": 25,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 73,
+   "uz": "",
+   "not": "Buzla servis edilen tatlı kırmızı meyve birası; kokteyl gibi"
+  },
+  {
+   "id": "petrus-aged-pale",
+   "ad": "Petrus Aged Pale",
+   "fab": "De Brabandere",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Wild Ale / Foeder Aged",
+   "aile": "Ekşi & Vahşi",
+   "abv": 7.3,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "uz": "",
+   "not": "Foederde 2 yıl dinlenmiş saf ekşi bira; yeşil elma ve limon"
+  },
+  {
+   "id": "saison-dupont",
+   "ad": "Saison Dupont",
+   "fab": "Dupont",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Saison",
+   "aile": "Özel & Diğer",
+   "abv": 6.5,
+   "ibu": 30,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 93,
+   "filtresiz": 1,
+   "uz": "Men's Journal 'dünyanın en iyi birası' (2005)",
+   "not": "Saison stilinin dünya referansı: biber, limon, saman ve kuru bitiş"
+  },
+  {
+   "id": "moinette-blonde",
+   "ad": "Moinette Blonde",
+   "fab": "Dupont",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Belgian Strong Pale Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Saison'un güçlü kuzeni; bal, kayısı ve kuru acılık"
+  },
+  {
+   "id": "fantome-saison",
+   "ad": "Fantôme Saison",
+   "fab": "Fantôme",
+   "ulke": "Belçika",
+   "bolge": "Ardennes",
+   "stil": "Saison",
+   "aile": "Özel & Diğer",
+   "abv": 8.0,
+   "hacim": 75,
+   "tl": 700,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Ardennes'in hayalet etiketli bira evinden; meyveli, ekşimsi, öngörülemez"
+  },
+  {
+   "id": "taras-boulba",
+   "ad": "Taras Boulba",
+   "fab": "Brasserie de la Senne",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Belgian Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Hafif, kuru ve şerbetçiotu yoğun; yeni Brüksel ekolünün içim birası"
+  },
+  {
+   "id": "hoegaarden",
+   "ad": "Hoegaarden",
+   "fab": "Hoegaarden",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 4.9,
+   "ibu": 13,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kişniş ve portakal kabuğu; witbier'i yeniden dünyaya tanıtan bulanık klasik"
+  },
+  {
+   "id": "hoegaarden-rosee",
+   "ad": "Hoegaarden Rosée",
+   "fab": "Hoegaarden",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Fruit Witbier",
+   "aile": "Buğday",
+   "abv": 3.0,
+   "hacim": 25,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 71,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Ahududulu, tatlı ve hafif; yaz terasının pembesi"
+  },
+  {
+   "id": "blanche-de-namur",
+   "ad": "Blanche de Namur",
+   "fab": "Brasserie du Bocq",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "World Beer Awards en iyi witbier (çok kez)",
+   "not": "Çiçeksi, kişnişli ve narin; Brussels Beer Challenge'ın sık kazananı"
+  },
+  {
+   "id": "st-bernardus-wit",
+   "ad": "St. Bernardus Wit",
+   "fab": "St. Bernardus",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.5,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Pierre Celis'in reçetesiyle; kremamsı, limon ve baharat"
+  },
+  {
+   "id": "1664-blanc",
+   "ad": "Kronenbourg 1664 Blanc",
+   "fab": "Kronenbourg",
+   "ulke": "Fransa",
+   "bolge": "Alsas",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 135,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/blanc-1664-bira-fiyat-2026-guncel-liste-ve-tum-cesitler",
+   "bul": "market",
+   "puan": 74,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Narenciye ve kişniş; mavi şişeli, tatlımsı ve çok kolay içimli buğday"
+  },
+  {
+   "id": "duvel",
+   "ad": "Duvel",
+   "fab": "Duvel Moortgat",
+   "ulke": "Belçika",
+   "bolge": "Antwerp",
+   "stil": "Belgian Strong Golden Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "ibu": 32,
+   "hacim": 33,
+   "tl": 260,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
+   "bul": "tekel",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "Belgian Strong Golden stilinin referansı",
+   "not": "'Şeytan'; armut, biber ve bol köpük — tehlikeli derecede içimli altın güçlü bira"
+  },
+  {
+   "id": "delirium-tremens",
+   "ad": "Delirium Tremens",
+   "fab": "Huyghe",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Belgian Strong Golden Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "ibu": 26,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "World Beer Championships 2008 dünyanın en iyi birası",
+   "not": "Pembe filli seramik görünümlü şişe; muz, elma, biber ve sıcak alkol"
+  },
+  {
+   "id": "delirium-nocturnum",
+   "ad": "Delirium Nocturnum",
+   "fab": "Huyghe",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Karamel, kuru meyve ve meyan kökü; Delirium'un koyu yüzü"
+  },
+  {
+   "id": "la-chouffe",
+   "ad": "La Chouffe",
+   "fab": "Achouffe",
+   "ulke": "Belçika",
+   "bolge": "Ardennes",
+   "stil": "Belgian Strong Golden Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "ibu": 20,
+   "hacim": 33,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Cüce etiketli; kişniş, şeftali ve narenciye, yumuşak baharat"
+  },
+  {
+   "id": "mc-chouffe",
+   "ad": "Mc Chouffe",
+   "fab": "Achouffe",
+   "ulke": "Belçika",
+   "bolge": "Ardennes",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 290,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "İskoç ale esintili koyu Chouffe; karamel, erik ve baharat"
+  },
+  {
+   "id": "brugse-zot-blond",
+   "ad": "Brugse Zot Blond",
+   "fab": "De Halve Maan",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Blond Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 6.0,
+   "hacim": 33,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Brugge'nin şehir birası; meyveli, kuru ve hafif acımsı"
+  },
+  {
+   "id": "straffe-hendrik-tripel",
+   "ad": "Straffe Hendrik Tripel",
+   "fab": "De Halve Maan",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 9.0,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kuru, baharatlı ve acımsı tripel; Brugge'de bira boru hattıyla şişelenir"
+  },
+  {
+   "id": "straffe-hendrik-quadrupel",
+   "ad": "Straffe Hendrik Quadrupel",
+   "fab": "De Halve Maan",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": 11.0,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kuru üzüm, kahve ve kavrulmuş malt; yıllandırılabilir quad"
+  },
+  {
+   "id": "gulden-draak",
+   "ad": "Gulden Draak",
+   "fab": "Van Steenberge",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 10.5,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 87,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Beyaz şişeli 'Altın Ejder'; karamel, toffee ve şarap mayası sıcaklığı"
+  },
+  {
+   "id": "kwak",
+   "ad": "Pauwel Kwak",
+   "fab": "Bosteels",
+   "ulke": "Belçika",
+   "bolge": "Doğu Flandre",
+   "stil": "Belgian Strong Amber Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.4,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Tahta askılı kum saati bardağıyla ünlü; karamel, muz ve meyan"
+  },
+  {
+   "id": "kasteel-donker",
+   "ad": "Kasteel Donker",
+   "fab": "Van Honsebrouck",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Belgian Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": 11.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Çikolata, kuru üzüm ve likör sıcaklığı; tatlı ve yoğun"
+  },
+  {
+   "id": "kasteel-rouge",
+   "ad": "Kasteel Rouge",
+   "fab": "Van Honsebrouck",
+   "ulke": "Belçika",
+   "bolge": "Batı Flandre",
+   "stil": "Fruit Beer (Kriek harmanı)",
+   "aile": "Özel & Diğer",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kasteel Donker ile vişne likörü; tatlı, kalın, tatlı yerine bile geçer"
+  },
+  {
+   "id": "carolus-classic",
+   "ad": "Gouden Carolus Classic",
+   "fab": "Het Anker",
+   "ulke": "Belçika",
+   "bolge": "Antwerp",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Mechelen'in imparator birası; karamel, kuru meyve ve Madeira"
+  },
+  {
+   "id": "bush-ambree",
+   "ad": "Bush Ambrée",
+   "fab": "Dubuisson",
+   "ulke": "Belçika",
+   "bolge": "Hainaut",
+   "stil": "Belgian Strong Ale / Barleywine",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 12.0,
+   "hacim": 33,
+   "tl": 330,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 85,
+   "uz": "",
+   "not": "Belçika'nın en güçlü birası olarak bilinirdi; karamel, bal ve badem"
+  },
+  {
+   "id": "stella-artois",
+   "ad": "Stella Artois",
+   "fab": "Stella Artois",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 135,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/carrefour-bira-fiyatlari",
+   "bul": "market",
+   "puan": 72,
+   "uz": "",
+   "not": "Leuven'in yıldızı; temiz malt, hafif otsu acılık, Türkiye'de lisanslı üretim"
+  },
+  {
+   "id": "jupiler",
+   "ad": "Jupiler",
+   "fab": "Jupiler",
+   "ulke": "Belçika",
+   "bolge": "Liège",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 160,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "Belçika'nın en çok satan birası; tahıllı, hafif, maç birası"
+  },
+  {
+   "id": "palm-speciale",
+   "ad": "Palm Spéciale Belge",
+   "fab": "Palm",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Belgian Amber Ale (Spéciale Belge)",
+   "aile": "Belçika & Manastır",
+   "abv": 5.2,
+   "hacim": 25,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 78,
+   "uz": "",
+   "not": "Brabant atlı amber ale; bisküvi, portakal ve hafif baharat"
+  },
+  {
+   "id": "de-koninck-bolleke",
+   "ad": "De Koninck (Bolleke)",
+   "fab": "De Koninck",
+   "ulke": "Belçika",
+   "bolge": "Antwerp",
+   "stil": "Belgian Pale Ale (Spéciale Belge)",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.2,
+   "hacim": 33,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 82,
+   "uz": "",
+   "not": "Antwerp'in yuvarlak kadehli şehir birası; tarçınımsı malt, Saaz acılığı"
+  },
+  {
+   "id": "heineken",
+   "ad": "Heineken",
+   "fab": "Heineken",
+   "ulke": "Hollanda",
+   "bolge": "Güney Hollanda",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "ibu": 19,
+   "hacim": 50,
+   "tl": 150,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/migros-bira-fiyatlari",
+   "bul": "market",
+   "puan": 70,
+   "uz": "",
+   "not": "Yeşil şişeli küresel lager; A-maya ile hafif meyvemsi, temiz ve gazlı"
+  },
+  {
+   "id": "amstel",
+   "ad": "Amstel",
+   "fab": "Amstel",
+   "ulke": "Hollanda",
+   "bolge": "Güney Hollanda",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Heineken ailesinin hafif, tahıllı lageri; Amstel nehrinden adını alır"
+  },
+  {
+   "id": "grolsch-premium-pilsner",
+   "ad": "Grolsch Premium Pilsner",
+   "fab": "Grolsch",
+   "ulke": "Hollanda",
+   "bolge": "Overijssel",
+   "stil": "German Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 45,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 74,
+   "uz": "",
+   "not": "İkonik mantar kapaklı şişe; otsu acılık, kuru ve canlı"
+  },
+  {
+   "id": "bavaria-premium",
+   "ad": "Bavaria Premium Pilsner",
+   "fab": "Bavaria (Swinkels)",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Brabant",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Swinkels ailesinin 300 yıllık birası; hafif, tahıllı, sade"
+  },
+  {
+   "id": "brand-pilsener",
+   "ad": "Brand Pilsener",
+   "fab": "Brand",
+   "ulke": "Hollanda",
+   "bolge": "Limburg (NL)",
+   "stil": "German Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 30,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "uz": "",
+   "not": "Hollanda'nın en eski fabrikasından; maltlı, dolgun ve şerbetçiotlu pils"
+  },
+  {
+   "id": "de-molen-hel-verdoemenis",
+   "ad": "De Molen Hel & Verdoemenis",
+   "fab": "De Molen",
+   "ulke": "Hollanda",
+   "bolge": "Güney Hollanda",
+   "stil": "Russian Imperial Stout",
+   "aile": "Stout & Porter",
+   "abv": 10.0,
+   "hacim": 33,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "uz": "RateBeer en iyi 100'de (fıçı versiyonlar)",
+   "not": "'Cehennem ve Lanet'; kahve, bitter çikolata, katran — barrel versiyonları kült"
+  },
+  {
+   "id": "jopen-hoppenbier",
+   "ad": "Jopen Hoppenbier",
+   "fab": "Jopen",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Hollanda",
+   "stil": "Historical Ale (Haarlem 1501)",
+   "aile": "Özel & Diğer",
+   "abv": 6.8,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "1501 Haarlem reçetesinden; arpa, buğday, yulaf ve bol şerbetçiotu"
+  },
+  {
+   "id": "brouwerij-t-ij-ijwit",
+   "ad": "IJwit",
+   "fab": "Brouwerij 't IJ",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Hollanda",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 6.5,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Amsterdam yel değirmeninin altından; güçlü, limonlu ve kişnişli wit"
+  },
+  {
+   "id": "brouwerij-t-ij-zatte",
+   "ad": "Zatte",
+   "fab": "Brouwerij 't IJ",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Hollanda",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Fabrikanın ilk birası; meyveli, baharatlı Hollanda tripel'i"
+  },
+  {
+   "id": "uiltje-bird-of-prey",
+   "ad": "Uiltje Bird of Prey IPA",
+   "fab": "Uiltje",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Hollanda",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.8,
+   "hacim": 44,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Baykuş logolu Haarlem craft'ı; tropik meyve ve reçine",
+   "guven": "tahmin"
+  },
+  {
+   "id": "texels-skuumkoppe",
+   "ad": "Texels Skuumkoppe",
+   "fab": "Texels",
+   "ulke": "Hollanda",
+   "bolge": "Kuzey Hollanda",
+   "stil": "Dunkelweizen",
+   "aile": "Buğday",
+   "abv": 6.0,
+   "hacim": 30,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Ada birası; karamel, muz ve hafif kavrulmuş malt — Hollanda favorisi"
+  },
+  {
+   "id": "kronenbourg-1664",
+   "ad": "Kronenbourg 1664",
+   "fab": "Kronenbourg",
+   "ulke": "Fransa",
+   "bolge": "Alsas",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.5,
+   "hacim": 50,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "Strasbourg kökenli Fransız premium lageri; Strisselspalt şerbetçiotu",
+   "guven": "tahmin"
+  },
+  {
+   "id": "jenlain-ambree",
+   "ad": "Jenlain Ambrée",
+   "fab": "Brasserie Duyck",
+   "ulke": "Fransa",
+   "bolge": "Nord",
+   "stil": "Bière de Garde",
+   "aile": "Özel & Diğer",
+   "abv": 7.5,
+   "hacim": 75,
+   "tl": 650,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "Stilin tanımlayıcı birası",
+   "not": "Bière de garde'ın sembolü; karamel, bisküvi ve mahzen kokusu"
+  },
+  {
+   "id": "3-monts",
+   "ad": "3 Monts",
+   "fab": "Brasserie de Saint-Sylvestre",
+   "ulke": "Fransa",
+   "bolge": "Nord",
+   "stil": "Bière de Garde",
+   "aile": "Özel & Diğer",
+   "abv": 8.5,
+   "hacim": 75,
+   "tl": 700,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Flandre tepelerinin sarışın bière de garde'ı; kuru, maltlı, mantarlı"
+  },
+  {
+   "id": "la-choulette-ambree",
+   "ad": "La Choulette Ambrée",
+   "fab": "La Choulette",
+   "ulke": "Fransa",
+   "bolge": "Nord",
+   "stil": "Bière de Garde",
+   "aile": "Özel & Diğer",
+   "abv": 8.0,
+   "hacim": 75,
+   "tl": 700,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Rustik amber; karamel, kuru meyve ve hafif toprak"
+  },
+  {
+   "id": "bofferding-pils",
+   "ad": "Bofferding Pils",
+   "fab": "Bofferding",
+   "ulke": "Lüksemburg",
+   "bolge": "Bascharage",
+   "stil": "German Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 33,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 72,
+   "uz": "",
+   "not": "Lüksemburg'un ulusal birası; temiz malt, hafif otsu acılık"
+  },
+  {
+   "id": "grimbergen-blanche",
+   "ad": "Grimbergen Blanche",
+   "fab": "Grimbergen",
+   "ulke": "Belçika",
+   "bolge": "Flaman Brabant",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 6.0,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 75,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Daha güçlü bir wit; portakal, kişniş ve tatlımsı buğday"
+  },
+  {
+   "id": "leffe-ruby",
+   "ad": "Leffe Ruby",
+   "fab": "Leffe",
+   "ulke": "Belçika",
+   "bolge": "Namur",
+   "stil": "Fruit Beer",
+   "aile": "Özel & Diğer",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 72,
+   "uz": "",
+   "not": "Kırmızı meyveli, tatlımsı ve hafif; Leffe'nin meyveli yüzü"
+  }
+ ],
+ "fabrikalar": {
+  "Sint-Sixtus (Westvleteren)": {
+   "k": 1838,
+   "s": "Sint-Sixtus Trappist manastırı",
+   "y": "Westvleteren, Batı Flandre",
+   "stil": "Trappist quad, dubbel, blond",
+   "h": "Keşişlerin yalnızca manastırın ihtiyacı kadar ürettiği, etiketsiz şişelerle ve rezervasyonla satılan bira. Westvleteren 12 yıllarca 'dünyanın en iyi birası' seçildi; kıtlığı efsaneyi büyüttü."
+  },
+  "Brasserie de Rochefort": {
+   "k": 1595,
+   "s": "Abbaye Notre-Dame de Saint-Rémy",
+   "y": "Rochefort, Namur",
+   "stil": "Koyu trappist ale",
+   "h": "Ardennes'teki manastırda 16. yüzyıldan beri bira yapılıyor. 6, 8 ve 10 numaralı koyu biraları yıllandırma için kült; 2020'de açık renkli Triple Extra eklendi."
+  },
+  "Brouwerij Westmalle": {
+   "k": 1836,
+   "s": "Abdij Onze-Lieve-Vrouw van het Heilig Hart",
+   "y": "Westmalle, Antwerp",
+   "stil": "Dubbel ve tripel",
+   "h": "Dubbel (1856 kökenli) ve Tripel (1934) stillerini tanımlayan manastır. Bugün dünyadaki tüm dubbel ve tripel'lerin şablonu sayılır."
+  },
+  "Chimay": {
+   "k": 1862,
+   "s": "Abbaye Notre-Dame de Scourmont",
+   "y": "Baileux / Chimay, Hainaut",
+   "stil": "Trappist ale",
+   "h": "En yaygın dağıtılan trappist. Kırmızı, Mavi ve Beyaz kapaklı biraları dünyada trappist kelimesini tanıtan markadır; manastır peyniri de ünlüdür."
+  },
+  "Brasserie d'Orval": {
+   "k": 1931,
+   "s": "Abbaye Notre-Dame d'Orval",
+   "y": "Villers-devant-Orval, Lüksemburg ili",
+   "stil": "Brettanomyces'li pale ale",
+   "h": "Tek bir bira üretir (keşişlerin Petite Orval'i hariç). Kuru şerbetçiotu ve Brettanomyces mayası sayesinde şişede yıllandıkça değişen eşsiz bir karakteri var."
+  },
+  "Achelse Kluis": {
+   "k": 1998,
+   "s": "Özel (2021'den beri; trappist statüsü sona erdi)",
+   "y": "Hamont-Achel, Limburg",
+   "stil": "Blond ve bruin manastır ale",
+   "h": "Saint-Benedictus manastırında 1998'de yeniden bira yapılmaya başlandı. Son keşişler 2021'de ayrılınca trappist logosunu kaybetti, üretim özel işletmeyle sürüyor."
+  },
+  "La Trappe (Koningshoeven)": {
+   "k": 1884,
+   "s": "Koningshoeven manastırı (Bavaria/Swinkels işletir)",
+   "y": "Berkel-Enschot, Kuzey Brabant",
+   "stil": "Trappist ale, quadrupel",
+   "h": "Belçika dışındaki ilk trappist fabrikası. Quadrupel adını ilk kullanan bira burada doğdu; günlük işletmeyi Swinkels ailesi yürütür."
+  },
+  "Brouwerij De Kievit (Zundert)": {
+   "k": 2013,
+   "s": "Maria Toevlucht manastırı",
+   "y": "Zundert, Kuzey Brabant",
+   "stil": "Trappist ale",
+   "h": "Van Gogh'un doğduğu kasabadaki küçük manastır 2013'te trappist bira üretmeye başladı. Zundert 8 ve 10 ile Hollanda'nın ikinci trappist'i oldu."
+  },
+  "Leffe": {
+   "k": 1240,
+   "s": "AB InBev",
+   "y": "Dinant (marka), Leuven'de üretim",
+   "stil": "Manastır ale",
+   "h": "Notre-Dame de Leffe manastırının 13. yüzyıla dayanan bira geleneğinin lisanslı devamı. Bugün AB InBev tarafından Leuven'de üretilen dünyanın en çok satan manastır birası."
+  },
+  "Grimbergen": {
+   "k": 1128,
+   "s": "Carlsberg (marka) / Heineken (Belçika'da üretim)",
+   "y": "Grimbergen, Flaman Brabant",
+   "stil": "Manastır ale",
+   "h": "Norbertine manastırının küllerinden doğan Anka kuşu amblemiyle bilinir. Manastırda 2021'de yeniden küçük bir mikro bira evi açıldı."
+  },
+  "Affligem": {
+   "k": 1074,
+   "s": "Heineken",
+   "y": "Opwijk, Flaman Brabant",
+   "stil": "Manastır ale",
+   "h": "11. yüzyılda kurulan Benediktin manastırının reçetelerini sürdürür. 1970'lerden beri ticari üretim, bugün Heineken çatısı altında."
+  },
+  "St. Bernardus": {
+   "k": 1946,
+   "s": "Aile işletmesi",
+   "y": "Watou, Batı Flandre",
+   "stil": "Manastır ale, quad",
+   "h": "1946-1992 arasında Westvleteren biralarını lisansla üretti; Abt 12 o mirasın devamı sayılır. Bugün dünyanın en saygın manastır tarzı üreticilerinden."
+  },
+  "Bosteels": {
+   "k": 1791,
+   "s": "AB InBev (2016'dan beri)",
+   "y": "Buggenhout, Doğu Flandre",
+   "stil": "Tripel ve güçlü amber",
+   "h": "Yedi kuşak aile işletmesiydi. Tripel Karmeliet ve kum saati bardaklı Kwak ile ün kazandı, 2016'da AB InBev'e satıldı."
+  },
+  "Maredsous": {
+   "k": 1872,
+   "s": "Maredsous manastırı (Duvel Moortgat üretir)",
+   "y": "Denée, Namur (üretim Breendonk)",
+   "stil": "Manastır ale",
+   "h": "Benediktin manastırının lisansıyla 1963'ten beri Duvel Moortgat üretir. Blond 6, Brune 8 ve Tripel 10 üçlüsüyle tanınır."
+  },
+  "St-Feuillien": {
+   "k": 1873,
+   "s": "Friart ailesi",
+   "y": "Le Rœulx, Hainaut",
+   "stil": "Manastır ale ve saison",
+   "h": "Dört kuşaktır Friart ailesinin elinde. Adını 7. yüzyılda şehit olan İrlandalı keşiş Feuillien'den alır."
+  },
+  "Cantillon": {
+   "k": 1900,
+   "s": "Van Roy-Cantillon ailesi",
+   "y": "Anderlecht, Brüksel",
+   "stil": "Geleneksel lambic, gueuze, kriek",
+   "h": "Brüksel'de faal kalan son geleneksel lambic fabrikası ve Gueuze Müzesi. Organik, şekersiz ve tamamen kendiliğinden fermente biralarıyla dünyanın en çok aranan üreticilerinden."
+  },
+  "3 Fonteinen": {
+   "k": 1887,
+   "s": "Debelder ailesi / ortaklar",
+   "y": "Beersel (Lot), Flaman Brabant",
+   "stil": "Oude geuze ve oude kriek",
+   "h": "Bir han-kafe olarak başlayan blender, Armand Debelder ile dünya çapında kült oldu. 2009'daki 'termostat felaketi' sonrası yeniden doğuşu ünlüdür."
+  },
+  "Boon": {
+   "k": 1680,
+   "s": "Boon ailesi (Palm ile ortaklık geçmişi)",
+   "y": "Lembeek, Flaman Brabant",
+   "stil": "Oude geuze ve kriek",
+   "h": "Frank Boon 1975'te tarihi fabrikayı devraldı ve lambic'in çöküşünü durduran isimlerden oldu. Dev meşe foederleriyle geleneksel üretimin büyük ölçekli temsilcisi."
+  },
+  "Lindemans": {
+   "k": 1822,
+   "s": "Lindemans ailesi",
+   "y": "Vlezenbeek, Flaman Brabant",
+   "stil": "Meyveli lambic ve gueuze",
+   "h": "Bir çiftlik bira evi olarak başladı. Tatlandırılmış meyveli lambic'leriyle dünyaya yayıldı; Cuvée René ile geleneksel çizgiyi de sürdürür."
+  },
+  "Timmermans": {
+   "k": 1702,
+   "s": "John Martin Group",
+   "y": "Itterbeek, Flaman Brabant",
+   "stil": "Lambic ve meyveli lambic",
+   "h": "Hâlâ faal en eski lambic fabrikası olduğunu iddia eder. Tatlı meyveli serisi yaygın, Oude serisi geleneksel."
+  },
+  "Girardin": {
+   "k": 1882,
+   "s": "Girardin ailesi",
+   "y": "Sint-Ulriks-Kapelle, Flaman Brabant",
+   "stil": "Lambic ve gueuze",
+   "h": "Kendi tahılını yetiştiren çiftlik lambic üreticisi. Siyah etiketli filtresiz Gueuze 1882 meraklılar arasında kült."
+  },
+  "Oud Beersel": {
+   "k": 1882,
+   "s": "Gert Christiaens",
+   "y": "Beersel, Flaman Brabant",
+   "stil": "Oude geuze ve kriek",
+   "h": "2002'de kapanan tarihi lambic evi 2005'te yeniden açıldı. Geleneksel yöntemlerle oude geuze ve oude kriek üretir."
+  },
+  "Tilquin": {
+   "k": 2009,
+   "s": "Pierre Tilquin",
+   "y": "Rebecq-Bierghes, Valon Brabantı",
+   "stil": "Gueuze blending",
+   "h": "Valonya'nın ilk ve tek gueuze blender'ı. Boon, Lindemans, Girardin ve Cantillon wort'larını fıçılarında olgunlaştırıp harmanlar."
+  },
+  "Belle-Vue": {
+   "k": 1913,
+   "s": "AB InBev",
+   "y": "Brüksel / Zuun",
+   "stil": "Meyveli lambic",
+   "h": "Brüksel'in Molenbeek'inde başlayan marka, bugün AB InBev bünyesinde tatlandırılmış kriek ve framboise üretir."
+  },
+  "Rodenbach": {
+   "k": 1821,
+   "s": "Swinkels Family Brewers (Palm)",
+   "y": "Roeselare, Batı Flandre",
+   "stil": "Flanders red ale",
+   "h": "Yaklaşık 300 dev meşe foederiyle Flanders red stilinin anavatanı. Genç ve yıllanmış biraları harmanlayan yöntemi İngiliz porter geleneğinden öğrenildi."
+  },
+  "Verhaeghe": {
+   "k": 1885,
+   "s": "Verhaeghe ailesi",
+   "y": "Vichte, Batı Flandre",
+   "stil": "Flanders red ale",
+   "h": "Aile işletmesi; Duchesse de Bourgogne ve Vichtenaar ile tanınır. Meşe fıçılarda 18 aya kadar olgunlaştırma yapar."
+  },
+  "Liefmans": {
+   "k": 1679,
+   "s": "Duvel Moortgat",
+   "y": "Oudenaarde, Doğu Flandre",
+   "stil": "Oud bruin ve meyveli bira",
+   "h": "Oudenaarde kahverengi ale geleneğinin taşıyıcısı. 2008'de Duvel Moortgat'a geçti; Goudenband ve buzla içilen Fruitesse ile bilinir."
+  },
+  "De Brabandere": {
+   "k": 1894,
+   "s": "De Brabandere ailesi",
+   "y": "Bavikhove, Batı Flandre",
+   "stil": "Foeder ekşi ale ve pils",
+   "h": "Beş kuşaklık aile fabrikası. Petrus serisi, foederde olgunlaşmış ekşi biralarıyla ABD craft sahnesini de etkiledi."
+  },
+  "Dupont": {
+   "k": 1844,
+   "s": "Dupont ailesi (Rosier)",
+   "y": "Tourpes, Hainaut",
+   "stil": "Saison ve çiftlik birası",
+   "h": "Çiftlik bira evi 1920'de Dupont ailesine geçti. Saison Dupont stilin dünya referansı; organik serisi ve peynirleri de ünlüdür."
+  },
+  "Fantôme": {
+   "k": 1988,
+   "s": "Dany Prignon",
+   "y": "Soy, Lüksemburg ili",
+   "stil": "Deneysel saison",
+   "h": "Hayalet etiketli küçük Ardennes bira evi. Her parti biraz farklı, meyveli ve ekşimsi saison'larıyla kült statüsünde."
+  },
+  "Brasserie de la Senne": {
+   "k": 2006,
+   "s": "Bernard Leboucq ve Yvan De Baets",
+   "y": "Brüksel",
+   "stil": "Kuru, şerbetçiotlu Belçika ale",
+   "h": "Brüksel'in yeni bira dalgasının öncüsü. Tatlı Belçika biralarına karşı kuru, acımsı ve içimli biralar üretir."
+  },
+  "Hoegaarden": {
+   "k": 1966,
+   "s": "AB InBev",
+   "y": "Hoegaarden, Flaman Brabant",
+   "stil": "Witbier",
+   "h": "Süt üreticisi Pierre Celis, kaybolmuş witbier stilini 1966'da kendi köyünde yeniden canlandırdı. Bugün dünyanın en tanınan buğday birası markalarından."
+  },
+  "Brasserie du Bocq": {
+   "k": 1858,
+   "s": "Belot ailesi",
+   "y": "Purnode, Namur",
+   "stil": "Witbier ve özel Belçika biraları",
+   "h": "Altı kuşaklık aile fabrikası. Blanche de Namur uluslararası yarışmalarda pek çok kez dünyanın en iyi witbier'i seçildi."
+  },
+  "Kronenbourg": {
+   "k": 1664,
+   "s": "Carlsberg Group",
+   "y": "Obernai, Alsas",
+   "stil": "Lager ve witbier",
+   "h": "Strasbourg'da 1664'te kurulan Fransa'nın en büyük bira üreticisi. 1664 Blanc ile Fransız usulü witbier'i dünyaya yaydı."
+  },
+  "Duvel Moortgat": {
+   "k": 1871,
+   "s": "Moortgat ailesi (borsada)",
+   "y": "Breendonk (Puurs), Antwerp",
+   "stil": "Belgian strong golden ale",
+   "h": "Birinci Dünya Savaşı sonrası 'Victory Ale' olarak doğan bira, 'şeytan gibi' denince Duvel adını aldı. Bugün La Chouffe, Liefmans, De Koninck ve Maredsous'u da çatısında tutar."
+  },
+  "Huyghe": {
+   "k": 1906,
+   "s": "Huyghe ailesi",
+   "y": "Melle, Doğu Flandre",
+   "stil": "Güçlü Belçika ale",
+   "h": "Pembe filli Delirium serisiyle dünyaca tanındı. Brüksel'deki Delirium Café binlerce çeşidiyle bira turizminin durağıdır."
+  },
+  "Achouffe": {
+   "k": 1982,
+   "s": "Duvel Moortgat (2006'dan beri)",
+   "y": "Achouffe, Ardennes",
+   "stil": "Güçlü blond ve koyu ale",
+   "h": "İki kayınbiraderin hobi olarak kurduğu cüce maskotlu fabrika. Ardennes vadisindeki üretimiyle Belçika craft'ının sevilen ismi."
+  },
+  "De Halve Maan": {
+   "k": 1856,
+   "s": "Vanneste ailesi",
+   "y": "Brugge, Batı Flandre",
+   "stil": "Blond, tripel, quad",
+   "h": "Brugge'nin tarihi merkezinde faal tek aile fabrikası. Şehrin altından geçen 3 km'lik bira boru hattıyla şişeleme tesisine bira gönderir."
+  },
+  "Van Steenberge": {
+   "k": 1784,
+   "s": "Van Steenberge ailesi",
+   "y": "Ertvelde, Doğu Flandre",
+   "stil": "Güçlü Belçika ale",
+   "h": "Gulden Draak ve Piraat'ın üreticisi. Beyaz boyalı Gulden Draak şişesi raflarda hemen tanınır."
+  },
+  "Van Honsebrouck": {
+   "k": 1900,
+   "s": "Van Honsebrouck ailesi",
+   "y": "Izegem, Batı Flandre",
+   "stil": "Güçlü ale ve meyveli bira",
+   "h": "Kasteel serisini Ingelmunster şatosunun mahzenlerinde olgunlaştırdığı yıllarla tanındı. 2016'da Izegem'de yeni tesise taşındı."
+  },
+  "Het Anker": {
+   "k": 1471,
+   "s": "Van Breedam ailesi",
+   "y": "Mechelen, Antwerp",
+   "stil": "Güçlü koyu ale",
+   "h": "Kökü 15. yüzyıl beginaj bira evine dayanır. Gouden Carolus serisi Kutsal Roma İmparatoru V. Karl'ın adını taşır."
+  },
+  "Dubuisson": {
+   "k": 1769,
+   "s": "Dubuisson ailesi",
+   "y": "Pipaix, Hainaut",
+   "stil": "Güçlü amber ale",
+   "h": "Valonya'nın en eski bira fabrikalarından. 1933'te İngiliz ale'lerine yanıt olarak yapılan Bush Ambrée uzun süre Belçika'nın en güçlü birası sayıldı."
+  },
+  "Stella Artois": {
+   "k": 1366,
+   "s": "AB InBev",
+   "y": "Leuven, Flaman Brabant",
+   "stil": "Pale lager",
+   "h": "Kökeni 1366'daki Den Hoorn bira evine dayanır; Stella Artois 1926'da Noel birası olarak doğdu. Bugün dünyanın en çok satan Belçika lageri, Türkiye'de lisansla üretilir."
+  },
+  "Jupiler": {
+   "k": 1853,
+   "s": "AB InBev",
+   "y": "Jupille-sur-Meuse, Liège",
+   "stil": "Pale lager",
+   "h": "Piedboeuf fabrikasının 1966'da piyasaya sürdüğü Jupiler, Belçika'nın en çok satan birasıdır ve ulusal futbol liginin adını taşır."
+  },
+  "Palm": {
+   "k": 1747,
+   "s": "Swinkels Family Brewers",
+   "y": "Steenhuffel, Flaman Brabant",
+   "stil": "Spéciale belge amber",
+   "h": "Brabant atı logolu Palm, 'Spéciale Belge' amber stilinin en bilinen temsilcisi. 2016'da Hollandalı Swinkels ailesine geçti."
+  },
+  "De Koninck": {
+   "k": 1833,
+   "s": "Duvel Moortgat",
+   "y": "Antwerp",
+   "stil": "Spéciale belge / pale ale",
+   "h": "Antwerp'in şehir fabrikası; yuvarlak 'bolleke' kadehiyle içilir. Ziyaretçi merkezi şehrin popüler duraklarından."
+  },
+  "Heineken": {
+   "k": 1864,
+   "s": "Heineken N.V.",
+   "y": "Amsterdam (kuruluş), Zoeterwoude (üretim)",
+   "stil": "Pale lager",
+   "h": "Gerard Adriaan Heineken'in 1864'te satın aldığı bira evinden dünyanın ikinci büyük bira grubuna. Kendine özgü A-maya ile üretilir."
+  },
+  "Amstel": {
+   "k": 1870,
+   "s": "Heineken N.V.",
+   "y": "Amsterdam (kuruluş), Zoeterwoude",
+   "stil": "Pale lager",
+   "h": "Adını Amsterdam'dan geçen Amstel nehrinden alır. 1968'de Heineken'e katıldı; dünya genelinde lisansla üretilir."
+  },
+  "Grolsch": {
+   "k": 1615,
+   "s": "Asahi Group",
+   "y": "Enschede, Overijssel",
+   "stil": "Pilsner",
+   "h": "Groenlo'da kuruldu, bugün Enschede'de üretiliyor. Mantar kapaklı 'swingtop' şişesi markanın simgesi."
+  },
+  "Bavaria (Swinkels)": {
+   "k": 1719,
+   "s": "Swinkels ailesi",
+   "y": "Lieshout, Kuzey Brabant",
+   "stil": "Pale lager",
+   "h": "Yedi kuşaktır Swinkels ailesinin elindeki Hollanda'nın en büyük bağımsız fabrikası. La Trappe, Palm ve Rodenbach da aynı grubun parçası."
+  },
+  "Brand": {
+   "k": 1340,
+   "s": "Heineken N.V.",
+   "y": "Wijlre, Limburg",
+   "stil": "Pilsner ve bock",
+   "h": "Hollanda'nın en eski faal bira fabrikası olarak bilinir. Kraliyet unvanlı fabrika, maltlı ve dolgun pils'iyle güney Limburg'un gururu."
+  },
+  "De Molen": {
+   "k": 2004,
+   "s": "Menno Olivier ve ortaklar",
+   "y": "Bodegraven, Güney Hollanda",
+   "stil": "Imperial stout, barleywine, deneysel",
+   "h": "Tarihi bir yel değirmeninde başlayan fabrika, yoğun stout'larıyla dünyanın en saygın craft üreticilerinden oldu. Yıllık Borefts Bira Festivali ünlüdür."
+  },
+  "Jopen": {
+   "k": 1994,
+   "s": "Bağımsız",
+   "y": "Haarlem, Kuzey Hollanda",
+   "stil": "Tarihi reçeteler ve modern craft",
+   "h": "Haarlem'in eski bira şehri mirasını canlandırmak için kuruldu. Bir kiliseyi bira evine dönüştüren Jopenkerk ile tanınır."
+  },
+  "Brouwerij 't IJ": {
+   "k": 1985,
+   "s": "Bağımsız",
+   "y": "Amsterdam",
+   "stil": "Belçika tarzı ve organik ale",
+   "h": "Amsterdam'daki De Gooyer yel değirmeninin dibindeki eski hamamda kuruldu. Devekuşu logolu biraları şehrin craft simgesi."
+  },
+  "Uiltje": {
+   "k": 2012,
+   "s": "Robbert Uiltje Kramer",
+   "y": "Haarlem, Kuzey Hollanda",
+   "stil": "IPA, NEIPA, stout",
+   "h": "Baykuş logolu, eğlenceli etiketli ve yüksek şerbetçiotlu biralarıyla yeni nesil Hollanda craft'ının öncülerinden."
+  },
+  "Texels": {
+   "k": 1994,
+   "s": "Bağımsız",
+   "y": "Oudeschild, Texel",
+   "stil": "Ada biraları",
+   "h": "Wadden Denizi'ndeki Texel adasında, ada suyu ve arpasıyla üretim yapar. Skuumkoppe Hollanda'nın en sevilen koyu buğdaylarından."
+  },
+  "Brasserie Duyck": {
+   "k": 1922,
+   "s": "Duyck ailesi",
+   "y": "Jenlain, Nord",
+   "stil": "Bière de garde",
+   "h": "Félix Duyck'in çiftlik bira evinden doğan Jenlain, unutulmaya yüz tutan bière de garde stilini 1950'lerden itibaren Fransa'nın sembolü yaptı."
+  },
+  "Brasserie de Saint-Sylvestre": {
+   "s": "Ricour ailesi",
+   "y": "Saint-Sylvestre-Cappel, Nord",
+   "stil": "Bière de garde",
+   "h": "Fransız Flandre'sının tepelik köyündeki aile işletmesi. 3 Monts adını yöredeki üç tepeden alır."
+  },
+  "La Choulette": {
+   "s": "Dhaussy ailesi",
+   "y": "Hordain, Nord",
+   "stil": "Bière de garde",
+   "h": "Eski bir çiftlik bira evinde 1977'den beri zanaat bière de garde üretir. Adını yöresel bir top oyunundan alır."
+  },
+  "Bofferding": {
+   "k": 1842,
+   "s": "Brasserie Nationale",
+   "y": "Bascharage, Lüksemburg",
+   "stil": "Pilsner",
+   "h": "Lüksemburg'un en çok satan birası. 1975'te Funck-Bricher ile birleşerek Brasserie Nationale'i oluşturdu."
+  }
+ },
+ "bolgeler": {
+  "Belçika|Batı Flandre": {
+   "k": "Trappist Westvleteren, St. Bernardus ve Flanders red ale'in ülkesi. Meşe foederlerde olgunlaşan ekşi kırmızılar ve yoğun quad'lar bölgenin imzası.",
+   "t": "Roeselare'deki Rodenbach 19. yüzyılda İngiliz porter harmanlama tekniğini Flandre'ye taşıdı; Watou ile Westvleteren arasındaki şerbetçiotu tarlaları hâlâ işlenir.",
+   "i": "Önce Rodenbach Classic ile ekşi kırmızıyı tanı, sonra St. Bernardus Abt 12'yi dene.",
+   "konum": [
+    51.0,
+    3.0
+   ]
+  },
+  "Belçika|Doğu Flandre": {
+   "k": "Oudenaarde kahverengi ale'i, güçlü golden ale ve tatlı-baharatlı koyu biraların bölgesi. Aile fabrikaları yüzyıllardır aynı şehirlerde.",
+   "t": "Oudenaarde'nin sert suyu ve sıcak fermantasyonu oud bruin stilini doğurdu; Melle ve Ertvelde güçlü bira gelenekleriyle tanınır.",
+   "i": "Delirium Tremens ve Gulden Draak'ı lale kadehte, buzdolabından 10 dakika önce çıkarıp iç.",
+   "konum": [
+    51.0,
+    3.8
+   ]
+  },
+  "Belçika|Brüksel & Pajottenland": {
+   "k": "Dünyada kendiliğinden (spontane) fermantasyonun kalbi. Senne vadisinin havasındaki yabani mayalar lambic'i, harmanlanınca gueuze'u, meyveyle kriek'i yaratır.",
+   "t": "Lambic yüzyıllardır yalnızca Brüksel ve güneybatısındaki Pajottenland'de yapılır; 2000'lerde 'Oude' ibaresi AB korumasına alındı.",
+   "i": "Etikette 'Oude' ibaresi yoksa bira tatlandırılmıştır; gerçek tadı Oude Geuze Boon ile başla.",
+   "konum": [
+    50.8,
+    4.25
+   ]
+  },
+  "Belçika|Antwerp": {
+   "k": "Dubbel ve tripel'in anavatanı Westmalle, Duvel'in Breendonk'u ve Antwerp'in şehir biralarıyla dengeli, şişede mayalanan güçlü ale'ler.",
+   "t": "Westmalle manastırı 1934'te Tripel'i yaratarak bütün dünyanın taklit ettiği şablonu belirledi.",
+   "i": "Westmalle Tripel ve Duvel'i yan yana tadarak manastır tripel'i ile golden strong ale farkını gör.",
+   "konum": [
+    51.2,
+    4.5
+   ]
+  },
+  "Belçika|Flaman Brabant": {
+   "k": "Leuven'in büyük lager endüstrisi ile Hoegaarden'in witbier mirası yan yana. Pajottenland'e komşu köylerde lambic de yapılır.",
+   "t": "Hoegaarden köyü 15. yüzyıldan beri buğday birasıyla ünlüydü; stil 1957'de ölmüş, Pierre Celis 1966'da canlandırmıştı.",
+   "i": "Hoegaarden'ı sıfıra yakın değil 4-6 °C'de, kalın tabanlı bardakta iç.",
+   "konum": [
+    50.88,
+    4.55
+   ]
+  },
+  "Belçika|Limburg": {
+   "k": "Hollanda sınırına yakın sakin bir bölge; Achel'in manastır biraları buranın temsilcisi.",
+   "t": "Achel manastırı 1998'de bira yapımını yeniden başlattı, 2021'de keşişlerin ayrılmasıyla trappist statüsünü kaybetti.",
+   "i": "Achel Blond'u Westmalle Tripel'le kıyasla; daha yumuşak ve tatlımsıdır.",
+   "konum": [
+    51.25,
+    5.5
+   ]
+  },
+  "Belçika|Hainaut": {
+   "k": "Valonya'nın çiftlik birası (saison) diyarı. Kuru, baharatlı ve yüksek karbonasyonlu biralar; ayrıca Chimay trappist'i.",
+   "t": "Saison, tarım işçilerine yaz için kışın yapılan hafif biralardan doğdu; Dupont stili 20. yüzyılda yaşattı.",
+   "i": "Saison Dupont'u keçi peyniri veya ızgara tavukla dene.",
+   "konum": [
+    50.45,
+    3.95
+   ]
+  },
+  "Belçika|Namur": {
+   "k": "Meuse vadisindeki manastırların koyu ve yoğun biraları; Rochefort trappist'i ve Leffe, Maredsous gibi manastır markaları.",
+   "t": "Leffe manastırı Dinant'ta 1240'tan beri bira yaptı; Rochefort'ta keşişler 16. yüzyıldan beri üretiyor.",
+   "i": "Rochefort 10'u oda sıcaklığına yakın (12-14 °C) kadeh bardakta yavaş iç.",
+   "konum": [
+    50.35,
+    4.95
+   ]
+  },
+  "Belçika|Ardennes": {
+   "k": "Ormanlık Ardennes'in kırsal, bağımsız ruhlu bira evleri: Orval'in Brett'li pale ale'i, Chouffe'un cüceleri ve Fantôme'un deneysel saison'ları.",
+   "t": "Orval manastırı 1931'de manastırın yeniden inşasını finanse etmek için bira üretmeye başladı.",
+   "i": "Orval'i taze ve 1 yıllık olarak iki şişe al; Brett'in nasıl kuruttuğunu gör.",
+   "konum": [
+    50.0,
+    5.5
+   ]
+  },
+  "Belçika|Liège": {
+   "k": "Endüstriyel lager'in güçlü olduğu Valon şehir bölgesi; Jupiler'in yuvası.",
+   "t": "Jupille-sur-Meuse'deki Piedboeuf fabrikası 19. yüzyıldan beri bira yapıyor.",
+   "i": "Jupiler'i Belçika'daki gibi küçük bardakta, soğuk ve köpüklü iç.",
+   "konum": [
+    50.63,
+    5.57
+   ]
+  },
+  "Hollanda|Kuzey Brabant": {
+   "k": "Hollanda'nın trappist bölgesi: La Trappe ve Zundert, ayrıca Swinkels ailesinin büyük lager üretimi.",
+   "t": "Koningshoeven 1884'te Fransız keşişlerce kuruldu ve Belçika dışında ilk trappist fabrikası oldu.",
+   "i": "La Trappe Quadrupel'in fıçıda yıllanmış (Oak Aged) partilerini kaçırma.",
+   "konum": [
+    51.55,
+    5.1
+   ]
+  },
+  "Hollanda|Kuzey Hollanda": {
+   "k": "Amsterdam ve Haarlem'in canlı craft sahnesi: tarihi reçeteler, Belçika tarzı ale'ler ve hoplu IPA'lar.",
+   "t": "Haarlem 15.-16. yüzyılda Hollanda'nın bira başkentiydi; Jopen bu mirası canlandırdı.",
+   "i": "Amsterdam'da Brouwerij 't IJ'nin yel değirmeni yanındaki tadım odasına uğra.",
+   "konum": [
+    52.4,
+    4.8
+   ]
+  },
+  "Hollanda|Güney Hollanda": {
+   "k": "Heineken'in dev Zoeterwoude tesisi ile De Molen'in kült stout'ları aynı ilde.",
+   "t": "Heineken 1975'te üretimini Amsterdam'dan Zoeterwoude'ye taşıdı.",
+   "i": "De Molen'in barrel-aged sürümlerini bulursan yaşlandırmaya da uygun olduklarını bil.",
+   "konum": [
+    52.1,
+    4.6
+   ]
+  },
+  "Hollanda|Limburg (NL)": {
+   "k": "Güney Limburg'un tepelik kırsalında maltlı, dolgun pils ve bock geleneği.",
+   "t": "Wijlre'deki Brand, 14. yüzyıla uzanan kökeniyle ülkenin en eski fabrikası sayılır.",
+   "i": "Brand Pilsener'i Hollanda usulü 25-30 cl bardakta, köpüğü sıyrılarak iç.",
+   "konum": [
+    50.85,
+    5.85
+   ]
+  },
+  "Hollanda|Overijssel": {
+   "k": "Doğu Hollanda'nın Alman sınırındaki sanayi bölgesi; Grolsch'un yuvası.",
+   "t": "Grolsch 1615'te Groenlo'da kuruldu, 2004'te Enschede'deki yeni tesise taşındı.",
+   "i": "Swingtop şişeyi saklayın; ev birası yapanların favorisidir.",
+   "konum": [
+    52.22,
+    6.89
+   ]
+  },
+  "Fransa|Alsas": {
+   "k": "Fransa'nın bira başkenti; Alman etkisinde lager geleneği ve Strisselspalt şerbetçiotu.",
+   "t": "Fransız birasının yarıdan fazlası Alsas'ta üretilir; Kronenbourg 1664'ten beri Strasbourg'ta.",
+   "i": "1664 Blanc'ı portakal dilimiyle değil, sade ve soğuk iç.",
+   "konum": [
+    48.5,
+    7.5
+   ]
+  },
+  "Fransa|Nord": {
+   "k": "Belçika sınırındaki Fransız Flandre'sı; bière de garde (mahzende saklanan bira) diyarı. Maltlı, karamelli, hafif mantarımsı kokulu.",
+   "t": "Çiftliklerde kışın yapılıp yaz için mahzende saklanan biralardan doğdu; Jenlain 1950'lerde stili şişeye taşıdı.",
+   "i": "Bière de garde'ı mantarlı yemekler ve olgun peynirlerle dene.",
+   "konum": [
+    50.4,
+    3.2
+   ]
+  },
+  "Lüksemburg|Bascharage": {
+   "k": "Lüksemburg'un küçük ama köklü pils geleneği; Alman ve Belçika etkileri iç içe.",
+   "t": "Bofferding 1842'den beri üretiyor, 1975'ten beri Brasserie Nationale çatısında.",
+   "i": "Lüksemburg'a giderseniz Bofferding'in fıçı halini yerel kafelerde arayın.",
+   "konum": [
+    49.57,
+    5.91
+   ]
+  }
+ },
+ "konumlar": {
+  "Sint-Sixtus (Westvleteren)": [
+   50.896,
+   2.721
+  ],
+  "Brasserie de Rochefort": [
+   50.163,
+   5.222
+  ],
+  "Brouwerij Westmalle": [
+   51.298,
+   4.687
+  ],
+  "Chimay": [
+   50.012,
+   4.329
+  ],
+  "Brasserie d'Orval": [
+   49.64,
+   5.348
+  ],
+  "Achelse Kluis": [
+   51.256,
+   5.545
+  ],
+  "La Trappe (Koningshoeven)": [
+   51.583,
+   5.116
+  ],
+  "Brouwerij De Kievit (Zundert)": [
+   51.47,
+   4.66
+  ],
+  "Leffe": [
+   50.877,
+   4.701
+  ],
+  "Grimbergen": [
+   50.935,
+   4.372
+  ],
+  "Affligem": [
+   50.959,
+   4.193
+  ],
+  "St. Bernardus": [
+   50.859,
+   2.633
+  ],
+  "Bosteels": [
+   51.016,
+   4.2
+  ],
+  "Maredsous": [
+   50.298,
+   4.769
+  ],
+  "St-Feuillien": [
+   50.5,
+   4.112
+  ],
+  "Cantillon": [
+   50.841,
+   4.335
+  ],
+  "3 Fonteinen": [
+   50.766,
+   4.287
+  ],
+  "Boon": [
+   50.714,
+   4.219
+  ],
+  "Lindemans": [
+   50.827,
+   4.211
+  ],
+  "Timmermans": [
+   50.828,
+   4.257
+  ],
+  "Girardin": [
+   50.856,
+   4.181
+  ],
+  "Oud Beersel": [
+   50.766,
+   4.302
+  ],
+  "Tilquin": [
+   50.68,
+   4.09
+  ],
+  "Belle-Vue": [
+   50.783,
+   4.135
+  ],
+  "Rodenbach": [
+   50.94,
+   3.13
+  ],
+  "Verhaeghe": [
+   50.833,
+   3.393
+  ],
+  "Liefmans": [
+   50.845,
+   3.605
+  ],
+  "De Brabandere": [
+   50.866,
+   3.311
+  ],
+  "Dupont": [
+   50.578,
+   3.624
+  ],
+  "Fantôme": [
+   50.29,
+   5.513
+  ],
+  "Brasserie de la Senne": [
+   50.866,
+   4.337
+  ],
+  "Hoegaarden": [
+   50.775,
+   4.89
+  ],
+  "Brasserie du Bocq": [
+   50.33,
+   4.94
+  ],
+  "Kronenbourg": [
+   48.462,
+   7.482
+  ],
+  "Duvel Moortgat": [
+   51.054,
+   4.337
+  ],
+  "Huyghe": [
+   51.003,
+   3.795
+  ],
+  "Achouffe": [
+   50.148,
+   5.746
+  ],
+  "De Halve Maan": [
+   51.203,
+   3.224
+  ],
+  "Van Steenberge": [
+   51.11,
+   3.746
+  ],
+  "Van Honsebrouck": [
+   50.916,
+   3.214
+  ],
+  "Het Anker": [
+   51.031,
+   4.476
+  ],
+  "Dubuisson": [
+   50.577,
+   3.574
+  ],
+  "Stella Artois": [
+   50.889,
+   4.709
+  ],
+  "Jupiler": [
+   50.643,
+   5.63
+  ],
+  "Palm": [
+   50.995,
+   4.255
+  ],
+  "De Koninck": [
+   51.198,
+   4.396
+  ],
+  "Heineken": [
+   52.13,
+   4.502
+  ],
+  "Amstel": [
+   52.13,
+   4.502
+  ],
+  "Grolsch": [
+   52.221,
+   6.893
+  ],
+  "Bavaria (Swinkels)": [
+   51.517,
+   5.603
+  ],
+  "Brand": [
+   50.826,
+   5.865
+  ],
+  "De Molen": [
+   52.082,
+   4.748
+  ],
+  "Jopen": [
+   52.384,
+   4.633
+  ],
+  "Brouwerij 't IJ": [
+   52.367,
+   4.927
+  ],
+  "Uiltje": [
+   52.392,
+   4.646
+  ],
+  "Texels": [
+   53.05,
+   4.86
+  ],
+  "Brasserie Duyck": [
+   50.311,
+   3.632
+  ],
+  "Brasserie de Saint-Sylvestre": [
+   50.776,
+   2.553
+  ],
+  "La Choulette": [
+   50.268,
+   3.317
+  ],
+  "Bofferding": [
+   49.573,
+   5.91
+  ]
+ },
+ "tadim": {
+  "westvleteren-12": {
+   "b": "Kuru incir, kuru üzüm, karamel ve hafif anason",
+   "d": "Yoğun ama ipeksi; kahverengi şeker, erik, çikolata ve mayalı baharat",
+   "f": "Uzun, sıcak, hafif tatlı; alkol çok iyi saklanmış",
+   "s": "Kadeh bardak, 12-14 °C; olgun peynir, çikolatalı tatlı"
+  },
+  "westvleteren-8": {
+   "b": "Kuru meyve, karamel ve maya baharatı",
+   "d": "Erik, kahverengi şeker, hafif kakao",
+   "f": "Orta uzunlukta, kurumsu",
+   "s": "Kadeh, 10-12 °C; güveç yemekleri"
+  },
+  "rochefort-10": {
+   "b": "Porto, kuru erik, kakao ve deri",
+   "d": "Kremamsı; incir, kara melas, çikolata, hafif baharat",
+   "f": "Uzun, sıcak, likörümsü",
+   "s": "Kadeh, 12-14 °C; mavi peynir, bitter çikolata"
+  },
+  "rochefort-8": {
+   "b": "İncir, karamel ve esmer şeker",
+   "d": "Kuru meyve, çikolata, hafif kızarmış ekmek",
+   "f": "Sıcak ve baharatlı",
+   "s": "Kadeh, 10-12 °C; av eti, kuzu"
+  },
+  "westmalle-dubbel": {
+   "b": "Muz, karamel, kuru erik",
+   "d": "Orta gövde; esmer şeker, kakao, hafif meyve",
+   "f": "Kuru, hafif acı",
+   "s": "Kadeh, 8-12 °C; Belçika usulü biralı et yahnisi (carbonade)"
+  },
+  "westmalle-tripel": {
+   "b": "Bal, muz, karanfil ve çiçeksi şerbetçiotu",
+   "d": "Kuru ve gazlı; armut, biber, ekmeksi malt",
+   "f": "Uzun, belirgin acılık",
+   "s": "Kadeh, 8-10 °C; kremalı tavuk, midye"
+  },
+  "chimay-mavi": {
+   "b": "Karabiber, kuru üzüm, karamel",
+   "d": "Dolgun; erik, şeker kamışı, baharat",
+   "f": "Sıcak, hafif tatlı",
+   "s": "Kadeh, 10-12 °C; Chimay peyniri, kırmızı et"
+  },
+  "chimay-kirmizi": {
+   "b": "Kayısı, karamel ve maya",
+   "d": "Yumuşak; meyve, ekmek kabuğu",
+   "f": "Kısa, hafif tatlı",
+   "s": "Kadeh, 8-10 °C; peynir tabağı"
+  },
+  "chimay-beyaz": {
+   "b": "Misket, şeftali, beyaz biber",
+   "d": "Kuru, gazlı, ekmeksi",
+   "f": "Acımsı ve baharatlı",
+   "s": "Kadeh, 8-10 °C; ızgara balık"
+  },
+  "orval": {
+   "b": "Toprak, ahır, kuru şerbetçiotu, portakal kabuğu",
+   "d": "Kuru, hafif ekşimsi; bisküvi ve narenciye",
+   "f": "Uzun ve acımsı",
+   "s": "Orval kadehi, 10-12 °C; Orval peyniri, charcuterie"
+  },
+  "la-trappe-quadrupel": {
+   "b": "Karamel, hurma, tarçın",
+   "d": "Tatlımsı, dolgun; kuru meyve, bal",
+   "f": "Isıtıcı, orta uzunluk",
+   "s": "Kadeh, 12 °C; elmalı turta"
+  },
+  "leffe-blonde": {
+   "b": "Vanilya, karanfil, hafif muz",
+   "d": "Tatlımsı malt, bal, hafif baharat",
+   "f": "Kısa, yumuşak, hafif acı",
+   "s": "Leffe kadehi, 5-6 °C; beyaz peynir, tavuk"
+  },
+  "leffe-brune": {
+   "b": "Karamel, kahve, kuru meyve",
+   "d": "Tatlımsı; esmer şeker, hafif kavrulmuş malt",
+   "f": "Yumuşak, kısa",
+   "s": "Kadeh, 6-8 °C; kırmızı et, mantar"
+  },
+  "grimbergen-double-ambree": {
+   "b": "Karamel, erik, karanfil",
+   "d": "Tatlı malt, kuru meyve",
+   "f": "Kısa, hafif baharatlı",
+   "s": "Kadeh, 6-8 °C; köfte, kaşar"
+  },
+  "st-bernardus-abt-12": {
+   "b": "Çikolata, incir, anason, karamel",
+   "d": "Kremamsı; kuru meyve, ekmek, baharat",
+   "f": "Uzun, sıcak, hafif tatlı",
+   "s": "Kadeh, 12-14 °C; çikolatalı tatlı, olgun peynir"
+  },
+  "tripel-karmeliet": {
+   "b": "Vanilya, muz, limon, çiçek",
+   "d": "Kremamsı; bal, şeftali, tahıl",
+   "f": "Kuru, hafif biberli",
+   "s": "Kendi kadehi, 6-8 °C; tavuk, deniz ürünleri"
+  },
+  "cantillon-gueuze": {
+   "b": "Limon, ahır, yeşil elma, meşe",
+   "d": "Kemik kuru, keskin ekşi, mineral",
+   "f": "Uzun, kuru, tanenli",
+   "s": "Gueuze bardağı, 10-12 °C; midye, keçi peyniri"
+  },
+  "cantillon-kriek": {
+   "b": "Ekşi vişne, badem, ahır",
+   "d": "Sert ekşi, şekersiz vişne",
+   "f": "Kuru, tanenli",
+   "s": "Tumbler veya şarap kadehi, 10 °C; ördek, çikolata"
+  },
+  "3-fonteinen-oude-geuze": {
+   "b": "Greyfurt, saman, meşe, bal",
+   "d": "Zarif ekşilik, narenciye, hafif tatlımsı",
+   "f": "Uzun ve kuru",
+   "s": "Şarap kadehi, 10-12 °C; istiridye, peynir"
+  },
+  "boon-oude-geuze": {
+   "b": "Elma, limon, vanilya",
+   "d": "Yumuşak ekşi, meyveli",
+   "f": "Kuru ve temiz",
+   "s": "Gueuze bardağı, 8-10 °C; salata, balık"
+  },
+  "lindemans-kriek": {
+   "b": "Vişne reçeli, badem",
+   "d": "Tatlı, hafif ekşi, gazlı",
+   "f": "Kısa, şekerli",
+   "s": "Flüt bardak, 3-5 °C; meyveli tatlılar"
+  },
+  "girardin-gueuze-1882": {
+   "b": "Limon, ladin, toprak",
+   "d": "Kuru, rustik ekşilik",
+   "f": "Uzun, mineral",
+   "s": "Gueuze bardağı, 10-12 °C; olgun peynir"
+  },
+  "rodenbach-grand-cru": {
+   "b": "Balzamik sirke, vişne, vanilyalı meşe",
+   "d": "Ekşi-tatlı; kırmızı meyve, tanen",
+   "f": "Uzun, şarapsı",
+   "s": "Şarap kadehi, 8-10 °C; ördek, kuzu, Flaman yahnisi"
+  },
+  "rodenbach-classic": {
+   "b": "Kırmızı meyve, hafif sirke",
+   "d": "Ferah ekşi, karamel",
+   "f": "Kısa, ferahlatıcı",
+   "s": "Kadeh, 6-8 °C; midye, salata"
+  },
+  "duchesse-de-bourgogne": {
+   "b": "Vişne, balzamik, vanilya",
+   "d": "Tatlı-ekşi, meşe, kırmızı erik",
+   "f": "Yumuşak ekşi",
+   "s": "Kadeh, 8-10 °C; peynir, çikolatalı tatlı"
+  },
+  "liefmans-goudenband": {
+   "b": "Kuru erik, sherry, karamel",
+   "d": "Hafif ekşi; kuru meyve, malt",
+   "f": "Şarapsı, orta uzunlukta",
+   "s": "Kadeh, 10-12 °C; av eti, kırmızı soslu yemek"
+  },
+  "saison-dupont": {
+   "b": "Limon, biber, saman, çiçek",
+   "d": "Kuru, yüksek gazlı; maya baharatı ve otsu acılık",
+   "f": "Uzun, kuru, acımsı",
+   "s": "Lale kadeh, 8-10 °C; keçi peyniri, ızgara tavuk"
+  },
+  "hoegaarden": {
+   "b": "Kişniş, portakal kabuğu, buğday",
+   "d": "Hafif, kremamsı, narenciye",
+   "f": "Kısa, ferah",
+   "s": "Altıgen Hoegaarden bardağı, 4-6 °C; salata, deniz ürünleri"
+  },
+  "blanche-de-namur": {
+   "b": "Çiçek, kişniş, limon",
+   "d": "Narin, kremamsı buğday",
+   "f": "Ferah ve kuru",
+   "s": "Buğday bardağı, 4-6 °C; balık, sushi"
+  },
+  "1664-blanc": {
+   "b": "Narenciye, kişniş",
+   "d": "Tatlımsı, hafif buğday",
+   "f": "Kısa ve yumuşak",
+   "s": "Bardak, 3-5 °C; meze, salata"
+  },
+  "duvel": {
+   "b": "Armut, elma, biber, maya",
+   "d": "Kuru, çok gazlı; bal, narenciye",
+   "f": "Uzun, kuru, sıcak",
+   "s": "Duvel lale kadehi, 5-7 °C; midye, kızarmış tavuk"
+  },
+  "delirium-tremens": {
+   "b": "Muz, elma, biber",
+   "d": "Tatlımsı; bal, baharat, sıcak alkol",
+   "f": "Orta uzunluk, sıcak",
+   "s": "Lale kadeh, 6-8 °C; baharatlı yemek"
+  },
+  "la-chouffe": {
+   "b": "Kişniş, şeftali, narenciye",
+   "d": "Meyveli, hafif baharatlı, yumuşak",
+   "f": "Kuru ve hafif acı",
+   "s": "Lale kadeh, 6-8 °C; peynir, tavuk"
+  },
+  "brugse-zot-blond": {
+   "b": "Meyve, çiçek, ekmek",
+   "d": "Kuru, hafif acımsı",
+   "f": "Ferah",
+   "s": "Kadeh, 6 °C; midye"
+  },
+  "gulden-draak": {
+   "b": "Karamel, toffee, kuru meyve",
+   "d": "Tatlı, dolgun, ısıtıcı",
+   "f": "Uzun, sıcak",
+   "s": "Kadeh, 10-12 °C; kırmızı et"
+  },
+  "kwak": {
+   "b": "Karamel, muz, meyan",
+   "d": "Tatlı malt, hafif baharat",
+   "f": "Orta, sıcak",
+   "s": "Kwak kum saati bardağı, 8 °C; biftek"
+  },
+  "stella-artois": {
+   "b": "Tahıl, hafif şerbetçiotu",
+   "d": "Temiz malt, hafif acı",
+   "f": "Kısa, kuru",
+   "s": "Kadeh, 3-5 °C; pizza, burger"
+  },
+  "heineken": {
+   "b": "Hafif meyve, tahıl",
+   "d": "Temiz, gazlı, hafif",
+   "f": "Kısa, kuru",
+   "s": "Bardak, 3-5 °C; atıştırmalık"
+  },
+  "de-molen-hel-verdoemenis": {
+   "b": "Kahve, bitter çikolata, katran",
+   "d": "Yoğun, yağımsı; kavrulmuş malt, meyan",
+   "f": "Uzun, acımsı",
+   "s": "Snifter, 12-14 °C; çikolatalı tatlı"
+  },
+  "jenlain-ambree": {
+   "b": "Karamel, bisküvi, mahzen",
+   "d": "Maltlı, yumuşak, hafif tatlı",
+   "f": "Orta, kuru",
+   "s": "Kadeh, 8-10 °C; mantarlı yemek, olgun peynir"
+  },
+  "kasteel-donker": {
+   "b": "Çikolata, kuru üzüm",
+   "d": "Yoğun, tatlı, likörümsü",
+   "f": "Uzun, sıcak",
+   "s": "Kadeh, 10-12 °C; tatlı"
+  }
+ }
+}

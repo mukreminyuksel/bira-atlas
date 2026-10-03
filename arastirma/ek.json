@@ -1,0 +1,15 @@
+{
+ "biralar": [
+  {"id":"greene-king-ipa","ad":"Greene King IPA","fab":"Greene King","ulke":"İngiltere","bolge":"Suffolk","stil":"English Bitter (IPA)","aile":"İngiliz & İrlanda Ale","abv":3.6,"hacim":50,"tl":280,"fiyatTur":"tahmin","bul":"yurtdisi","puan":76,"filtresiz":0,"uz":"","not":"Hafif ve maltlı İngiliz pub birası; Xi Jinping ile David Cameron'un pub birası"},
+  {"id":"robinsons-trooper","ad":"Robinsons Trooper","fab":"Robinsons","ulke":"İngiltere","bolge":"Manchester","stil":"Premium British Bitter","aile":"İngiliz & İrlanda Ale","abv":4.7,"hacim":50,"tl":300,"fiyatTur":"tahmin","bul":"zor","puan":80,"filtresiz":0,"uz":"","not":"Iron Maiden'ın Bruce Dickinson'la birlikte geliştirdiği altın bitter"},
+  {"id":"courage-imperial-russian-stout","ad":"Courage Imperial Russian Stout","fab":"Courage","ulke":"İngiltere","bolge":"Bedfordshire","stil":"Russian Imperial Stout","aile":"Stout & Porter","abv":10,"hacim":33,"tl":420,"fiyatTur":"tahmin","bul":"yurtdisi","puan":88,"filtresiz":0,"uz":"","not":"Rus sarayı için Baltık'a gönderilen stilin tarihî temsilcisi; kuru meyve ve kavrulmuş malt"},
+  {"id":"landshark-lager","ad":"LandShark Lager","fab":"Anheuser-Busch","ulke":"ABD","bolge":"Orta Batı","stil":"American Lager","aile":"Lager & Pilsner","abv":4.6,"hacim":35.5,"tl":180,"fiyatTur":"tahmin","bul":"yurtdisi","puan":70,"filtresiz":0,"uz":"","not":"Jimmy Buffett'ın Margaritaville markasının ada lager'ı"},
+  {"id":"bass-pale-ale","ad":"Bass Pale Ale","fab":"Bass","ulke":"İngiltere","bolge":"Staffordshire","stil":"English Pale Ale","aile":"İngiliz & İrlanda Ale","abv":4.4,"hacim":50,"tl":280,"fiyatTur":"tahmin","bul":"yurtdisi","puan":80,"filtresiz":0,"uz":"","not":"Kırmızı üçgeniyle İngiltere'nin ilk tescilli ticari markası; Burton pale ale klasiği"}
+ ],
+ "fabrikalar": {
+  "Robinsons": {"k": 1838, "s": "Robinson ailesi", "y": "Stockport, Greater Manchester", "stil": "Geleneksel İngiliz ale'leri", "h": "Altı kuşaktır aile işletmesi olan Unicorn Brewery; Iron Maiden ile yaptığı Trooper serisiyle dünyaya açıldı."},
+  "Courage": {"k": 1787, "y": "Bedford, Bedfordshire (bugünkü üretim)", "stil": "İngiliz ale ve tarihî stout'lar", "h": "Londra'da kurulan köklü marka; Imperial Russian Stout'u 18. yüzyılda Rus sarayına ihraç edilen stilin yaşayan örneklerinden."},
+  "Bass": {"k": 1777, "s": "AB InBev", "y": "Burton upon Trent, Staffordshire", "stil": "Burton pale ale", "h": "Burton'un sert suyuyla pale ale'i dünyaya tanıtan bira evi; kırmızı üçgen logosu 1876'da İngiltere'nin ilk tescilli markası oldu."}
+ },
+ "konumlar": {"Robinsons": [53.41, -2.16], "Courage": [52.13, -0.47], "Bass": [52.80, -1.64]}
+}

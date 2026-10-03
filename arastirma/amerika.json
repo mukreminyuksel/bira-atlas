@@ -1,0 +1,2827 @@
+{
+ "biralar": [
+  {
+   "id": "budweiser",
+   "ad": "Budweiser (Bud)",
+   "fab": "Anheuser-Busch",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "ibu": 12,
+   "hacim": 50,
+   "tl": 140,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 72,
+   "uz": "",
+   "not": "Kayın talaşında olgunlaşan Amerikan lager ikonu; TR'de Efes lisansıyla 'Bud'"
+  },
+  {
+   "id": "bud-light",
+   "ad": "Bud Light",
+   "fab": "Anheuser-Busch",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Light Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.2,
+   "ibu": 6,
+   "hacim": 35.5,
+   "tl": 95,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "Hafif gövde, düşük kalori; ABD'nin uzun yıllar en çok satan birası"
+  },
+  {
+   "id": "michelob-ultra",
+   "ad": "Michelob Ultra",
+   "fab": "Anheuser-Busch",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Light Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.2,
+   "hacim": 35.5,
+   "tl": 95,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "Düşük karbonhidrat, spor kitlesinin lageri; 2020'lerin yükselen ana akımı"
+  },
+  {
+   "id": "coors-light",
+   "ad": "Coors Light",
+   "fab": "Coors Brewing Company",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "American Light Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.2,
+   "ibu": 10,
+   "hacim": 35.5,
+   "tl": 95,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "Buz soğukluğunda içilen, Rocky Dağları suyuyla anılan hafif lager"
+  },
+  {
+   "id": "coors-banquet",
+   "ad": "Coors Banquet",
+   "fab": "Coors Brewing Company",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "American Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 35.5,
+   "tl": 100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 73,
+   "uz": "",
+   "not": "1873'ten beri Golden'da; madenci birası namıyla 'stubby' şişe klasiği"
+  },
+  {
+   "id": "miller-lite",
+   "ad": "Miller Lite",
+   "fab": "Miller Brewing Company",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Light Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.2,
+   "ibu": 10,
+   "hacim": 35.5,
+   "tl": 95,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "1975'te 'light beer' kategorisini kitlesel hâle getiren pilsner"
+  },
+  {
+   "id": "pabst-blue-ribbon",
+   "ad": "Pabst Blue Ribbon",
+   "fab": "Pabst Brewing Company",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "ibu": 10,
+   "hacim": 47.3,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 72,
+   "uz": "1893 Chicago Fuarı mavi kurdele (efsane)",
+   "not": "Hipster kültürünün ucuz, dürüst lageri; mavi kurdeleli kutu"
+  },
+  {
+   "id": "yuengling-traditional-lager",
+   "ad": "Yuengling Traditional Lager",
+   "fab": "D.G. Yuengling & Son",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Amber Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 35.5,
+   "tl": 105,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "uz": "ABD'nin en eski aktif fabrikası",
+   "not": "Karamel maltlı amber lager; 1829'dan beri aynı ailede"
+  },
+  {
+   "id": "blue-moon-belgian-white",
+   "ad": "Blue Moon Belgian White",
+   "fab": "Blue Moon Brewing Co.",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.4,
+   "ibu": 9,
+   "hacim": 33,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 78,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Portakal kabuğu ve kişniş; portakal dilimiyle servis edilen Amerikan witbier"
+  },
+  {
+   "id": "samuel-adams-boston-lager",
+   "ad": "Samuel Adams Boston Lager",
+   "fab": "Boston Beer Company",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "Vienna Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "ibu": 30,
+   "hacim": 35.5,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "uz": "GABF çok sayıda madalya",
+   "not": "Amerikan craft devriminin lageri; çiçeksi Alman şerbetçiotu, karamel malt"
+  },
+  {
+   "id": "samuel-adams-utopias",
+   "ad": "Samuel Adams Utopias",
+   "fab": "Boston Beer Company",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "Barrel-Aged Strong Ale",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 28.0,
+   "hacim": 70,
+   "tl": 9500,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 92,
+   "uz": "Dünyanın en güçlü 'doğal' biralarından",
+   "not": "Karbonasız, konyak gibi içilen fıçı harmanı; bazı eyaletlerde yasak",
+   "guven": "tahmin"
+  },
+  {
+   "id": "brooklyn-lager",
+   "ad": "Brooklyn Lager",
+   "fab": "Brooklyn Brewery",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Vienna Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 35.5,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 81,
+   "uz": "",
+   "not": "Milton Glaser logolu, kuru şerbetçiotlu amber lager; New York klasiği"
+  },
+  {
+   "id": "brooklyn-black-chocolate-stout",
+   "ad": "Brooklyn Black Chocolate Stout",
+   "fab": "Brooklyn Brewery",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Imperial Stout",
+   "aile": "Stout & Porter",
+   "abv": 10.0,
+   "hacim": 35.5,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "uz": "",
+   "not": "Kış sezonu imparatorluk stout'u; bitter çikolata ve kahve"
+  },
+  {
+   "id": "sierra-nevada-pale-ale",
+   "ad": "Sierra Nevada Pale Ale",
+   "fab": "Sierra Nevada",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.6,
+   "ibu": 38,
+   "hacim": 35.5,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 88,
+   "uz": "American Pale Ale stilinin referansı",
+   "not": "Cascade şerbetçiotunun çam ve greyfurtu; craft biranın temel taşı"
+  },
+  {
+   "id": "sierra-nevada-torpedo",
+   "ad": "Sierra Nevada Torpedo Extra IPA",
+   "fab": "Sierra Nevada",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.2,
+   "ibu": 65,
+   "hacim": 35.5,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 87,
+   "uz": "",
+   "not": "'Torpedo' kuru şerbetçiotlama cihazının adını taşıyan reçineli IPA"
+  },
+  {
+   "id": "sierra-nevada-celebration",
+   "ad": "Sierra Nevada Celebration",
+   "fab": "Sierra Nevada",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Fresh Hop IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.8,
+   "ibu": 65,
+   "hacim": 35.5,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "uz": "",
+   "not": "1981'den beri kış mevsimlik; taze hasat şerbetçiotuyla çam ve narenciye"
+  },
+  {
+   "id": "sierra-nevada-bigfoot",
+   "ad": "Sierra Nevada Bigfoot",
+   "fab": "Sierra Nevada",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "American Barleywine",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 9.6,
+   "ibu": 90,
+   "hacim": 35.5,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "uz": "",
+   "not": "1983'ten beri barleywine; mahzende yıllandırmaya uygun"
+  },
+  {
+   "id": "anchor-steam-beer",
+   "ad": "Anchor Steam Beer",
+   "fab": "Anchor Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "California Common",
+   "aile": "Özel & Diğer",
+   "abv": 4.9,
+   "ibu": 35,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 85,
+   "uz": "California Common stilinin tanımı",
+   "not": "Sıcak fermente lager; üretim 2023'te durdu, Ulukaya canlandırması bekleniyor"
+  },
+  {
+   "id": "stone-ipa",
+   "ad": "Stone IPA",
+   "fab": "Stone Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "West Coast IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.9,
+   "ibu": 71,
+   "hacim": 35.5,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "uz": "",
+   "not": "Batı Kıyısı IPA'sının bayrağı; kuru, acı, reçine ve tropikal meyve"
+  },
+  {
+   "id": "arrogant-bastard-ale",
+   "ad": "Arrogant Bastard Ale",
+   "fab": "Stone Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "American Strong Ale",
+   "aile": "Özel & Diğer",
+   "abv": 7.2,
+   "hacim": 35.5,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "uz": "",
+   "not": "'Layık değilsin' etiketiyle meşhur, acı ve maltlı kızıl güçlü ale"
+  },
+  {
+   "id": "stone-xocoveza",
+   "ad": "Stone Xocoveza",
+   "fab": "Stone Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Imperial Stout (Spiced)",
+   "aile": "Stout & Porter",
+   "abv": 8.1,
+   "hacim": 35.5,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "uz": "",
+   "not": "Meksika sıcak çikolatasından ilham: kahve, kakao, tarçın, biber"
+  },
+  {
+   "id": "pliny-the-elder",
+   "ad": "Pliny the Elder",
+   "fab": "Russian River Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.0,
+   "hacim": 51,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 97,
+   "uz": "Zymurgy 'ABD'nin en iyi birası' defalarca",
+   "not": "DIPA'nın efsanesi; taze içilmeli, çam ve greyfurt patlaması"
+  },
+  {
+   "id": "pliny-the-younger",
+   "ad": "Pliny the Younger",
+   "fab": "Russian River Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Triple IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 10.25,
+   "hacim": 51,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 98,
+   "uz": "Yalnız şubatta, sadece fıçıdan",
+   "not": "Yılda iki hafta sunulan triple IPA; saatlerce kuyruk bekletir"
+  },
+  {
+   "id": "russian-river-supplication",
+   "ad": "Russian River Supplication",
+   "fab": "Russian River Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Wild Ale (Sour Cherry)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 7.75,
+   "hacim": 37.5,
+   "tl": 600,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "uz": "",
+   "not": "Pinot noir fıçısında vişneyle yıllanan, Brett'li ekşi ale"
+  },
+  {
+   "id": "firestone-walker-union-jack",
+   "ad": "Firestone Walker Union Jack",
+   "fab": "Firestone Walker",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "West Coast IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "hacim": 35.5,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "uz": "GABF madalyalı",
+   "not": "Temiz, kuru ve parlak Batı Kıyısı IPA'sı"
+  },
+  {
+   "id": "firestone-walker-parabola",
+   "ad": "Firestone Walker Parabola",
+   "fab": "Firestone Walker",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Bourbon Barrel-Aged Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 14.0,
+   "hacim": 35.5,
+   "tl": 750,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "uz": "",
+   "not": "Bourbon fıçısında yıllanan mevsimlik; vanilya, meşe, bitter çikolata",
+   "guven": "tahmin"
+  },
+  {
+   "id": "lagunitas-ipa",
+   "ad": "Lagunitas IPA",
+   "fab": "Lagunitas Brewing Company",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.2,
+   "ibu": 51,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 83,
+   "uz": "",
+   "not": "Köpek logolu, karamel tabanlı dengeli IPA; Heineken bünyesinde"
+  },
+  {
+   "id": "ballast-point-sculpin",
+   "ad": "Ballast Point Sculpin",
+   "fab": "Ballast Point",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "West Coast IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "ibu": 70,
+   "hacim": 35.5,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 87,
+   "uz": "World Beer Cup 2010 altın",
+   "not": "San Diego IPA'sı; kayısı, mango ve limon kabuğu"
+  },
+  {
+   "id": "deschutes-black-butte-porter",
+   "ad": "Deschutes Black Butte Porter",
+   "fab": "Deschutes Brewery",
+   "ulke": "ABD",
+   "bolge": "Pasifik Kuzeybatı",
+   "stil": "American Porter",
+   "aile": "Stout & Porter",
+   "abv": 5.2,
+   "ibu": 30,
+   "hacim": 35.5,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "uz": "",
+   "not": "1988'den beri amiral gemisi; kakao ve kahveli kremsi porter"
+  },
+  {
+   "id": "deschutes-fresh-squeezed",
+   "ad": "Deschutes Fresh Squeezed IPA",
+   "fab": "Deschutes Brewery",
+   "ulke": "ABD",
+   "bolge": "Pasifik Kuzeybatı",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.4,
+   "ibu": 60,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "uz": "",
+   "not": "Citra ve Mosaic'le sıkılmış greyfurt suyu gibi sulu IPA"
+  },
+  {
+   "id": "deschutes-the-abyss",
+   "ad": "Deschutes The Abyss",
+   "fab": "Deschutes Brewery",
+   "ulke": "ABD",
+   "bolge": "Pasifik Kuzeybatı",
+   "stil": "Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 11.4,
+   "hacim": 65,
+   "tl": 700,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 94,
+   "uz": "",
+   "not": "Meyan kökü, pekmez ve kısmen fıçıda yıllanmış yıllık imparatorluk stout'u",
+   "guven": "tahmin"
+  },
+  {
+   "id": "rogue-dead-guy-ale",
+   "ad": "Rogue Dead Guy Ale",
+   "fab": "Rogue Ales",
+   "ulke": "ABD",
+   "bolge": "Pasifik Kuzeybatı",
+   "stil": "Maibock / Helles Bock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 6.5,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "uz": "",
+   "not": "Ale mayasıyla yapılan maibock; bal ve ekmek kabuğu, iskelet logosu",
+   "guven": "tahmin"
+  },
+  {
+   "id": "elysian-space-dust",
+   "ad": "Elysian Space Dust",
+   "fab": "Elysian Brewing",
+   "ulke": "ABD",
+   "bolge": "Pasifik Kuzeybatı",
+   "stil": "Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.2,
+   "hacim": 35.5,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "uz": "",
+   "not": "Seattle'dan Citra-Amarillo; mango, portakal, keskin bitiş"
+  },
+  {
+   "id": "new-belgium-fat-tire",
+   "ad": "New Belgium Fat Tire",
+   "fab": "New Belgium Brewing",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "American Amber Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.2,
+   "hacim": 35.5,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 79,
+   "uz": "",
+   "not": "Bisiklet logolu amber; Fort Collins'in Belçika gezisinden doğdu"
+  },
+  {
+   "id": "new-belgium-voodoo-ranger-ipa",
+   "ad": "Voodoo Ranger IPA",
+   "fab": "New Belgium Brewing",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "hacim": 35.5,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "uz": "ABD'nin en çok satan IPA'larından",
+   "not": "İskelet maskotlu, tropikal ve çam aromalı popüler IPA"
+  },
+  {
+   "id": "new-belgium-la-folie",
+   "ad": "New Belgium La Folie",
+   "fab": "New Belgium Brewing",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "Flanders Red Ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": 7.0,
+   "hacim": 37.5,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "uz": "",
+   "not": "Foeder'de 1-3 yıl yıllanan Flaman kırmızısı; vişne, elma, sirke"
+  },
+  {
+   "id": "oskar-blues-dales-pale-ale",
+   "ad": "Dale's Pale Ale",
+   "fab": "Oskar Blues",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.5,
+   "ibu": 65,
+   "hacim": 35.5,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "uz": "İlk kutu craft bira (2002)",
+   "not": "Kutu craft devrimini başlatan güçlü, şerbetçiotlu pale ale"
+  },
+  {
+   "id": "great-divide-yeti",
+   "ad": "Great Divide Yeti Imperial Stout",
+   "fab": "Great Divide",
+   "ulke": "ABD",
+   "bolge": "Colorado",
+   "stil": "Imperial Stout",
+   "aile": "Stout & Porter",
+   "abv": 9.5,
+   "hacim": 35.5,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "uz": "",
+   "not": "Bol şerbetçiotlu Amerikan imparatorluk stout'u; kavrulmuş ve acı",
+   "guven": "tahmin"
+  },
+  {
+   "id": "bells-two-hearted",
+   "ad": "Bell's Two Hearted IPA",
+   "fab": "Bell's Brewery",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "ibu": 55,
+   "hacim": 35.5,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 92,
+   "uz": "Zymurgy 'ABD'nin en iyi birası' 2017, 2019",
+   "not": "Yalnız Centennial şerbetçiotu; çam, greyfurt, bal"
+  },
+  {
+   "id": "bells-hopslam",
+   "ad": "Bell's Hopslam",
+   "fab": "Bell's Brewery",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 10.0,
+   "hacim": 35.5,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 92,
+   "uz": "",
+   "not": "Ocak ayında çıkan ballı DIPA; altı şerbetçiotu ve Michigan balı"
+  },
+  {
+   "id": "bells-oberon",
+   "ad": "Bell's Oberon",
+   "fab": "Bell's Brewery",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Wheat Ale",
+   "aile": "Buğday",
+   "abv": 5.8,
+   "hacim": 35.5,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Michigan yazının habercisi; portakal ve baharatlı buğday ale"
+  },
+  {
+   "id": "founders-kbs",
+   "ad": "Founders KBS",
+   "fab": "Founders Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Bourbon Barrel-Aged Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 12.0,
+   "hacim": 35.5,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "uz": "Kentucky Breakfast Stout",
+   "not": "Mağarada bourbon fıçısında yıllanan kahve-çikolatalı stout",
+   "guven": "tahmin"
+  },
+  {
+   "id": "founders-breakfast-stout",
+   "ad": "Founders Breakfast Stout",
+   "fab": "Founders Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Imperial Oatmeal Stout",
+   "aile": "Stout & Porter",
+   "abv": 8.3,
+   "ibu": 60,
+   "hacim": 35.5,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 93,
+   "uz": "",
+   "not": "Çocuk etiketli kahveli-çikolatalı yulaf stout'u; kahvaltı birası"
+  },
+  {
+   "id": "founders-cbs",
+   "ad": "Founders CBS",
+   "fab": "Founders Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Maple Bourbon Barrel-Aged Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 10.6,
+   "hacim": 35.5,
+   "tl": 500,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "uz": "",
+   "not": "Akçaağaç şurubu fıçısında dinlenen Canadian Breakfast Stout"
+  },
+  {
+   "id": "founders-all-day-ipa",
+   "ad": "Founders All Day IPA",
+   "fab": "Founders Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Session IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 4.7,
+   "ibu": 42,
+   "hacim": 35.5,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 84,
+   "uz": "",
+   "not": "Session IPA kategorisini yaygınlaştıran hafif, aromatik bira"
+  },
+  {
+   "id": "goose-island-ipa",
+   "ad": "Goose Island IPA",
+   "fab": "Goose Island",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "English-style IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.9,
+   "ibu": 55,
+   "hacim": 35.5,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 82,
+   "uz": "GABF madalyalı",
+   "not": "Chicago'nun dengeli IPA'sı; çiçeksi şerbetçiotu, kuru bitiş"
+  },
+  {
+   "id": "goose-island-bourbon-county-stout",
+   "ad": "Bourbon County Brand Stout",
+   "fab": "Goose Island",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Bourbon Barrel-Aged Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 14.5,
+   "hacim": 50,
+   "tl": 900,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "uz": "Fıçı yıllanmış stout akımının öncüsü (1992)",
+   "not": "Kara Cuma'da çıkar; bourbon, vanilya, pekmez ve fudge",
+   "guven": "tahmin"
+  },
+  {
+   "id": "three-floyds-zombie-dust",
+   "ad": "3 Floyds Zombie Dust",
+   "fab": "3 Floyds Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.2,
+   "hacim": 35.5,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 94,
+   "uz": "",
+   "not": "Tek şerbetçiotu Citra; çizgi roman etiketli kült pale ale"
+  },
+  {
+   "id": "three-floyds-dark-lord",
+   "ad": "3 Floyds Dark Lord",
+   "fab": "3 Floyds Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Russian Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 15.0,
+   "hacim": 65,
+   "tl": 1300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "uz": "",
+   "not": "Yalnız 'Dark Lord Day'de satılan, şurup kıvamında stout",
+   "guven": "tahmin"
+  },
+  {
+   "id": "three-floyds-gumballhead",
+   "ad": "3 Floyds Gumballhead",
+   "fab": "3 Floyds Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Wheat Ale",
+   "aile": "Buğday",
+   "abv": 5.6,
+   "hacim": 35.5,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Amarillo ile kuru şerbetçiotlanmış, limonumsu buğday birası"
+  },
+  {
+   "id": "toppling-goliath-pseudo-sue",
+   "ad": "Toppling Goliath Pseudo Sue",
+   "fab": "Toppling Goliath",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.8,
+   "hacim": 47.3,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "uz": "",
+   "not": "Dinozor 'Sue'ya adanmış tek Citra pale ale; mango ve narenciye"
+  },
+  {
+   "id": "toppling-goliath-kbbs",
+   "ad": "Kentucky Brunch Brand Stout",
+   "fab": "Toppling Goliath",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Bourbon Barrel-Aged Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 12.0,
+   "hacim": 65,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 99,
+   "uz": "Uzun süre 'dünyanın en iyi birası' listelerinde 1 numara",
+   "not": "Akçaağaç ve kahveli fıçı stout'u; bulunması neredeyse imkânsız",
+   "guven": "tahmin"
+  },
+  {
+   "id": "great-lakes-edmund-fitzgerald",
+   "ad": "Great Lakes Edmund Fitzgerald",
+   "fab": "Great Lakes Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Robust Porter",
+   "aile": "Stout & Porter",
+   "abv": 6.0,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "uz": "Çok sayıda GABF/WBC madalyası",
+   "not": "Batık gemiye adanmış; kuru, kavrulmuş, kahve-çikolata porter"
+  },
+  {
+   "id": "boulevard-tank-7",
+   "ad": "Boulevard Tank 7",
+   "fab": "Boulevard Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Batı",
+   "stil": "Saison",
+   "aile": "Belçika & Manastır",
+   "abv": 8.5,
+   "hacim": 35.5,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Amerikan şerbetçiotlu güçlü saison; greyfurt ve biber"
+  },
+  {
+   "id": "dogfish-head-60-minute",
+   "ad": "Dogfish Head 60 Minute IPA",
+   "fab": "Dogfish Head",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.0,
+   "ibu": 60,
+   "hacim": 35.5,
+   "tl": 210,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "uz": "",
+   "not": "60 dakika boyunca sürekli şerbetçiotlanır; dengeli doğu kıyısı IPA"
+  },
+  {
+   "id": "dogfish-head-90-minute",
+   "ad": "Dogfish Head 90 Minute IPA",
+   "fab": "Dogfish Head",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Imperial IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 9.0,
+   "ibu": 90,
+   "hacim": 35.5,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 92,
+   "uz": "Esquire 'Amerika'nın en iyi IPA'sı'",
+   "not": "Maltlı gövdesi şerbetçiotunu taşıyan, karamelli imparatorluk IPA"
+  },
+  {
+   "id": "dogfish-head-seaquench",
+   "ad": "Dogfish Head SeaQuench Ale",
+   "fab": "Dogfish Head",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Session Sour (Gose/Kölsch/Berliner)",
+   "aile": "Ekşi & Vahşi",
+   "abv": 4.9,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "uz": "",
+   "not": "Misket limonu ve deniz tuzlu ferahlatıcı ekşi; Amerika'nın en çok satan sour'u"
+  },
+  {
+   "id": "victory-prima-pils",
+   "ad": "Victory Prima Pils",
+   "fab": "Victory Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "German Pils",
+   "aile": "Lager & Pilsner",
+   "abv": 5.3,
+   "ibu": 44,
+   "hacim": 35.5,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "uz": "",
+   "not": "Alman şerbetçiotlu, otsu ve kuru; Amerikan pilsner'ın ölçütü"
+  },
+  {
+   "id": "victory-golden-monkey",
+   "ad": "Victory Golden Monkey",
+   "fab": "Victory Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 9.5,
+   "hacim": 35.5,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Karanfil, kişniş ve muz; Amerikan yorumu tripel"
+  },
+  {
+   "id": "victory-hopdevil",
+   "ad": "Victory HopDevil",
+   "fab": "Victory Brewing",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.7,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 85,
+   "uz": "",
+   "not": "1996'dan beri; karamel malt ve çam reçinesi dengesi"
+  },
+  {
+   "id": "ommegang-hennepin",
+   "ad": "Ommegang Hennepin",
+   "fab": "Brewery Ommegang",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Saison",
+   "aile": "Belçika & Manastır",
+   "abv": 7.7,
+   "hacim": 75,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Zencefil, kişniş ve portakal kabuklu, şişede mayalanan saison"
+  },
+  {
+   "id": "ommegang-three-philosophers",
+   "ad": "Ommegang Three Philosophers",
+   "fab": "Brewery Ommegang",
+   "ulke": "ABD",
+   "bolge": "Orta Atlantik",
+   "stil": "Quadrupel + Kriek",
+   "aile": "Belçika & Manastır",
+   "abv": 9.7,
+   "hacim": 35.5,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Quadrupel ile vişneli kriek harmanı; kuru meyve ve şeri"
+  },
+  {
+   "id": "the-alchemist-heady-topper",
+   "ad": "Heady Topper",
+   "fab": "The Alchemist",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "New England Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.0,
+   "hacim": 47.3,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "filtresiz": 1,
+   "uz": "NEIPA akımının ilk ikonu",
+   "not": "'Kutudan iç' der; bulanık, tropikal ve çam; Vermont efsanesi"
+  },
+  {
+   "id": "the-alchemist-focal-banger",
+   "ad": "Focal Banger",
+   "fab": "The Alchemist",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "hacim": 47.3,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 94,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Citra ve Mosaic; Heady'nin daha meyvemsi kardeşi"
+  },
+  {
+   "id": "hill-farmstead-edward",
+   "ad": "Hill Farmstead Edward",
+   "fab": "Hill Farmstead",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.2,
+   "hacim": 75,
+   "tl": 650,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "RateBeer 'dünyanın en iyi fabrikası' defalarca",
+   "not": "Shaun Hill'in büyükbabasına adanmış, narin ve çiçeksi pale ale"
+  },
+  {
+   "id": "hill-farmstead-susan",
+   "ad": "Hill Farmstead Susan",
+   "fab": "Hill Farmstead",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.2,
+   "hacim": 75,
+   "tl": 650,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 94,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Riwaka ve Citra; ananas ve limon kabuğu, yumuşak gövde"
+  },
+  {
+   "id": "tree-house-julius",
+   "ad": "Tree House Julius",
+   "fab": "Tree House Brewing",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "New England IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.8,
+   "hacim": 47.3,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Portakal suyu görünümlü, mango ve şeftalili NEIPA referansı"
+  },
+  {
+   "id": "tree-house-haze",
+   "ad": "Tree House Haze",
+   "fab": "Tree House Brewing",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "New England Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.2,
+   "hacim": 47.3,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Yoğun tropikal meyve, kremsi gövde; sadece fabrikada satılır"
+  },
+  {
+   "id": "trillium-congress-street",
+   "ad": "Trillium Congress Street",
+   "fab": "Trillium Brewing",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "New England IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.2,
+   "hacim": 47.3,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Galaxy şerbetçiotlu Boston NEIPA'sı; çarkıfelek ve mandalina"
+  },
+  {
+   "id": "lawsons-sip-of-sunshine",
+   "ad": "Lawson's Finest Sip of Sunshine",
+   "fab": "Lawson's Finest Liquids",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.0,
+   "hacim": 47.3,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 94,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Adı gibi güneşli: ananas, mango ve çiçek; Vermont DIPA'sı"
+  },
+  {
+   "id": "maine-beer-lunch",
+   "ad": "Maine Beer Company Lunch",
+   "fab": "Maine Beer Company",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "hacim": 50,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "uz": "",
+   "not": "Bir balinanın adını taşıyan, berrak ve meyvemsi IPA"
+  },
+  {
+   "id": "allagash-white",
+   "ad": "Allagash White",
+   "fab": "Allagash Brewing",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.2,
+   "ibu": 13,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "World Beer Cup ve GABF çok sayıda altın",
+   "not": "Amerikan witbier'in referansı; kişniş, Curaçao portakalı, yulaf"
+  },
+  {
+   "id": "allagash-tripel",
+   "ad": "Allagash Tripel",
+   "fab": "Allagash Brewing",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 9.0,
+   "hacim": 35.5,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Bal, muz ve biber; kuru bitişli şişede mayalanan tripel"
+  },
+  {
+   "id": "allagash-curieux",
+   "ad": "Allagash Curieux",
+   "fab": "Allagash Brewing",
+   "ulke": "ABD",
+   "bolge": "New England",
+   "stil": "Bourbon Barrel-Aged Tripel",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 11.0,
+   "hacim": 37.5,
+   "tl": 550,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 92,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Jim Beam fıçısında yıllanan tripel; hindistancevizi ve vanilya",
+   "guven": "tahmin"
+  },
+  {
+   "id": "cigar-city-jai-alai",
+   "ad": "Cigar City Jai Alai",
+   "fab": "Cigar City Brewing",
+   "ulke": "ABD",
+   "bolge": "Güney",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.5,
+   "ibu": 70,
+   "hacim": 35.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 88,
+   "uz": "",
+   "not": "Tampa'nın amiral gemisi; mandalina, karamel ve reçine"
+  },
+  {
+   "id": "cigar-city-hunahpus",
+   "ad": "Cigar City Hunahpu's Imperial Stout",
+   "fab": "Cigar City Brewing",
+   "ulke": "ABD",
+   "bolge": "Güney",
+   "stil": "Imperial Stout (Spiced)",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 11.0,
+   "hacim": 75,
+   "tl": 800,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 96,
+   "uz": "",
+   "not": "Kakao, vanilya, ancho ve pasilla biberi, tarçın; yılda bir gün",
+   "guven": "tahmin"
+  },
+  {
+   "id": "shiner-bock",
+   "ad": "Shiner Bock",
+   "fab": "Spoetzl Brewery",
+   "ulke": "ABD",
+   "bolge": "Güney",
+   "stil": "American Bock (Dark Lager)",
+   "aile": "Koyu Lager & Bock",
+   "abv": 4.4,
+   "hacim": 35.5,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "uz": "",
+   "not": "Teksas'ın kasaba lageri; hafif kavrulmuş, karamelli koyu lager"
+  },
+  {
+   "id": "unibroue-la-fin-du-monde",
+   "ad": "Unibroue La Fin du Monde",
+   "fab": "Unibroue",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "Belgian Tripel",
+   "aile": "Belçika & Manastır",
+   "abv": 9.0,
+   "ibu": 19,
+   "hacim": 34.1,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 93,
+   "filtresiz": 1,
+   "uz": "Kuzey Amerika'nın en çok ödüllü birası (marka iddiası)",
+   "not": "Şişede mayalı tripel; portakal, karanfil, bal ve baharat"
+  },
+  {
+   "id": "unibroue-maudite",
+   "ad": "Unibroue Maudite",
+   "fab": "Unibroue",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "Belgian Strong Dark Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 8.0,
+   "hacim": 34.1,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "'Lanetli' kızıl ale; baharat, karamel ve kuru meyve"
+  },
+  {
+   "id": "unibroue-trois-pistoles",
+   "ad": "Unibroue Trois Pistoles",
+   "fab": "Unibroue",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "Belgian Dark Strong Ale",
+   "aile": "Belçika & Manastır",
+   "abv": 9.0,
+   "hacim": 34.1,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kara at efsanesi; erik, kakao, esmer şeker"
+  },
+  {
+   "id": "unibroue-blanche-de-chambly",
+   "ad": "Blanche de Chambly",
+   "fab": "Unibroue",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.0,
+   "hacim": 34.1,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Unibroue'nun ilk birası; narenciye ve baharatlı yumuşak witbier"
+  },
+  {
+   "id": "dieu-du-ciel-peche-mortel",
+   "ad": "Dieu du Ciel! Péché Mortel",
+   "fab": "Dieu du Ciel!",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "Imperial Coffee Stout",
+   "aile": "Stout & Porter",
+   "abv": 9.5,
+   "hacim": 34.1,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 95,
+   "uz": "RateBeer en iyiler listesinde uzun yıllar",
+   "not": "'Ölümcül günah': yoğun espresso, bitter çikolata, kremsi doku"
+  },
+  {
+   "id": "dieu-du-ciel-rosee-dhibiscus",
+   "ad": "Dieu du Ciel! Rosée d'Hibiscus",
+   "fab": "Dieu du Ciel!",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "Witbier (Hibiscus)",
+   "aile": "Buğday",
+   "abv": 5.9,
+   "hacim": 34.1,
+   "tl": 240,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Pembe renkli, ebegümeci çiçekli buğday; çiçeksi ve hafif ekşi"
+  },
+  {
+   "id": "molson-canadian",
+   "ad": "Molson Canadian",
+   "fab": "Molson Brewery",
+   "ulke": "Kanada",
+   "bolge": "Québec",
+   "stil": "American Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 35.5,
+   "tl": 100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "Kanada'nın akçaağaç yapraklı ulusal lageri"
+  },
+  {
+   "id": "labatt-blue",
+   "ad": "Labatt Blue",
+   "fab": "Labatt Brewing",
+   "ulke": "Kanada",
+   "bolge": "Ontario",
+   "stil": "Pilsner (North American)",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 34.1,
+   "tl": 100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "1951'den beri; hafif, temiz, Kanada'nın en çok satanlarından"
+  },
+  {
+   "id": "sleeman-cream-ale",
+   "ad": "Sleeman Cream Ale",
+   "fab": "Sleeman Breweries",
+   "ulke": "Kanada",
+   "bolge": "Ontario",
+   "stil": "Cream Ale",
+   "aile": "Özel & Diğer",
+   "abv": 5.0,
+   "hacim": 34.1,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 75,
+   "uz": "",
+   "not": "Şeffaf şişeli, yumuşak ve hafif tatlı Kuzey Amerika cream ale'i"
+  },
+  {
+   "id": "moosehead-lager",
+   "ad": "Moosehead Lager",
+   "fab": "Moosehead Breweries",
+   "ulke": "Kanada",
+   "bolge": "Atlantik Kanada",
+   "stil": "American Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 34.1,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 72,
+   "uz": "Kanada'nın en eski bağımsız fabrikası",
+   "not": "Geyik logolu, aile işletmesinden hafif ve dengeli lager"
+  },
+  {
+   "id": "steam-whistle-pilsner",
+   "ad": "Steam Whistle Pilsner",
+   "fab": "Steam Whistle Brewing",
+   "ulke": "Kanada",
+   "bolge": "Ontario",
+   "stil": "Czech-style Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 34.1,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 78,
+   "uz": "",
+   "not": "Tek bira yapan fabrika; yeşil şişede temiz Çek tarzı pils"
+  },
+  {
+   "id": "driftwood-fat-tug",
+   "ad": "Driftwood Fat Tug IPA",
+   "fab": "Driftwood Brewery",
+   "ulke": "Kanada",
+   "bolge": "Britanya Kolumbiyası",
+   "stil": "West Coast IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.0,
+   "hacim": 65,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "uz": "",
+   "not": "Kanada'nın Batı Kıyısı IPA ölçütü; greyfurt ve mango"
+  },
+  {
+   "id": "bellwoods-jelly-king",
+   "ad": "Bellwoods Jelly King",
+   "fab": "Bellwoods Brewery",
+   "ulke": "Kanada",
+   "bolge": "Ontario",
+   "stil": "Dry-Hopped Sour",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.6,
+   "hacim": 50,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Toronto'nun kuru şerbetçiotlu ekşisi; meyveli versiyonlarıyla kült"
+  },
+  {
+   "id": "corona-extra",
+   "ad": "Corona Extra",
+   "fab": "Grupo Modelo",
+   "ulke": "Meksika",
+   "bolge": "Mexico City",
+   "stil": "Mexican Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 35.5,
+   "tl": 165,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 70,
+   "uz": "Dünyanın en değerli bira markalarından",
+   "not": "Limon dilimiyle içilen şeffaf şişeli plaj lageri"
+  },
+  {
+   "id": "modelo-especial",
+   "ad": "Modelo Especial",
+   "fab": "Grupo Modelo",
+   "ulke": "Meksika",
+   "bolge": "Mexico City",
+   "stil": "Mexican Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.4,
+   "hacim": 35.5,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 74,
+   "uz": "2023'ten beri ABD'nin en çok satan birası",
+   "not": "Corona'dan biraz daha dolgun, bal ve hafif şerbetçiotu"
+  },
+  {
+   "id": "negra-modelo",
+   "ad": "Negra Modelo",
+   "fab": "Grupo Modelo",
+   "ulke": "Meksika",
+   "bolge": "Mexico City",
+   "stil": "Munich Dunkel",
+   "aile": "Koyu Lager & Bock",
+   "abv": 5.4,
+   "hacim": 35.5,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 78,
+   "uz": "",
+   "not": "Avusturya-Meksika mirası koyu lager; karamel ve kavrulmuş malt"
+  },
+  {
+   "id": "pacifico-clara",
+   "ad": "Pacífico Clara",
+   "fab": "Grupo Modelo",
+   "ulke": "Meksika",
+   "bolge": "Sinaloa",
+   "stil": "Mexican Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 35.5,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 73,
+   "uz": "",
+   "not": "Mazatlán limanının sarı etiketli, ferah plaj pilsner'ı"
+  },
+  {
+   "id": "victoria",
+   "ad": "Victoria",
+   "fab": "Grupo Modelo",
+   "ulke": "Meksika",
+   "bolge": "Mexico City",
+   "stil": "Vienna Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.0,
+   "hacim": 35.5,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 74,
+   "uz": "Meksika'nın en eski markalarından (1865)",
+   "not": "Hafif amber Viyana lageri; Meksika'nın en sevilenlerinden"
+  },
+  {
+   "id": "dos-equis-lager",
+   "ad": "Dos Equis Lager Especial",
+   "fab": "Cuauhtémoc Moctezuma",
+   "ulke": "Meksika",
+   "bolge": "Monterrey",
+   "stil": "Mexican Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.2,
+   "hacim": 35.5,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 72,
+   "uz": "",
+   "not": "'En ilginç adam' reklamlarıyla tanınan ferah lager"
+  },
+  {
+   "id": "sol",
+   "ad": "Sol",
+   "fab": "Cuauhtémoc Moctezuma",
+   "ulke": "Meksika",
+   "bolge": "Monterrey",
+   "stil": "Mexican Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 155,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
+   "bul": "market",
+   "puan": 70,
+   "uz": "",
+   "not": "Güneş logolu hafif lager; Heineken ağıyla dünyaya yayıldı"
+  },
+  {
+   "id": "tecate",
+   "ad": "Tecate",
+   "fab": "Cuauhtémoc Moctezuma",
+   "ulke": "Meksika",
+   "bolge": "Baja California",
+   "stil": "Mexican Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 35.5,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "uz": "",
+   "not": "Kırmızı kutulu sınır kasabası lageri; tuz ve limonla"
+  },
+  {
+   "id": "bohemia-clasica",
+   "ad": "Bohemia Clásica",
+   "fab": "Cuauhtémoc Moctezuma",
+   "ulke": "Meksika",
+   "bolge": "Monterrey",
+   "stil": "Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "hacim": 35.5,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "uz": "",
+   "not": "Saaz şerbetçiotlu, Meksika'nın 'premium' pilsner'ı"
+  }
+ ],
+ "fabrikalar": {
+  "Anheuser-Busch": {
+   "k": 1852,
+   "s": "AB InBev",
+   "y": "St. Louis, Missouri",
+   "stil": "Kitlesel Amerikan lager",
+   "h": "Alman göçmeni Eberhard Anheuser ve damadı Adolphus Busch'un St. Louis fabrikası. 1876'da çıkan Budweiser ABD'nin ilk ulusal birası oldu; 2008'de InBev ile birleşerek dünyanın en büyük bira grubunu kurdu."
+  },
+  "Coors Brewing Company": {
+   "k": 1873,
+   "s": "Molson Coors",
+   "y": "Golden, Colorado",
+   "stil": "Hafif Amerikan lager",
+   "h": "Alman göçmeni Adolph Coors'un Golden'da kurduğu fabrika, tek noktadan dünyanın en büyük bira üretim tesislerinden biridir. 2005'te Kanadalı Molson ile birleşti."
+  },
+  "Miller Brewing Company": {
+   "k": 1855,
+   "s": "Molson Coors",
+   "y": "Milwaukee, Wisconsin",
+   "stil": "Amerikan lager ve light lager",
+   "h": "Frederick Miller'ın Milwaukee'de satın aldığı Plank Road fabrikasından doğdu. Miller Lite ile 1975'te light bira pazarını yarattı; ABD işleri bugün Molson Coors'ta."
+  },
+  "Pabst Brewing Company": {
+   "k": 1844,
+   "s": "Blue Ribbon Intermediate Holdings",
+   "y": "Milwaukee, Wisconsin (köken)",
+   "stil": "Klasik Amerikan lager",
+   "h": "Milwaukee'nin tarihî devlerinden. Kendi fabrikası olmadan sözleşmeli üretimle yaşayan PBR, 2000'lerde alt kültürün ucuz ve 'samimi' birası olarak yeniden doğdu."
+  },
+  "D.G. Yuengling & Son": {
+   "k": 1829,
+   "s": "Yuengling ailesi (bağımsız)",
+   "y": "Pottsville, Pennsylvania",
+   "stil": "Amber lager, porter",
+   "h": "ABD'nin hâlâ çalışan en eski bira fabrikası. Altı kuşaktır aynı ailede; Yasak döneminde dondurma üreterek ayakta kaldı."
+  },
+  "Blue Moon Brewing Co.": {
+   "k": 1995,
+   "s": "Molson Coors",
+   "y": "Denver, Colorado",
+   "stil": "Belçika tarzı witbier",
+   "h": "Coors Field stadyumundaki Sandlot fabrikasında Keith Villa tarafından yaratıldı. 'Craft gibi görünen' büyük şirket birası tartışmasının simgesi olsa da witbier'i Amerika'ya sevdirdi."
+  },
+  "Boston Beer Company": {
+   "k": 1984,
+   "s": "Halka açık (Jim Koch kontrolünde)",
+   "y": "Boston, Massachusetts",
+   "stil": "Lager, mevsimlik ve deneysel ale",
+   "h": "Jim Koch, büyük dedesinin tarifiyle Samuel Adams Boston Lager'ı mutfağında geliştirdi. Amerikan craft hareketinin ilk ulusal markası oldu; 2019'da Dogfish Head'i bünyesine kattı."
+  },
+  "Brooklyn Brewery": {
+   "k": 1988,
+   "s": "Bağımsız (Kirin ortaklığı)",
+   "y": "Brooklyn, New York",
+   "stil": "Lager, stout, Belçika etkili ale",
+   "h": "Steve Hindy ve Tom Potter'ın kurduğu fabrika, Garrett Oliver'ın ustalığında New York'un bira kimliği oldu. Logo, 'I ♥ NY' tasarımcısı Milton Glaser'a ait."
+  },
+  "Sierra Nevada": {
+   "k": 1980,
+   "s": "Grossman ailesi (bağımsız)",
+   "y": "Chico, Kaliforniya",
+   "stil": "Pale ale, IPA, barleywine",
+   "h": "Ken Grossman'ın hurda süt tanklarıyla kurduğu fabrika, Cascade şerbetçiotlu Pale Ale ile Amerikan craft birasının temelini attı. Bugün ABD'nin en büyük bağımsız fabrikalarından."
+  },
+  "Anchor Brewing": {
+   "k": 1896,
+   "s": "Hamdi Ulukaya (2024'ten beri)",
+   "y": "San Francisco, Kaliforniya",
+   "stil": "California Common (steam beer)",
+   "h": "Altına hücum döneminin 'steam beer' geleneğini yaşatan fabrika 1965'te Fritz Maytag'la craft öncüsü oldu. Sapporo döneminde 2023'te kapandı; Chobani kurucusu Hamdi Ulukaya 2024'te satın aldı, 2026 itibarıyla yeniden açılış hazırlığı sürüyor."
+  },
+  "Stone Brewing": {
+   "k": 1996,
+   "s": "Sapporo (2022'den beri)",
+   "y": "Escondido, Kaliforniya",
+   "stil": "West Coast IPA, güçlü ale",
+   "h": "Greg Koch ve Steve Wagner'in kurduğu Stone, saldırgan acılıktaki biralarıyla Batı Kıyısı IPA kimliğini tanımladı. 2022'de Japon Sapporo'ya satıldı."
+  },
+  "Russian River Brewing": {
+   "k": 1997,
+   "s": "Cilurzo ailesi (bağımsız)",
+   "y": "Santa Rosa, Kaliforniya",
+   "stil": "Double IPA, ekşi ve vahşi ale",
+   "h": "Şarap üreticisi Korbel'in fabrikası olarak başladı; Vinnie ve Natalie Cilurzo 2003'te markayı aldı. Pliny the Elder ile DIPA'yı popülerleştirdi, fıçıda yıllanan ekşileriyle de ünlü."
+  },
+  "Firestone Walker": {
+   "k": 1996,
+   "s": "Duvel Moortgat",
+   "y": "Paso Robles, Kaliforniya",
+   "stil": "IPA, fıçı yıllanmış stout",
+   "h": "Adam Firestone ve David Walker'ın şarap bölgesinde kurduğu fabrika; meşe fıçılarda fermantasyon geleneğiyle bilinir. Yıllık fıçı harmanları dünya çapında aranır."
+  },
+  "Lagunitas Brewing Company": {
+   "k": 1993,
+   "s": "Heineken",
+   "y": "Petaluma, Kaliforniya",
+   "stil": "IPA ve hop ağırlıklı ale",
+   "h": "Tony Magee'nin kurduğu, köpek logolu ve esprili etiketli fabrika. 2017'de tamamen Heineken'e geçti."
+  },
+  "Ballast Point": {
+   "k": 1996,
+   "s": "Kings & Convicts",
+   "y": "San Diego, Kaliforniya",
+   "stil": "West Coast IPA",
+   "h": "Ev biracılığı dükkânından doğdu; Sculpin IPA ile San Diego IPA'sını tanımladı. 2015'te 1 milyar dolara Constellation'a satıldı, 2019'da Kings & Convicts'e geçti."
+  },
+  "Deschutes Brewery": {
+   "k": 1988,
+   "s": "Çalışan ortaklığı (bağımsız)",
+   "y": "Bend, Oregon",
+   "stil": "Porter, IPA, imparatorluk stout",
+   "h": "Gary Fish'in Bend'de açtığı birahaneyle başladı. Black Butte Porter, IPA çağında bile porter'ın amiral gemisi olabildiğini kanıtladı."
+  },
+  "Rogue Ales": {
+   "k": 1988,
+   "s": "Bağımsız",
+   "y": "Newport, Oregon",
+   "stil": "Ale, maibock, deneysel",
+   "h": "Oregon kıyısındaki liman kasabasının asi fabrikası. Kendi arpasını ve şerbetçiotunu yetiştiren 'çiftlik' yaklaşımıyla bilinir."
+  },
+  "Elysian Brewing": {
+   "k": 1996,
+   "s": "AB InBev",
+   "y": "Seattle, Washington",
+   "stil": "IPA, kabak birası",
+   "h": "Seattle'ın craft öncülerinden; 2015'te AB InBev'e satılması craft camiasında büyük tartışma yarattı."
+  },
+  "New Belgium Brewing": {
+   "k": 1991,
+   "s": "Lion (Kirin)",
+   "y": "Fort Collins, Colorado",
+   "stil": "Amber ale, IPA, foeder ekşileri",
+   "h": "Jeff Lebesch'in Belçika bisiklet turundan dönüp kurduğu fabrika. Uzun süre çalışanlarına ait olan şirket 2019'da Kirin'in Lion grubuna satıldı; Bell's ile aynı çatı altında."
+  },
+  "Oskar Blues": {
+   "k": 1997,
+   "s": "Canarchy / Monster Beverage",
+   "y": "Longmont, Colorado",
+   "stil": "Kutu craft ale",
+   "h": "2002'de Dale's Pale Ale'ı kutulayarak 'craft bira şişede olur' kuralını yıktı."
+  },
+  "Great Divide": {
+   "k": 1994,
+   "s": "Bağımsız",
+   "y": "Denver, Colorado",
+   "stil": "Güçlü ale ve imparatorluk stout",
+   "h": "Brian Dunn'ın Denver'daki fabrikası; Yeti serisi Amerikan imparatorluk stout'unun tanınmış örneklerinden."
+  },
+  "Bell's Brewery": {
+   "k": 1985,
+   "s": "Lion (Kirin)",
+   "y": "Kalamazoo, Michigan",
+   "stil": "IPA, buğday ale, stout",
+   "h": "Larry Bell'in ev biracılığı dükkânı olarak başladı. Two Hearted IPA, Zymurgy okurlarınca birçok kez ABD'nin en iyi birası seçildi; 2021'de Lion'a satıldı."
+  },
+  "Founders Brewing": {
+   "k": 1997,
+   "s": "Mahou San Miguel",
+   "y": "Grand Rapids, Michigan",
+   "stil": "İmparatorluk stout, IPA",
+   "h": "Mike Stevens ve Dave Engbers'in kurduğu fabrika, eski alçı madenlerinde bourbon fıçılarında yıllandırdığı KBS ile kült oldu. 2020'de tamamen İspanyol Mahou'ya geçti."
+  },
+  "Goose Island": {
+   "k": 1988,
+   "s": "AB InBev",
+   "y": "Chicago, Illinois",
+   "stil": "IPA, fıçı yıllanmış stout, Belçika tarzı",
+   "h": "John Hall'un Chicago birahanesi; 1992'de Bourbon County Stout ile fıçı yıllandırma akımını başlattı. 2011'de AB InBev'e satıldı ve Goose IPA dünya geneline dağıtıldı."
+  },
+  "3 Floyds Brewing": {
+   "k": 1996,
+   "s": "Floyd ailesi (bağımsız)",
+   "y": "Munster, Indiana",
+   "stil": "Hop ağırlıklı ale, imparatorluk stout",
+   "h": "'Not normal' sloganıyla heavy metal estetiğini biraya taşıyan aile fabrikası. Zombie Dust ve Dark Lord Day ile kült statüsünde."
+  },
+  "Toppling Goliath": {
+   "k": 2009,
+   "s": "Bağımsız",
+   "y": "Decorah, Iowa",
+   "stil": "Pale ale, IPA, fıçı stout",
+   "h": "Clark Lewey'nin küçük Iowa kasabasındaki fabrikası; Pseudo Sue ve Kentucky Brunch Brand Stout ile dünya listelerinin zirvesine çıktı."
+  },
+  "Great Lakes Brewing": {
+   "k": 1988,
+   "s": "Conway kardeşler (bağımsız)",
+   "y": "Cleveland, Ohio",
+   "stil": "Porter, lager, ale",
+   "h": "Ohio'nun ilk craft fabrikası. Edmund Fitzgerald Porter, Büyük Göller'de batan yük gemisinin anısını yaşatır."
+  },
+  "Boulevard Brewing": {
+   "k": 1989,
+   "s": "Duvel Moortgat",
+   "y": "Kansas City, Missouri",
+   "stil": "Saison, buğday, Belçika tarzı",
+   "h": "John McDonald'ın kurduğu Orta Batı fabrikası, Smokestack serisiyle Belçika tarzlarında uzmanlaştı; 2013'te Duvel'e katıldı."
+  },
+  "Dogfish Head": {
+   "k": 1995,
+   "s": "Boston Beer Company",
+   "y": "Milton, Delaware",
+   "stil": "Sürekli şerbetçiotlu IPA, deneysel ale",
+   "h": "Sam Calagione'nin 'normal olmayan insanlar için normal olmayan bira' felsefesiyle kurduğu fabrika; antik bira yeniden canlandırmalarıyla da tanınır. 2019'da Boston Beer ile birleşti."
+  },
+  "Victory Brewing": {
+   "k": 1996,
+   "s": "Artisanal Brewing Ventures",
+   "y": "Downingtown, Pennsylvania",
+   "stil": "Pils, IPA, Belçika tarzı",
+   "h": "Çocukluk arkadaşları Bill Covaleski ve Ron Barchet'in Almanya'da öğrendikleriyle kurduğu fabrika; Prima Pils Amerikan pilsner'ın ölçütü."
+  },
+  "Brewery Ommegang": {
+   "k": 1997,
+   "s": "Duvel Moortgat",
+   "y": "Cooperstown, New York",
+   "stil": "Belçika tarzı ale",
+   "h": "New York'ta bir şerbetçiotu çiftliğinde kurulan, tamamen Belçika tarzına adanmış fabrika."
+  },
+  "The Alchemist": {
+   "k": 2003,
+   "s": "Kimmich ailesi (bağımsız)",
+   "y": "Stowe, Vermont",
+   "stil": "New England IPA",
+   "h": "John ve Jen Kimmich'in Waterbury birahanesi 2011 kasırgasında yıkılınca yalnız Heady Topper'a odaklandılar; bu kutu NEIPA çılgınlığını başlattı."
+  },
+  "Hill Farmstead": {
+   "k": 2010,
+   "s": "Shaun Hill (bağımsız)",
+   "y": "Greensboro Bend, Vermont",
+   "stil": "Pale ale, saison, fıçı yıllanmış",
+   "h": "Shaun Hill'in aile çiftliğinde kurduğu fabrika; RateBeer tarafından defalarca dünyanın en iyi fabrikası seçildi. Biralar çoğunlukla yalnız çiftlikte satılır."
+  },
+  "Tree House Brewing": {
+   "k": 2011,
+   "s": "Bağımsız",
+   "y": "Charlton, Massachusetts",
+   "stil": "New England IPA, stout",
+   "h": "Brimfield'da bir ahırda başlayıp Charlton'daki dev tesise taşındı. Julius ile NEIPA'nın referans fabrikalarından; satış yalnız fabrikada."
+  },
+  "Trillium Brewing": {
+   "k": 2013,
+   "s": "JC ve Esther Tetreault (bağımsız)",
+   "y": "Boston, Massachusetts",
+   "stil": "NEIPA, ekşi ale",
+   "h": "Boston'ın Fort Point semtinde küçük bir tesiste başladı; bugün Canton'daki çiftlik fabrikası ve birahaneleriyle New England'ın önde gelenlerinden."
+  },
+  "Lawson's Finest Liquids": {
+   "k": 2008,
+   "s": "Lawson ailesi (bağımsız)",
+   "y": "Waitsfield, Vermont",
+   "stil": "Double IPA",
+   "h": "Sean Lawson'ın ormandaki küçük şeker kulübesinde başladı; Sip of Sunshine Vermont'un en aranan kutularından."
+  },
+  "Maine Beer Company": {
+   "k": 2009,
+   "s": "Kleban kardeşler (bağımsız)",
+   "y": "Freeport, Maine",
+   "stil": "IPA ve pale ale",
+   "h": "'Sadece gerekeni yap' sloganıyla sade etiketli, berrak ve aromatik IPA'larla tanınır; kârının %1'ini doğaya bağışlar."
+  },
+  "Allagash Brewing": {
+   "k": 1995,
+   "s": "Rob Tod (bağımsız)",
+   "y": "Portland, Maine",
+   "stil": "Belçika tarzı witbier, tripel, coolship ekşileri",
+   "h": "Rob Tod, IPA çağında Belçika tarzını seçti; Allagash White on yıllar sonra Amerika'nın en ödüllü witbier'i oldu. Coolship ile spontane fermantasyonun da ABD öncüsü."
+  },
+  "Cigar City Brewing": {
+   "k": 2009,
+   "s": "Monster Beverage",
+   "y": "Tampa, Florida",
+   "stil": "IPA, baharatlı stout",
+   "h": "Joey Redner'ın Tampa'nın puro mirasına adanmış fabrikası. Hunahpu's Day festivali yılın en kalabalık bira etkinliklerinden."
+  },
+  "Spoetzl Brewery": {
+   "k": 1909,
+   "s": "Gambrinus",
+   "y": "Shiner, Texas",
+   "stil": "Bock ve lager",
+   "h": "Bavyeralı Kosmos Spoetzl'in Teksas kasabasındaki fabrikası; Shiner Bock Teksas'ın gayri resmî birası."
+  },
+  "Unibroue": {
+   "k": 1990,
+   "s": "Sapporo",
+   "y": "Chambly, Québec",
+   "stil": "Şişede mayalanan Belçika tarzı ale",
+   "h": "Québec'te Belçika tarzını yerleştiren fabrika; etiketleri Fransız-Kanada efsanelerini anlatır. 2006'dan beri Sapporo'nun."
+  },
+  "Dieu du Ciel!": {
+   "k": 1998,
+   "s": "Bağımsız",
+   "y": "Montréal ve Saint-Jérôme, Québec",
+   "stil": "Stout, çiçekli ve baharatlı ale",
+   "h": "Jean-François Gravel'in Montréal birahanesi; Péché Mortel ile dünya listelerine girdi. Üretim 2007'den beri Saint-Jérôme'da."
+  },
+  "Molson Brewery": {
+   "k": 1786,
+   "s": "Molson Coors",
+   "y": "Montréal, Québec",
+   "stil": "Kanada lageri",
+   "h": "John Molson'ın Montréal'de kurduğu, Kuzey Amerika'nın en eski bira markalarından. 2005'te Coors ile birleşti."
+  },
+  "Labatt Brewing": {
+   "k": 1847,
+   "s": "AB InBev",
+   "y": "London, Ontario",
+   "stil": "Kanada lageri",
+   "h": "John Kinder Labatt'ın Ontario fabrikası; Labatt Blue on yıllarca Kanada'nın en çok satan birası oldu."
+  },
+  "Sleeman Breweries": {
+   "k": 1834,
+   "s": "Sapporo",
+   "y": "Guelph, Ontario",
+   "stil": "Cream ale ve lager",
+   "h": "1834'te kurulan aile fabrikası 1933'te kaçakçılık skandalıyla kapandı; John Sleeman 1988'de büyük büyükbabasının tarifleriyle canlandırdı."
+  },
+  "Moosehead Breweries": {
+   "k": 1867,
+   "s": "Oland ailesi (bağımsız)",
+   "y": "Saint John, New Brunswick",
+   "stil": "Kanada lageri",
+   "h": "Kanada'nın en eski bağımsız fabrikası; altıncı kuşak Oland ailesi tarafından yönetilir."
+  },
+  "Steam Whistle Brewing": {
+   "k": 2000,
+   "s": "Bağımsız",
+   "y": "Toronto, Ontario",
+   "stil": "Pilsner",
+   "h": "Eski bir lokomotif atölyesinde kurulan, yıllarca yalnız tek bira yapan fabrika."
+  },
+  "Driftwood Brewery": {
+   "k": 2008,
+   "s": "Bağımsız",
+   "y": "Victoria, Britanya Kolumbiyası",
+   "stil": "West Coast IPA, Belçika tarzı",
+   "h": "Vancouver Adası'nın craft öncülerinden; Fat Tug Kanada'nın en sevilen IPA'larından."
+  },
+  "Bellwoods Brewery": {
+   "k": 2012,
+   "s": "Bağımsız",
+   "y": "Toronto, Ontario",
+   "stil": "Ekşi, IPA, saison",
+   "h": "Ossington Caddesi'ndeki birahanede başlayan, Kanada'nın en çok övülen craft fabrikalarından."
+  },
+  "Grupo Modelo": {
+   "k": 1925,
+   "s": "AB InBev (ABD hakları Constellation Brands)",
+   "y": "Mexico City",
+   "stil": "Meksika lageri",
+   "h": "1925'te Mexico City'de kurulan grup Corona ile dünyanın en çok ihraç edilen biralarından birini yarattı. 2013'te AB InBev'e geçti; ABD'deki markalar Constellation'a ait."
+  },
+  "Cuauhtémoc Moctezuma": {
+   "k": 1890,
+   "s": "Heineken",
+   "y": "Monterrey, Nuevo León",
+   "stil": "Meksika lageri ve pilsner",
+   "h": "Monterrey'de kurulan Cervecería Cuauhtémoc, Moctezuma ile birleşerek Dos Equis, Sol, Tecate ve Bohemia'yı bir araya getirdi. 2010'dan beri Heineken bünyesinde."
+  }
+ },
+ "bolgeler": {
+  "ABD|Kaliforniya": {
+   "k": "Amerikan craft birasının doğduğu yer. Batı Kıyısı IPA'sı kuru, acı ve reçineli; Sierra Nevada, Stone ve Russian River bu kimliği tanımladı.",
+   "t": "1849 Altına Hücum'un 'steam beer'i ve 1965'te Anchor'ı kurtaran Fritz Maytag ile modern craft hareketi burada başladı.",
+   "i": "Sierra Nevada Pale Ale ile başla, ardından Stone IPA ve fırsat bulursan taze bir Pliny the Elder dene.",
+   "konum": [
+    37.5,
+    -121.5
+   ]
+  },
+  "ABD|Pasifik Kuzeybatı": {
+   "k": "ABD şerbetçiotunun neredeyse tamamı Washington ve Oregon'da yetişir. Bira; çam, greyfurt ve toprak notalı, cömertçe şerbetçiotlu.",
+   "t": "Yakima Vadisi ve Willamette Vadisi dünyanın en önemli şerbetçiotu bölgelerinden; Portland 'Beervana' lakaplıdır.",
+   "i": "Deschutes Black Butte Porter ve Fresh Squeezed IPA bölgeyi iki uçtan tanıtır.",
+   "konum": [
+    45.5,
+    -122.0
+   ]
+  },
+  "ABD|Colorado": {
+   "k": "Büyük lager devlerinden (Coors) Belçika esintili craft'a uzanan geniş bir yelpaze. Great American Beer Festival'in evi.",
+   "t": "Golden'daki Coors 1873'ten beri; 1991'de kurulan New Belgium ve Oskar Blues craft'ı ulusal ölçeğe taşıdı.",
+   "i": "New Belgium Fat Tire ve Dale's Pale Ale kolay başlangıç; meraklılar La Folie'yi aramalı.",
+   "konum": [
+    39.7,
+    -105.0
+   ]
+  },
+  "ABD|Orta Batı": {
+   "k": "Alman göçmen mirası lager geleneği ile dünyanın en aranan fıçı yıllanmış stout'ları aynı bölgede. Michigan, Illinois, Indiana ve Iowa craft'ın merkezleri.",
+   "t": "Milwaukee ve St. Louis 19. yüzyılda Alman biracılarla kitlesel lagerin başkentleri oldu; 1992'de Goose Island fıçı yıllandırmayı başlattı.",
+   "i": "Bell's Two Hearted ve Founders Breakfast Stout bölgenin iki yüzünü gösterir.",
+   "konum": [
+    42.0,
+    -87.5
+   ]
+  },
+  "ABD|Orta Atlantik": {
+   "k": "New York, Pennsylvania ve Delaware'de Alman lager mirası ile deneysel craft yan yana. Sürekli şerbetçiotlama ve Belçika tarzı burada gelişti.",
+   "t": "Pottsville'deki Yuengling 1829'dan beri ABD'nin en eski aktif fabrikası; Brooklyn ve Dogfish Head 1990'larda craft'ı doğu kıyısına taşıdı.",
+   "i": "Victory Prima Pils ve Dogfish Head 60 Minute iyi bir giriş.",
+   "konum": [
+    40.5,
+    -75.5
+   ]
+  },
+  "ABD|New England": {
+   "k": "Bulanık, sulu ve düşük acılıklı New England IPA'nın (NEIPA) anavatanı; Maine'de ise Belçika tarzı ustalık.",
+   "t": "2011'de Heady Topper ile başlayan akım Tree House, Trillium ve Hill Farmstead'le dünya trendine dönüştü; kutular fabrika kapısında kuyrukla satılır.",
+   "i": "Taze içmek esastır: Heady Topper ya da Julius'u bulursan bekletme. Allagash White daha kolay bulunur.",
+   "konum": [
+    43.5,
+    -72.0
+   ]
+  },
+  "ABD|Güney": {
+   "k": "Sıcak iklime uygun ferah biralar ile tropikal meyve, baharat ve biberle oynayan cesur stout'lar.",
+   "t": "Florida ve Teksas'ın craft sahnesi 2000'lerin sonunda patladı; Shiner'daki Spoetzl ise 1909'dan beri Alman-Çek lager mirasını sürdürüyor.",
+   "i": "Cigar City Jai Alai'yi ferah bir IPA olarak dene; Hunahpu's festivalde efsanedir.",
+   "konum": [
+    29.5,
+    -90.0
+   ]
+  },
+  "Kanada|Québec": {
+   "k": "Fransız etkisiyle Belçika tarzı güçlü ale'ler, baharatlı ve şişede mayalanan biralar. Kanada craft'ının kalbi.",
+   "t": "Montréal'deki Molson 1786'dan beri; 1990'larda Unibroue ve Dieu du Ciel! Québec'i Belçika tarzının Kuzey Amerika merkezi yaptı.",
+   "i": "La Fin du Monde'yi lale bardakta, 8-10°C'de dene.",
+   "konum": [
+    46.0,
+    -73.0
+   ]
+  },
+  "Kanada|Ontario": {
+   "k": "Büyük Kanada lagerleri ile Toronto'nun hızlı büyüyen craft sahnesi; temiz pilsner'lardan kuru şerbetçiotlu ekşilere.",
+   "t": "Labatt 1847'den beri; Steam Whistle ve Bellwoods Toronto'yu craft şehri yaptı.",
+   "i": "Steam Whistle Pilsner güvenli başlangıç, Jelly King cesur adım.",
+   "konum": [
+    43.7,
+    -79.4
+   ]
+  },
+  "Kanada|Atlantik Kanada": {
+   "k": "Denizci kasabaların sade ve içimi kolay lagerleri, aile fabrikası geleneği.",
+   "t": "Moosehead 1867'den beri Oland ailesinde; Kanada'nın en eski bağımsız fabrikası.",
+   "i": "Moosehead'i soğuk ve deniz ürünleriyle iç.",
+   "konum": [
+    45.3,
+    -66.1
+   ]
+  },
+  "Kanada|Britanya Kolumbiyası": {
+   "k": "ABD Batı Kıyısı'na benzer şekilde şerbetçiotu öne çıkan IPA'lar ve yaratıcı küçük fabrikalar.",
+   "t": "Vancouver ve Victoria Kanada'nın craft yoğunluğu en yüksek şehirlerinden.",
+   "i": "Fat Tug IPA bölgenin ölçütüdür.",
+   "konum": [
+    48.9,
+    -123.6
+   ]
+  },
+  "Meksika|Mexico City": {
+   "k": "Hafif, ferah Meksika lagerleri ile 19. yüzyıl Avusturya mirası Viyana ve koyu lagerler.",
+   "t": "İmparator Maximilian döneminde gelen Avusturyalı biracılar Viyana lager stilini getirdi; Grupo Modelo 1925'te başkentte kuruldu.",
+   "i": "Corona'yı limonla, Negra Modelo'yu taco ve mole ile dene.",
+   "konum": [
+    19.43,
+    -99.13
+   ]
+  },
+  "Meksika|Monterrey": {
+   "k": "Meksika'nın sanayi başkenti; Cuauhtémoc Moctezuma'nın lager ve pilsner'ları.",
+   "t": "Cervecería Cuauhtémoc 1890'da Monterrey'de kuruldu; bugün Heineken'in Meksika üssü.",
+   "i": "Bohemia, Meksika lagerlerinin en 'şerbetçiotlu' olanıdır.",
+   "konum": [
+    25.67,
+    -100.31
+   ]
+  },
+  "Meksika|Sinaloa": {
+   "k": "Pasifik kıyısının ferah, hafif plaj lagerleri.",
+   "t": "Mazatlán'daki Cervecería del Pacífico 1900'de Alman göçmenlerce kuruldu.",
+   "i": "Pacífico'yu deniz ürünleri ve ceviche ile iç.",
+   "konum": [
+    23.25,
+    -106.41
+   ]
+  },
+  "Meksika|Baja California": {
+   "k": "ABD sınırındaki kasabaların sade lagerleri ve Ensenada-Tijuana'nın yükselen craft sahnesi.",
+   "t": "Tecate markası 1944'te sınır kasabası Tecate'de doğdu.",
+   "i": "Tecate'yi tuz ve limonla 'michelada' olarak dene.",
+   "konum": [
+    32.57,
+    -116.63
+   ]
+  }
+ },
+ "konumlar": {
+  "Anheuser-Busch": [
+   38.6,
+   -90.21
+  ],
+  "Coors Brewing Company": [
+   39.76,
+   -105.22
+  ],
+  "Miller Brewing Company": [
+   43.04,
+   -87.97
+  ],
+  "Pabst Brewing Company": [
+   43.05,
+   -87.92
+  ],
+  "D.G. Yuengling & Son": [
+   40.69,
+   -76.19
+  ],
+  "Blue Moon Brewing Co.": [
+   39.76,
+   -104.99
+  ],
+  "Boston Beer Company": [
+   42.31,
+   -71.1
+  ],
+  "Brooklyn Brewery": [
+   40.72,
+   -73.96
+  ],
+  "Sierra Nevada": [
+   39.72,
+   -121.81
+  ],
+  "Anchor Brewing": [
+   37.76,
+   -122.4
+  ],
+  "Stone Brewing": [
+   33.12,
+   -117.12
+  ],
+  "Russian River Brewing": [
+   38.44,
+   -122.71
+  ],
+  "Firestone Walker": [
+   35.6,
+   -120.69
+  ],
+  "Lagunitas Brewing Company": [
+   38.27,
+   -122.66
+  ],
+  "Ballast Point": [
+   32.89,
+   -117.15
+  ],
+  "Deschutes Brewery": [
+   44.05,
+   -121.31
+  ],
+  "Rogue Ales": [
+   44.62,
+   -124.05
+  ],
+  "Elysian Brewing": [
+   47.61,
+   -122.32
+  ],
+  "New Belgium Brewing": [
+   40.59,
+   -105.07
+  ],
+  "Oskar Blues": [
+   40.17,
+   -105.1
+  ],
+  "Great Divide": [
+   39.75,
+   -104.99
+  ],
+  "Bell's Brewery": [
+   42.29,
+   -85.59
+  ],
+  "Founders Brewing": [
+   42.96,
+   -85.67
+  ],
+  "Goose Island": [
+   41.91,
+   -87.66
+  ],
+  "3 Floyds Brewing": [
+   41.56,
+   -87.51
+  ],
+  "Toppling Goliath": [
+   43.3,
+   -91.79
+  ],
+  "Great Lakes Brewing": [
+   41.48,
+   -81.7
+  ],
+  "Boulevard Brewing": [
+   39.08,
+   -94.6
+  ],
+  "Dogfish Head": [
+   38.77,
+   -75.31
+  ],
+  "Victory Brewing": [
+   40.01,
+   -75.71
+  ],
+  "Brewery Ommegang": [
+   42.63,
+   -74.94
+  ],
+  "The Alchemist": [
+   44.47,
+   -72.69
+  ],
+  "Hill Farmstead": [
+   44.6,
+   -72.3
+  ],
+  "Tree House Brewing": [
+   42.12,
+   -72.0
+  ],
+  "Trillium Brewing": [
+   42.16,
+   -71.15
+  ],
+  "Lawson's Finest Liquids": [
+   44.19,
+   -72.82
+  ],
+  "Maine Beer Company": [
+   43.86,
+   -70.1
+  ],
+  "Allagash Brewing": [
+   43.7,
+   -70.32
+  ],
+  "Cigar City Brewing": [
+   27.96,
+   -82.51
+  ],
+  "Spoetzl Brewery": [
+   29.43,
+   -97.17
+  ],
+  "Unibroue": [
+   45.44,
+   -73.29
+  ],
+  "Dieu du Ciel!": [
+   45.78,
+   -74.0
+  ],
+  "Molson Brewery": [
+   45.52,
+   -73.55
+  ],
+  "Labatt Brewing": [
+   42.98,
+   -81.25
+  ],
+  "Sleeman Breweries": [
+   43.55,
+   -80.25
+  ],
+  "Moosehead Breweries": [
+   45.27,
+   -66.08
+  ],
+  "Steam Whistle Brewing": [
+   43.64,
+   -79.39
+  ],
+  "Driftwood Brewery": [
+   48.45,
+   -123.37
+  ],
+  "Bellwoods Brewery": [
+   43.65,
+   -79.42
+  ],
+  "Grupo Modelo": [
+   19.45,
+   -99.2
+  ],
+  "Cuauhtémoc Moctezuma": [
+   25.69,
+   -100.31
+  ]
+ },
+ "tadim": {
+  "budweiser": {
+   "b": "Hafif tahıl, elma, pirinç",
+   "d": "İnce gövde, hafif tatlı malt",
+   "f": "Kısa, temiz, gazlı",
+   "s": "Buz gibi (2-4°C), pilsner bardağı; burger, pizza"
+  },
+  "corona-extra": {
+   "b": "Hafif tahıl, mısır, belirgin olmayan şerbetçiotu",
+   "d": "Çok hafif gövde, az tatlı",
+   "f": "Kısa, sulu, ferah",
+   "s": "2-4°C, şişeden limon dilimiyle; taco, ceviche, plaj"
+  },
+  "sol": {
+   "b": "Hafif tahıl ve limonumsu",
+   "d": "Çok hafif, sulu",
+   "f": "Kısa ve ferah",
+   "s": "2-4°C, şişeden veya limonla; atıştırmalık, ızgara tavuk"
+  },
+  "blue-moon-belgian-white": {
+   "b": "Portakal kabuğu, kişniş, buğday",
+   "d": "Yumuşak, kremsi, hafif tatlı",
+   "f": "Kısa, baharatlı",
+   "s": "4-6°C, uzun buğday bardağı ve portakal dilimi; salata, deniz ürünleri"
+  },
+  "goose-island-ipa": {
+   "b": "Çiçeksi şerbetçiotu, greyfurt, hafif çam",
+   "d": "Karamel maltla dengeli acılık",
+   "f": "Kuru, orta uzun acılık",
+   "s": "7-9°C, shaker ya da IPA bardağı; acılı kanat, burger"
+  },
+  "samuel-adams-boston-lager": {
+   "b": "Çiçeksi ve otsu Alman şerbetçiotu, karamel",
+   "d": "Orta gövde, kızarmış ekmek ve karamel",
+   "f": "Temiz, hafif acı",
+   "s": "5-7°C, pilsner bardağı; sosis, burger"
+  },
+  "brooklyn-lager": {
+   "b": "Çiçeksi şerbetçiotu, karamel, ekmek",
+   "d": "Orta gövde, maltlı-tatlı denge",
+   "f": "Kuru, hafif acı",
+   "s": "5-7°C, shaker bardak; pizza, ızgara et"
+  },
+  "sierra-nevada-pale-ale": {
+   "b": "Çam, greyfurt, çiçeksi Cascade",
+   "d": "Bisküvi maltı, orta gövde",
+   "f": "Temiz, belirgin acılık",
+   "s": "6-8°C, shaker ya da nonik; burger, Meksika mutfağı, cheddar"
+  },
+  "sierra-nevada-torpedo": {
+   "b": "Reçine, çam, mandalina",
+   "d": "Dolgun gövde, karamel destekli",
+   "f": "Uzun, reçineli acılık",
+   "s": "7-9°C, IPA bardağı; acılı yemekler, olgun peynir"
+  },
+  "sierra-nevada-celebration": {
+   "b": "Taze çam, greyfurt, reçine",
+   "d": "Karamel ve kızarmış malt",
+   "f": "Kuru ve acı",
+   "s": "7-9°C, lale ya da IPA bardağı; hindi, kış sofrası"
+  },
+  "sierra-nevada-bigfoot": {
+   "b": "Karamel, kuru meyve, çam",
+   "d": "Yoğun, tatlı, isıtıcı",
+   "f": "Uzun, acı ve alkol sıcaklığı",
+   "s": "12-14°C, snifter; mavi peynir, sıcak tatlılar"
+  },
+  "anchor-steam-beer": {
+   "b": "Karamel, ekmek, odunsu şerbetçiotu",
+   "d": "Orta gövde, hafif meyvemsi",
+   "f": "Kuru, hafif acı",
+   "s": "7-9°C, shaker ya da pilsner; San Francisco ekşi mayalı ekmek, midye"
+  },
+  "stone-ipa": {
+   "b": "Greyfurt, reçine, tropikal meyve",
+   "d": "Hafif malt, ön planda şerbetçiotu",
+   "f": "Kuru, keskin acılık",
+   "s": "7-9°C, IPA bardağı; balık taco, acılı Asya"
+  },
+  "pliny-the-elder": {
+   "b": "Çam, greyfurt, çiçek, reçine",
+   "d": "Kuru ve şaşırtıcı derecede içimi kolay",
+   "f": "Uzun, temiz acılık",
+   "s": "Taze ve soğuk (6-8°C), IPA bardağı; tek başına ya da ızgara"
+  },
+  "pliny-the-younger": {
+   "b": "Yoğun çam, tropikal meyve, kayısı",
+   "d": "Dolgun ama kuru, alkolü gizli",
+   "f": "Uzun ve reçineli",
+   "s": "Fıçıdan, 7-9°C; küçük kadeh"
+  },
+  "russian-river-supplication": {
+   "b": "Vişne, meşe, şarap, Brett'in toprak notası",
+   "d": "Ekşi, meyveli, ince",
+   "f": "Uzun, tanenli ve asidik",
+   "s": "10-12°C, lale; ördek, keçi peyniri"
+  },
+  "firestone-walker-parabola": {
+   "b": "Bourbon, vanilya, meşe, kahve",
+   "d": "Çok yoğun, yağsı, tatlı",
+   "f": "Uzun, sıcak alkol",
+   "s": "13-15°C, snifter; bitter çikolata, puro"
+  },
+  "lagunitas-ipa": {
+   "b": "Greyfurt, çam, karamel",
+   "d": "Orta gövde, dengeli",
+   "f": "Orta acılık",
+   "s": "7-9°C, IPA bardağı; pizza, burger"
+  },
+  "ballast-point-sculpin": {
+   "b": "Kayısı, mango, limon kabuğu",
+   "d": "Hafif ve parlak",
+   "f": "Kuru, net acılık",
+   "s": "6-8°C, IPA bardağı; balık taco, Tay mutfağı"
+  },
+  "deschutes-black-butte-porter": {
+   "b": "Kakao, kahve, kavrulmuş malt",
+   "d": "Kremsi, orta gövde",
+   "f": "Kuru, hafif kavrulmuş",
+   "s": "8-10°C, nonik; ızgara et, brownie"
+  },
+  "deschutes-the-abyss": {
+   "b": "Meyan kökü, pekmez, kahve, meşe",
+   "d": "Yoğun, yağsı",
+   "f": "Uzun, tatlı-acı",
+   "s": "12-14°C, snifter; tatlılar, mavi peynir"
+  },
+  "new-belgium-la-folie": {
+   "b": "Vişne, yeşil elma, meşe, sirke",
+   "d": "Ekşi, kuru, meyveli",
+   "f": "Uzun ve asidik",
+   "s": "8-10°C, lale; şarküteri, keçi peyniri"
+  },
+  "bells-two-hearted": {
+   "b": "Çam, greyfurt, bal, çiçek",
+   "d": "Orta gövde, dengeli malt",
+   "f": "Temiz, orta-yüksek acılık",
+   "s": "7-9°C, IPA bardağı; balık-patates, hint köri"
+  },
+  "founders-kbs": {
+   "b": "Bourbon, kahve, çikolata, vanilya",
+   "d": "Dolgun, ipeksi",
+   "f": "Uzun, sıcak, kahveli",
+   "s": "12-14°C, snifter; tiramisu, crème brûlée"
+  },
+  "founders-breakfast-stout": {
+   "b": "Espresso, bitter çikolata, yulaf",
+   "d": "Kremsi, yumuşak",
+   "f": "Kavrulmuş, kahveli",
+   "s": "8-10°C, snifter ya da lale; kahvaltı, pancake, brownie"
+  },
+  "founders-all-day-ipa": {
+   "b": "Narenciye, çam, çiçek",
+   "d": "Hafif gövde",
+   "f": "Kısa, temiz acılık",
+   "s": "5-7°C, shaker; salata, hafif atıştırmalık"
+  },
+  "goose-island-bourbon-county-stout": {
+   "b": "Bourbon, vanilya, pekmez, fudge",
+   "d": "Çok yoğun, şurupsu",
+   "f": "Çok uzun, sıcak",
+   "s": "13-15°C, snifter; tek başına ya da bitter çikolata"
+  },
+  "three-floyds-zombie-dust": {
+   "b": "Mango, şeftali, greyfurt",
+   "d": "Hafif-orta gövde, sulu",
+   "f": "Temiz, ılımlı acılık",
+   "s": "6-8°C, IPA bardağı; burger"
+  },
+  "toppling-goliath-kbbs": {
+   "b": "Akçaağaç, kahve, bourbon, vanilya",
+   "d": "Yoğun, yağsı",
+   "f": "Uzun, tatlı",
+   "s": "13-15°C, snifter; paylaşarak, tatlıyla"
+  },
+  "great-lakes-edmund-fitzgerald": {
+   "b": "Kahve, kakao, kavrulmuş arpa",
+   "d": "Orta gövde, kuru",
+   "f": "Kuru, acı-kavrulmuş",
+   "s": "8-10°C, nonik; ızgara et, istiridye"
+  },
+  "dogfish-head-60-minute": {
+   "b": "Greyfurt, çam, çiçek",
+   "d": "Dengeli malt ve şerbetçiotu",
+   "f": "Orta acılık",
+   "s": "6-8°C, IPA bardağı; pizza, acılı kanat"
+  },
+  "dogfish-head-90-minute": {
+   "b": "Karamel, portakal, çam",
+   "d": "Dolgun, maltlı-tatlı",
+   "f": "Uzun, reçineli",
+   "s": "8-10°C, lale; ızgara et, olgun cheddar"
+  },
+  "victory-prima-pils": {
+   "b": "Otsu, çiçeksi Alman şerbetçiotu, limon",
+   "d": "Hafif, kuru, bisküvi",
+   "f": "Keskin ve temiz acılık",
+   "s": "4-6°C, pilsner bardağı; sosis, kızarmış balık"
+  },
+  "ommegang-hennepin": {
+   "b": "Biber, zencefil, narenciye, maya",
+   "d": "Kuru, efervesan",
+   "f": "Baharatlı, kuru",
+   "s": "7-9°C, lale; midye, keçi peyniri"
+  },
+  "the-alchemist-heady-topper": {
+   "b": "Tropikal meyve, çam, greyfurt",
+   "d": "Yumuşak, bulanık, sulu",
+   "f": "Orta acılık, uzun aroma",
+   "s": "Kutudan, soğuk; tek başına"
+  },
+  "tree-house-julius": {
+   "b": "Mango, şeftali, portakal suyu",
+   "d": "Kremsi, sulu",
+   "f": "Yumuşak, düşük acılık",
+   "s": "6-8°C, lale; tek başına ya da hafif yemek"
+  },
+  "hill-farmstead-edward": {
+   "b": "Çiçek, limon, çam",
+   "d": "Narin, hafif",
+   "f": "Kuru, zarif acılık",
+   "s": "6-8°C, lale; tek başına"
+  },
+  "allagash-white": {
+   "b": "Kişniş, portakal kabuğu, buğday",
+   "d": "Kremsi, hafif tatlı",
+   "f": "Baharatlı, kuru",
+   "s": "4-6°C, buğday ya da lale; midye, salata, beyaz balık"
+  },
+  "cigar-city-jai-alai": {
+   "b": "Mandalina, greyfurt, reçine",
+   "d": "Karamel destekli orta gövde",
+   "f": "Orta-yüksek acılık",
+   "s": "7-9°C, IPA bardağı; Küba sandviçi, acılı yemek"
+  },
+  "cigar-city-hunahpus": {
+   "b": "Kakao, tarçın, vanilya, kuru biber",
+   "d": "Dolgun, baharatlı",
+   "f": "Uzun, hafif yakıcı",
+   "s": "12-14°C, snifter; mole, bitter çikolata"
+  },
+  "unibroue-la-fin-du-monde": {
+   "b": "Portakal kabuğu, karanfil, bal, maya",
+   "d": "Dolgun ama efervesan",
+   "f": "Kuru, baharatlı, sıcak",
+   "s": "8-10°C, lale; keçi peyniri, deniz ürünleri"
+  },
+  "unibroue-maudite": {
+   "b": "Baharat, karamel, kuru meyve",
+   "d": "Orta-dolgun, tatlımsı",
+   "f": "Baharatlı",
+   "s": "8-10°C, lale; av eti, et yahnisi"
+  },
+  "dieu-du-ciel-peche-mortel": {
+   "b": "Espresso, bitter çikolata, kavrulmuş malt",
+   "d": "Dolgun, kremsi",
+   "f": "Uzun, kahveli",
+   "s": "10-12°C, snifter; tiramisu, cheesecake"
+  },
+  "negra-modelo": {
+   "b": "Karamel, kavrulmuş malt, hafif çikolata",
+   "d": "Orta gövde, yumuşak",
+   "f": "Kuru, hafif tatlı",
+   "s": "5-7°C, pilsner; taco, mole, ızgara et"
+  },
+  "modelo-especial": {
+   "b": "Tahıl, bal, hafif şerbetçiotu",
+   "d": "Hafif-orta gövde",
+   "f": "Kısa, ferah",
+   "s": "3-5°C, şişeden; taco, nachos"
+  },
+  "pacifico-clara": {
+   "b": "Tahıl, limon, hafif çimen",
+   "d": "Hafif, sulu",
+   "f": "Kısa, ferah",
+   "s": "3-5°C, limonla; ceviche, karides"
+  }
+ }
+}

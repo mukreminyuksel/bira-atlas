@@ -1,0 +1,3294 @@
+{
+ "biralar": [
+  {
+   "id": "carlsberg-pilsner",
+   "ad": "Carlsberg Pilsner",
+   "fab": "Carlsberg",
+   "ulke": "Danimarka",
+   "bolge": "Kopenhag",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 132.5,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/carlsberg-bira-fiyat",
+   "bul": "market",
+   "puan": 74,
+   "uz": "",
+   "not": "Kopenhag'ın simge lageri; Türkiye'de Türk Tuborg lisansla üretiyor"
+  },
+  {
+   "id": "carlsberg-elephant",
+   "ad": "Carlsberg Elephant",
+   "fab": "Carlsberg",
+   "ulke": "Danimarka",
+   "bolge": "Kopenhag",
+   "stil": "Strong Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.2,
+   "hacim": 50,
+   "tl": 170,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.habergazetesi.com.tr/carlsberg-bira-fiyat",
+   "bul": "market",
+   "puan": 73,
+   "uz": "",
+   "not": "Fil Kapısı'ndan adını alan güçlü, maltlı ve hafif tatlı lager"
+  },
+  {
+   "id": "tuborg-gron",
+   "ad": "Tuborg Grøn",
+   "fab": "Tuborg",
+   "ulke": "Danimarka",
+   "bolge": "Kopenhag",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.6,
+   "hacim": 33,
+   "tl": 75,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 72,
+   "uz": "",
+   "not": "Danimarka'nın yeşil etiketli orijinal Tuborg pilsneri; hafif ve çok içimli"
+  },
+  {
+   "id": "tuborg-julebryg",
+   "ad": "Tuborg Julebryg",
+   "fab": "Tuborg",
+   "ulke": "Danimarka",
+   "bolge": "Kopenhag",
+   "stil": "Dark Lager (Christmas)",
+   "aile": "Koyu Lager & Bock",
+   "abv": 5.6,
+   "hacim": 33,
+   "tl": 85,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 76,
+   "uz": "",
+   "not": "Kasım'daki 'J-Dag' ile çıkan, karamel ve meyankökü notalı Noel lageri"
+  },
+  {
+   "id": "mikkeller-beer-geek-breakfast",
+   "ad": "Mikkeller Beer Geek Breakfast",
+   "fab": "Mikkeller",
+   "ulke": "Danimarka",
+   "bolge": "Kopenhag",
+   "stil": "Oatmeal Coffee Stout",
+   "aile": "Stout & Porter",
+   "abv": 7.5,
+   "hacim": 33,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 92,
+   "uz": "RateBeer 2006 dünyanın en iyi stout'u",
+   "not": "Yulaf ve kahveyle mayalanan, Mikkeller'i dünyaya tanıtan ikonik stout"
+  },
+  {
+   "id": "to-ol-gose-to-hollywood",
+   "ad": "To Øl Gose to Hollywood",
+   "fab": "To Øl",
+   "ulke": "Danimarka",
+   "bolge": "Zelanda",
+   "stil": "Gose",
+   "aile": "Ekşi & Vahşi",
+   "abv": 3.8,
+   "hacim": 33,
+   "tl": 360,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 85,
+   "uz": "",
+   "not": "Tuz, kişniş ve greyfurtla hafif ekşi, ferahlatıcı modern gose"
+  },
+  {
+   "id": "nogne-o-imperial-stout",
+   "ad": "Nøgne Ø Imperial Stout",
+   "fab": "Nøgne Ø",
+   "ulke": "Norveç",
+   "bolge": "Agder",
+   "stil": "Russian Imperial Stout",
+   "aile": "Stout & Porter",
+   "abv": 9.0,
+   "hacim": 50,
+   "tl": 450,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 89,
+   "uz": "",
+   "not": "İskandinav craft öncüsünden yoğun kavrulmuş malt, kahve ve bitter çikolata"
+  },
+  {
+   "id": "nogne-o-india-pale-ale",
+   "ad": "Nøgne Ø India Pale Ale",
+   "fab": "Nøgne Ø",
+   "ulke": "Norveç",
+   "bolge": "Agder",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 7.5,
+   "ibu": 60,
+   "hacim": 50,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 86,
+   "uz": "",
+   "not": "Norveç craft devriminin klasik, reçineli ve narenciyeli IPA'sı"
+  },
+  {
+   "id": "lervig-lucky-jack",
+   "ad": "Lervig Lucky Jack",
+   "fab": "Lervig",
+   "ulke": "Norveç",
+   "bolge": "Rogaland",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 4.7,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 85,
+   "uz": "",
+   "not": "Stavanger'dan tropik meyveli, düşük alkollü ve çok içimli pale ale"
+  },
+  {
+   "id": "lervig-konrads-stout",
+   "ad": "Lervig Konrads Stout",
+   "fab": "Lervig",
+   "ulke": "Norveç",
+   "bolge": "Rogaland",
+   "stil": "Imperial Stout",
+   "aile": "Stout & Porter",
+   "abv": 10.4,
+   "hacim": 33,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 88,
+   "uz": "",
+   "not": "Yağlı gövdeli, kahve ve bitter çikolata dolu ödüllü imperial stout"
+  },
+  {
+   "id": "omnipollo-noa-pecan-mud-cake",
+   "ad": "Omnipollo Noa Pecan Mud Cake Stout",
+   "fab": "Omnipollo",
+   "ulke": "İsveç",
+   "bolge": "Stockholm",
+   "stil": "Pastry Imperial Stout",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": 11.0,
+   "hacim": 33,
+   "tl": 520,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "uz": "RateBeer en iyi 100",
+   "not": "Pekan cevizi ve kek hamuru tadında, tatlı 'pastry stout' akımının ikonu"
+  },
+  {
+   "id": "omnipollo-zodiak",
+   "ad": "Omnipollo Zodiak",
+   "fab": "Omnipollo",
+   "ulke": "İsveç",
+   "bolge": "Stockholm",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.2,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 84,
+   "uz": "",
+   "not": "Omnipollo'nun ilk birası; reçine ve narenciye dengeli, kuru IPA"
+  },
+  {
+   "id": "koff-porter",
+   "ad": "Sinebrychoff Porter",
+   "fab": "Sinebrychoff",
+   "ulke": "Finlandiya",
+   "bolge": "Uusimaa",
+   "stil": "Baltic Porter",
+   "aile": "Stout & Porter",
+   "abv": 7.2,
+   "hacim": 33,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 86,
+   "uz": "",
+   "not": "Kırım Savaşı döneminden kalma tarifli, kahve-likör notalı Baltık porter"
+  },
+  {
+   "id": "lapin-kulta",
+   "ad": "Lapin Kulta",
+   "fab": "Hartwall",
+   "ulke": "Finlandiya",
+   "bolge": "Uusimaa",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 80,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 71,
+   "uz": "",
+   "not": "'Laponya altını'; Finlandiya'nın en tanınan, yumuşak ve sade lageri"
+  },
+  {
+   "id": "lammin-sahti",
+   "ad": "Lammin Sahti",
+   "fab": "Lammin Sahti",
+   "ulke": "Finlandiya",
+   "bolge": "Kanta-Häme",
+   "stil": "Sahti",
+   "aile": "Özel & Diğer",
+   "abv": 7.5,
+   "hacim": 50,
+   "tl": 400,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Ardıç dalından süzülen, şerbetçiotsuz Fin köy birası; muz ve ekmek"
+  },
+  {
+   "id": "einstok-icelandic-white-ale",
+   "ad": "Einstök Icelandic White Ale",
+   "fab": "Einstök",
+   "ulke": "İzlanda",
+   "bolge": "Akureyri",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.2,
+   "hacim": 33,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kutup dairesi yakınından portakal kabuğu ve kişnişli Belçika usulü wit"
+  },
+  {
+   "id": "einstok-arctic-pale-ale",
+   "ad": "Einstök Icelandic Arctic Pale Ale",
+   "fab": "Einstök",
+   "ulke": "İzlanda",
+   "bolge": "Akureyri",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.6,
+   "hacim": 33,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 80,
+   "uz": "",
+   "not": "Buzul suyuyla yapılan, çam ve narenciye notalı dengeli pale ale"
+  },
+  {
+   "id": "peroni-nastro-azzurro",
+   "ad": "Peroni Nastro Azzurro",
+   "fab": "Peroni",
+   "ulke": "İtalya",
+   "bolge": "Lazio",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 75,
+   "uz": "",
+   "not": "Mısır katkılı, kuru ve ferah İtalyan lageri; Türkiye'de premium raflarda"
+  },
+  {
+   "id": "peroni-gran-riserva-doppio-malto",
+   "ad": "Peroni Gran Riserva Doppio Malto",
+   "fab": "Peroni",
+   "ulke": "İtalya",
+   "bolge": "Lazio",
+   "stil": "Helles Bock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 6.6,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 79,
+   "uz": "",
+   "not": "Çift malt oranlı, bal ve bisküvi notalı dolgun premium lager"
+  },
+  {
+   "id": "birra-moretti-lautentica",
+   "ad": "Birra Moretti L'Autentica",
+   "fab": "Birra Moretti",
+   "ulke": "İtalya",
+   "bolge": "Friuli",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.6,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 74,
+   "uz": "",
+   "not": "Bıyıklı adam etiketli Friuli klasiği; hafif malt ve hafif bitterlik"
+  },
+  {
+   "id": "birra-moretti-la-rossa",
+   "ad": "Birra Moretti La Rossa",
+   "fab": "Birra Moretti",
+   "ulke": "İtalya",
+   "bolge": "Friuli",
+   "stil": "Doppelbock",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.2,
+   "hacim": 33,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 78,
+   "uz": "",
+   "not": "Kavrulmuş malt ve karamelli, kırmızımsı güçlü İtalyan doppelbock'u"
+  },
+  {
+   "id": "menabrea-bionda",
+   "ad": "Menabrea Bionda",
+   "fab": "Menabrea",
+   "ulke": "İtalya",
+   "bolge": "Piemonte",
+   "stil": "Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 33,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 79,
+   "uz": "World Beer Championships altın (çok kez)",
+   "not": "Alplerin eteğindeki Biella'dan zarif, çiçeksi ve yumuşak lager"
+  },
+  {
+   "id": "baladin-isaac",
+   "ad": "Baladin Isaac",
+   "fab": "Baladin",
+   "ulke": "İtalya",
+   "bolge": "Piemonte",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 400,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 83,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "İtalyan craft devriminin babası Teo Musso'nun ilk birası; narenciyeli wit"
+  },
+  {
+   "id": "baladin-nora",
+   "ad": "Baladin Nora",
+   "fab": "Baladin",
+   "ulke": "İtalya",
+   "bolge": "Piemonte",
+   "stil": "Spiced Ale (Antik Mısır esinli)",
+   "aile": "Özel & Diğer",
+   "abv": 6.8,
+   "hacim": 33,
+   "tl": 420,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 84,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Kamut buğdayı, zencefil ve mür reçinesiyle antik Mısır esinli baharatlı ale"
+  },
+  {
+   "id": "birrificio-italiano-tipopils",
+   "ad": "Birrificio Italiano Tipopils",
+   "fab": "Birrificio Italiano",
+   "ulke": "İtalya",
+   "bolge": "Lombardiya",
+   "stil": "Italian Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "ibu": 35,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "'Italian Pils' stilinin doğduğu bira",
+   "not": "Dry-hop'lu, çiçeksi ve kuru; dünyaya 'Italian Pils' stilini kazandıran bira"
+  },
+  {
+   "id": "birra-del-borgo-reale",
+   "ad": "Birra del Borgo ReAle",
+   "fab": "Birra del Borgo",
+   "ulke": "İtalya",
+   "bolge": "Lazio",
+   "stil": "Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.4,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 84,
+   "uz": "",
+   "not": "Belçika mayası ve Amerikan şerbetçiotu buluşan, İtalyan craft'ın kült pale ale'i"
+  },
+  {
+   "id": "ichnusa-non-filtrata",
+   "ad": "Ichnusa Non Filtrata",
+   "fab": "Ichnusa",
+   "ulke": "İtalya",
+   "bolge": "Sardinya",
+   "stil": "Unfiltered Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 78,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Sardinya'nın gururu; filtresiz, ekmeksi ve hafif meyvemsi lager"
+  },
+  {
+   "id": "estrella-damm",
+   "ad": "Estrella Damm",
+   "fab": "Damm",
+   "ulke": "İspanya",
+   "bolge": "Katalonya",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.4,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 74,
+   "uz": "",
+   "not": "Barselona'nın Akdeniz lageri; arpa, pirinç ve şerbetçiotuyla ferah"
+  },
+  {
+   "id": "voll-damm-doble-malta",
+   "ad": "Voll-Damm Doble Malta",
+   "fab": "Damm",
+   "ulke": "İspanya",
+   "bolge": "Katalonya",
+   "stil": "Märzen",
+   "aile": "Koyu Lager & Bock",
+   "abv": 7.2,
+   "hacim": 33,
+   "tl": 180,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 80,
+   "uz": "",
+   "not": "Çift maltlı, karamel ve kuru meyveli güçlü Märzen"
+  },
+  {
+   "id": "mahou-cinco-estrellas",
+   "ad": "Mahou Cinco Estrellas",
+   "fab": "Mahou",
+   "ulke": "İspanya",
+   "bolge": "Madrid",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.5,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 74,
+   "uz": "",
+   "not": "Madrid'in barlarının vazgeçilmezi; dolgun gövdeli, hafif bitter lager"
+  },
+  {
+   "id": "alhambra-reserva-1925",
+   "ad": "Alhambra Reserva 1925",
+   "fab": "Alhambra",
+   "ulke": "İspanya",
+   "bolge": "Endülüs",
+   "stil": "Premium Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 6.4,
+   "hacim": 33,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 82,
+   "uz": "",
+   "not": "Yeşil kabartmalı şişesiyle Granada'dan bal ve malt yoğun premium lager"
+  },
+  {
+   "id": "estrella-galicia-especial",
+   "ad": "Estrella Galicia Especial",
+   "fab": "Hijos de Rivera",
+   "ulke": "İspanya",
+   "bolge": "Galiçya",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.5,
+   "hacim": 33,
+   "tl": 160,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 76,
+   "uz": "",
+   "not": "A Coruña'nın aile birası; uzun mayşe ve dengeli bitterlikle gövdeli lager"
+  },
+  {
+   "id": "estrella-galicia-1906-reserva-especial",
+   "ad": "1906 Reserva Especial",
+   "fab": "Hijos de Rivera",
+   "ulke": "İspanya",
+   "bolge": "Galiçya",
+   "stil": "Premium Lager",
+   "aile": "Koyu Lager & Bock",
+   "abv": 6.5,
+   "hacim": 33,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 81,
+   "uz": "",
+   "not": "Kavrulmuş malt ve karamelli, 1906 tarifinden esinli dolgun lager"
+  },
+  {
+   "id": "super-bock-original",
+   "ad": "Super Bock Original",
+   "fab": "Super Bock",
+   "ulke": "Portekiz",
+   "bolge": "Porto",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 33,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 73,
+   "uz": "",
+   "not": "Portekiz'in en çok satan birası; temiz, hafif maltlı ve kuru"
+  },
+  {
+   "id": "sagres-cerveja",
+   "ad": "Sagres Cerveja",
+   "fab": "Sagres",
+   "ulke": "Portekiz",
+   "bolge": "Lizbon",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 115,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 72,
+   "uz": "",
+   "not": "Lizbon'un sahil lageri; hafif, gazlı ve içimi kolay"
+  },
+  {
+   "id": "zywiec",
+   "ad": "Żywiec",
+   "fab": "Żywiec",
+   "ulke": "Polonya",
+   "bolge": "Güney Polonya",
+   "stil": "Euro Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.6,
+   "hacim": 50,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 74,
+   "uz": "",
+   "not": "Dans eden Krakov çiftli etiketiyle Polonya'nın en bilinen lageri"
+  },
+  {
+   "id": "tyskie-gronie",
+   "ad": "Tyskie Gronie",
+   "fab": "Tyskie",
+   "ulke": "Polonya",
+   "bolge": "Güney Polonya",
+   "stil": "Euro Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 125,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 73,
+   "uz": "",
+   "not": "1629'dan beri Tychy'de; yumuşak maltlı, Polonya'nın pazar lideri"
+  },
+  {
+   "id": "zywiec-porter",
+   "ad": "Żywiec Porter",
+   "fab": "Żywiec",
+   "ulke": "Polonya",
+   "bolge": "Güney Polonya",
+   "stil": "Baltic Porter",
+   "aile": "Stout & Porter",
+   "abv": 9.5,
+   "hacim": 50,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "uz": "",
+   "not": "1881'den beri; kuru erik, kahve ve meyankökü dolu klasik Baltık porter"
+  },
+  {
+   "id": "okocim-porter",
+   "ad": "Okocim Porter",
+   "fab": "Okocim",
+   "ulke": "Polonya",
+   "bolge": "Güney Polonya",
+   "stil": "Baltic Porter",
+   "aile": "Stout & Porter",
+   "abv": 8.1,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 83,
+   "uz": "",
+   "not": "Brzesko'dan kakao ve karamelli, yumuşak içimli Baltık porter"
+  },
+  {
+   "id": "pinta-atak-chmielu",
+   "ad": "Pinta Atak Chmielu",
+   "fab": "Pinta",
+   "ulke": "Polonya",
+   "bolge": "Güney Polonya",
+   "stil": "American IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 6.1,
+   "hacim": 50,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 83,
+   "uz": "",
+   "not": "2011'de Polonya craft devrimini başlatan 'Şerbetçiotu Saldırısı'"
+  },
+  {
+   "id": "svyturys-ekstra",
+   "ad": "Švyturys Ekstra",
+   "fab": "Švyturys",
+   "ulke": "Litvanya",
+   "bolge": "Klaipėda",
+   "stil": "Dortmunder Export",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 77,
+   "uz": "",
+   "not": "Litvanya'nın en eski fabrikasından dengeli, hafif çiçeksi export lager"
+  },
+  {
+   "id": "saku-originaal",
+   "ad": "Saku Originaal",
+   "fab": "Saku",
+   "ulke": "Estonya",
+   "bolge": "Harju",
+   "stil": "Euro Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "hacim": 50,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 72,
+   "uz": "",
+   "not": "Estonya'nın 1820'den kalma fabrikasının sade, çok içimli lageri"
+  },
+  {
+   "id": "valmiermuizas-gaisais",
+   "ad": "Valmiermuižas Gaišais",
+   "fab": "Valmiermuižas",
+   "ulke": "Letonya",
+   "bolge": "Vidzeme",
+   "stil": "Unfiltered Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.2,
+   "hacim": 50,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 79,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Filtresiz, ekmeksi Letonya çiftlik lageri; Riga barlarının favorisi"
+  },
+  {
+   "id": "baltika-3-classic",
+   "ad": "Baltika No. 3 Classic",
+   "fab": "Baltika",
+   "ulke": "Rusya",
+   "bolge": "St. Petersburg",
+   "stil": "Euro Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 50,
+   "tl": 100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Numaralı serinin klasiği; Carlsberg 2024'te çıktı, artık Rus VG Invest'te"
+  },
+  {
+   "id": "baltika-6-porter",
+   "ad": "Baltika No. 6 Porter",
+   "fab": "Baltika",
+   "ulke": "Rusya",
+   "bolge": "St. Petersburg",
+   "stil": "Baltic Porter",
+   "aile": "Stout & Porter",
+   "abv": 7.0,
+   "hacim": 50,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 76,
+   "uz": "",
+   "not": "Kavrulmuş malt ve karamelli, uygun fiyatlı tatlımsı Baltık porter"
+  },
+  {
+   "id": "obolon-premium-extra-brew",
+   "ad": "Obolon Premium Extra Brew",
+   "fab": "Obolon",
+   "ulke": "Ukrayna",
+   "bolge": "Kiev",
+   "stil": "Euro Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.6,
+   "hacim": 50,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "Kiev'in bağımsız devi; savaşa rağmen üretimi ve ihracatı sürüyor"
+  },
+  {
+   "id": "lvivske-1715",
+   "ad": "Lvivske 1715",
+   "fab": "Lvivska Pivovarnia",
+   "ulke": "Ukrayna",
+   "bolge": "Lviv",
+   "stil": "Euro Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "hacim": 50,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 71,
+   "uz": "",
+   "not": "Ukrayna'nın en eski fabrikasından (1715) hafif bitter, temiz lager"
+  },
+  {
+   "id": "mythos",
+   "ad": "Mythos",
+   "fab": "Mythos Brewery",
+   "ulke": "Yunanistan",
+   "bolge": "Selanik",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "hacim": 33,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 72,
+   "uz": "",
+   "not": "Yunanistan'ın en çok satan lageri; tatil ve mezeyle özdeşleşmiş hafif bira"
+  },
+  {
+   "id": "fix-hellas",
+   "ad": "Fix Hellas",
+   "fab": "Olympic Brewery",
+   "ulke": "Yunanistan",
+   "bolge": "Attika",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 72,
+   "uz": "",
+   "not": "1864'te Bavyeralı Fuchs ailesinin kurduğu ilk Yunan birasının mirası"
+  },
+  {
+   "id": "alfa-hellenic-lager",
+   "ad": "Alfa",
+   "fab": "Athenian Brewery",
+   "ulke": "Yunanistan",
+   "bolge": "Attika",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 72,
+   "uz": "",
+   "not": "Yerli Yunan arpasıyla yapılan, temiz ve hafif maltlı lager"
+  },
+  {
+   "id": "septem-sundays-honey",
+   "ad": "Septem Sunday's Honey Golden Ale",
+   "fab": "Septem",
+   "ulke": "Yunanistan",
+   "bolge": "Eğriboz",
+   "stil": "Golden Ale (ballı)",
+   "aile": "Özel & Diğer",
+   "abv": 5.2,
+   "hacim": 33,
+   "tl": 250,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 80,
+   "uz": "",
+   "not": "Eğriboz'dan Yunan çam balıyla tatlanan çiçeksi golden ale"
+  },
+  {
+   "id": "vergina-lager",
+   "ad": "Vergina Lager",
+   "fab": "Macedonia-Thrace Brewery",
+   "ulke": "Yunanistan",
+   "bolge": "Trakya",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 73,
+   "uz": "",
+   "not": "Gümülcine'den Yunan butik lager markası; hafif ve ferah"
+  },
+  {
+   "id": "keo",
+   "ad": "KEO",
+   "fab": "KEO",
+   "ulke": "Kıbrıs",
+   "bolge": "Limasol",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 71,
+   "uz": "",
+   "not": "Limasol'un 1951'den beri ada birası; hafif, gazlı ve sıcak hava dostu"
+  },
+  {
+   "id": "natakhtari-lager",
+   "ad": "Natakhtari Lager",
+   "fab": "Natakhtari",
+   "ulke": "Gürcistan",
+   "bolge": "Mtskheta",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 50,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "Gürcistan'ın en sevilen lageri; Natakhtari kaynak suyuyla yapılır"
+  },
+  {
+   "id": "asahi-super-dry",
+   "ad": "Asahi Super Dry",
+   "fab": "Asahi",
+   "ulke": "Japonya",
+   "bolge": "Tokyo",
+   "stil": "Japanese Rice Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 160,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 75,
+   "uz": "",
+   "not": "1987'de 'karakuchi' (kuru) devrimini başlatan, çok kuru ve keskin lager"
+  },
+  {
+   "id": "sapporo-premium",
+   "ad": "Sapporo Premium",
+   "fab": "Sapporo",
+   "ulke": "Japonya",
+   "bolge": "Hokkaido",
+   "stil": "Japanese Rice Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "hacim": 50,
+   "tl": 190,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 74,
+   "uz": "",
+   "not": "Japonya'nın en eski bira markası; gümüş kutuda temiz ve yumuşak lager"
+  },
+  {
+   "id": "kirin-ichiban",
+   "ad": "Kirin Ichiban",
+   "fab": "Kirin",
+   "ulke": "Japonya",
+   "bolge": "Tokyo",
+   "stil": "Japanese Premium Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 170,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 76,
+   "uz": "",
+   "not": "Yalnızca ilk süzme şırayla yapılır; yumuşak, tahıllı ve temiz"
+  },
+  {
+   "id": "yebisu",
+   "ad": "Yebisu",
+   "fab": "Sapporo",
+   "ulke": "Japonya",
+   "bolge": "Tokyo",
+   "stil": "Dortmunder / Premium Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 35,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 80,
+   "uz": "",
+   "not": "%100 malt, Alman usulü; Ebisu semtine adını veren premium bira"
+  },
+  {
+   "id": "suntory-the-premium-malts",
+   "ad": "Suntory The Premium Malt's",
+   "fab": "Suntory",
+   "ulke": "Japonya",
+   "bolge": "Tokyo",
+   "stil": "German Pils",
+   "aile": "Lager & Pilsner",
+   "abv": 5.5,
+   "hacim": 35,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 79,
+   "uz": "Monde Selection Grand Gold (2005-07)",
+   "not": "Çiçeksi Saaz aroması ve kremsi köpükle tam maltlı Japon pilsneri"
+  },
+  {
+   "id": "hitachino-nest-white-ale",
+   "ad": "Hitachino Nest White Ale",
+   "fab": "Kiuchi Brewery",
+   "ulke": "Japonya",
+   "bolge": "Ibaraki",
+   "stil": "Witbier",
+   "aile": "Buğday",
+   "abv": 5.5,
+   "ibu": 13,
+   "hacim": 33,
+   "tl": 350,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "craft",
+   "puan": 86,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Baykuş etiketli; kişniş, muskat ve portakalla Japon craft ikonu"
+  },
+  {
+   "id": "coedo-shiro",
+   "ad": "Coedo Shiro",
+   "fab": "Coedo",
+   "ulke": "Japonya",
+   "bolge": "Saitama",
+   "stil": "Hefeweizen",
+   "aile": "Buğday",
+   "abv": 5.5,
+   "hacim": 33,
+   "tl": 300,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 81,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "'Beyaz'; Kawagoe'den muz ve karanfil notalı yumuşak buğday birası"
+  },
+  {
+   "id": "coedo-beniaka",
+   "ad": "Coedo Beniaka",
+   "fab": "Coedo",
+   "ulke": "Japonya",
+   "bolge": "Saitama",
+   "stil": "Imperial Amber Lager (tatlı patatesli)",
+   "aile": "Özel & Diğer",
+   "abv": 7.0,
+   "hacim": 33,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 82,
+   "uz": "",
+   "not": "Kawagoe'nin kavrulmuş tatlı patatesiyle yapılan kızıl, karamelli lager"
+  },
+  {
+   "id": "tsingtao",
+   "ad": "Tsingtao",
+   "fab": "Tsingtao",
+   "ulke": "Çin",
+   "bolge": "Shandong",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 72,
+   "uz": "",
+   "not": "1903'te Alman yerleşimcilerin kurduğu fabrika; pirinçli, hafif lager"
+  },
+  {
+   "id": "harbin",
+   "ad": "Harbin Lager",
+   "fab": "Harbin",
+   "ulke": "Çin",
+   "bolge": "Heilongjiang",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 33,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Çin'in en eski fabrikasından (1900) çok hafif, sade lager"
+  },
+  {
+   "id": "singha",
+   "ad": "Singha",
+   "fab": "Boon Rawd",
+   "ulke": "Tayland",
+   "bolge": "Bangkok",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 160,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "market",
+   "puan": 73,
+   "uz": "",
+   "not": "Tayland'ın ilk yerli birası (1933); dolgun maltlı, hafif bitter"
+  },
+  {
+   "id": "chang-classic",
+   "ad": "Chang Classic",
+   "fab": "ThaiBev",
+   "ulke": "Tayland",
+   "bolge": "Bangkok",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "Fil logolu Tay lageri; pirinçli, hafif ve baharatlı yemek dostu"
+  },
+  {
+   "id": "saigon-special",
+   "ad": "Saigon Special",
+   "fab": "Sabeco",
+   "ulke": "Vietnam",
+   "bolge": "Ho Chi Minh",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "hacim": 33,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "Yeşil şişeli Vietnam klasiği; sokak yemekleriyle buz gibi içilir"
+  },
+  {
+   "id": "tiger",
+   "ad": "Tiger",
+   "fab": "Asia Pacific Breweries",
+   "ulke": "Singapur",
+   "bolge": "Singapur",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "1932'den beri Singapur'un simgesi; hafif, gazlı tropik lager"
+  },
+  {
+   "id": "beerlao-lager",
+   "ad": "Beerlao Lager",
+   "fab": "Lao Brewery",
+   "ulke": "Laos",
+   "bolge": "Vientiane",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 74,
+   "uz": "",
+   "not": "Yasemin pirinciyle yapılan, Asya'nın en beğenilen lagerlerinden"
+  },
+  {
+   "id": "kingfisher-premium",
+   "ad": "Kingfisher Premium",
+   "fab": "United Breweries",
+   "ulke": "Hindistan",
+   "bolge": "Karnataka",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 33,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Hindistan'ın en çok satan birası; köri restoranlarının klasiği"
+  },
+  {
+   "id": "cass-fresh",
+   "ad": "Cass Fresh",
+   "fab": "OB",
+   "ulke": "Güney Kore",
+   "bolge": "Seul",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 35,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 67,
+   "uz": "",
+   "not": "Kore'nin pazar lideri; 'somaek' (soju+bira) kokteylinin temel birası"
+  },
+  {
+   "id": "san-miguel-pale-pilsen",
+   "ad": "San Miguel Pale Pilsen",
+   "fab": "San Miguel",
+   "ulke": "Filipinler",
+   "bolge": "Manila",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 71,
+   "uz": "",
+   "not": "1890'dan beri Manila'da; Asya'nın en eski bira markalarından"
+  },
+  {
+   "id": "coopers-sparkling-ale",
+   "ad": "Coopers Sparkling Ale",
+   "fab": "Coopers",
+   "ulke": "Avustralya",
+   "bolge": "Güney Avustralya",
+   "stil": "Australian Sparkling Ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 5.8,
+   "hacim": 37.5,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 82,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Şişede mayalı, bulanık Avustralya klasiği; meyvemsi ve kuru"
+  },
+  {
+   "id": "coopers-best-extra-stout",
+   "ad": "Coopers Best Extra Stout",
+   "fab": "Coopers",
+   "ulke": "Avustralya",
+   "bolge": "Güney Avustralya",
+   "stil": "Foreign Extra Stout",
+   "aile": "Stout & Porter",
+   "abv": 6.3,
+   "hacim": 37.5,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 83,
+   "uz": "",
+   "not": "Şişede mayalı, kahve ve meyankökü notalı sağlam extra stout"
+  },
+  {
+   "id": "little-creatures-pale-ale",
+   "ad": "Little Creatures Pale Ale",
+   "fab": "Little Creatures",
+   "ulke": "Avustralya",
+   "bolge": "Batı Avustralya",
+   "stil": "American Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 5.2,
+   "hacim": 33,
+   "tl": 220,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 83,
+   "uz": "",
+   "not": "Fremantle'dan; Avustralya'yı Amerikan tarzı pale ale ile tanıştıran bira"
+  },
+  {
+   "id": "victoria-bitter",
+   "ad": "Victoria Bitter",
+   "fab": "Carlton & United Breweries",
+   "ulke": "Avustralya",
+   "bolge": "Victoria",
+   "stil": "Australian Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "hacim": 37.5,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "'VB'; adı bitter ama Avustralya işçi sınıfının tipik lageri"
+  },
+  {
+   "id": "fosters-lager",
+   "ad": "Foster's Lager",
+   "fab": "Carlton & United Breweries",
+   "ulke": "Avustralya",
+   "bolge": "Victoria",
+   "stil": "Australian Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.0,
+   "hacim": 50,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 65,
+   "uz": "",
+   "not": "Yurt dışında Avustralya'nın simgesi, evinde ise az içilen hafif lager"
+  },
+  {
+   "id": "stone-wood-pacific-ale",
+   "ad": "Stone & Wood Pacific Ale",
+   "fab": "Stone & Wood",
+   "ulke": "Avustralya",
+   "bolge": "Yeni Güney Galler",
+   "stil": "Australian Pale Ale",
+   "aile": "Pale Ale & IPA",
+   "abv": 4.4,
+   "hacim": 33,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 85,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Byron Bay'den Galaxy şerbetçiotlu, çarkıfelek kokulu bulanık ale"
+  },
+  {
+   "id": "garage-project-pernicious-weed",
+   "ad": "Garage Project Pernicious Weed",
+   "fab": "Garage Project",
+   "ulke": "Yeni Zelanda",
+   "bolge": "Wellington",
+   "stil": "Double IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.0,
+   "hacim": 33,
+   "tl": 380,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 87,
+   "uz": "",
+   "not": "Wellington'ın deney meraklısı fabrikasından tropik ve reçineli DIPA"
+  },
+  {
+   "id": "steinlager-classic",
+   "ad": "Steinlager Classic",
+   "fab": "Lion",
+   "ulke": "Yeni Zelanda",
+   "bolge": "Auckland",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 71,
+   "uz": "",
+   "not": "Yeşil şişeli Yeni Zelanda lageri; hafif bitter ve kuru"
+  },
+  {
+   "id": "quilmes-cristal",
+   "ad": "Quilmes Cristal",
+   "fab": "Quilmes",
+   "ulke": "Arjantin",
+   "bolge": "Buenos Aires",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.9,
+   "hacim": 33,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Arjantin bayrağı renkli etiketiyle asado sofralarının birası"
+  },
+  {
+   "id": "brahma-chopp",
+   "ad": "Brahma Chopp",
+   "fab": "Brahma",
+   "ulke": "Brezilya",
+   "bolge": "Rio de Janeiro",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.8,
+   "hacim": 35,
+   "tl": 110,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 66,
+   "uz": "",
+   "not": "Brezilya'nın en bilinen lageri; çok soğuk, çok hafif"
+  },
+  {
+   "id": "kaiser",
+   "ad": "Kaiser",
+   "fab": "Kaiser",
+   "ulke": "Brezilya",
+   "bolge": "Minas Gerais",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 35,
+   "tl": 100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 62,
+   "uz": "",
+   "not": "Heineken'e ait Brezilya halk birası; sade ve ucuz"
+  },
+  {
+   "id": "cusquena-dorada",
+   "ad": "Cusqueña Dorada",
+   "fab": "Backus",
+   "ulke": "Peru",
+   "bolge": "Cusco",
+   "stil": "Premium Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 33,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 74,
+   "uz": "",
+   "not": "İnka duvarı motifli; And dağlarının yüksek rakımından %100 malt lager"
+  },
+  {
+   "id": "club-colombia-dorada",
+   "ad": "Club Colombia Dorada",
+   "fab": "Bavaria",
+   "ulke": "Kolombiya",
+   "bolge": "Bogota",
+   "stil": "Premium Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.7,
+   "hacim": 33,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 73,
+   "uz": "",
+   "not": "Altın İnka maskesi logolu, Kolombiya'nın premium tam malt lageri"
+  },
+  {
+   "id": "polar-pilsen",
+   "ad": "Polar Pilsen",
+   "fab": "Cervecería Polar",
+   "ulke": "Venezuela",
+   "bolge": "Caracas",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 22,
+   "tl": 100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 68,
+   "uz": "",
+   "not": "Kutup ayısı logolu, Venezuela'nın sıcağında küçük şişeden içilen lager"
+  },
+  {
+   "id": "castle-lager",
+   "ad": "Castle Lager",
+   "fab": "South African Breweries",
+   "ulke": "Güney Afrika",
+   "bolge": "Gauteng",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.0,
+   "hacim": 34,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "1895'ten beri Johannesburg'un altın madencilerinin birası"
+  },
+  {
+   "id": "tusker-lager",
+   "ad": "Tusker Lager",
+   "fab": "East African Breweries",
+   "ulke": "Kenya",
+   "bolge": "Nairobi",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.2,
+   "hacim": 50,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 70,
+   "uz": "",
+   "not": "Kurucuyu öldüren file adanmış; Kenya'nın ulusal birası"
+  },
+  {
+   "id": "star-lager",
+   "ad": "Star Lager",
+   "fab": "Nigerian Breweries",
+   "ulke": "Nijerya",
+   "bolge": "Lagos",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 5.1,
+   "hacim": 60,
+   "tl": 130,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 67,
+   "uz": "",
+   "not": "1949'dan beri Nijerya'nın ilk yerli birası; büyük şişede servis"
+  },
+  {
+   "id": "windhoek-lager",
+   "ad": "Windhoek Lager",
+   "fab": "Namibia Breweries",
+   "ulke": "Namibya",
+   "bolge": "Windhoek",
+   "stil": "Helles",
+   "aile": "Lager & Pilsner",
+   "abv": 4.0,
+   "hacim": 33,
+   "tl": 140,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 75,
+   "uz": "",
+   "not": "Alman saflık yasasına uygun, yalnızca malt-şerbetçiotu-suyla Afrika lageri"
+  },
+  {
+   "id": "st-george-lager",
+   "ad": "St. George",
+   "fab": "St. George Brewery",
+   "ulke": "Etiyopya",
+   "bolge": "Addis Ababa",
+   "stil": "International Pale Lager",
+   "aile": "Lager & Pilsner",
+   "abv": 4.5,
+   "hacim": 33,
+   "tl": 120,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "zor",
+   "puan": 67,
+   "uz": "",
+   "not": "1922'den beri Addis Ababa'da; Etiyopya'nın en eski birası"
+  }
+ ],
+ "fabrikalar": {
+  "Alhambra": {
+   "k": 1925,
+   "s": "Mahou San Miguel",
+   "y": "Granada, Endülüs, İspanya",
+   "stil": "Premium lager",
+   "h": "Granada'da 1925'te kuruldu; Reserva 1925'in kabartmalı yeşil şişesi İspanyol premium biranın simgesi oldu."
+  },
+  "Asahi": {
+   "k": 1889,
+   "s": "Asahi Group",
+   "y": "Tokyo, Japonya",
+   "stil": "Kuru Japon lageri",
+   "h": "Osaka'da doğan şirket, 1987'de Super Dry ile Japon bira pazarını altüst etti; bugün Peroni ve Pilsner Urquell de onun."
+  },
+  "Asia Pacific Breweries": {
+   "k": 1931,
+   "s": "Heineken",
+   "y": "Singapur",
+   "stil": "Lager",
+   "h": "Heineken ve Fraser & Neave ortaklığıyla kuruldu; Tiger 1932'den beri Singapur'un simgesi."
+  },
+  "Athenian Brewery": {
+   "k": 1963,
+   "s": "Heineken",
+   "y": "Atina, Attika, Yunanistan",
+   "stil": "Lager",
+   "h": "Yunanistan'ın en büyük bira üreticisi; Alfa yerli arpayla yapılan amiral marka."
+  },
+  "Backus": {
+   "k": 1879,
+   "s": "AB InBev",
+   "y": "Lima (Cusqueña Cusco'da), Peru",
+   "stil": "Lager",
+   "h": "Amerikalılar Backus ve Johnston'ın kurduğu, Peru'nun bira devi; Cusqueña 1911'den beri Cusco'da."
+  },
+  "Baladin": {
+   "k": 1996,
+   "s": "Bağımsız",
+   "y": "Piozzo, Piemonte, İtalya",
+   "stil": "Belçika esinli ve deneysel ale",
+   "h": "Teo Musso'nun barında başlayan İtalyan craft devriminin sembolü; şarap şişesi şeklindeki biraları gastronomiye taşıdı."
+  },
+  "Baltika": {
+   "k": 1990,
+   "s": "VG Invest (Rusya)",
+   "y": "St. Petersburg, Rusya",
+   "stil": "Numaralı lager ve porter serisi",
+   "h": "Sovyetlerin son yıllarında kuruldu; Carlsberg 2022'de el koyulması sonrası 2024 sonunda payını Rus VG Invest'e satarak çıktı."
+  },
+  "Bavaria": {
+   "k": 1889,
+   "s": "AB InBev",
+   "y": "Bogota, Kolombiya",
+   "stil": "Lager",
+   "h": "Alman göçmen Leo Kopp'un kurduğu fabrika; Kolombiya bira pazarının neredeyse tamamı onun."
+  },
+  "Birra Moretti": {
+   "k": 1859,
+   "s": "Heineken",
+   "y": "Udine, Friuli, İtalya",
+   "stil": "Lager ve bock",
+   "h": "Luigi Moretti'nin Udine'de kurduğu fabrika; şapkalı bıyıklı adam etiketi 1942'den kalma. 1996'dan beri Heineken bünyesinde."
+  },
+  "Birra del Borgo": {
+   "k": 2005,
+   "s": "AB InBev",
+   "y": "Borgorose, Lazio, İtalya",
+   "stil": "Pale ale, deneysel ale",
+   "h": "Leonardo Di Vincenzo'nun kurduğu, ReAle ile kült olan fabrika; 2016'da AB InBev'e satıldı."
+  },
+  "Birrificio Italiano": {
+   "k": 1994,
+   "s": "Bağımsız",
+   "y": "Limido Comasco, Lombardiya, İtalya",
+   "stil": "Italian Pilsner, lager",
+   "h": "Agostino Arioli'nin brewpub'ı; dry-hop'lu Tipopils ile dünya çapında 'Italian Pils' stilini doğurdu."
+  },
+  "Boon Rawd": {
+   "k": 1933,
+   "s": "Bağımsız aile şirketi",
+   "y": "Bangkok, Tayland",
+   "stil": "Lager",
+   "h": "Tayland'ın ilk bira fabrikası; Singha markasındaki aslan Kraliyet onayının sembolü."
+  },
+  "Brahma": {
+   "k": 1888,
+   "s": "AB InBev (Ambev)",
+   "y": "Rio de Janeiro, Brezilya",
+   "stil": "Lager",
+   "h": "İsviçreli Joseph Villiger'in Rio'da kurduğu fabrika; Ambev'in ve dolayısıyla AB InBev'in temeli."
+  },
+  "Carlsberg": {
+   "k": 1847,
+   "s": "Carlsberg Group",
+   "y": "Kopenhag, Danimarka",
+   "stil": "Pilsner ve güçlü lager",
+   "h": "J.C. Jacobsen'in kurduğu fabrika, saf lager mayası Saccharomyces carlsbergensis'i 1883'te izole edip dünyayla paylaştı. Bugün dünyanın en büyük bira gruplarından biri."
+  },
+  "Carlton & United Breweries": {
+   "k": 1907,
+   "s": "Asahi Group",
+   "y": "Abbotsford, Victoria, Avustralya",
+   "stil": "Avustralya lageri",
+   "h": "Victoria Bitter ve Foster's'ı üreten Avustralya devi; 2020'den beri Asahi'nin."
+  },
+  "Cervecería Polar": {
+   "k": 1941,
+   "s": "Empresas Polar",
+   "y": "Caracas, Venezuela",
+   "stil": "Lager",
+   "h": "Mendoza ailesinin kurduğu Venezuela devi; ünlü mısır unu Harina P.A.N. de bu grubun."
+  },
+  "Coedo": {
+   "k": 1996,
+   "s": "Bağımsız",
+   "y": "Kawagoe, Saitama, Japonya",
+   "stil": "Alman esinli lager ve ale",
+   "h": "Kawagoe'nin 'küçük Edo' lakabından adını alan fabrika; tatlı patatesli Beniaka ile tanınır."
+  },
+  "Coopers": {
+   "k": 1862,
+   "s": "Bağımsız aile şirketi",
+   "y": "Adelaide, Güney Avustralya",
+   "stil": "Şişede mayalı ale ve stout",
+   "h": "Thomas Cooper'ın karısı için yaptığı ev birasıyla başlayan, Avustralya'nın en büyük yerli aile fabrikası."
+  },
+  "Damm": {
+   "k": 1876,
+   "s": "Bağımsız (Damm Grubu)",
+   "y": "Barselona, Katalonya, İspanya",
+   "stil": "Akdeniz lageri, Märzen",
+   "h": "Alsaslı August Kuentzmann Damm'ın Barselona'da kurduğu fabrika; Estrella Damm şehrin simgesi."
+  },
+  "East African Breweries": {
+   "k": 1922,
+   "s": "Diageo",
+   "y": "Nairobi, Kenya",
+   "stil": "Lager",
+   "h": "Tusker, kurucu George Hurst'ü öldüren filin anısına adlandırıldı; EABL bugün Diageo'nun."
+  },
+  "Einstök": {
+   "k": 2011,
+   "s": "Bağımsız",
+   "y": "Akureyri, İzlanda",
+   "stil": "Wit, pale ale, porter",
+   "h": "Kutup dairesinin 100 km güneyinde kurulu; buzul suyu ve Viking temalı etiketleriyle İzlanda birasını dünyaya tanıttı."
+  },
+  "Garage Project": {
+   "k": 2011,
+   "s": "Bağımsız",
+   "y": "Wellington, Yeni Zelanda",
+   "stil": "Deneysel IPA ve ekşiler",
+   "h": "Eski bir benzin istasyonunda kuruldu; ilk yıl her hafta yeni bir bira çıkararak ün yaptı."
+  },
+  "Harbin": {
+   "k": 1900,
+   "s": "AB InBev",
+   "y": "Harbin, Heilongjiang, Çin",
+   "stil": "Lager",
+   "h": "Rus-Polonyalı Jan Wróblewski'nin kurduğu, Çin'in en eski bira fabrikası."
+  },
+  "Hartwall": {
+   "k": 1836,
+   "s": "Royal Unibrew",
+   "y": "Lahti, Finlandiya",
+   "stil": "Lager",
+   "h": "Maden suyu üreticisi olarak doğdu; 1873'te Tornio'da doğan Lapin Kulta markasını bugün Lahti'de üretiyor."
+  },
+  "Hijos de Rivera": {
+   "k": 1906,
+   "s": "Bağımsız aile şirketi",
+   "y": "A Coruña, Galiçya, İspanya",
+   "stil": "Lager",
+   "h": "José María Rivera'nın Küba dönüşü kurduğu aile şirketi; Estrella Galicia bugün de dördüncü kuşak tarafından yönetiliyor."
+  },
+  "Ichnusa": {
+   "k": 1912,
+   "s": "Heineken",
+   "y": "Assemini, Sardinya, İtalya",
+   "stil": "Lager",
+   "h": "Sardinya adasının adını taşıyan bira; adalıların kimlik sembolü, filtresiz versiyonu İtalya'da çok sevildi."
+  },
+  "KEO": {
+   "k": 1951,
+   "s": "KEO plc",
+   "y": "Limasol, Kıbrıs",
+   "stil": "Lager",
+   "h": "Kıbrıs'ın ulusal biracısı; Limasol sahilindeki tarihi tesisinde bira ve şarap üretir."
+  },
+  "Kaiser": {
+   "k": 1982,
+   "s": "Heineken",
+   "y": "Divinópolis, Minas Gerais, Brezilya",
+   "stil": "Lager",
+   "h": "Coca-Cola şişeleyicilerinin kurduğu marka; 2010'dan beri Heineken Brezilya portföyünde."
+  },
+  "Kirin": {
+   "k": 1907,
+   "s": "Kirin Holdings",
+   "y": "Tokyo, Japonya",
+   "stil": "Lager",
+   "h": "1885'teki Japan Brewery'nin devamı; Ichiban Shibori yalnızca ilk süzme şırayla yapılır."
+  },
+  "Kiuchi Brewery": {
+   "k": 1823,
+   "s": "Bağımsız aile şirketi",
+   "y": "Naka, Ibaraki, Japonya",
+   "stil": "Wit, Japon craft ale",
+   "h": "Sake üreticisi olarak kurulan aile şirketi 1996'da Hitachino Nest birasıyla Japon craft sahnesinin yüzü oldu."
+  },
+  "Lammin Sahti": {
+   "k": 1987,
+   "s": "Bağımsız",
+   "y": "Lammi, Kanta-Häme, Finlandiya",
+   "stil": "Sahti",
+   "h": "Geleneksel Fin çiftlik birası sahti'yi ticari olarak üreten ilk fabrika; AB coğrafi korumalı geleneksel ürün listesinde."
+  },
+  "Lao Brewery": {
+   "k": 1973,
+   "s": "Carlsberg Group / Laos devleti",
+   "y": "Vientiane, Laos",
+   "stil": "Pirinçli lager",
+   "h": "Laos'un neredeyse tüm bira pazarını elinde tutan fabrika; Beerlao yasemin pirinciyle yapılır."
+  },
+  "Lervig": {
+   "k": 2003,
+   "s": "Bağımsız",
+   "y": "Stavanger, Rogaland, Norveç",
+   "stil": "Pale ale, imperial stout",
+   "h": "Yerel lager fabrikası olarak açıldı; Amerikalı bira ustası Mike Murphy'nin gelişiyle Avrupa'nın sayılı craft üreticilerine dönüştü."
+  },
+  "Lion": {
+   "k": 1923,
+   "s": "Kirin Holdings",
+   "y": "Auckland, Yeni Zelanda",
+   "stil": "Lager",
+   "h": "Steinlager'ı (1958) üreten Yeni Zelanda devi; bugün Japon Kirin'e ait."
+  },
+  "Little Creatures": {
+   "k": 2000,
+   "s": "Lion (Kirin)",
+   "y": "Fremantle, Batı Avustralya",
+   "stil": "Amerikan esinli pale ale",
+   "h": "Fremantle limanındaki eski timsah çiftliğinde açıldı; Avustralya craft akımının ilk büyük başarısı."
+  },
+  "Lvivska Pivovarnia": {
+   "k": 1715,
+   "s": "Carlsberg Ukraine",
+   "y": "Lviv, Ukrayna",
+   "stil": "Lager",
+   "h": "Cizvit rahiplerinin 1715'te kurduğu, Ukrayna'nın en eski fabrikası; içinde bira müzesi de var."
+  },
+  "Macedonia-Thrace Brewery": {
+   "k": 1998,
+   "s": "Bağımsız",
+   "y": "Gümülcine, Trakya, Yunanistan",
+   "stil": "Lager",
+   "h": "Vergina markasıyla bilinen Yunan bağımsız fabrikası; adını Makedonya'nın antik başkentinden alır."
+  },
+  "Mahou": {
+   "k": 1890,
+   "s": "Mahou San Miguel",
+   "y": "Madrid, İspanya",
+   "stil": "Lager",
+   "h": "Madrid'in yerli birası; Mahou San Miguel grubu bugün İspanya bira pazarının lideri."
+  },
+  "Menabrea": {
+   "k": 1846,
+   "s": "Forst Grubu",
+   "y": "Biella, Piemonte, İtalya",
+   "stil": "Helles ve ambrata lager",
+   "h": "İtalya'nın faal en eski fabrikalarından; Alpler'in eteğinde, ödüllü zarif lagerleriyle tanınır."
+  },
+  "Mikkeller": {
+   "k": 2006,
+   "s": "Bağımsız",
+   "y": "Kopenhag, Danimarka",
+   "stil": "Deneysel stout, IPA ve ekşiler",
+   "h": "Matematik öğretmeni Mikkel Borg Bjergsø'nun başlattığı 'gipsi' fabrika; uzun süre başkalarının tesislerinde üretip İskandinav craft sahnesini dünyaya taşıdı."
+  },
+  "Mythos Brewery": {
+   "k": 1997,
+   "s": "Carlsberg Group",
+   "y": "Sindos, Selanik, Yunanistan",
+   "stil": "Lager",
+   "h": "1997'de Selanik yakınında kurulan fabrika; Mythos kısa sürede Yunanistan'ın en tanınan lageri oldu."
+  },
+  "Namibia Breweries": {
+   "k": 1920,
+   "s": "Heineken / Ohlthaver & List",
+   "y": "Windhoek, Namibya",
+   "stil": "Reinheitsgebot lager",
+   "h": "Alman sömürge mirasıyla saflık yasasına bağlı kalan fabrika; Windhoek Lager Afrika'nın ödüllü lagerlerinden."
+  },
+  "Natakhtari": {
+   "k": 2004,
+   "s": "Efes Georgia (Anadolu Efes)",
+   "y": "Natakhtari, Mtskheta-Mtianeti, Gürcistan",
+   "stil": "Lager",
+   "h": "Ünlü Natakhtari limonata kaynağının yanında kurulan fabrika; Anadolu Efes'in Gürcistan'daki iştiraki."
+  },
+  "Nigerian Breweries": {
+   "k": 1946,
+   "s": "Heineken",
+   "y": "Lagos, Nijerya",
+   "stil": "Lager",
+   "h": "Nijerya'nın ilk modern bira fabrikası; Star 1949'da ilk yerli bira olarak çıktı."
+  },
+  "Nøgne Ø": {
+   "k": 2002,
+   "s": "Hansa Borg",
+   "y": "Grimstad, Agder, Norveç",
+   "stil": "Amerikan esinli IPA ve stout",
+   "h": "Adı 'çıplak ada' demek; iki pilotun kurduğu, Norveç'in ilk modern craft fabrikası. İskandinav craft hareketinin öncüsü."
+  },
+  "OB": {
+   "k": 1933,
+   "s": "AB InBev",
+   "y": "Seul, Güney Kore",
+   "stil": "Lager",
+   "h": "Oriental Brewery, Cass ile Kore'nin en çok satan bira markasını üretiyor."
+  },
+  "Obolon": {
+   "k": 1980,
+   "s": "Bağımsız (Ukrayna)",
+   "y": "Kiev, Ukrayna",
+   "stil": "Lager",
+   "h": "1980 Moskova Olimpiyatları için kuruldu; çalışanlarına özelleştirilen fabrika savaş koşullarında da üretimini sürdürüyor."
+  },
+  "Okocim": {
+   "k": 1845,
+   "s": "Carlsberg Polska",
+   "y": "Brzesko, Küçük Polonya, Polonya",
+   "stil": "Lager ve porter",
+   "h": "Bavyeralı Jan Ewangelista Goetz'in kurduğu tarihi fabrika; güçlü lager ve porterlarıyla bilinir."
+  },
+  "Olympic Brewery": {
+   "k": 1864,
+   "s": "Carlsberg Group",
+   "y": "Atina, Attika, Yunanistan",
+   "stil": "Lager",
+   "h": "Bavyeralı Johann Karl Fuchs'un Kral Otto döneminde kurduğu Fix markası, 2009'da yeniden canlandırıldı."
+  },
+  "Omnipollo": {
+   "k": 2011,
+   "s": "Bağımsız (gipsi)",
+   "y": "Stockholm, İsveç",
+   "stil": "Pastry stout, sour, IPA",
+   "h": "Bira ustası Henok Fentie ve sanatçı Karl Grandin'in kurduğu, sıra dışı etiketleri ve tatlı 'pastry' biralarıyla tanınan fabrikasız marka."
+  },
+  "Peroni": {
+   "k": 1846,
+   "s": "Asahi Group",
+   "y": "Roma, Lazio, İtalya",
+   "stil": "Lager",
+   "h": "Giovanni Peroni'nin Vigevano'da kurup Roma'ya taşıdığı fabrika; Nastro Azzurro 1963'ten beri İtalyan şıklığının simgesi. 2016'dan beri Asahi'nin."
+  },
+  "Pinta": {
+   "k": 2011,
+   "s": "Bağımsız",
+   "y": "Wieprz (Żywiec yakını), Polonya",
+   "stil": "IPA ve modern stiller",
+   "h": "Üç ev biracısının başlattığı marka; Atak Chmielu ile Polonya'da 'piwna rewolucja'yı (bira devrimi) ateşledi."
+  },
+  "Quilmes": {
+   "k": 1888,
+   "s": "AB InBev",
+   "y": "Quilmes, Buenos Aires, Arjantin",
+   "stil": "Lager",
+   "h": "Alman göçmen Otto Bemberg'in kurduğu fabrika; Arjantin'de bira neredeyse Quilmes ile eş anlamlı."
+  },
+  "Sabeco": {
+   "k": 1875,
+   "s": "ThaiBev",
+   "y": "Ho Chi Minh, Vietnam",
+   "stil": "Lager",
+   "h": "Fransız sömürge döneminde kurulan fabrika; Saigon ve 333 markalarıyla Vietnam'ın lideri."
+  },
+  "Sagres": {
+   "k": 1940,
+   "s": "Heineken (SCC)",
+   "y": "Vialonga, Lizbon, Portekiz",
+   "stil": "Lager",
+   "h": "Sociedade Central de Cervejas'ın 1940 Portekiz Dünya Sergisi için yarattığı marka; Super Bock'un ezeli rakibi."
+  },
+  "Saku": {
+   "k": 1820,
+   "s": "Carlsberg Group",
+   "y": "Saku, Harju, Estonya",
+   "stil": "Lager",
+   "h": "Kont Rehbinder'in malikanesinde kurulan fabrika; Estonya'nın en büyük bira üreticisi."
+  },
+  "San Miguel": {
+   "k": 1890,
+   "s": "San Miguel Corporation",
+   "y": "Manila, Filipinler",
+   "stil": "Lager",
+   "h": "İspanyol sömürge döneminde Manila'da kurulan, Güneydoğu Asya'nın ilk bira fabrikası."
+  },
+  "Sapporo": {
+   "k": 1876,
+   "s": "Sapporo Holdings",
+   "y": "Tokyo (köken Sapporo, Hokkaido), Japonya",
+   "stil": "Lager",
+   "h": "Meiji hükümetinin Hokkaido'da kurduğu ilk Japon bira fabrikası; Yebisu markası da bu gruba ait."
+  },
+  "Septem": {
+   "k": 2009,
+   "s": "Bağımsız",
+   "y": "Orologio, Eğriboz, Yunanistan",
+   "stil": "Ale ve ballı golden ale",
+   "h": "Haftanın günlerinden ilham alan biralarıyla Yunanistan'ın en çok ödül alan mikro fabrikalarından."
+  },
+  "Sinebrychoff": {
+   "k": 1819,
+   "s": "Carlsberg Group",
+   "y": "Kerava, Uusimaa, Finlandiya",
+   "stil": "Lager ve Baltık porter",
+   "h": "Rus tüccar Nikolai Sinebrychoff'un Helsinki'de kurduğu, Kuzey Avrupa'nın en eski fabrikalarından. Koff Porter'ı efsaneleşti."
+  },
+  "South African Breweries": {
+   "k": 1895,
+   "s": "AB InBev",
+   "y": "Johannesburg, Gauteng, Güney Afrika",
+   "stil": "Lager",
+   "h": "Altın madencileri için kurulan fabrika; SABMiller 2016'da AB InBev'e satılana dek dünyanın en büyüklerindendi."
+  },
+  "St. George Brewery": {
+   "k": 1922,
+   "s": "BGI Ethiopia (Castel)",
+   "y": "Addis Ababa, Etiyopya",
+   "stil": "Lager",
+   "h": "Belçikalı bir girişimcinin kurduğu, Etiyopya'nın ilk bira fabrikası."
+  },
+  "Stone & Wood": {
+   "k": 2008,
+   "s": "Lion (Kirin)",
+   "y": "Byron Bay, Yeni Güney Galler, Avustralya",
+   "stil": "Pacific Ale",
+   "h": "Byron Bay'de üç arkadaşın kurduğu fabrika; Galaxy şerbetçiotlu Pacific Ale ile yeni bir Avustralya stili yarattı."
+  },
+  "Suntory": {
+   "k": 1899,
+   "s": "Suntory Holdings",
+   "y": "Tokyo, Japonya",
+   "stil": "Premium pilsner",
+   "h": "Viski ve içecek devinin bira kolu; The Premium Malt's Japonya'nın en çok ödüllü pilsnerlerinden."
+  },
+  "Super Bock": {
+   "k": 1927,
+   "s": "Super Bock Group",
+   "y": "Leça do Balio, Porto, Portekiz",
+   "stil": "Lager",
+   "h": "Portekiz'in en çok satan birası; kuzeyin, Porto'nun gururu."
+  },
+  "ThaiBev": {
+   "k": 2003,
+   "s": "Thai Beverage",
+   "y": "Bangkok, Tayland",
+   "stil": "Lager",
+   "h": "Chang birası 1995'te çıktı ve ucuzluğuyla kısa sürede Tayland pazarının lideri oldu."
+  },
+  "To Øl": {
+   "k": 2010,
+   "s": "Bağımsız",
+   "y": "Svinninge, Zelanda, Danimarka",
+   "stil": "Gose, IPA, deneysel ale",
+   "h": "Mikkeller'in öğrencileri Tobias Emil Jensen ve Tore Gynther'in kurduğu marka; 2019'da eski bir gıda fabrikasını 'To Øl City'ye dönüştürdü."
+  },
+  "Tsingtao": {
+   "k": 1903,
+   "s": "Tsingtao Brewery",
+   "y": "Qingdao, Shandong, Çin",
+   "stil": "Lager",
+   "h": "Alman ve İngiliz yerleşimcilerin Qingdao'da kurduğu fabrika; Çin'in en tanınan ihraç birası."
+  },
+  "Tuborg": {
+   "k": 1873,
+   "s": "Carlsberg Group",
+   "y": "Kopenhag (Hellerup), Danimarka",
+   "stil": "Pilsner",
+   "h": "1873'te Hellerup limanında kuruldu, 1970'te Carlsberg ile birleşti. Yeşil etiketli Grøn ve Noel birası Julebryg Danimarka'da kült."
+  },
+  "Tyskie": {
+   "k": 1629,
+   "s": "Kompania Piwowarska (Asahi)",
+   "y": "Tychy, Silezya, Polonya",
+   "stil": "Lager",
+   "h": "Kayıtlara göre 1629'dan beri Tychy'de bira yapılıyor; Polonya'nın en çok satan markası."
+  },
+  "United Breweries": {
+   "k": 1915,
+   "s": "Heineken",
+   "y": "Bengaluru, Karnataka, Hindistan",
+   "stil": "Lager",
+   "h": "Hindistan pazarının lideri; Kingfisher dünyada Hint restoranlarının standart birası."
+  },
+  "Valmiermuižas": {
+   "k": 2009,
+   "s": "Bağımsız",
+   "y": "Valmiera, Vidzeme, Letonya",
+   "stil": "Filtresiz lager ve ale",
+   "h": "Tarihi bir malikane fabrikasını yeniden canlandıran aile işletmesi; Letonya'nın modern bira kültürünün öncülerinden."
+  },
+  "Švyturys": {
+   "k": 1784,
+   "s": "Carlsberg Group",
+   "y": "Klaipėda, Litvanya",
+   "stil": "Lager",
+   "h": "Adı 'deniz feneri'; Litvanya'nın en eski fabrikası, Baltık kıyısındaki Klaipėda'da."
+  },
+  "Żywiec": {
+   "k": 1856,
+   "s": "Heineken",
+   "y": "Żywiec, Silezya, Polonya",
+   "stil": "Lager ve Baltık porter",
+   "h": "Habsburg arşidükü Albrecht'in kurduğu fabrika; porter'ı Baltık porter stilinin referanslarından."
+  }
+ },
+ "bolgeler": {
+  "Arjantin|Buenos Aires": {
+   "k": "Arjantin'de bira, şarabın gölgesinde ama asado sofralarının vazgeçilmezi; Bariloche'de güçlü craft sahnesi.",
+   "t": "Quilmes 1888'de Alman göçmen Otto Bemberg tarafından kuruldu.",
+   "i": "Asado'da litrelik Quilmes paylaşmak gelenek.",
+   "konum": [
+    -34.6,
+    -58.38
+   ]
+  },
+  "Avustralya|Batı Avustralya": {
+   "k": "Fremantle ve Perth, Avustralya craft'ın erken başarılarının yaşandığı bölge.",
+   "t": "Little Creatures 2000'de Fremantle limanında açıldı.",
+   "i": "Pale Ale'i Fremantle limanında fish & chips ile dene.",
+   "konum": [
+    -32.06,
+    115.75
+   ]
+  },
+  "Avustralya|Güney Avustralya": {
+   "k": "Adelaide çevresi şarap kadar bira tarihiyle de önemli; Coopers'ın şişede mayalı ale'leri burada.",
+   "t": "Coopers 1862'den beri aile şirketi.",
+   "i": "Coopers şişesini servis öncesi yavaşça çevirip tortuyu karıştırmak gelenektir.",
+   "konum": [
+    -34.93,
+    138.6
+   ]
+  },
+  "Avustralya|Victoria": {
+   "k": "Melbourne, büyük Avustralya lager markalarının merkezi; aynı zamanda güçlü bir craft şehri.",
+   "t": "Carlton & United, VB ve Foster's'ı üretir; 2020'den beri Asahi'de.",
+   "i": "Avustralya'da bardak boyları eyalete göre değişir: Victoria'da 'pot' ya da 'schooner' iste.",
+   "konum": [
+    -37.81,
+    144.96
+   ]
+  },
+  "Avustralya|Yeni Güney Galler": {
+   "k": "Sörf kasabası Byron Bay'den Sidney'e uzanan bölge; hafif, meyvemsi 'Pacific Ale' stilinin doğduğu yer.",
+   "t": "Stone & Wood 2008'de Byron Bay'de kuruldu.",
+   "i": "Pacific Ale'i plajda, buz gibi ve bardakta iç.",
+   "konum": [
+    -28.65,
+    153.6
+   ]
+  },
+  "Brezilya|Minas Gerais": {
+   "k": "İç bölge Minas Gerais, 'boteco' bar kültürü ve gelişen craft sahnesiyle tanınır.",
+   "t": "Kaiser 1982'de Divinópolis'te doğdu.",
+   "i": "Belo Horizonte'nin botecolarında yerel craft biraları ara.",
+   "konum": [
+    -19.92,
+    -43.94
+   ]
+  },
+  "Brezilya|Rio de Janeiro": {
+   "k": "Brezilya'da bira 'stupidamente gelada' (aptalca soğuk) içilir; hafif lagerler hakim.",
+   "t": "Brahma 1888'de Rio'da kuruldu, Ambev'in temeli oldu.",
+   "i": "Brezilya barlarında 600 ml şişe paylaşılır ve küçük bardaklarla içilir.",
+   "konum": [
+    -22.91,
+    -43.17
+   ]
+  },
+  "Danimarka|Kopenhag": {
+   "k": "Dünya lager tarihinin kalbi: saf lager mayası burada izole edildi. Carlsberg ve Tuborg'un yanında Mikkeller'le İskandinav craft başkenti.",
+   "t": "Carlsberg laboratuvarı 1883'te saf maya kültürünü bulup bedelsiz paylaştı; bugünkü lager dünyası bu buluşa dayanır.",
+   "i": "Kasım'ın ilk cuması 'J-Dag'de Tuborg Julebryg'i, sonra bir Mikkeller barını dene.",
+   "konum": [
+    55.68,
+    12.57
+   ]
+  },
+  "Danimarka|Zelanda": {
+   "k": "Kopenhag dışındaki Zelanda adası, yeni nesil Danimarka craft üreticilerinin büyük tesislerine ev sahipliği yapıyor.",
+   "t": "To Øl, 2019'da Svinninge'deki eski bir gıda fabrikasını bira kampüsüne çevirdi.",
+   "i": "Ekşi ve gose meraklısıysan To Øl'ün mevsimlik serilerini takip et.",
+   "konum": [
+    55.5,
+    11.7
+   ]
+  },
+  "Estonya|Harju": {
+   "k": "Estonya'nın bira kültürü Alman ve İskandinav etkili; son yıllarda canlı bir craft sahnesi var.",
+   "t": "Saku 1820'de bir malikane fabrikası olarak doğdu.",
+   "i": "Tallinn'in craft barları Saku'dan çok daha cesur biralar sunar.",
+   "konum": [
+    59.3,
+    24.67
+   ]
+  },
+  "Etiyopya|Addis Ababa": {
+   "k": "Etiyopya'da geleneksel 'tella' ev birasının yanında büyük lager markaları yaygın.",
+   "t": "St. George 1922'de ülkenin ilk bira fabrikası oldu.",
+   "i": "Etiyopya mutfağı (injera, tibs) ile hafif lager iyi gider.",
+   "konum": [
+    9.03,
+    38.74
+   ]
+  },
+  "Filipinler|Manila": {
+   "k": "Filipinler'de bira kültürü San Miguel ile özdeşleşmiş durumda.",
+   "t": "San Miguel fabrikası 1890'da İspanyol döneminde Manila'da açıldı.",
+   "i": "San Miguel Pale Pilsen'i 'pulutan' (atıştırmalık) ile iç.",
+   "konum": [
+    14.6,
+    120.98
+   ]
+  },
+  "Finlandiya|Kanta-Häme": {
+   "k": "Sahti, çavdar ve ardıçla yapılan, şerbetçiotsuz kadim Fin çiftlik birasıdır.",
+   "t": "Sahti AB'nin 'Geleneksel Özgün Ürün' (TSG) listesinde.",
+   "i": "Sahti tazeyken içilir; muz, ekmek ve ardıç notaları bekle.",
+   "konum": [
+    61.0,
+    24.5
+   ]
+  },
+  "Finlandiya|Uusimaa": {
+   "k": "Helsinki çevresi Finlandiya biracılığının merkezi; temiz lagerler ve tarihi Baltık porter.",
+   "t": "Sinebrychoff 1819'da kuruldu; Koff Porter 1850'lerden kalma tarifin mirası.",
+   "i": "Koff Porter'ı oda sıcaklığına yakın, çikolatalı tatlıyla dene.",
+   "konum": [
+    60.4,
+    25.0
+   ]
+  },
+  "Güney Afrika|Gauteng": {
+   "k": "Johannesburg çevresi Afrika'nın en büyük bira pazarının merkezi.",
+   "t": "SAB 1895'te altın madencileri için kuruldu, dünyanın en büyük bira gruplarından birine dönüştü.",
+   "i": "Castle Lager'ı 'braai' (mangal) ile iç.",
+   "konum": [
+    -26.2,
+    28.05
+   ]
+  },
+  "Güney Kore|Seul": {
+   "k": "Kore'de bira çoğunlukla soju ile karıştırılan hafif lagerlerdir; craft sahnesi Seul'de büyüyor.",
+   "t": "Cass 1994'te çıktı ve pazar lideri oldu.",
+   "i": "'Chimaek': kızarmış tavuk ve bira, Kore'nin sevilen ikilisi.",
+   "konum": [
+    37.57,
+    126.98
+   ]
+  },
+  "Gürcistan|Mtskheta": {
+   "k": "Şarabın ana yurdu Gürcistan'da bira da yaygın; büyük lager markaları ve ilginç Kafkas craft'ı.",
+   "t": "Natakhtari fabrikası 2004'te açıldı, bugün Anadolu Efes'e bağlı.",
+   "i": "Gürcistan'da biranın yanına haçapuri ya da hinkali iste.",
+   "konum": [
+    41.84,
+    44.72
+   ]
+  },
+  "Hindistan|Karnataka": {
+   "k": "Bengaluru 'Hindistan'ın pub başkenti'; büyük lager markaları ve gelişen brewpub kültürü.",
+   "t": "United Breweries 1915'te kuruldu, Kingfisher ile pazar lideri.",
+   "i": "Kingfisher'ı baharatlı köri ile dene; Bengaluru'da brewpub'lara uğra.",
+   "konum": [
+    12.97,
+    77.59
+   ]
+  },
+  "Japonya|Hokkaido": {
+   "k": "Kuzey adası Hokkaido, Japon biracılığının resmi doğum yeri ve Sapporo'nun memleketi.",
+   "t": "Hükümetin Kaitakushi fabrikası 1876'da Sapporo'da açıldı.",
+   "i": "Sapporo Bira Müzesi'nin yanında 'Genghis Khan' kuzu ızgarasıyla iç.",
+   "konum": [
+    43.06,
+    141.35
+   ]
+  },
+  "Japonya|Ibaraki": {
+   "k": "Tokyo'nun kuzeydoğusundaki Ibaraki, sake geleneğinden craft'a geçen fabrikalarıyla tanınır.",
+   "t": "Kiuchi ailesi 1823'ten beri sake yapıyor; bira 1996'da eklendi.",
+   "i": "Hitachino Nest White Ale Japon craft'a en iyi giriş biralarından.",
+   "konum": [
+    36.34,
+    140.45
+   ]
+  },
+  "Japonya|Saitama": {
+   "k": "Tokyo'ya komşu Saitama'nın Kawagoe şehri, Edo dönemi dokusu ve tatlı patatesiyle ünlü.",
+   "t": "Coedo, yerel tatlı patatesi biraya katarak markalaştı.",
+   "i": "Coedo'nun renk adlı serisini (Shiro, Beniaka, Ruri) sırayla dene.",
+   "konum": [
+    35.92,
+    139.49
+   ]
+  },
+  "Japonya|Tokyo": {
+   "k": "Japon bira dünyası dört dev (Asahi, Kirin, Sapporo, Suntory) etrafında döner; kuru, temiz, pirinçli lagerler.",
+   "t": "Japon biracılığı Meiji döneminde Alman ustalarla başladı.",
+   "i": "İzakaya'da 'toriaezu biru' (önce bira) ile başla; soğuk bardakta servis edilir.",
+   "konum": [
+    35.68,
+    139.69
+   ]
+  },
+  "Kenya|Nairobi": {
+   "k": "Doğu Afrika'nın bira kalbi; Tusker ulusal sembol.",
+   "t": "Tusker adını 1923'te kurucuyu öldüren bir filden aldı.",
+   "i": "Kenya'da bira oda sıcaklığında da istenebilir, 'warm' ya da 'cold' diye sorarlar.",
+   "konum": [
+    -1.29,
+    36.82
+   ]
+  },
+  "Kolombiya|Bogota": {
+   "k": "Kolombiya bira pazarına Bavaria hakim; Bogota'da canlı bir craft sahnesi de var.",
+   "t": "Bavaria 1889'da Alman göçmen Leo Kopp tarafından kuruldu.",
+   "i": "Club Colombia'nın Dorada, Roja ve Negra serilerini karşılaştır.",
+   "konum": [
+    4.71,
+    -74.07
+   ]
+  },
+  "Kıbrıs|Limasol": {
+   "k": "Kıbrıs'ın sıcak iklimine uygun hafif lagerler; KEO ve Carlsberg ada pazarını paylaşır.",
+   "t": "KEO 1951'de Limasol'da kuruldu.",
+   "i": "KEO'yu hellim ve meze tabağıyla iç.",
+   "konum": [
+    34.68,
+    33.04
+   ]
+  },
+  "Laos|Vientiane": {
+   "k": "Laos'un bira pazarı neredeyse tamamen Beerlao'nun; Asya'nın gizli kalmış iyi lageri.",
+   "t": "Lao Brewery 1973'te kuruldu, bugün Carlsberg ortaklığında.",
+   "i": "Beerlao Dark varsa onu da dene.",
+   "konum": [
+    17.97,
+    102.6
+   ]
+  },
+  "Letonya|Vidzeme": {
+   "k": "Letonya'da filtresiz, ekmeksi lagerler ve küçük çiftlik fabrikaları sevilir.",
+   "t": "Valmiermuižas eski malikane bira geleneğini 2009'da yeniden canlandırdı.",
+   "i": "'Gaišais' açık, 'tumšais' koyu demek; etiketlerde bunlara bak.",
+   "konum": [
+    57.54,
+    25.42
+   ]
+  },
+  "Litvanya|Klaipėda": {
+   "k": "Litvanya, çiftlik birası (kaimiškas) geleneğini koruyan ender Avrupa ülkelerinden.",
+   "t": "Švyturys 1784'te Klaipėda'da kuruldu.",
+   "i": "Fırsatın olursa Litvanya çiftlik birası 'kaimiškas' ara.",
+   "konum": [
+    55.71,
+    21.13
+   ]
+  },
+  "Namibya|Windhoek": {
+   "k": "Alman sömürge mirası nedeniyle Reinheitsgebot'a bağlı lagerler ve Ekim festivalleri.",
+   "t": "Namibia Breweries 1920'de kuruldu.",
+   "i": "Windhoek Lager'ı oryx ya da kudu biftekiyle dene.",
+   "konum": [
+    -22.56,
+    17.08
+   ]
+  },
+  "Nijerya|Lagos": {
+   "k": "Batı Afrika'nın en büyük bira pazarı; büyük şişeler ve güçlü stout geleneği.",
+   "t": "Star 1949'da Nijerya'nın ilk yerli birası oldu.",
+   "i": "Nijerya'da Guinness Foreign Extra Stout da çok yaygındır.",
+   "konum": [
+    6.52,
+    3.38
+   ]
+  },
+  "Norveç|Agder": {
+   "k": "Güney kıyısındaki Grimstad, Norveç craft hareketinin doğduğu yer; güçlü, Amerikan esinli biralar.",
+   "t": "Nøgne Ø 2002'de Norveç'in ilk modern craft fabrikası olarak açıldı.",
+   "i": "Norveç'te yüksek alkollü bira yalnızca devlet mağazası Vinmonopolet'te satılır.",
+   "konum": [
+    58.34,
+    8.59
+   ]
+  },
+  "Norveç|Rogaland": {
+   "k": "Petrol şehri Stavanger, Lervig sayesinde Avrupa'nın önemli craft merkezlerinden biri.",
+   "t": "Lervig yerel lager fabrikasıyken Amerikalı bira ustası Mike Murphy ile craft'a döndü.",
+   "i": "Lucky Jack ile başla, kış için imperial stout'larına geç.",
+   "konum": [
+    58.97,
+    5.73
+   ]
+  },
+  "Peru|Cusco": {
+   "k": "And dağlarının yüksek rakımlı şehri Cusco, Peru'nun premium lageri Cusqueña'nın evi.",
+   "t": "Cusqueña 1911'den beri Cusco'da üretiliyor.",
+   "i": "Ceviche ile Cusqueña Dorada klasik eşleşmedir.",
+   "konum": [
+    -13.53,
+    -71.97
+   ]
+  },
+  "Polonya|Güney Polonya": {
+   "k": "Silezya ve Küçük Polonya, büyük lager markaları ve güçlü Baltık porter geleneğinin yurdu.",
+   "t": "Baltık porter, İngiliz porter'ının 19. yüzyılda lager mayasıyla yeniden yorumlanmasıdır.",
+   "i": "Żywiec Porter'ı kış akşamı, hafif serin servis edip dene.",
+   "konum": [
+    49.9,
+    19.5
+   ]
+  },
+  "Portekiz|Lizbon": {
+   "k": "Lizbon ve güney Sagres'in kalesi; sahil kültürüne uygun hafif lagerler.",
+   "t": "Sagres markası 1940 Portekiz Dünya Sergisi için yaratıldı.",
+   "i": "Lizbon'da fıçı bira 'fino' diye istenir.",
+   "konum": [
+    38.72,
+    -9.14
+   ]
+  },
+  "Portekiz|Porto": {
+   "k": "Kuzey Portekiz Super Bock'un memleketi; Porto'da bira rekabeti bir futbol rekabeti gibi.",
+   "t": "Super Bock 1927'de çıktı.",
+   "i": "Porto'da 'fino' değil 'imperial' (küçük fıçı bira) iste.",
+   "konum": [
+    41.15,
+    -8.61
+   ]
+  },
+  "Rusya|St. Petersburg": {
+   "k": "Rusya'nın bira başkenti; büyük ölçekli lager ve uygun fiyatlı porter üretimi.",
+   "t": "Carlsberg 2022'de çıkış kararı aldı, Baltika'ya el koyuldu; satış 2024 sonunda tamamlandı.",
+   "i": "Baltika'nın numara sistemi: 3 klasik lager, 6 porter, 9 güçlü lager.",
+   "konum": [
+    59.94,
+    30.31
+   ]
+  },
+  "Singapur|Singapur": {
+   "k": "Tropik şehir devleti; hafif lagerler ve son yıllarda gelişen craft sahnesi.",
+   "t": "Tiger 1932'de Singapur'un ilk yerli birası olarak çıktı.",
+   "i": "Tiger'ı hawker merkezinde chili crab ile iç.",
+   "konum": [
+    1.35,
+    103.82
+   ]
+  },
+  "Tayland|Bangkok": {
+   "k": "Tayland'ın sıcak ikliminde hafif, gazlı lagerler; çoğunlukla buzla servis edilir.",
+   "t": "Boon Rawd 1933'te ülkenin ilk fabrikası olarak kuruldu.",
+   "i": "Tayland'da bardağa buz atmak normaldir; acı yemeklerle Singha ya da Chang.",
+   "konum": [
+    13.75,
+    100.5
+   ]
+  },
+  "Ukrayna|Kiev": {
+   "k": "Ukrayna'nın en büyük bira üreticilerine ev sahipliği yapan başkent.",
+   "t": "Obolon 1980'de Moskova Olimpiyatları için kuruldu; savaşa rağmen üretim sürüyor.",
+   "i": "Obolon'un buğday ve filtresiz serileri de denemeye değer.",
+   "konum": [
+    50.45,
+    30.52
+   ]
+  },
+  "Ukrayna|Lviv": {
+   "k": "Batı Ukrayna'nın kültür başkenti Lviv, kahve ve bira geleneğiyle tanınır.",
+   "t": "Lviv'deki fabrika 1715'te Cizvitlerce kuruldu, Ukrayna'nın en eskisi.",
+   "i": "Lviv'de bira müzesini gez, sonra fıçıdan taze iç.",
+   "konum": [
+    49.84,
+    24.03
+   ]
+  },
+  "Venezuela|Caracas": {
+   "k": "Venezuela'da bira, küçük ve buz gibi 'tercio' şişelerle içilir.",
+   "t": "Cervecería Polar 1941'de kuruldu.",
+   "i": "Polar'ı küçük şişeden, çok soğuk iç.",
+   "konum": [
+    10.49,
+    -66.88
+   ]
+  },
+  "Vietnam|Ho Chi Minh": {
+   "k": "Vietnam dünyanın en çok bira tüketen ülkelerinden; sokak barları ve buzlu bira kültürü.",
+   "t": "Sabeco Fransız döneminde 1875'te kurulan fabrikanın mirasçısı.",
+   "i": "Kaldırım taburelerinde 'bia hơi' (taze fıçı) ve Saigon Special dene.",
+   "konum": [
+    10.78,
+    106.7
+   ]
+  },
+  "Yeni Zelanda|Auckland": {
+   "k": "Ülkenin en büyük şehri, büyük lager üreticilerinin merkezi.",
+   "t": "Steinlager 1958'de ithal bira kısıtlamalarına yanıt olarak yaratıldı.",
+   "i": "Steinlager'ı Yeni Zelanda kuzusu ızgarasıyla dene.",
+   "konum": [
+    -36.85,
+    174.76
+   ]
+  },
+  "Yeni Zelanda|Wellington": {
+   "k": "Wellington, Yeni Zelanda'nın craft bira başkenti; Nelson Sauvin gibi yerel şerbetçiotları ünlü.",
+   "t": "Garage Project 2011'de eski bir benzin istasyonunda kuruldu.",
+   "i": "Yeni Zelanda şerbetçiotlu (Nelson Sauvin, Motueka) biralara özellikle bak.",
+   "konum": [
+    -41.29,
+    174.78
+   ]
+  },
+  "Yunanistan|Attika": {
+   "k": "Atina çevresi Yunan biracılığının başladığı yer; Bavyeralı kralın getirdiği bira kültürü.",
+   "t": "Fix, 1864'te Bavyeralı Fuchs ailesi tarafından kuruldu; Yunanistan'ın ilk birası.",
+   "i": "Fix ve Alfa'yı karşılaştırmalı tadarak Yunan lagerini öğren.",
+   "konum": [
+    37.98,
+    23.73
+   ]
+  },
+  "Yunanistan|Eğriboz": {
+   "k": "Eğriboz adası, Yunan mikro bira sahnesinin en çok ödül alan üreticilerinden Septem'e ev sahipliği yapar.",
+   "t": "Septem 2009'da kuruldu; biraları haftanın günlerinden ad alır.",
+   "i": "Ballı golden ale'i Yunan peynirleriyle eşleştir.",
+   "konum": [
+    38.6,
+    23.6
+   ]
+  },
+  "Yunanistan|Selanik": {
+   "k": "Kuzey Yunanistan büyük bira tesislerinin yoğunlaştığı bölge.",
+   "t": "Mythos 1997'de Sindos'ta doğdu, bugün Carlsberg'in.",
+   "i": "Mythos'u meze ve ızgara balıkla, buz gibi iç.",
+   "konum": [
+    40.64,
+    22.94
+   ]
+  },
+  "Yunanistan|Trakya": {
+   "k": "Batı Trakya, büyük gruplardan bağımsız Yunan bira üreticilerine yer verir.",
+   "t": "Vergina adını Makedon krallarının antik başkentinden alır.",
+   "i": "Gümülcine çevresinde gezerken yerel lager iste.",
+   "konum": [
+    41.12,
+    25.4
+   ]
+  },
+  "Çin|Heilongjiang": {
+   "k": "Çin'in en kuzeyi; Rus etkili Harbin şehri ülkenin en eski fabrikasına sahip.",
+   "t": "Harbin fabrikası 1900'de kuruldu.",
+   "i": "Harbin'i baharatlı Kuzey Çin mutfağıyla iç.",
+   "konum": [
+    45.8,
+    126.53
+   ]
+  },
+  "Çin|Shandong": {
+   "k": "Shandong'un liman şehri Qingdao, Alman sömürge mirasıyla Çin biracılığının merkezi.",
+   "t": "Tsingtao fabrikası 1903'te Alman ve İngiliz yerleşimcilerce kuruldu.",
+   "i": "Her ağustos düzenlenen Qingdao Uluslararası Bira Festivali Asya'nın en büyüklerinden.",
+   "konum": [
+    36.07,
+    120.38
+   ]
+  },
+  "İspanya|Endülüs": {
+   "k": "Sıcak güney İspanya'da hafif lagerler hakim, ama Granada'nın Alhambra'sı premium bir istisna.",
+   "t": "Cervezas Alhambra 1925'te Granada'da kuruldu.",
+   "i": "Reserva 1925'i bardaksız, doğrudan şişeden içmek gelenek.",
+   "konum": [
+    37.18,
+    -3.6
+   ]
+  },
+  "İspanya|Galiçya": {
+   "k": "Atlantik kıyısındaki yağmurlu Galiçya, deniz ürünleri ve gövdeli lagerleriyle ünlü.",
+   "t": "Estrella Galicia 1906'dan beri Rivera ailesinde.",
+   "i": "Estrella Galicia'yı ahtapot (pulpo a la gallega) ile dene.",
+   "konum": [
+    43.36,
+    -8.41
+   ]
+  },
+  "İspanya|Katalonya": {
+   "k": "Barselona Akdeniz yaşamına uygun hafif lagerlerin ve İspanya craft sahnesinin merkezi.",
+   "t": "Damm 1876'da Alsaslı bir göçmen tarafından kuruldu.",
+   "i": "Estrella Damm'ı tapas ve deniz ürünleriyle buz gibi iç.",
+   "konum": [
+    41.39,
+    2.17
+   ]
+  },
+  "İspanya|Madrid": {
+   "k": "Başkentin bar kültürü 'caña' denen küçük fıçı bira bardaklarıyla döner.",
+   "t": "Mahou 1890'dan beri Madrid'in birası.",
+   "i": "Bir caña ve yanında ücretsiz tapa: Madrid usulü.",
+   "konum": [
+    40.42,
+    -3.7
+   ]
+  },
+  "İsveç|Stockholm": {
+   "k": "Devlet tekeli Systembolaget'e rağmen canlı bir craft sahnesi; tasarım odaklı, deneysel biralar.",
+   "t": "Omnipollo fabrikasız 'gipsi' modelle dünyanın en çok konuşulan markalarından oldu.",
+   "i": "Omnipollo'nun pastry stout'ları tatlıdır; tatlı yerine paylaşarak iç.",
+   "konum": [
+    59.33,
+    18.07
+   ]
+  },
+  "İtalya|Friuli": {
+   "k": "Kuzeydoğu İtalya, Avusturya etkisiyle Orta Avrupa lager geleneğine yakın.",
+   "t": "Birra Moretti 1859'da Udine'de kuruldu.",
+   "i": "Moretti'nin La Rossa'sını sert peynirlerle eşleştir.",
+   "konum": [
+    46.06,
+    13.24
+   ]
+  },
+  "İtalya|Lazio": {
+   "k": "Roma çevresi hem İtalya'nın büyük lager markası Peroni'nin hem de öncü craft fabrikalarının yurdu.",
+   "t": "Peroni 1864'te Roma'ya taşındı; Birra del Borgo 2005'te Rieti dağlarında doğdu.",
+   "i": "Peroni'yi pizzayla, ReAle'yi porchetta sandviçle dene.",
+   "konum": [
+    41.9,
+    12.5
+   ]
+  },
+  "İtalya|Lombardiya": {
+   "k": "Milano-Como hattı İtalya'nın en yoğun craft fabrikası bölgesi; özellikle zarif lagerler.",
+   "t": "Birrificio Italiano'nun Tipopils'i dünyaya 'Italian Pils' stilini kazandırdı.",
+   "i": "Tipopils'i taze içmek için tarihine bak; dry-hop aroması zamanla söner.",
+   "konum": [
+    45.6,
+    9.0
+   ]
+  },
+  "İtalya|Piemonte": {
+   "k": "Şarap diyarı Piemonte, gastronomiyle iç içe İtalyan craft birasının doğduğu bölge.",
+   "t": "Teo Musso'nun Baladin'i 1996'da İtalyan craft devrimini başlattı.",
+   "i": "Baladin biralarını şarap kadehinde, yemekle iç.",
+   "konum": [
+    44.7,
+    7.9
+   ]
+  },
+  "İtalya|Sardinya": {
+   "k": "Adanın kendine özgü kimliği bira etiketlerine bile yansır; sıcak iklime uygun hafif lagerler.",
+   "t": "Ichnusa 1912'den beri adada üretiliyor, etiketinde Sardinya'nın dört Mağribi başı var.",
+   "i": "Non Filtrata'yı deniz ürünleriyle soğuk iç.",
+   "konum": [
+    39.2,
+    9.1
+   ]
+  },
+  "İzlanda|Akureyri": {
+   "k": "1989'a kadar biranın yasak olduğu İzlanda'da genç ama hızla büyüyen bir bira kültürü.",
+   "t": "1 Mart 1989'da yasak kalktı; o gün hâlâ 'Bjórdagurinn' (Bira Günü) olarak kutlanır.",
+   "i": "Einstök White Ale yaz akşamları için ferah bir başlangıç.",
+   "konum": [
+    65.68,
+    -18.09
+   ]
+  }
+ },
+ "konumlar": {
+  "Alhambra": [
+   37.18,
+   -3.6
+  ],
+  "Asahi": [
+   35.71,
+   139.8
+  ],
+  "Asia Pacific Breweries": [
+   1.33,
+   103.73
+  ],
+  "Athenian Brewery": [
+   38.03,
+   23.71
+  ],
+  "Backus": [
+   -13.53,
+   -71.97
+  ],
+  "Baladin": [
+   44.515,
+   7.894
+  ],
+  "Baltika": [
+   59.88,
+   30.27
+  ],
+  "Bavaria": [
+   4.71,
+   -74.07
+  ],
+  "Birra Moretti": [
+   46.063,
+   13.242
+  ],
+  "Birra del Borgo": [
+   42.19,
+   13.23
+  ],
+  "Birrificio Italiano": [
+   45.69,
+   8.98
+  ],
+  "Boon Rawd": [
+   13.79,
+   100.51
+  ],
+  "Brahma": [
+   -22.91,
+   -43.17
+  ],
+  "Carlsberg": [
+   55.667,
+   12.534
+  ],
+  "Carlton & United Breweries": [
+   -37.8,
+   144.99
+  ],
+  "Cervecería Polar": [
+   10.49,
+   -66.88
+  ],
+  "Coedo": [
+   35.92,
+   139.49
+  ],
+  "Coopers": [
+   -34.87,
+   138.6
+  ],
+  "Damm": [
+   41.39,
+   2.17
+  ],
+  "East African Breweries": [
+   -1.29,
+   36.82
+  ],
+  "Einstök": [
+   65.683,
+   -18.09
+  ],
+  "Garage Project": [
+   -41.3,
+   174.77
+  ],
+  "Harbin": [
+   45.8,
+   126.53
+  ],
+  "Hartwall": [
+   60.983,
+   25.656
+  ],
+  "Hijos de Rivera": [
+   43.36,
+   -8.41
+  ],
+  "Ichnusa": [
+   39.29,
+   9.0
+  ],
+  "KEO": [
+   34.67,
+   33.04
+  ],
+  "Kaiser": [
+   -20.14,
+   -44.88
+  ],
+  "Kirin": [
+   35.66,
+   139.7
+  ],
+  "Kiuchi Brewery": [
+   36.45,
+   140.49
+  ],
+  "Lammin Sahti": [
+   61.08,
+   25.01
+  ],
+  "Lao Brewery": [
+   17.97,
+   102.6
+  ],
+  "Lervig": [
+   58.97,
+   5.733
+  ],
+  "Lion": [
+   -36.85,
+   174.76
+  ],
+  "Little Creatures": [
+   -32.06,
+   115.75
+  ],
+  "Lvivska Pivovarnia": [
+   49.85,
+   24.03
+  ],
+  "Macedonia-Thrace Brewery": [
+   41.12,
+   25.4
+  ],
+  "Mahou": [
+   40.42,
+   -3.7
+  ],
+  "Menabrea": [
+   45.566,
+   8.053
+  ],
+  "Mikkeller": [
+   55.676,
+   12.568
+  ],
+  "Mythos Brewery": [
+   40.67,
+   22.8
+  ],
+  "Namibia Breweries": [
+   -22.56,
+   17.08
+  ],
+  "Natakhtari": [
+   41.93,
+   44.73
+  ],
+  "Nigerian Breweries": [
+   6.52,
+   3.38
+  ],
+  "Nøgne Ø": [
+   58.341,
+   8.594
+  ],
+  "OB": [
+   37.57,
+   126.98
+  ],
+  "Obolon": [
+   50.52,
+   30.5
+  ],
+  "Okocim": [
+   49.97,
+   20.6
+  ],
+  "Olympic Brewery": [
+   38.0,
+   23.73
+  ],
+  "Omnipollo": [
+   59.329,
+   18.069
+  ],
+  "Peroni": [
+   41.86,
+   12.55
+  ],
+  "Pinta": [
+   49.73,
+   19.19
+  ],
+  "Quilmes": [
+   -34.72,
+   -58.25
+  ],
+  "Sabeco": [
+   10.76,
+   106.66
+  ],
+  "Sagres": [
+   38.87,
+   -9.08
+  ],
+  "Saku": [
+   59.3,
+   24.67
+  ],
+  "San Miguel": [
+   14.6,
+   120.98
+  ],
+  "Sapporo": [
+   43.07,
+   141.37
+  ],
+  "Septem": [
+   38.53,
+   23.72
+  ],
+  "Sinebrychoff": [
+   60.403,
+   25.105
+  ],
+  "South African Breweries": [
+   -26.2,
+   28.05
+  ],
+  "St. George Brewery": [
+   9.03,
+   38.74
+  ],
+  "Stone & Wood": [
+   -28.65,
+   153.6
+  ],
+  "Suntory": [
+   35.66,
+   139.73
+  ],
+  "Super Bock": [
+   41.21,
+   -8.62
+  ],
+  "ThaiBev": [
+   13.75,
+   100.5
+  ],
+  "To Øl": [
+   55.719,
+   11.463
+  ],
+  "Tsingtao": [
+   36.07,
+   120.38
+  ],
+  "Tuborg": [
+   55.727,
+   12.578
+  ],
+  "Tyskie": [
+   50.12,
+   18.98
+  ],
+  "United Breweries": [
+   12.97,
+   77.59
+  ],
+  "Valmiermuižas": [
+   57.55,
+   25.43
+  ],
+  "Švyturys": [
+   55.71,
+   21.13
+  ],
+  "Żywiec": [
+   49.68,
+   19.19
+  ]
+ },
+ "tadim": {
+  "carlsberg-pilsner": {
+   "b": "Hafif tahıl, çim ve hafif çiçeksi şerbetçiotu",
+   "d": "İnce gövde, hafif malt tatlılığı, temiz",
+   "f": "Kısa, hafif bitter",
+   "s": "Pilsner bardağı, 4-6°C; ızgara tavuk, cips"
+  },
+  "carlsberg-elephant": {
+   "b": "Bal, karamel ve hafif alkol",
+   "d": "Dolgun, tatlımsı malt, hafif meyve",
+   "f": "Ilık alkol, orta uzunlukta",
+   "s": "Lale bardak, 6-8°C; tuzlu peynirler, sucuk"
+  },
+  "tuborg-julebryg": {
+   "b": "Karamel, meyankökü, kuru meyve",
+   "d": "Orta gövde, tatlı karamel ve hafif kavrulmuşluk",
+   "f": "Yumuşak, hafif baharatlı",
+   "s": "Kupa, 6-8°C; Noel yemekleri, domuz rostosu, kurabiye"
+  },
+  "mikkeller-beer-geek-breakfast": {
+   "b": "Taze çekilmiş kahve, kakao, yulaf",
+   "d": "Yağlı, kadifemsi gövde; espresso ve bitter çikolata",
+   "f": "Uzun, kavrulmuş ve kuru",
+   "s": "Snifter, 10-12°C; brownie, tiramisu, kahvaltıda bile"
+  },
+  "to-ol-gose-to-hollywood": {
+   "b": "Greyfurt, limon, kişniş",
+   "d": "Hafif ekşi, tuzlu ve canlı",
+   "f": "Kuru, tuzlu, ferah",
+   "s": "Uzun bardak, 4-6°C; ceviche, midye, yaz salatası"
+  },
+  "nogne-o-imperial-stout": {
+   "b": "Kahve, kuru erik, bitter çikolata",
+   "d": "Yoğun, yağlı; kavrulmuş malt ve hafif meyankökü",
+   "f": "Uzun, ılık, kavrulmuş bitter",
+   "s": "Snifter, 12°C; çikolatalı tatlı, mavi peynir"
+  },
+  "nogne-o-india-pale-ale": {
+   "b": "Greyfurt, çam reçinesi, karamel",
+   "d": "Orta-dolgun, dengeli malt ve keskin şerbetçiotu",
+   "f": "Belirgin ve uzun bitter",
+   "s": "IPA bardağı, 8°C; baharatlı burger, Hint yemekleri"
+  },
+  "lervig-lucky-jack": {
+   "b": "Mango, çarkıfelek, narenciye",
+   "d": "Hafif gövde, sulu tropik meyve",
+   "f": "Kuru ve temiz bitter",
+   "s": "Teku ya da pint, 6-8°C; balık taco, salata"
+  },
+  "lervig-konrads-stout": {
+   "b": "Espresso, bitter çikolata, vanilya",
+   "d": "Çok yoğun ve kremsi",
+   "f": "Uzun, kakao ve kavrulmuşluk",
+   "s": "Snifter, 12°C; çikolatalı kek, kavrulmuş fındıklı tatlılar"
+  },
+  "omnipollo-noa-pecan-mud-cake": {
+   "b": "Pekan cevizi, kek hamuru, çikolata, vanilya",
+   "d": "Çok tatlı, ağır, likör gibi",
+   "f": "Uzun, tatlı ve kakaolu",
+   "s": "Küçük snifter, 12-14°C; tatlı yerine ya da dondurma üstüne"
+  },
+  "koff-porter": {
+   "b": "Kahve, kuru meyve, meyankökü",
+   "d": "Orta-dolgun, yumuşak; likörimsi tatlılık",
+   "f": "Kavrulmuş, hafif ılık",
+   "s": "Kadeh, 10°C; füme balık, çikolata"
+  },
+  "lammin-sahti": {
+   "b": "Muz, karanfil, ardıç, ekmek",
+   "d": "Tatlı, hafif ekşimsi, düşük gaz",
+   "f": "Ardıç ve ekmek, kısa",
+   "s": "Toprak kupa, 8-10°C; çavdar ekmeği, füme et"
+  },
+  "einstok-icelandic-white-ale": {
+   "b": "Portakal kabuğu, kişniş, buğday",
+   "d": "Hafif, kremsi, narenciyeli",
+   "f": "Kuru, baharatlı",
+   "s": "Wit bardağı, 4-6°C; midye, somon, salata"
+  },
+  "peroni-nastro-azzurro": {
+   "b": "Hafif tahıl, mısır, limonumsu şerbetçiotu",
+   "d": "İnce, kuru, gazlı",
+   "f": "Kısa, temiz, hafif bitter",
+   "s": "Peroni bardağı, 3-5°C; pizza, makarna, kızartma"
+  },
+  "birra-moretti-lautentica": {
+   "b": "Hafif malt, bisküvi, çiçeksi",
+   "d": "İnce-orta gövde, hafif tatlı malt",
+   "f": "Kısa, hafif bitter",
+   "s": "Pilsner bardağı, 4-6°C; pizza, salam-peynir tabağı"
+  },
+  "birra-moretti-la-rossa": {
+   "b": "Karamel, kavrulmuş malt, kuru meyve",
+   "d": "Dolgun, tatlımsı",
+   "f": "Isıtan, karamelli",
+   "s": "Kadeh, 8-10°C; sert peynir, kırmızı et"
+  },
+  "menabrea-bionda": {
+   "b": "Çiçeksi, bal, taze ekmek",
+   "d": "Yumuşak, ince malt",
+   "f": "Zarif, kısa bitter",
+   "s": "Pilsner bardağı, 5°C; risotto, beyaz et"
+  },
+  "baladin-isaac": {
+   "b": "Portakal kabuğu, kişniş, buğday",
+   "d": "Hafif, kremsi, hafif tatlı",
+   "f": "Baharatlı, kuru",
+   "s": "Kadeh, 6°C; deniz ürünleri, taze peynir"
+  },
+  "baladin-nora": {
+   "b": "Zencefil, reçine, portakal, bal",
+   "d": "Orta gövde, baharatlı ve tahıllı",
+   "f": "Kuru, baharatlı, hafif reçineli",
+   "s": "Şarap kadehi, 8-10°C; baharatlı yemekler, kuskus"
+  },
+  "birrificio-italiano-tipopils": {
+   "b": "Taze çim, çiçeksi Alman şerbetçiotu, limon",
+   "d": "Kuru, ince, canlı",
+   "f": "Uzun, zarif ve kuru bitter",
+   "s": "Pilsner bardağı, 6°C; prosciutto, kızarmış balık"
+  },
+  "birra-del-borgo-reale": {
+   "b": "Kayısı, narenciye, Belçika mayası baharatı",
+   "d": "Orta gövde, karamel ve meyve",
+   "f": "Kuru, belirgin bitter",
+   "s": "Kadeh, 8°C; porchetta, ızgara et"
+  },
+  "estrella-damm": {
+   "b": "Hafif tahıl, pirinç, çiçeksi",
+   "d": "İnce, ferah, hafif malt",
+   "f": "Kısa, temiz",
+   "s": "Uzun bardak, 4°C; tapas, paella, deniz ürünleri"
+  },
+  "alhambra-reserva-1925": {
+   "b": "Bal, malt, karamel, hafif şerbetçiotu",
+   "d": "Dolgun gövde, yuvarlak tatlılık",
+   "f": "Orta uzunlukta, hafif bitter",
+   "s": "Şişeden ya da kadehte, 6°C; jamón ibérico, tapas"
+  },
+  "estrella-galicia-especial": {
+   "b": "Malt, ekmek, hafif çiçeksi şerbetçiotu",
+   "d": "Orta gövde, dengeli",
+   "f": "Temiz, orta bitter",
+   "s": "Pilsner bardağı, 5°C; ahtapot, deniz ürünleri"
+  },
+  "zywiec-porter": {
+   "b": "Kuru erik, kahve, meyankökü, karamel",
+   "d": "Dolgun, tatlımsı, likörimsi",
+   "f": "Uzun, ısıtan, kavrulmuş",
+   "s": "Snifter, 10-12°C; dana yahni, çikolata, mavi peynir"
+  },
+  "okocim-porter": {
+   "b": "Kakao, karamel, kuru meyve",
+   "d": "Orta-dolgun, yumuşak",
+   "f": "Tatlımsı, kavrulmuş",
+   "s": "Kadeh, 10°C; kızarmış et, tatlılar"
+  },
+  "svyturys-ekstra": {
+   "b": "Ekmek, hafif bal, çiçeksi",
+   "d": "Orta gövde, dengeli malt",
+   "f": "Temiz, yumuşak bitter",
+   "s": "Pint, 5°C; füme balık, sarımsaklı ekmek"
+  },
+  "mythos": {
+   "b": "Hafif tahıl ve çiçeksi",
+   "d": "İnce, ferah, gazlı",
+   "f": "Kısa ve temiz",
+   "s": "Uzun bardak, 3-5°C; meze, ızgara balık, kalamar"
+  },
+  "keo": {
+   "b": "Hafif tahıl, hafif şerbetçiotu",
+   "d": "İnce, gazlı, ferah",
+   "f": "Kısa, temiz",
+   "s": "Uzun bardak, 3-5°C; hellim, şeftali kebabı, meze"
+  },
+  "asahi-super-dry": {
+   "b": "Hafif pirinç, tahıl, hafif meyve",
+   "d": "Çok ince ve kuru, keskin gaz",
+   "f": "Çok kısa, 'karakuchi' kuruluk",
+   "s": "İnce bardak, 2-4°C; suşi, tempura, yakitori"
+  },
+  "sapporo-premium": {
+   "b": "Tahıl, hafif çiçeksi",
+   "d": "İnce-orta gövde, yumuşak",
+   "f": "Temiz, hafif bitter",
+   "s": "Pilsner bardağı, 4°C; ramen, gyoza"
+  },
+  "kirin-ichiban": {
+   "b": "Taze tahıl, hafif bal",
+   "d": "Yumuşak, ipeksi, az bitter",
+   "f": "Temiz ve kısa",
+   "s": "İnce bardak, 4°C; edamame, suşi"
+  },
+  "yebisu": {
+   "b": "Malt, bisküvi, çiçeksi Alman şerbetçiotu",
+   "d": "Orta gövde, dolgun malt",
+   "f": "Orta, hafif bitter",
+   "s": "Kadeh, 5-6°C; tonkatsu, wagyu"
+  },
+  "hitachino-nest-white-ale": {
+   "b": "Kişniş, muskat, portakal, buğday",
+   "d": "Kremsi, hafif tatlı, baharatlı",
+   "f": "Ferah, kuru",
+   "s": "Wit bardağı, 6°C; Asya salataları, deniz ürünleri"
+  },
+  "coedo-beniaka": {
+   "b": "Kavrulmuş tatlı patates, karamel, kestane",
+   "d": "Dolgun, tatlımsı malt",
+   "f": "Orta uzunlukta, karamelli",
+   "s": "Kadeh, 8°C; ızgara et, yakitori, sonbahar yemekleri"
+  },
+  "tsingtao": {
+   "b": "Hafif tahıl, pirinç",
+   "d": "İnce ve ferah",
+   "f": "Kısa, hafif bitter",
+   "s": "Uzun bardak, 4°C; Çin mutfağı, mantı, dim sum"
+  },
+  "singha": {
+   "b": "Malt, hafif tahıl, çiçeksi",
+   "d": "Orta gövde, belirgin malt",
+   "f": "Hafif bitter, kuru",
+   "s": "Uzun bardak, buzla da olur; pad thai, yeşil köri"
+  },
+  "coopers-sparkling-ale": {
+   "b": "Armut, elma, hafif baharat, maya",
+   "d": "Orta gövde, meyvemsi, canlı",
+   "f": "Kuru, hafif bitter",
+   "s": "Pint, 8°C (tortuyu karıştır); balık, pizza"
+  },
+  "little-creatures-pale-ale": {
+   "b": "Greyfurt, çam, karamel",
+   "d": "Orta gövde, dengeli",
+   "f": "Temiz, belirgin bitter",
+   "s": "Pint, 6-8°C; fish & chips, burger"
+  },
+  "stone-wood-pacific-ale": {
+   "b": "Çarkıfelek, kavun, tropik meyve",
+   "d": "Hafif, kremsi, yumuşak",
+   "f": "Kısa, ferah",
+   "s": "Pint, 4-6°C; balık taco, poke"
+  },
+  "garage-project-pernicious-weed": {
+   "b": "Mango, papaya, reçine",
+   "d": "Dolgun, sulu, tatlımsı",
+   "f": "Uzun ve reçineli bitter",
+   "s": "Teku, 8°C; baharatlı Asya yemekleri"
+  },
+  "cusquena-dorada": {
+   "b": "Malt, bisküvi, hafif çiçeksi",
+   "d": "Orta gövde, tam malt",
+   "f": "Temiz, hafif bitter",
+   "s": "Pilsner bardağı, 5°C; ceviche, lomo saltado"
+  },
+  "windhoek-lager": {
+   "b": "Hafif malt, çim",
+   "d": "İnce, temiz, ferah",
+   "f": "Kısa, kuru",
+   "s": "Pilsner bardağı, 4°C; ızgara av eti, braai"
+  }
+ }
+}
