@@ -1,0 +1,4134 @@
+{
+ "stiller": [
+  {
+   "id": "american-light-lager",
+   "ad": "American Light Lager",
+   "tr": "Amerikan hafif lager",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    2.8,
+    4.2
+   ],
+   "ibu": [
+    8,
+    12
+   ],
+   "srm": [
+    2,
+    3
+   ],
+   "koken": "ABD",
+   "tarihce": "İkinci Dünya Savaşı sonrası kalori bilincinin yükselmesiyle 1970'lerde Miller Lite gibi markalarla yaygınlaştı.",
+   "tarif": "Çok açık saman renginde, berrak ve bol köpüklü. Tahıl ve mısır tatlılığı belli belirsiz; gövde ince, bitiş kuru ve su gibi ferah.",
+   "aroma": [
+    "tahıl",
+    "mısır",
+    "hafif tatlı",
+    "kuru bitiş"
+   ],
+   "bardak": "düz bardak / şişeden",
+   "sicaklik": "2-4 °C",
+   "yemek": "Sıcak yaz günü çerez, kızarmış patates, tavuk kanat, hafif salata.",
+   "ornekler": [
+    "Bud Light",
+    "Miller Lite",
+    "Coors Light",
+    "Michelob Ultra"
+   ],
+   "yeni_baslayana": "Çok soğuk iç; tat aramak yerine serinlemek için içilen bir stil.",
+   "kaynak": "BJCP 2021 1A American Light Lager"
+  },
+  {
+   "id": "american-lager",
+   "ad": "American Lager",
+   "tr": "Amerikan lager",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.2,
+    5.3
+   ],
+   "ibu": [
+    8,
+    18
+   ],
+   "srm": [
+    2,
+    3.5
+   ],
+   "koken": "ABD",
+   "tarihce": "19. yüzyılda Alman göçmenlerin getirdiği lager geleneği, pirinç ve mısır katkısıyla daha hafif ve ferah bir Amerikan biçimine dönüştü.",
+   "tarif": "Açık altın renkli, çok berrak ve yüksek karbonasyonlu. Hafif tahıl tatlılığı, neredeyse hissedilmeyen şerbetçiotu ve temiz, kuru bir bitiş.",
+   "aroma": [
+    "tahıl",
+    "pirinç",
+    "hafif malt",
+    "ferah"
+   ],
+   "bardak": "pilsner bardağı / şişe",
+   "sicaklik": "3-5 °C",
+   "yemek": "Hamburger, sosisli, pizza, mısır cipsi; ızgara köfte ve çiğ köfte dürümle de rahat gider.",
+   "ornekler": [
+    "Budweiser",
+    "Miller High Life",
+    "Coors Banquet",
+    "Pabst Blue Ribbon"
+   ],
+   "kaynak": "BJCP 2021 1B American Lager"
+  },
+  {
+   "id": "international-pale-lager",
+   "ad": "International Pale Lager",
+   "tr": "Uluslararası açık lager",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.5,
+    6
+   ],
+   "ibu": [
+    18,
+    25
+   ],
+   "srm": [
+    2,
+    6
+   ],
+   "koken": "Dünya geneli (Pilsner kökenli)",
+   "tarihce": "Pilsner'ın 20. yüzyılda dünyaya yayılmış, sanayileşmiş ve daha yumuşak biçimi; Türkiye'de en çok içilen bira tipi budur.",
+   "tarif": "Saman ile altın arası, parlak ve berrak. Temiz tahıl-malt tadı, hafif çiçeksi şerbetçiotu ve orta düşük acılık; kuru, ferahlatıcı bir bitiş.",
+   "aroma": [
+    "tahıl",
+    "bisküvi",
+    "hafif şerbetçiotu",
+    "temiz",
+    "ferah"
+   ],
+   "bardak": "pilsner bardağı / bardak",
+   "sicaklik": "3-6 °C",
+   "yemek": "Meze sofrası, kızarmış kalamar, midye tava, lahmacun, pide, ızgara köfte, çerez.",
+   "ornekler": [
+    "Efes Pilsen",
+    "Heineken",
+    "Carlsberg",
+    "Tuborg Gold"
+   ],
+   "yeni_baslayana": "Türkiye'deki çoğu bira bu stilde; farkları görmek için iki markayı yan yana tadarak başla.",
+   "kaynak": "BJCP 2021 2A International Pale Lager"
+  },
+  {
+   "id": "mexican-lager",
+   "ad": "Mexican Lager",
+   "tr": "Meksika lageri",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.5,
+    5.0
+   ],
+   "ibu": [
+    15,
+    22
+   ],
+   "srm": [
+    3,
+    5
+   ],
+   "koken": "Meksika",
+   "tarihce": "19. yüzyılda Alman ve Avusturyalı göçmen bira ustalarının Meksika'ya taşıdığı lager geleneği, mısırlı hafif ve ferah bir biçim kazandı.",
+   "tarif": "Çok açık renkli, berrak ve canlı köpüklü. Hafif tahıl ve mısır tatlılığı, düşük acılık; çok kuru ve susuzluk giderici.",
+   "aroma": [
+    "mısır",
+    "tahıl",
+    "hafif",
+    "ferah"
+   ],
+   "bardak": "şişeden ya da limonlu bardak",
+   "sicaklik": "2-4 °C",
+   "yemek": "Taco, nachos, acılı tavuk; bizde acılı Adana dürüm, ızgara balık ve çiğ köfte.",
+   "ornekler": [
+    "Corona Extra",
+    "Modelo Especial",
+    "Pacifico",
+    "Sol"
+   ],
+   "yeni_baslayana": "Şişe ağzına limon dilimi geleneği damakta hafif ekşilik katar; bir kez de limonsuz dene.",
+   "kaynak": "BA 2026 Mexican-Style Pale Lager"
+  },
+  {
+   "id": "rice-lager",
+   "ad": "Japanese Rice Lager",
+   "tr": "Japon pirinçli lager",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.0,
+    6.0
+   ],
+   "ibu": [
+    15,
+    30
+   ],
+   "srm": [
+    2,
+    6
+   ],
+   "koken": "Japonya",
+   "tarihce": "Japon bira üreticileri 20. yüzyılda Alman lager tekniğine pirinç ekleyerek çok kuru ve temiz bir tarz geliştirdi.",
+   "tarif": "Çok açık renkli, kristal berraklıkta. Pirinç sayesinde gövde hafif, tat temiz ve keskin; 'karakuchi' denen çok kuru bir bitişi var.",
+   "aroma": [
+    "pirinç",
+    "tahıl",
+    "kuru",
+    "temiz"
+   ],
+   "bardak": "ince uzun bardak",
+   "sicaklik": "3-5 °C",
+   "yemek": "Suşi, tempura, yakitori; bizde balık, levrek ızgara, deniz mahsullü meze.",
+   "ornekler": [
+    "Asahi Super Dry",
+    "Kirin Ichiban",
+    "Sapporo Premium",
+    "Orion"
+   ],
+   "kaynak": "BA 2026 Rice Lager"
+  },
+  {
+   "id": "munich-helles",
+   "ad": "Münchner Helles",
+   "tr": "Münih Helles (açık lager)",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.7,
+    5.4
+   ],
+   "ibu": [
+    16,
+    22
+   ],
+   "srm": [
+    3,
+    5
+   ],
+   "koken": "Almanya, Münih",
+   "tarihce": "1894'te Münih'te Spaten tarafından Bohemya pilsner'ına Bavyera'nın cevabı olarak üretildi.",
+   "tarif": "Açık altın renkli, berrak ve yumuşak. Ekmeksi, hafif tatlı Pilsner malt öne çıkar; acılık düşük, şerbetçiotu yalnızca dengeyi sağlar.",
+   "aroma": [
+    "ekmek",
+    "tahıl",
+    "hafif bal",
+    "çiçeksi şerbetçiotu"
+   ],
+   "bardak": "Maß (bira bardağı / testi)",
+   "sicaklik": "5-7 °C",
+   "yemek": "Brezel, beyaz sosis, tavuk şiş, hellim ızgara, kaşarlı tost, mantı.",
+   "ornekler": [
+    "Augustiner Lagerbier Hell",
+    "Weihenstephaner Original",
+    "Paulaner Münchner Hell",
+    "Spaten Münchner Hell"
+   ],
+   "yeni_baslayana": "Pilsner'ı acı buluyorsan Helles daha yumuşak ve malt ağırlıklı bir geçiş sunar.",
+   "kaynak": "BJCP 2021 4A Munich Helles"
+  },
+  {
+   "id": "festbier",
+   "ad": "Festbier",
+   "tr": "Oktoberfest bira",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    5.8,
+    6.3
+   ],
+   "ibu": [
+    18,
+    25
+   ],
+   "srm": [
+    4,
+    6
+   ],
+   "koken": "Almanya, Münih",
+   "tarihce": "1970'lerden beri Oktoberfest çadırlarında servis edilen, Märzen'den daha açık ve içimi kolay şenlik birası.",
+   "tarif": "Koyu altın renkli, berrak. Zengin, ekmeksi malt; Helles'ten dolgun ama Märzen'den daha hafif ve kuru. Alkol biraz yüksek olsa da sinsi bir içim kolaylığı var.",
+   "aroma": [
+    "ekmek",
+    "hafif tost",
+    "bal",
+    "çiçeksi şerbetçiotu"
+   ],
+   "bardak": "Maß / testi",
+   "sicaklik": "5-7 °C",
+   "yemek": "Tavuk döner, kızarmış tavuk, domuz yerine dana sosis, brezel, közde mısır.",
+   "ornekler": [
+    "Paulaner Oktoberfest Bier",
+    "Augustiner Oktoberfest",
+    "Hacker-Pschorr Oktoberfest",
+    "Hofbräu Oktoberfestbier"
+   ],
+   "kaynak": "BJCP 2021 4B Festbier"
+  },
+  {
+   "id": "german-pils",
+   "ad": "German Pils",
+   "tr": "Alman Pilsner",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.4,
+    5.2
+   ],
+   "ibu": [
+    22,
+    40
+   ],
+   "srm": [
+    2,
+    4
+   ],
+   "koken": "Almanya",
+   "tarihce": "Çek Pilsner'ının 1870'lerden itibaren Alman bira ustalarınca uyarlanmasıyla doğdu; Kuzey Almanya'da daha kuru ve acı biçimleri gelişti.",
+   "tarif": "Açık saman rengi, parlak ve beyaz kalıcı köpüklü. Çiçeksi-otsu Alman şerbetçiotu, keskin ve temiz acılık; kuru, gevrek bitiş.",
+   "aroma": [
+    "otsu",
+    "çiçeksi",
+    "tahıl",
+    "keskin acılık",
+    "kuru"
+   ],
+   "bardak": "Pilsner kadehi (ayaklı ince)",
+   "sicaklik": "4-6 °C",
+   "yemek": "Balık tava, hamsi, kalamar, midye dolma, sigara böreği, peynirli meze.",
+   "ornekler": [
+    "Bitburger Premium Pils",
+    "Jever Pilsener",
+    "Warsteiner Premium",
+    "Rothaus Tannenzäpfle"
+   ],
+   "yeni_baslayana": "Acılığı 'temiz' bulanlar için ideal; önce bir Helles, sonra Pils içerek farkı hisset.",
+   "kaynak": "BJCP 2021 5D German Pils"
+  },
+  {
+   "id": "czech-pilsner",
+   "ad": "Czech Premium Pale Lager (Bohemian Pilsner)",
+   "tr": "Çek Pilsner'ı",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.2,
+    5.8
+   ],
+   "ibu": [
+    30,
+    45
+   ],
+   "srm": [
+    3.5,
+    6
+   ],
+   "koken": "Çekya, Plzeň",
+   "tarihce": "1842'de Plzeň'de Bavyeralı usta Josef Groll'ün yaptığı ilk altın renkli berrak lager; dünyadaki pilsner'ların atası.",
+   "tarif": "Altın renkli, yoğun ve kremamsı köpüklü. Zengin, hafif tatlı malt ile Saaz şerbetçiotunun baharatlı acılığı dengede; dolgun ama içimi yumuşak.",
+   "aroma": [
+    "bisküvi",
+    "bal",
+    "Saaz baharatı",
+    "otsu",
+    "yuvarlak acılık"
+   ],
+   "bardak": "Çek kulplu bardak / pilsner",
+   "sicaklik": "6-8 °C",
+   "yemek": "Domuz yerine kuzu ve dana: tas kebabı, gulaş, ızgara köfte, kızarmış peynir, turşu.",
+   "ornekler": [
+    "Pilsner Urquell",
+    "Budějovický Budvar",
+    "Kozel Premium",
+    "Bernard Sváteční Ležák"
+   ],
+   "yeni_baslayana": "Bol köpüklü 'hladinka' servisiyle dene; Alman pils'e göre daha dolgun ve tatlı gelir.",
+   "kaynak": "BJCP 2021 3B Czech Premium Pale Lager"
+  },
+  {
+   "id": "dortmunder-export",
+   "ad": "Dortmunder Export (German Helles Exportbier)",
+   "tr": "Dortmund Export",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    5,
+    6
+   ],
+   "ibu": [
+    20,
+    30
+   ],
+   "srm": [
+    4,
+    6
+   ],
+   "koken": "Almanya, Dortmund",
+   "tarihce": "19. yüzyılda Dortmund'un madenci ve sanayi işçileri için yapılan, uzak pazarlara 'ihraç' edilebilecek kadar sağlam açık lager.",
+   "tarif": "Altın renkli, berrak. Helles'ten biraz daha güçlü ve dolgun, Pils'ten daha az acı; malt, şerbetçiotu ve mineralli su dengesi öne çıkar.",
+   "aroma": [
+    "ekmek",
+    "malt",
+    "hafif mineral",
+    "otsu"
+   ],
+   "bardak": "bira kupası / bardak",
+   "sicaklik": "5-7 °C",
+   "yemek": "Izgara köfte, sucuklu yumurta, tost, kaşarlı pide.",
+   "ornekler": [
+    "DAB Original",
+    "Dortmunder Union Export",
+    "Great Lakes Dortmunder Gold"
+   ],
+   "kaynak": "BJCP 2021 5C German Helles Exportbier"
+  },
+  {
+   "id": "kellerbier",
+   "ad": "Kellerbier / Zwickelbier",
+   "tr": "Mahzen birası (filtresiz lager)",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.5,
+    5.6
+   ],
+   "ibu": [
+    16,
+    40
+   ],
+   "srm": [
+    3,
+    17
+   ],
+   "koken": "Almanya, Frankonya",
+   "tarihce": "Frankonya'da mahzen ve fıçılardan doğrudan, filtrelenmeden servis edilen lagerlerin geleneği; aslında stil değil servis biçimi.",
+   "tarif": "Hafif bulanık, altın ile kehribar arası. Taze maya ve ekmek tadı, yumuşak karbonasyon; temel stile (Helles, Märzen, Pils) göre hafif ya da maltlı.",
+   "aroma": [
+    "taze ekmek",
+    "maya",
+    "malt",
+    "otsu"
+   ],
+   "bardak": "seramik kupa / Seidla",
+   "sicaklik": "6-8 °C",
+   "yemek": "Peynir tabağı, söğüş, köy ekmeği, sucuk, mıhlama.",
+   "ornekler": [
+    "Mahrs Bräu aU",
+    "St. Georgen Bräu Kellerbier",
+    "ABK Kellerbier Naturtrüb",
+    "Löwenbräu 1747 Original"
+   ],
+   "yeni_baslayana": "Taze içilmeli; şişe tarihi ne kadar yeniyse o kadar iyi.",
+   "kaynak": "BJCP 2021 27A (temel stile göre: Helles–Märzen–Pils)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "vienna-lager",
+   "ad": "Vienna Lager",
+   "tr": "Viyana lageri",
+   "aile": "Lager & Pilsner",
+   "abv": [
+    4.7,
+    5.5
+   ],
+   "ibu": [
+    18,
+    30
+   ],
+   "srm": [
+    9,
+    15
+   ],
+   "koken": "Avusturya, Viyana",
+   "tarihce": "1841'de Anton Dreher'in Viyana'da geliştirdiği kehribar lager; bugün en çok Meksika'da (ör. Negra Modelo) yaşıyor.",
+   "tarif": "Kehribar-bakır renkli, berrak. Hafif kavrulmuş, tostumsu malt; tatlılık az, bitiş kuru ve şerbetçiotuyla dengeli.",
+   "aroma": [
+    "tost",
+    "karamel ipucu",
+    "ekmek kabuğu",
+    "kuru"
+   ],
+   "bardak": "kupa / bardak",
+   "sicaklik": "6-8 °C",
+   "yemek": "Izgara tavuk, kuzu pirzola, pastırmalı yumurta, karışık pizza.",
+   "ornekler": [
+    "Ottakringer Wiener Original",
+    "Schwechater Wiener Lager",
+    "Negra Modelo",
+    "Brooklyn Lager"
+   ],
+   "kaynak": "BJCP 2021 7A Vienna Lager"
+  },
+  {
+   "id": "marzen",
+   "ad": "Märzen",
+   "tr": "Märzen (Mart birası)",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    5.6,
+    6.3
+   ],
+   "ibu": [
+    18,
+    24
+   ],
+   "srm": [
+    8,
+    17
+   ],
+   "koken": "Almanya, Bavyera",
+   "tarihce": "Soğutucu öncesi dönemde Mart'ta (März) mayalanıp yaz boyu mağaralarda saklanan güçlü bira; 1872'den 1990'lara Oktoberfest'in ana birasıydı.",
+   "tarif": "Turuncu-kehribar renkli, berrak. Zengin ve tostumsu Münih malt, ekmek kabuğu tadı; acılık yalnızca denge için, bitiş kuruya yakın.",
+   "aroma": [
+    "ekmek kabuğu",
+    "tost",
+    "karamel ipucu",
+    "malt"
+   ],
+   "bardak": "kupa / Maß",
+   "sicaklik": "6-8 °C",
+   "yemek": "Kuzu tandır, döner, beyaz peynirli pide, közlenmiş sebze, kuru köfte.",
+   "ornekler": [
+    "Paulaner Oktoberfest Märzen",
+    "Ayinger Oktober Fest-Märzen",
+    "Hacker-Pschorr Original Oktoberfest",
+    "Spaten Oktoberfestbier Ur-Märzen"
+   ],
+   "kaynak": "BJCP 2021 6A Märzen"
+  },
+  {
+   "id": "czech-dark-lager",
+   "ad": "Czech Dark Lager (Tmavé)",
+   "tr": "Çek koyu lageri",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    4.4,
+    5.8
+   ],
+   "ibu": [
+    18,
+    34
+   ],
+   "srm": [
+    17,
+    35
+   ],
+   "koken": "Çekya, Prag",
+   "tarihce": "Prag'daki U Fleků birahanesinin 1499'dan beri sunduğu koyu lager geleneğinin modern temsilcisi.",
+   "tarif": "Koyu kahve-siyah, yakut yansımalı. Karamel, çikolata ve hafif kavrulmuş malt; tatlımsı ama yumuşak, Saaz şerbetçiotu dengeyi sağlar.",
+   "aroma": [
+    "karamel",
+    "sütlü çikolata",
+    "ekmek",
+    "hafif kavrulmuş"
+   ],
+   "bardak": "Çek kulplu bardak",
+   "sicaklik": "7-9 °C",
+   "yemek": "Gulaş, tas kebabı, et sote, fırın kuzu; tatlı olarak kemalpaşa.",
+   "ornekler": [
+    "Kozel Černý",
+    "U Fleků Flekovský Ležák",
+    "Budvar Tmavý Ležák",
+    "Bernard Černý Ležák"
+   ],
+   "kaynak": "BJCP 2021 3D Czech Dark Lager"
+  },
+  {
+   "id": "munich-dunkel",
+   "ad": "Münchner Dunkel",
+   "tr": "Münih koyu lageri",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    4.5,
+    5.6
+   ],
+   "ibu": [
+    18,
+    28
+   ],
+   "srm": [
+    17,
+    28
+   ],
+   "koken": "Almanya, Münih",
+   "tarihce": "Açık lagerlerden önce Bavyera'nın günlük birası; yüzyıllarca Münih denince akla bu koyu, maltlı bira gelirdi.",
+   "tarif": "Koyu kızıl-kahve, berrak. Ekmek kabuğu, fındık ve hafif çikolata; kavrulmuş acılık yok, yumuşak ve maltlı.",
+   "aroma": [
+    "ekmek kabuğu",
+    "fındık",
+    "kakao",
+    "karamel"
+   ],
+   "bardak": "kupa / Maß",
+   "sicaklik": "7-9 °C",
+   "yemek": "İskender, tandır, kuru fasulye, mantarlı et sote, kestane kebap.",
+   "ornekler": [
+    "Ayinger Altbairisch Dunkel",
+    "Weltenburger Kloster Barock Dunkel",
+    "Hofbräu Dunkel",
+    "König Ludwig Dunkel"
+   ],
+   "yeni_baslayana": "Koyu renk seni korkutmasın; stout gibi acı değil, ekmeksi ve yumuşaktır.",
+   "kaynak": "BJCP 2021 8A Munich Dunkel"
+  },
+  {
+   "id": "schwarzbier",
+   "ad": "Schwarzbier",
+   "tr": "Siyah bira (Alman siyah lager)",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    4.4,
+    5.4
+   ],
+   "ibu": [
+    20,
+    35
+   ],
+   "srm": [
+    19,
+    30
+   ],
+   "koken": "Almanya, Türingen/Saksonya",
+   "tarihce": "Doğu Almanya'nın Türingen ve Saksonya bölgelerinde yüzyıllardır yapılan siyah lager; Köstritzer'le tanındı.",
+   "tarif": "Neredeyse siyah ama berrak. Hafif kavrulmuş malt, bitter çikolata ve kahve ipuçları; gövde hafif-orta, bitiş kuru ve temiz.",
+   "aroma": [
+    "bitter çikolata",
+    "kahve ipucu",
+    "kavrulmuş malt",
+    "kuru"
+   ],
+   "bardak": "ince uzun bardak (Pokal)",
+   "sicaklik": "6-8 °C",
+   "yemek": "Mangalda et, kuzu şiş, mantar sote, dumanlı patlıcan, çikolatalı tatlı.",
+   "ornekler": [
+    "Köstritzer Schwarzbier",
+    "Mönchshof Schwarzbier",
+    "Sapporo Black",
+    "Samuel Adams Black Lager"
+   ],
+   "yeni_baslayana": "Stout'u ağır bulanlar için koyu birayla tanışmanın hafif yolu.",
+   "kaynak": "BJCP 2021 8B Schwarzbier"
+  },
+  {
+   "id": "helles-bock",
+   "ad": "Helles Bock / Maibock",
+   "tr": "Açık bock / Mayıs bock",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    6.3,
+    7.4
+   ],
+   "ibu": [
+    23,
+    35
+   ],
+   "srm": [
+    6,
+    9
+   ],
+   "koken": "Almanya, Einbeck/Münih",
+   "tarihce": "Bock geleneğinin ilkbaharda (Mayıs'ta) içilen, daha açık renkli ve şerbetçiotu daha belirgin biçimi.",
+   "tarif": "Koyu altın-açık kehribar, berrak. Bol ekmeksi malt ve bal; alkol sıcaklığı hafifçe hissedilir, Helles'ten daha acı ve dolgun.",
+   "aroma": [
+    "bal",
+    "ekmek",
+    "malt",
+    "alkol sıcaklığı",
+    "otsu"
+   ],
+   "bardak": "Pokal / kupa",
+   "sicaklik": "6-9 °C",
+   "yemek": "Kuzu ızgara, baharatlı tavuk, kaşarlı pide, olgun peynir.",
+   "ornekler": [
+    "Einbecker Mai-Ur-Bock",
+    "Hofbräu Maibock",
+    "Ayinger Maibock",
+    "Rogue Dead Guy Ale"
+   ],
+   "kaynak": "BJCP 2021 4C Helles Bock"
+  },
+  {
+   "id": "bock",
+   "ad": "Dunkles Bock",
+   "tr": "Bock (koyu bock)",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    6.3,
+    7.2
+   ],
+   "ibu": [
+    20,
+    27
+   ],
+   "srm": [
+    14,
+    22
+   ],
+   "koken": "Almanya, Einbeck",
+   "tarihce": "14. yüzyılda Hansa ticaret kenti Einbeck'te doğdu; 17. yüzyılda Münih'e taşınıp adı 'Ein Bock'a (keçi) dönüştü.",
+   "tarif": "Koyu bakır-kahve, berrak. Yoğun, tostumsu malt, karamel ve ekmek kabuğu; alkol sıcaklığı hafif, acılık düşük.",
+   "aroma": [
+    "ekmek kabuğu",
+    "karamel",
+    "tost",
+    "kuru meyve ipucu"
+   ],
+   "bardak": "Pokal / kupa",
+   "sicaklik": "7-9 °C",
+   "yemek": "Hünkâr beğendi, fırın kuzu, sucuklu kuru fasulye, olgun kaşar.",
+   "ornekler": [
+    "Einbecker Ur-Bock Dunkel",
+    "Aass Bock",
+    "Shiner Bock"
+   ],
+   "kaynak": "BJCP 2021 6C Dunkles Bock"
+  },
+  {
+   "id": "doppelbock",
+   "ad": "Doppelbock",
+   "tr": "Çift bock",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    7,
+    10
+   ],
+   "ibu": [
+    16,
+    26
+   ],
+   "srm": [
+    6,
+    25
+   ],
+   "koken": "Almanya, Münih",
+   "tarihce": "Paulaner manastırındaki keşişlerin oruç dönemi için yaptığı 'sıvı ekmek' Salvator'dan doğdu; çoğu örneğin adı '-ator' ile biter.",
+   "tarif": "Koyu altından koyu kahveye; çoğunlukla koyu. Yoğun malt tatlılığı, ekmek kabuğu, kuru erik ve karamel; dolgun gövde, yumuşak alkol sıcaklığı.",
+   "aroma": [
+    "kuru erik",
+    "karamel",
+    "ekmek kabuğu",
+    "çikolata ipucu",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "Pokal / kadeh",
+   "sicaklik": "8-11 °C",
+   "yemek": "Kuzu incik, tandır, mantarlı et, olgun gravyer; tatlıda kestane şekeri, cevizli baklava.",
+   "ornekler": [
+    "Paulaner Salvator",
+    "Ayinger Celebrator",
+    "Weihenstephaner Korbinian",
+    "Spaten Optimator"
+   ],
+   "yeni_baslayana": "Soğuk değil serin iç; ısındıkça kuru meyve tatları açılır.",
+   "kaynak": "BJCP 2021 9A Doppelbock"
+  },
+  {
+   "id": "eisbock",
+   "ad": "Eisbock",
+   "tr": "Buzlu bock",
+   "aile": "Koyu Lager & Bock",
+   "abv": [
+    9,
+    14
+   ],
+   "ibu": [
+    25,
+    35
+   ],
+   "srm": [
+    17,
+    30
+   ],
+   "koken": "Almanya, Kulmbach",
+   "tarihce": "Rivayete göre Kulmbach'ta dondurulan bir bock fıçısındaki suyun buz olarak ayrılmasıyla bulundu; bugün kontrollü dondurmayla yoğunlaştırılır.",
+   "tarif": "Koyu kehribar-kahve, berrak. Çok yoğun malt, kuru meyve ve likör gibi alkol sıcaklığı; dolgun, yağımsı gövde.",
+   "aroma": [
+    "kuru üzüm",
+    "karamel",
+    "likör",
+    "kuru erik",
+    "alkol"
+   ],
+   "bardak": "snifter / küçük kadeh",
+   "sicaklik": "10-13 °C",
+   "yemek": "Rokfor, tulum peyniri, cevizli baklava, kestane tatlısı; sindirim birası olarak tek başına.",
+   "ornekler": [
+    "Schneider Aventinus Weizen-Eisbock",
+    "Kulmbacher Eisbock",
+    "Schorschbräu Schorschbock"
+   ],
+   "yeni_baslayana": "Küçük miktarda, yavaş yudumla; bir likör gibi düşün.",
+   "kaynak": "BJCP 2021 9B Eisbock"
+  },
+  {
+   "id": "rauchbier",
+   "ad": "Rauchbier",
+   "tr": "Tütsülenmiş bira (Bamberg)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.8,
+    6
+   ],
+   "ibu": [
+    20,
+    30
+   ],
+   "srm": [
+    12,
+    22
+   ],
+   "koken": "Almanya, Bamberg",
+   "tarihce": "Malt eskiden ateşte kurutulduğu için tüm biralar biraz dumanlıydı; Bamberg'deki Schlenkerla ve Spezial bu geleneği hiç bırakmadı.",
+   "tarif": "Kehribar-koyu bakır, berrak. Kayın odunu dumanı, füme et ve tostumsu Märzen maltı; damakta dumanla tatlı malt dengede.",
+   "aroma": [
+    "kayın dumanı",
+    "füme et",
+    "tost",
+    "karamel"
+   ],
+   "bardak": "kupa / Seidla",
+   "sicaklik": "7-9 °C",
+   "yemek": "Füme et, pastırma, sucuk ızgara, isli patlıcan (babagannuş), çerkez peyniri, mangal.",
+   "ornekler": [
+    "Aecht Schlenkerla Rauchbier Märzen",
+    "Spezial Rauchbier Lagerbier",
+    "Schlenkerla Urbock"
+   ],
+   "yeni_baslayana": "İlk yudum 'jambon' gibi gelebilir; üçüncü yudumdan sonra karar ver.",
+   "kaynak": "BJCP 2021 6B Rauchbier"
+  },
+  {
+   "id": "kolsch",
+   "ad": "Kölsch",
+   "tr": "Kölsch (Köln birası)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.4,
+    5.2
+   ],
+   "ibu": [
+    18,
+    30
+   ],
+   "srm": [
+    3.5,
+    5
+   ],
+   "koken": "Almanya, Köln",
+   "tarihce": "Köln'de üst mayalı bira geleneğini lagerlere karşı korumak için gelişti; adı 1986 Kölsch Konvansiyonu ile koruma altında.",
+   "tarif": "Çok açık altın, parlak berrak. Hafif meyvemsi (elma, armut) ester, yumuşak tahıl ve ince çiçeksi şerbetçiotu; çok kuru ve ferah.",
+   "aroma": [
+    "elma",
+    "armut",
+    "tahıl",
+    "çiçeksi",
+    "kuru"
+   ],
+   "bardak": "Stange (200 ml ince silindir)",
+   "sicaklik": "4-7 °C",
+   "yemek": "Hafif mezeler, tavuk salata, levrek buğulama, zeytinyağlılar, beyaz peynir-kavun.",
+   "ornekler": [
+    "Früh Kölsch",
+    "Reissdorf Kölsch",
+    "Gaffel Kölsch",
+    "Sünner Kölsch"
+   ],
+   "yeni_baslayana": "Köln'deki gibi küçük ince bardakta, taze ve soğuk iç.",
+   "kaynak": "BJCP 2021 5B Kölsch"
+  },
+  {
+   "id": "altbier",
+   "ad": "Altbier",
+   "tr": "Düsseldorf Alt",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.3,
+    5.5
+   ],
+   "ibu": [
+    25,
+    50
+   ],
+   "srm": [
+    9,
+    17
+   ],
+   "koken": "Almanya, Düsseldorf",
+   "tarihce": "'Alt' eski demektir: lagerler gelmeden önceki üst mayalı yöntemle yapılır, sonra lager gibi soğukta dinlendirilir.",
+   "tarif": "Bakır-kahve renkli, berrak. Tostumsu ve fındıksı malt ile belirgin, temiz bir acılık; ester düşük, bitiş kuru.",
+   "aroma": [
+    "fındık",
+    "tost",
+    "ekmek kabuğu",
+    "otsu acılık"
+   ],
+   "bardak": "Becher (silindir bardak)",
+   "sicaklik": "7-10 °C",
+   "yemek": "Kokoreç, sucuk, kuru köfte, ciğer tava, olgun kaşar.",
+   "ornekler": [
+    "Uerige Alt",
+    "Zum Schlüssel Alt",
+    "Füchschen Alt",
+    "Diebels Alt"
+   ],
+   "kaynak": "BJCP 2021 7B Altbier"
+  },
+  {
+   "id": "california-common",
+   "ad": "California Common (Steam Beer)",
+   "tr": "Kaliforniya 'buhar' birası",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.5,
+    5.5
+   ],
+   "ibu": [
+    30,
+    45
+   ],
+   "srm": [
+    9,
+    14
+   ],
+   "koken": "ABD, San Francisco",
+   "tarihce": "Altına Hücum döneminde soğutma olmadan lager mayasının sıcakta mayalanmasıyla doğdu; Anchor Steam ile ün kazandı.",
+   "tarif": "Kehribar renkli, berrak. Tostumsu ve karamelli malt, odunsu-naneli Northern Brewer şerbetçiotu; belirgin acılık, kuru bitiş.",
+   "aroma": [
+    "karamel",
+    "tost",
+    "odunsu",
+    "nane ipucu"
+   ],
+   "bardak": "pint / kupa",
+   "sicaklik": "7-9 °C",
+   "yemek": "Hamburger, ızgara köfte, kumru, mantı.",
+   "ornekler": [
+    "Anchor Steam Beer",
+    "Flying Dog Old Scratch Amber Lager"
+   ],
+   "kaynak": "BJCP 2021 19B California Common"
+  },
+  {
+   "id": "cream-ale",
+   "ad": "Cream Ale",
+   "tr": "Krem ale",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.2,
+    5.6
+   ],
+   "ibu": [
+    8,
+    20
+   ],
+   "srm": [
+    2,
+    5
+   ],
+   "koken": "ABD",
+   "tarihce": "19. yüzyılda ABD'li ale üreticilerinin hafif lagerlerle rekabet etmek için geliştirdiği, ale mayalı ama lager kadar temiz bira.",
+   "tarif": "Açık altın, berrak ve canlı köpüklü. Hafif tatlı mısır-tahıl tadı, düşük acılık; çok yumuşak ve içimi kolay.",
+   "aroma": [
+    "mısır",
+    "tahıl",
+    "hafif tatlı",
+    "yumuşak"
+   ],
+   "bardak": "pint / bardak",
+   "sicaklik": "3-6 °C",
+   "yemek": "Tavuk kanat, nachos, ızgara mısır, gözleme.",
+   "ornekler": [
+    "Genesee Cream Ale",
+    "New Glarus Spotted Cow",
+    "Sleeman Cream Ale"
+   ],
+   "kaynak": "BJCP 2021 1C Cream Ale"
+  },
+  {
+   "id": "radler",
+   "ad": "Radler / Shandy",
+   "tr": "Radler (biralı limonata)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    2.0,
+    3.5
+   ],
+   "ibu": [
+    5,
+    15
+   ],
+   "srm": [
+    2,
+    5
+   ],
+   "koken": "Almanya, Bavyera / İngiltere",
+   "tarihce": "Bavyera'da 1920'lerde bisikletçilere (Radler) bira ile limonatanın karıştırılıp sunulmasıyla yaygınlaştığı anlatılır; İngiltere'deki karşılığı shandy'dir.",
+   "tarif": "Bulanık ya da açık sarı, köpüklü. Limon ya da greyfurt tatlılığı ve ekşiliği öne çıkar, bira tadı arka planda; çok hafif ve ferah.",
+   "aroma": [
+    "limon",
+    "greyfurt",
+    "tatlı",
+    "hafif tahıl"
+   ],
+   "bardak": "bardak / şişeden",
+   "sicaklik": "2-4 °C",
+   "yemek": "Piknik, plaj, salata, ızgara tavuk, tuzlu kraker; yaz meyveleri.",
+   "ornekler": [
+    "Stiegl Radler Grapefruit",
+    "Schöfferhofer Grapefruit",
+    "Gösser NaturRadler"
+   ],
+   "yeni_baslayana": "Biranın acılığını sevmeyenler için en kolay giriş kapısı.",
+   "kaynak": "Wikipedia: Shandy (yaklaşık yarı bira-yarı limonata)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "hefeweizen",
+   "ad": "Hefeweizen (Weissbier)",
+   "tr": "Bavyera buğday birası",
+   "aile": "Buğday",
+   "abv": [
+    4.3,
+    5.6
+   ],
+   "ibu": [
+    8,
+    15
+   ],
+   "srm": [
+    2,
+    6
+   ],
+   "koken": "Almanya, Bavyera",
+   "tarihce": "Bavyera'da buğday birası yapma hakkı uzun süre soylulara aitti; 19. yüzyılda neredeyse yok olan stil, 1960'lardan sonra yeniden patladı.",
+   "tarif": "Saman-altın renkli, maya nedeniyle bulanık ve çok köpüklü. Muz ve karanfil kokusu, yumuşak buğday ekmeği; acılık çok düşük, gövde köpüksü.",
+   "aroma": [
+    "muz",
+    "karanfil",
+    "buğday ekmeği",
+    "vanilya ipucu",
+    "sakız"
+   ],
+   "bardak": "Weizen bardağı (uzun, belli)",
+   "sicaklik": "6-8 °C",
+   "yemek": "Kahvaltı, menemen, beyaz sosis, tavuk şiş, mantı, sütlü tatlı; limonlu balık.",
+   "ornekler": [
+    "Weihenstephaner Hefeweissbier",
+    "Paulaner Hefe-Weissbier",
+    "Schneider Weisse Original",
+    "Erdinger Weissbier"
+   ],
+   "yeni_baslayana": "Şişenin dibindeki mayayı çalkalayıp son kısımla bardağa ekle; asıl tat oradadır.",
+   "kaynak": "BJCP 2021 10A Weissbier"
+  },
+  {
+   "id": "dunkelweizen",
+   "ad": "Dunkles Weissbier (Dunkelweizen)",
+   "tr": "Koyu buğday birası",
+   "aile": "Buğday",
+   "abv": [
+    4.3,
+    5.6
+   ],
+   "ibu": [
+    10,
+    18
+   ],
+   "srm": [
+    14,
+    23
+   ],
+   "koken": "Almanya, Bavyera",
+   "tarihce": "Açık Hefeweizen'den önce Bavyera'da buğday biraları zaten daha koyuydu; koyu malt eklenerek bugünkü hali korundu.",
+   "tarif": "Açık bakırdan kahveye, bulanık. Muz ve karanfil, üstüne karamel, ekmek kabuğu ve hafif kakao; yumuşak, kremamsı gövde.",
+   "aroma": [
+    "muz",
+    "karanfil",
+    "karamel",
+    "ekmek kabuğu",
+    "kakao"
+   ],
+   "bardak": "Weizen bardağı",
+   "sicaklik": "7-9 °C",
+   "yemek": "Kuzu tandır, mantarlı börek, kestaneli pilav, muzlu kek, sütlaç.",
+   "ornekler": [
+    "Franziskaner Hefe-Weissbier Dunkel",
+    "Weihenstephaner Hefeweissbier Dunkel",
+    "Paulaner Hefe-Weissbier Dunkel",
+    "Erdinger Dunkel"
+   ],
+   "kaynak": "BJCP 2021 10B Dunkles Weissbier"
+  },
+  {
+   "id": "weizenbock",
+   "ad": "Weizenbock",
+   "tr": "Buğday bock",
+   "aile": "Buğday",
+   "abv": [
+    6.5,
+    9
+   ],
+   "ibu": [
+    15,
+    30
+   ],
+   "srm": [
+    6,
+    25
+   ],
+   "koken": "Almanya, Bavyera",
+   "tarihce": "1907'de Schneider'in Aventinus'u ile doğan, buğday birasının bock kadar güçlü versiyonu.",
+   "tarif": "Koyu altından koyu kahveye, bulanık. Olgun muz, kuru erik, karanfil ve karamel; dolgun gövde, yumuşak alkol sıcaklığı.",
+   "aroma": [
+    "olgun muz",
+    "kuru erik",
+    "karanfil",
+    "karamel",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "Weizen bardağı / kadeh",
+   "sicaklik": "8-10 °C",
+   "yemek": "Ördek, fırın kuzu, kayısı tatlısı, cevizli baklava, olgun peynir.",
+   "ornekler": [
+    "Schneider Aventinus",
+    "Weihenstephaner Vitus",
+    "Ayinger Weizenbock",
+    "Erdinger Pikantus"
+   ],
+   "kaynak": "BJCP 2021 10C Weizenbock"
+  },
+  {
+   "id": "witbier",
+   "ad": "Witbier",
+   "tr": "Belçika beyaz birası",
+   "aile": "Buğday",
+   "abv": [
+    4.5,
+    5.5
+   ],
+   "ibu": [
+    8,
+    20
+   ],
+   "srm": [
+    2,
+    4
+   ],
+   "koken": "Belçika, Hoegaarden",
+   "tarihce": "Yüzyıllık Flaman geleneği 1950'lerde yok olmuştu; Pierre Celis 1966'da Hoegaarden'de yeniden canlandırdı.",
+   "tarif": "Çok açık, süt beyazı bulanıklık. Kişniş ve acı portakal kabuğu, buğday tatlılığı, hafif ekşilik; köpüklü, ferah ve hafif gövdeli.",
+   "aroma": [
+    "portakal kabuğu",
+    "kişniş",
+    "buğday",
+    "biber ipucu",
+    "limon"
+   ],
+   "bardak": "ağır dipli tumbler",
+   "sicaklik": "4-7 °C",
+   "yemek": "Midye, levrek, ahtapot salata, zeytinyağlı enginar, cacık, hafif peynirler.",
+   "ornekler": [
+    "Hoegaarden Witbier",
+    "Blanche de Bruxelles",
+    "St. Bernardus Wit",
+    "Allagash White"
+   ],
+   "yeni_baslayana": "Yaz için ideal; acılığı neredeyse yok, baharatı ise hoş bir sürpriz.",
+   "kaynak": "BJCP 2021 24A Witbier"
+  },
+  {
+   "id": "american-wheat",
+   "ad": "American Wheat Beer",
+   "tr": "Amerikan buğday birası",
+   "aile": "Buğday",
+   "abv": [
+    4,
+    5.5
+   ],
+   "ibu": [
+    15,
+    30
+   ],
+   "srm": [
+    3,
+    6
+   ],
+   "koken": "ABD",
+   "tarihce": "1980'lerde Amerikan craft hareketinin Alman buğday birasını, muz-karanfil olmadan temiz ale mayasıyla yorumlaması.",
+   "tarif": "Saman-altın, hafif bulanık. Yumuşak buğday ve ekmek, hafif turunçgil şerbetçiotu; Hefeweizen'den daha temiz ve kuru.",
+   "aroma": [
+    "buğday",
+    "ekmek",
+    "limon",
+    "hafif şerbetçiotu"
+   ],
+   "bardak": "pint",
+   "sicaklik": "4-7 °C",
+   "yemek": "Salata, tavuk sote, balık taco, gözleme.",
+   "ornekler": [
+    "Bell's Oberon",
+    "Goose Island 312 Urban Wheat",
+    "Boulevard Unfiltered Wheat"
+   ],
+   "kaynak": "BJCP 2021 1D American Wheat Beer"
+  },
+  {
+   "id": "berliner-weisse",
+   "ad": "Berliner Weisse",
+   "tr": "Berlin beyaz birası",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    2.8,
+    3.8
+   ],
+   "ibu": [
+    3,
+    8
+   ],
+   "srm": [
+    2,
+    3
+   ],
+   "koken": "Almanya, Berlin",
+   "tarihce": "Napolyon askerlerinin 'kuzeyin şampanyası' dediği rivayet edilen bu düşük alkollü ekşi bira, 19. yüzyıl Berlin'inin en popüler içkisiydi.",
+   "tarif": "Çok açık ve bulanık, şampanya gibi canlı köpüklü. Keskin laktik ekşilik, limon ve hafif buğday; çok hafif ve kuru.",
+   "aroma": [
+    "limon",
+    "yoğurt ekşiliği",
+    "buğday",
+    "elma"
+   ],
+   "bardak": "geniş kase kadeh",
+   "sicaklik": "4-7 °C",
+   "yemek": "Ahududu ya da tarhun şurubuyla klasik servis; ceviche, salata, beyaz peynir, keçi peyniri.",
+   "ornekler": [
+    "Berliner Kindl Weisse",
+    "Bayerischer Bahnhof Berliner Style Weisse",
+    "1809 Berliner Weisse"
+   ],
+   "yeni_baslayana": "Ekşi birayla tanışmak için en hafif başlangıç.",
+   "kaynak": "BJCP 2021 23A Berliner Weisse"
+  },
+  {
+   "id": "gose",
+   "ad": "Gose",
+   "tr": "Gose (tuzlu ekşi bira)",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    4.2,
+    4.8
+   ],
+   "ibu": [
+    5,
+    12
+   ],
+   "srm": [
+    3,
+    4
+   ],
+   "koken": "Almanya, Goslar/Leipzig",
+   "tarihce": "Goslar'da doğup Leipzig'de sevilen; kişniş ve tuzla yapılan tarihi buğday birası. 1960'larda kaybolup 1980'lerde geri döndü.",
+   "tarif": "Açık ve bulanık. Hafif laktik ekşilik, kişniş, belirgin ama dengeli tuz; çok ferah ve susuzluk giderici.",
+   "aroma": [
+    "tuz",
+    "limon",
+    "kişniş",
+    "ekşi",
+    "buğday"
+   ],
+   "bardak": "silindir bardak / Gose bardağı",
+   "sicaklik": "4-7 °C",
+   "yemek": "Midye, istiridye, ceviche, deniz börülcesi, ezme, karpuz-beyaz peynir.",
+   "ornekler": [
+    "Bayerischer Bahnhof Leipziger Gose",
+    "Ritterguts Gose",
+    "Anderson Valley The Kimmie, The Yink and The Holy Gose"
+   ],
+   "yeni_baslayana": "Tuz ve ekşi bir arada; ayran seven biri için şaşırtıcı derecede tanıdık gelebilir.",
+   "kaynak": "BJCP 2021 23G Gose"
+  },
+  {
+   "id": "lambic",
+   "ad": "Lambic",
+   "tr": "Lambik (kendiliğinden mayalanmış bira)",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    5,
+    6.5
+   ],
+   "ibu": [
+    0,
+    10
+   ],
+   "srm": [
+    3,
+    6
+   ],
+   "koken": "Belçika, Senne Vadisi/Brüksel",
+   "tarihce": "Brüksel çevresinde yüzyıllardır açık havaya bırakılan şıranın doğal maya ve bakterilerle mayalandığı, meşe fıçılarda yıllanan tarihi bira.",
+   "tarif": "Altın, genelde hafif bulanık ve köpüksüz ya da az köpüklü. Ekşi, toprak, ahır, elma ve limon; çok kuru, şarap gibi.",
+   "aroma": [
+    "ekşi elma",
+    "limon",
+    "ahır/toprak",
+    "meşe",
+    "bal ipucu"
+   ],
+   "bardak": "lambik bardağı / kadeh",
+   "sicaklik": "10-13 °C",
+   "yemek": "Keçi peyniri, ezine peyniri, midye, salamura balık, zeytin.",
+   "ornekler": [
+    "Cantillon Grand Cru Bruocsella",
+    "Boon Lambic (fıçıdan)",
+    "3 Fonteinen Lambik (fıçıdan)"
+   ],
+   "yeni_baslayana": "Saf lambik nadirdir; önce gueuze ile başla.",
+   "kaynak": "BJCP 2021 23D Lambic"
+  },
+  {
+   "id": "gueuze",
+   "ad": "Gueuze",
+   "tr": "Gueuze (harmanlanmış lambik)",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    5,
+    8
+   ],
+   "ibu": [
+    0,
+    10
+   ],
+   "srm": [
+    5,
+    6
+   ],
+   "koken": "Belçika, Brüksel/Pajottenland",
+   "tarihce": "Genç ve yaşlı lambiklerin harmanlanıp şişede yeniden mayalanmasıyla yapılır; 'Brüksel şampanyası' diye anılır.",
+   "tarif": "Altın renkli, berrak ya da hafif bulanık, çok canlı köpüklü. Keskin ekşilik, ahır-toprak, greyfurt, elma ve meşe; kemik kuru bitiş.",
+   "aroma": [
+    "greyfurt",
+    "yeşil elma",
+    "ahır",
+    "meşe",
+    "limon"
+   ],
+   "bardak": "tumbler / flüt",
+   "sicaklik": "8-12 °C",
+   "yemek": "Midye-patates, istiridye, keçi peyniri, tulum, zeytinyağlı enginar, ızgara balık.",
+   "ornekler": [
+    "Drie Fonteinen Oude Geuze",
+    "Cantillon Gueuze 100% Lambic Bio",
+    "Boon Oude Geuze",
+    "Tilquin Oude Gueuze"
+   ],
+   "yeni_baslayana": "'Oude' ibaresi olanlar şekersiz gerçek gueuze'dür.",
+   "kaynak": "BJCP 2021 23E Gueuze"
+  },
+  {
+   "id": "fruit-lambic",
+   "ad": "Fruit Lambic (Kriek, Framboise)",
+   "tr": "Meyveli lambik",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    5,
+    7
+   ],
+   "ibu": [
+    0,
+    10
+   ],
+   "srm": [
+    3,
+    7
+   ],
+   "koken": "Belçika, Brüksel/Pajottenland",
+   "tarihce": "Lambik fıçılarına vişne (kriek) ya da ahududu (framboise) eklenerek meyvenin yeniden mayalanmasıyla yapılan geleneksel Belçika birası.",
+   "tarif": "Meyvenin rengini alır (vişnede koyu kırmızı). Ekşi lambik zemini üzerinde canlı meyve; geleneksel olanlar kuru, tatlandırılmışlar tatlıdır.",
+   "aroma": [
+    "vişne",
+    "badem (çekirdek)",
+    "ahududu",
+    "ekşi",
+    "meşe"
+   ],
+   "bardak": "flüt / lale kadeh",
+   "sicaklik": "6-10 °C",
+   "yemek": "Vişneli ekmek kadayıfı, çikolatalı tatlı, keçi peyniri, kuzu pirzola, ördek.",
+   "ornekler": [
+    "Cantillon Kriek",
+    "Boon Oude Kriek",
+    "Drie Fonteinen Oude Kriek",
+    "Lindemans Kriek"
+   ],
+   "yeni_baslayana": "Lindemans gibi tatlı örneklerden başlayıp 'Oude Kriek' gibi kuru örneklere geç.",
+   "kaynak": "BJCP 2021 23F Fruit Lambic"
+  },
+  {
+   "id": "flanders-red",
+   "ad": "Flanders Red Ale",
+   "tr": "Flaman kızıl ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    4.6,
+    6.5
+   ],
+   "ibu": [
+    10,
+    25
+   ],
+   "srm": [
+    10,
+    17
+   ],
+   "koken": "Belçika, Batı Flandre",
+   "tarihce": "Rodenbach'ın büyük meşe fıçılarında (foeder) yıllanan ekşi kızıl biralarla tanınır; 'Belçika'nın Bordeaux'su' diye anılır.",
+   "tarif": "Bordo-kızıl, berrak. Vişne, erik, kırmızı şarap ve balzamik sirke; meşe tanenleri ve meyveli ekşilik, hafif tatlı bitiş.",
+   "aroma": [
+    "vişne",
+    "erik",
+    "balzamik",
+    "meşe",
+    "kırmızı şarap"
+   ],
+   "bardak": "lale kadeh",
+   "sicaklik": "8-12 °C",
+   "yemek": "Sığır yahni, ördek, bonfile, sumaklı soğanlı kebap, olgun peynir, vişneli tatlı.",
+   "ornekler": [
+    "Rodenbach Grand Cru",
+    "Duchesse de Bourgogne",
+    "Rodenbach Classic",
+    "Vichtenaar"
+   ],
+   "yeni_baslayana": "Kırmızı şarap sevenlere ilk önerilecek bira.",
+   "kaynak": "BJCP 2021 23B Flanders Red Ale"
+  },
+  {
+   "id": "oud-bruin",
+   "ad": "Oud Bruin (Flanders Brown)",
+   "tr": "Flaman eski kahverengi ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    4,
+    8
+   ],
+   "ibu": [
+    20,
+    25
+   ],
+   "srm": [
+    17,
+    22
+   ],
+   "koken": "Belçika, Doğu Flandre (Oudenaarde)",
+   "tarihce": "Oudenaarde çevresinde uzun süre dinlendirilen, maltlı ve ekşimsi kahverengi bira geleneği.",
+   "tarif": "Kızıl-kahve, berrak. Karamel, kuru erik, kuru üzüm ve dengeli laktik ekşilik; Flanders Red'den daha maltlı, daha az sirkemsi.",
+   "aroma": [
+    "kuru erik",
+    "karamel",
+    "kuru üzüm",
+    "ekşi vişne",
+    "melas"
+   ],
+   "bardak": "lale kadeh",
+   "sicaklik": "8-12 °C",
+   "yemek": "Tas kebabı, kuzu yahni, etli kuru fasulye, ayva tatlısı.",
+   "ornekler": [
+    "Liefmans Goudenband",
+    "Petrus Oud Bruin",
+    "Ichtegem's Oud Bruin"
+   ],
+   "kaynak": "BJCP 2021 23C Oud Bruin"
+  },
+  {
+   "id": "wild-ale",
+   "ad": "Mixed-Fermentation Sour / Wild Ale",
+   "tr": "Karışık mayalı ekşi / vahşi ale",
+   "aile": "Ekşi & Vahşi",
+   "abv": [
+    4,
+    9
+   ],
+   "ibu": [
+    5,
+    25
+   ],
+   "srm": [
+    3,
+    25
+   ],
+   "koken": "ABD ve dünya (Belçika ekolünden)",
+   "tarihce": "Brettanomyces ve laktik bakterilerle meşe fıçılarda yıllandırılan modern ekşi biralar; Amerikan craft sahnesinde 2000'lerde patladı.",
+   "tarif": "Renk ve gövde değişken. Ekşilik, Brett'in ahır-tropik meyve aroması, meşe ve çoğu zaman meyve; kuru ve karmaşık.",
+   "aroma": [
+    "ekşi",
+    "ahır",
+    "tropik meyve",
+    "meşe",
+    "taş meyveler"
+   ],
+   "bardak": "lale kadeh / şarap kadehi",
+   "sicaklik": "8-12 °C",
+   "yemek": "Peynir tabağı, keçi peyniri, şarküteri yerine pastırma-sucuk, meyveli tart.",
+   "ornekler": [
+    "Russian River Consecration",
+    "The Bruery Tart of Darkness",
+    "Jolly Pumpkin La Roja",
+    "Crooked Stave Origins"
+   ],
+   "kaynak": "BJCP 28B (temel stile göre değişir)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "belgian-pale-ale",
+   "ad": "Belgian Pale Ale (Spéciale Belge)",
+   "tr": "Belçika pale ale",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    4.8,
+    5.5
+   ],
+   "ibu": [
+    20,
+    30
+   ],
+   "srm": [
+    8,
+    14
+   ],
+   "koken": "Belçika, Antwerp/Brabant",
+   "tarihce": "İkinci Dünya Savaşı sonrası İngiliz pale ale'lerinden ve Pilsner'dan etkilenerek gelişti; De Koninck Antwerp'in simgesidir.",
+   "tarif": "Bakır-kehribar, berrak. Bisküvi ve tost malt, hafif armut-portakal esterleri ve yumuşak baharat; içimi kolay ve dengeli.",
+   "aroma": [
+    "bisküvi",
+    "portakal",
+    "armut",
+    "tost",
+    "hafif baharat"
+   ],
+   "bardak": "De Koninck 'bolleke' (kase kadeh)",
+   "sicaklik": "8-10 °C",
+   "yemek": "Köfte, midye, köy peyniri, bezelye, kırmızı mercimek çorbası.",
+   "ornekler": [
+    "De Koninck",
+    "Palm Spéciale Belge"
+   ],
+   "kaynak": "BJCP 2021 24B Belgian Pale Ale"
+  },
+  {
+   "id": "belgian-single",
+   "ad": "Belgian Single (Patersbier)",
+   "tr": "Manastır tekli birası",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    4.8,
+    6
+   ],
+   "ibu": [
+    25,
+    45
+   ],
+   "srm": [
+    3,
+    5
+   ],
+   "koken": "Belçika (Trappist manastırları)",
+   "tarihce": "Trappist keşişlerinin kendi sofraları için yaptığı hafif bira; uzun süre manastır dışında bulunmazdı.",
+   "tarif": "Açık altın, berrak. Ekmeksi malt, armut ve narenciye esterleri, hafif biber; Pils kadar kuru, Belçika mayası kadar meyvemsi.",
+   "aroma": [
+    "armut",
+    "narenciye",
+    "biber",
+    "ekmek",
+    "kuru"
+   ],
+   "bardak": "kadeh / tumbler",
+   "sicaklik": "6-8 °C",
+   "yemek": "Tavuk şiş, sebze yemekleri, beyaz peynir, mantı.",
+   "ornekler": [
+    "Westmalle Extra",
+    "Chimay Dorée",
+    "Westvleteren Blond",
+    "St. Bernardus Extra 4"
+   ],
+   "kaynak": "BJCP 2021 26A Belgian Single"
+  },
+  {
+   "id": "belgian-blonde",
+   "ad": "Belgian Blond Ale",
+   "tr": "Belçika blond ale",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    6,
+    7.5
+   ],
+   "ibu": [
+    15,
+    30
+   ],
+   "srm": [
+    4,
+    6
+   ],
+   "koken": "Belçika",
+   "tarihce": "Pilsner'ın yaygınlaşmasıyla 1950'ler sonrası manastır ve abbey biralarının açık renkli, tüketiciye yakın versiyonu olarak gelişti.",
+   "tarif": "Altın renkli, berrak, bol köpüklü. Hafif tatlı Pils malt, bal, hafif baharat ve meyvemsi ester; yumuşak alkol, kuruya yakın bitiş.",
+   "aroma": [
+    "bal",
+    "armut",
+    "hafif baharat",
+    "tahıl",
+    "portakal"
+   ],
+   "bardak": "kadeh (kalis)",
+   "sicaklik": "6-8 °C",
+   "yemek": "Tavuk, hindi, ızgara balık, kaşarlı börek, fırın sebze.",
+   "ornekler": [
+    "Leffe Blonde",
+    "Affligem Blond",
+    "Grimbergen Blonde",
+    "La Trappe Blond"
+   ],
+   "yeni_baslayana": "Türkiye'de kolay bulunur; Belçika mayasının tadını tanımak için iyi başlangıç.",
+   "kaynak": "BJCP 2021 25A Belgian Blond Ale"
+  },
+  {
+   "id": "saison",
+   "ad": "Saison",
+   "tr": "Saison (çiftlik birası)",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    5,
+    7
+   ],
+   "ibu": [
+    20,
+    35
+   ],
+   "srm": [
+    5,
+    14
+   ],
+   "koken": "Belçika, Valon bölgesi (Hainaut)",
+   "tarihce": "Valon çiftliklerinde kışın yapılıp yaz hasadında işçilere içirilen ev birası; bugün Saison Dupont ile simgeleşti.",
+   "tarif": "Altın-turuncu, hafif bulanık, çok köpüklü. Biber, karanfil, narenciye ve topraksı maya; çok kuru, canlı ve belirgin acılık.",
+   "aroma": [
+    "karabiber",
+    "limon",
+    "topraksı",
+    "karanfil",
+    "kuru"
+   ],
+   "bardak": "lale kadeh",
+   "sicaklik": "7-10 °C",
+   "yemek": "Otlu yemekler, keçi peyniri, zeytinyağlı enginar, tavuk, sebzeli mantı, levrek.",
+   "ornekler": [
+    "Saison Dupont",
+    "Fantôme Saison",
+    "Boulevard Tank 7",
+    "Brasserie de Blaugies Saison d'Epeautre"
+   ],
+   "yeni_baslayana": "Yemekle en uyumlu biralardan; masaya şarap yerine koymayı dene.",
+   "kaynak": "BJCP 2021 25B Saison"
+  },
+  {
+   "id": "biere-de-garde",
+   "ad": "Bière de Garde",
+   "tr": "Saklama birası (Kuzey Fransa)",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    6,
+    8.5
+   ],
+   "ibu": [
+    18,
+    28
+   ],
+   "srm": [
+    6,
+    19
+   ],
+   "koken": "Fransa, Nord-Pas-de-Calais",
+   "tarihce": "Kuzey Fransa çiftliklerinde kışın yapılıp ilkbahar-yaz için 'saklanan' bira; adı da buradan gelir.",
+   "tarif": "Altın, kehribar ya da kahverengi; berrak. Tostumsu-karamelli malt, hafif mahzen/mantarsı iz, çok az şerbetçiotu; maltlı ama kuru bitiş.",
+   "aroma": [
+    "tost",
+    "karamel",
+    "toprak/mahzen",
+    "hafif meyve"
+   ],
+   "bardak": "lale kadeh",
+   "sicaklik": "8-12 °C",
+   "yemek": "Kuzu güveç, mantarlı et, kestane, fırın tavuk, tulum peyniri.",
+   "ornekler": [
+    "Brasserie Duyck Jenlain Ambrée",
+    "Brasserie Castelain Ch'ti Blonde",
+    "Brasserie de Saint-Sylvestre 3 Monts"
+   ],
+   "kaynak": "BJCP 2021 24C Bière de Garde"
+  },
+  {
+   "id": "belgian-golden-strong",
+   "ad": "Belgian Golden Strong Ale",
+   "tr": "Belçika güçlü altın ale",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    7.5,
+    10.5
+   ],
+   "ibu": [
+    22,
+    35
+   ],
+   "srm": [
+    3,
+    6
+   ],
+   "koken": "Belçika",
+   "tarihce": "Duvel'in 1970'lerde pilsner'a benzeyen açık rengiyle yeniden formüle edilmesiyle stilin modeli oldu; adı 'şeytan'dır.",
+   "tarif": "Açık altın, parlak ve iri köpüklü. Armut, elma, biber; çok kuru ve gazlı, alkol yüksek ama şaşırtıcı biçimde hafif hissedilir.",
+   "aroma": [
+    "armut",
+    "yeşil elma",
+    "biber",
+    "çiçeksi",
+    "kuru"
+   ],
+   "bardak": "lale kadeh",
+   "sicaklik": "6-9 °C",
+   "yemek": "Midye, ızgara balık, tavuk, hellim, kaşarlı mantar; baklavanın şerbetine karşı kuruluğuyla iyi.",
+   "ornekler": [
+    "Duvel",
+    "Delirium Tremens",
+    "La Chouffe",
+    "Brigand"
+   ],
+   "yeni_baslayana": "Görünüşü masum, alkolü yüksek: yavaş iç.",
+   "kaynak": "BJCP 2021 25C Belgian Golden Strong Ale"
+  },
+  {
+   "id": "dubbel",
+   "ad": "Belgian Dubbel",
+   "tr": "Belçika dubbel (çift)",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    6,
+    7.6
+   ],
+   "ibu": [
+    15,
+    25
+   ],
+   "srm": [
+    10,
+    17
+   ],
+   "koken": "Belçika, Westmalle",
+   "tarihce": "1856'da Westmalle manastırında ortaya çıkan koyu, güçlü manastır birası; Trappist geleneğinin klasiklerinden.",
+   "tarif": "Koyu kehribar-bakır, berrak. Karamel, kuru erik, kuru üzüm, muz ve karanfil; kuruya yakın bitiş, yumuşak ve maltlı.",
+   "aroma": [
+    "kuru erik",
+    "karamel",
+    "kuru üzüm",
+    "karanfil",
+    "muz"
+   ],
+   "bardak": "kadeh (kalis)",
+   "sicaklik": "8-12 °C",
+   "yemek": "Kuzu tandır, tas kebabı, kestaneli hindi, ayva tatlısı, kayseri pastırması.",
+   "ornekler": [
+    "Westmalle Dubbel",
+    "Chimay Première (Red)",
+    "Rochefort 6",
+    "St. Bernardus Pater 6"
+   ],
+   "kaynak": "BJCP 2021 26B Belgian Dubbel"
+  },
+  {
+   "id": "tripel",
+   "ad": "Belgian Tripel",
+   "tr": "Belçika tripel (üçlü)",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    7.5,
+    9.5
+   ],
+   "ibu": [
+    20,
+    40
+   ],
+   "srm": [
+    4.5,
+    7
+   ],
+   "koken": "Belçika, Westmalle",
+   "tarihce": "1934'te Westmalle'nin 'Superbier'iyle doğup 1956'da bugünkü haline gelen güçlü, açık renkli manastır birası.",
+   "tarif": "Altın renkli, berrak, yoğun köpüklü. Bal, portakal, muz ve biber; belirgin ama yumuşak alkol, çok kuru ve gazlı bitiş.",
+   "aroma": [
+    "bal",
+    "portakal kabuğu",
+    "biber",
+    "muz",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "kadeh (kalis) / lale",
+   "sicaklik": "7-10 °C",
+   "yemek": "Fırın tavuk, kremalı makarna, ballı keçi peyniri, baharatlı Hint/Türk yemekleri, şekerpare.",
+   "ornekler": [
+    "Westmalle Tripel",
+    "Tripel Karmeliet",
+    "St. Bernardus Tripel",
+    "La Fin du Monde"
+   ],
+   "yeni_baslayana": "Hafif tadına aldanma; %8-9 alkol vardır.",
+   "kaynak": "BJCP 2021 26C Belgian Tripel"
+  },
+  {
+   "id": "belgian-dark-strong",
+   "ad": "Belgian Dark Strong Ale / Quadrupel",
+   "tr": "Belçika güçlü koyu ale / Quadrupel",
+   "aile": "Belçika & Manastır",
+   "abv": [
+    8,
+    12
+   ],
+   "ibu": [
+    20,
+    35
+   ],
+   "srm": [
+    12,
+    22
+   ],
+   "koken": "Belçika (Trappist manastırları)",
+   "tarihce": "Manastırların en güçlü birası; 'Quadrupel' adını 1991'de Hollanda'daki La Trappe kullandı.",
+   "tarif": "Koyu bakır-kahve, berrak. Kuru erik, kuru üzüm, incir, karamel, çikolata ve baharat; dolgun ama kuruya yakın, yumuşak alkol sıcaklığı.",
+   "aroma": [
+    "kuru erik",
+    "incir",
+    "karamel",
+    "kakao",
+    "baharat"
+   ],
+   "bardak": "kadeh (kalis) / snifter",
+   "sicaklik": "10-14 °C",
+   "yemek": "Kuzu incik, ördek, olgun peynir, cevizli baklava, kestane şekeri, hurmalı tatlı.",
+   "ornekler": [
+    "Westvleteren 12",
+    "Rochefort 10",
+    "St. Bernardus Abt 12",
+    "Chimay Grande Réserve (Blue)"
+   ],
+   "yeni_baslayana": "Isındıkça açılır; şarap gibi yavaş yudumla.",
+   "kaynak": "BJCP 2021 26D Belgian Dark Strong Ale"
+  },
+  {
+   "id": "blonde-ale",
+   "ad": "Blonde Ale",
+   "tr": "Blonde ale",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    3.8,
+    5.5
+   ],
+   "ibu": [
+    15,
+    28
+   ],
+   "srm": [
+    3,
+    6
+   ],
+   "koken": "ABD",
+   "tarihce": "Amerikan craft barlarında lager içicilere sunulan, içimi kolay 'giriş seviyesi' ale olarak doğdu.",
+   "tarif": "Açık altın, berrak. Hafif tatlı malt, ekmek ve bal; hafif meyvemsi ester ve az şerbetçiotu; dengeli ve yumuşak.",
+   "aroma": [
+    "bal",
+    "ekmek",
+    "hafif meyve",
+    "tahıl"
+   ],
+   "bardak": "pint / bardak",
+   "sicaklik": "4-7 °C",
+   "yemek": "Salata, ızgara tavuk, balık ekmek, gözleme.",
+   "ornekler": [
+    "Kona Big Wave",
+    "Victory Summer Love",
+    "Firestone Walker 805"
+   ],
+   "kaynak": "BJCP 2021 18A Blonde Ale"
+  },
+  {
+   "id": "american-pale-ale",
+   "ad": "American Pale Ale",
+   "tr": "Amerikan pale ale (APA)",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    4.5,
+    6.2
+   ],
+   "ibu": [
+    30,
+    50
+   ],
+   "srm": [
+    5,
+    10
+   ],
+   "koken": "ABD, Kaliforniya",
+   "tarihce": "1980'de Sierra Nevada Pale Ale'in Cascade şerbetçiotuyla çıkmasıyla Amerikan craft biranın simgesi oldu.",
+   "tarif": "Altından açık kehribara, berrak. Turunçgil ve çam kokan Amerikan şerbetçiotu, hafif karamelli malt; orta acılık, kuru bitiş.",
+   "aroma": [
+    "greyfurt",
+    "çam",
+    "portakal",
+    "bisküvi",
+    "çiçeksi"
+   ],
+   "bardak": "pint / IPA bardağı",
+   "sicaklik": "6-8 °C",
+   "yemek": "Burger, tavuk wrap, acılı kanat, Adana kebap, lahmacun, çiğ köfte.",
+   "ornekler": [
+    "Sierra Nevada Pale Ale",
+    "Firestone Walker Pale 31",
+    "Deschutes Mirror Pond",
+    "Three Floyds Alpha King"
+   ],
+   "yeni_baslayana": "IPA'ya geçmeden önce şerbetçiotunu tanımak için ideal.",
+   "kaynak": "BJCP 2021 18B American Pale Ale"
+  },
+  {
+   "id": "american-amber-ale",
+   "ad": "American Amber Ale",
+   "tr": "Amerikan amber ale",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    4.5,
+    6.2
+   ],
+   "ibu": [
+    25,
+    40
+   ],
+   "srm": [
+    10,
+    17
+   ],
+   "koken": "ABD (Batı Kıyısı)",
+   "tarihce": "1980'lerde Kuzeybatı Pasifik'te 'kızıl ale' adıyla yayıldı; maltla şerbetçiotunu dengeleyen bir Amerikan klasiği.",
+   "tarif": "Kehribar-bakır, berrak. Karamel ve tost malt ile çam-turunçgil şerbetçiotu dengede; orta gövde.",
+   "aroma": [
+    "karamel",
+    "tost",
+    "çam",
+    "portakal"
+   ],
+   "bardak": "pint",
+   "sicaklik": "7-9 °C",
+   "yemek": "Kuzu şiş, kanat, pizza, ızgara köfte, pastırmalı humus.",
+   "ornekler": [
+    "Bell's Amber Ale",
+    "Tröegs Hopback Amber",
+    "Anderson Valley Boont Amber"
+   ],
+   "kaynak": "BJCP 2021 19A American Amber Ale"
+  },
+  {
+   "id": "english-ipa",
+   "ad": "English IPA",
+   "tr": "İngiliz IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    5,
+    7.5
+   ],
+   "ibu": [
+    40,
+    60
+   ],
+   "srm": [
+    6,
+    14
+   ],
+   "koken": "İngiltere, Londra/Burton",
+   "tarihce": "18-19. yüzyılda Hindistan'daki İngilizlere gönderilen, yolculuğa dayansın diye bol şerbetçiotlu pale ale'den gelişti.",
+   "tarif": "Altın-bakır, berrak. Topraksı-çiçeksi İngiliz şerbetçiotu, bisküvi ve hafif karamel malt; belirgin ama yuvarlak acılık.",
+   "aroma": [
+    "topraksı",
+    "çiçeksi",
+    "bisküvi",
+    "marmelat",
+    "karamel"
+   ],
+   "bardak": "pint (nonic)",
+   "sicaklik": "8-10 °C",
+   "yemek": "Balık-patates, köri, baharatlı tavuk, kaşarlı tost, mercimek köftesi.",
+   "ornekler": [
+    "Fuller's Bengal Lancer",
+    "Samuel Smith's India Ale",
+    "Meantime India Pale Ale",
+    "Worthington's White Shield"
+   ],
+   "kaynak": "BJCP 2021 12C English IPA"
+  },
+  {
+   "id": "american-ipa",
+   "ad": "American IPA",
+   "tr": "Amerikan IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    5.5,
+    7.5
+   ],
+   "ibu": [
+    40,
+    70
+   ],
+   "srm": [
+    6,
+    14
+   ],
+   "koken": "ABD",
+   "tarihce": "1990'lardan itibaren Amerikan craft birahanelerinin İngiliz IPA'yı yoğun Amerikan şerbetçiotuyla yeniden yorumladığı, craft biranın amiral stili.",
+   "tarif": "Altından kehribara, berrak. Turunçgil, çam, reçine ve tropik meyve; temiz malt zemini, belirgin acılık ve kuru bitiş.",
+   "aroma": [
+    "greyfurt",
+    "çam",
+    "tropik meyve",
+    "reçine",
+    "portakal"
+   ],
+   "bardak": "IPA bardağı / pint",
+   "sicaklik": "6-8 °C",
+   "yemek": "Acılı yemekler: Adana kebap, acılı ezme, Hint köri, lahmacun; havuç tarçınlı kek.",
+   "ornekler": [
+    "Bell's Two Hearted",
+    "Lagunitas IPA",
+    "Stone IPA",
+    "Founders Centennial IPA"
+   ],
+   "yeni_baslayana": "Taze iç: şişe tarihine bak, 3 aydan eski IPA kokusunu kaybeder.",
+   "kaynak": "BJCP 2021 21A American IPA"
+  },
+  {
+   "id": "west-coast-ipa",
+   "ad": "West Coast IPA",
+   "tr": "Batı Kıyısı IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    6.3,
+    7.5
+   ],
+   "ibu": [
+    50,
+    75
+   ],
+   "srm": [
+    2,
+    6
+   ],
+   "koken": "ABD, Kaliforniya/San Diego",
+   "tarihce": "1990'lar-2000'lerde San Diego ve Kaliforniya'da gelişen, çok berrak, kuru ve acı IPA ekolü.",
+   "tarif": "Açık altın, parlak berrak. Çam, reçine, greyfurt ve otsu şerbetçiotu; çok az malt, keskin acılık ve kemik kuru bitiş.",
+   "aroma": [
+    "çam",
+    "reçine",
+    "greyfurt",
+    "otsu",
+    "kuru"
+   ],
+   "bardak": "IPA bardağı",
+   "sicaklik": "6-8 °C",
+   "yemek": "Izgara et, acılı kanat, Adana, çiğ köfte, burger; yağlı yemeklerin dengeleyicisi.",
+   "ornekler": [
+    "Russian River Blind Pig",
+    "Green Flash West Coast IPA",
+    "Ballast Point Sculpin",
+    "Firestone Walker Union Jack"
+   ],
+   "kaynak": "BA 2026 West Coast-Style India Pale Ale"
+  },
+  {
+   "id": "hazy-ipa",
+   "ad": "Hazy IPA / New England IPA (NEIPA)",
+   "tr": "Bulanık IPA (New England)",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    6,
+    9
+   ],
+   "ibu": [
+    25,
+    60
+   ],
+   "srm": [
+    3,
+    7
+   ],
+   "koken": "ABD, Vermont/New England",
+   "tarihce": "Vermont'ta The Alchemist'in Heady Topper'ı ve 2010'larda Tree House, Trillium gibi birahanelerle yayılan bulanık, meyvemsi IPA.",
+   "tarif": "Soluk sarı-turuncu, opak ve süt gibi bulanık. Mango, şeftali, ananas ve narenciye; acılık yumuşak, gövde kremamsı ve yuvarlak.",
+   "aroma": [
+    "mango",
+    "şeftali",
+    "ananas",
+    "portakal suyu",
+    "kremamsı"
+   ],
+   "bardak": "teku / lale kadeh",
+   "sicaklik": "6-8 °C",
+   "yemek": "Baharatlı tavuk, Tayland yemekleri, kumpir, avokadolu tost, meyveli tart.",
+   "ornekler": [
+    "The Alchemist Heady Topper",
+    "Tree House Julius",
+    "Trillium Congress Street",
+    "Cloudwater DIPA"
+   ],
+   "yeni_baslayana": "IPA'nın acılığından çekinenler için meyve suyu gibi bir giriş.",
+   "kaynak": "BJCP 2021 21C Hazy IPA"
+  },
+  {
+   "id": "double-ipa",
+   "ad": "Double IPA (Imperial IPA)",
+   "tr": "Çift IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    7.5,
+    10
+   ],
+   "ibu": [
+    60,
+    100
+   ],
+   "srm": [
+    6,
+    14
+   ],
+   "koken": "ABD, Kaliforniya",
+   "tarihce": "1994'te Blind Pig ile başlayan, 2000'lerde Pliny the Elder ile kültleşen, IPA'nın daha güçlü ve daha şerbetçiotlu hali.",
+   "tarif": "Altın-açık bakır, berrak ya da hafif bulanık. Yoğun turunçgil, çam, tropik meyve ve reçine; yüksek acılık, alkolü iyi gizleyen kuru gövde.",
+   "aroma": [
+    "greyfurt",
+    "çam",
+    "reçine",
+    "mango",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "lale / IPA bardağı",
+   "sicaklik": "7-10 °C",
+   "yemek": "Baharatlı et, mangal, ezme, havuçlu kek, olgun çedar.",
+   "ornekler": [
+    "Russian River Pliny the Elder",
+    "Founders Double Trouble",
+    "Stone Ruination",
+    "Dogfish Head 90 Minute IPA"
+   ],
+   "kaynak": "BJCP 2021 22A Double IPA"
+  },
+  {
+   "id": "session-ipa",
+   "ad": "Session IPA",
+   "tr": "Hafif (session) IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    3.5,
+    5.0
+   ],
+   "ibu": [
+    20,
+    55
+   ],
+   "srm": [
+    3,
+    12
+   ],
+   "koken": "ABD",
+   "tarihce": "2010'larda düşük alkolle uzun süre içilebilen ama IPA aromasını koruyan biralara olan talepten doğdu.",
+   "tarif": "Açık altın, berrak ya da hafif bulanık. Bol turunçgil ve tropik şerbetçiotu aroması, ince gövde; ferah, kuru ve içimi kolay.",
+   "aroma": [
+    "greyfurt",
+    "tropik meyve",
+    "otsu",
+    "kuru",
+    "hafif"
+   ],
+   "bardak": "pint / IPA bardağı",
+   "sicaklik": "4-7 °C",
+   "yemek": "Meze, kızarmış balık, falafel, tavuk wrap, ızgara sebze.",
+   "ornekler": [
+    "Founders All Day IPA",
+    "Lagunitas DayTime",
+    "Stone Go To IPA",
+    "Firestone Walker Easy Jack"
+   ],
+   "kaynak": "BA 2026 Session India Pale Ale (üst sınır %5; alt sınır yaygın pratik)"
+  },
+  {
+   "id": "black-ipa",
+   "ad": "Black IPA (Cascadian Dark Ale)",
+   "tr": "Siyah IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    5.5,
+    9
+   ],
+   "ibu": [
+    50,
+    90
+   ],
+   "srm": [
+    25,
+    40
+   ],
+   "koken": "ABD, Kuzeybatı Pasifik",
+   "tarihce": "2000'lerde Vermont ve Oregon'da ortaya çıktı; kavrulmuş acılığı az olan koyu malt ile IPA şerbetçiotunu birleştirir.",
+   "tarif": "Koyu kahveden siyaha. Çam, turunçgil ve reçine aroması; arkada hafif kakao ve kavrulmuşluk, belirgin acılık ve kuru bitiş.",
+   "aroma": [
+    "çam",
+    "greyfurt",
+    "kakao",
+    "kavrulmuş malt",
+    "reçine"
+   ],
+   "bardak": "IPA bardağı / pint",
+   "sicaklik": "7-9 °C",
+   "yemek": "Mangal, ızgara kuzu, isli patlıcanlı Ali Nazik, bitter çikolata.",
+   "ornekler": [
+    "Stone Sublimely Self-Righteous",
+    "21st Amendment Back in Black",
+    "Deschutes Hop in the Dark"
+   ],
+   "kaynak": "BJCP 2021 21B Black IPA"
+  },
+  {
+   "id": "brut-ipa",
+   "ad": "Brut IPA",
+   "tr": "Brut IPA (şampanya tarzı IPA)",
+   "aile": "Pale Ale & IPA",
+   "abv": [
+    6,
+    7.5
+   ],
+   "ibu": [
+    20,
+    30
+   ],
+   "srm": [
+    2,
+    4
+   ],
+   "koken": "ABD, San Francisco",
+   "tarihce": "2017'de San Francisco'da Social Kitchen'dan Kim Sturdavant'ın şeker bırakmayan enzimle yaptığı 'şampanya kuruluğunda' IPA.",
+   "tarif": "Çok açık, parlak ve şampanya gibi yüksek gazlı. Meyvemsi-çiçeksi şerbetçiotu, neredeyse sıfır tatlılık; acılık düşük, bitiş kemik kuru.",
+   "aroma": [
+    "beyaz üzüm",
+    "çiçeksi",
+    "tropik meyve",
+    "kuru",
+    "gazlı"
+   ],
+   "bardak": "flüt",
+   "sicaklik": "4-6 °C",
+   "yemek": "İstiridye, suşi, karides, deniz mahsullü meze, beyaz peynir-kavun.",
+   "ornekler": [
+    "Social Kitchen Hop Champagne",
+    "Sierra Nevada Brut IPA"
+   ],
+   "kaynak": "BJCP 2021 21B Brut IPA"
+  },
+  {
+   "id": "english-bitter",
+   "ad": "Bitter (Ordinary / Best)",
+   "tr": "İngiliz bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    3.2,
+    4.6
+   ],
+   "ibu": [
+    25,
+    40
+   ],
+   "srm": [
+    8,
+    16
+   ],
+   "koken": "İngiltere",
+   "tarihce": "İngiliz pub'larının gündelik 'cask' birası; 19. yüzyılda pale ale'lerin daha hafif hali olarak pub dilinde 'bitter' adını aldı.",
+   "tarif": "Altın-bakır, berrak. Bisküvi ve hafif karamel malt, topraksı-çiçeksi şerbetçiotu; düşük gaz, düşük alkol, belirgin acılık.",
+   "aroma": [
+    "bisküvi",
+    "karamel",
+    "topraksı",
+    "marmelat",
+    "çiçeksi"
+   ],
+   "bardak": "pint (nonic) / kupa",
+   "sicaklik": "10-13 °C",
+   "yemek": "Balık-patates, köfte, tavuk börek, çedar peyniri, kaşarlı tost.",
+   "ornekler": [
+    "Fuller's London Pride",
+    "Timothy Taylor Landlord",
+    "Adnams Southwold Bitter",
+    "Harvey's Sussex Best Bitter"
+   ],
+   "yeni_baslayana": "Buz gibi değil, mahzen sıcaklığında iç; tadı ancak öyle açılır.",
+   "kaynak": "BJCP 2021 11A+11B"
+  },
+  {
+   "id": "esb",
+   "ad": "Strong Bitter / ESB",
+   "tr": "Güçlü bitter / Extra Special Bitter",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    4.6,
+    6.2
+   ],
+   "ibu": [
+    30,
+    50
+   ],
+   "srm": [
+    8,
+    18
+   ],
+   "koken": "İngiltere, Londra",
+   "tarihce": "Fuller's 1971'de ESB'yi kış birası olarak çıkardı; ad zamanla bir stile dönüştü.",
+   "tarif": "Koyu altından bakıra, berrak. Dolgun bisküvi, karamel, marmelat ve topraksı şerbetçiotu; maltla acılık dengede, orta gövde.",
+   "aroma": [
+    "marmelat",
+    "karamel",
+    "bisküvi",
+    "topraksı",
+    "tost"
+   ],
+   "bardak": "pint (nonic)",
+   "sicaklik": "10-13 °C",
+   "yemek": "Rosto, kuzu pirzola, et sote, olgun çedar, kuru köfte.",
+   "ornekler": [
+    "Fuller's ESB",
+    "Bass Pale Ale",
+    "Shepherd Neame Bishops Finger",
+    "Samuel Smith's Old Brewery Pale Ale"
+   ],
+   "kaynak": "BJCP 2021 11C Strong Bitter"
+  },
+  {
+   "id": "british-golden-ale",
+   "ad": "British Golden Ale",
+   "tr": "İngiliz altın ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    3.8,
+    5
+   ],
+   "ibu": [
+    20,
+    45
+   ],
+   "srm": [
+    2,
+    5
+   ],
+   "koken": "İngiltere",
+   "tarihce": "1980'lerde İngiliz bira üreticilerinin genç lager içicileri çekmek için geliştirdiği açık renkli, şerbetçiotlu ale.",
+   "tarif": "Saman-altın, berrak. Hafif tahıl ve bisküvi, turunçgil ya da çiçeksi şerbetçiotu; ferah, kuru ve içimi kolay.",
+   "aroma": [
+    "limon",
+    "çiçeksi",
+    "tahıl",
+    "bisküvi"
+   ],
+   "bardak": "pint",
+   "sicaklik": "6-10 °C",
+   "yemek": "Balık, salata, tavuk şiş, sigara böreği.",
+   "ornekler": [
+    "Hop Back Summer Lightning",
+    "Crouch Vale Brewers Gold",
+    "Oakham Citra"
+   ],
+   "kaynak": "BJCP 2021 12A British Golden Ale"
+  },
+  {
+   "id": "dark-mild",
+   "ad": "Dark Mild",
+   "tr": "Koyu mild",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    3,
+    3.8
+   ],
+   "ibu": [
+    10,
+    25
+   ],
+   "srm": [
+    14,
+    25
+   ],
+   "koken": "İngiltere (Midlands/Kuzeybatı)",
+   "tarihce": "Bir zamanlar İngiliz işçilerin en çok içtiği pub birası; 'mild' acılığın az olduğunu anlatır.",
+   "tarif": "Bakırdan koyu kahveye, berrak. Karamel, fındık, hafif çikolata; düşük alkol, düşük acılık, yumuşak gövde.",
+   "aroma": [
+    "karamel",
+    "fındık",
+    "kakao",
+    "kuru meyve"
+   ],
+   "bardak": "pint (nonic)",
+   "sicaklik": "10-13 °C",
+   "yemek": "Ev yemekleri, kuru fasulye, et sote, çay kekleri.",
+   "ornekler": [
+    "Moorhouse's Black Cat",
+    "Rudgate Ruby Mild",
+    "Theakston Traditional Mild"
+   ],
+   "yeni_baslayana": "Koyu ama hafif: %3-4 alkolle akşam boyu içilebilir.",
+   "kaynak": "BJCP 2021 13A Dark Mild"
+  },
+  {
+   "id": "british-brown-ale",
+   "ad": "British Brown Ale",
+   "tr": "İngiliz kahverengi ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    4.2,
+    5.9
+   ],
+   "ibu": [
+    20,
+    30
+   ],
+   "srm": [
+    12,
+    22
+   ],
+   "koken": "İngiltere (Newcastle/Kuzey)",
+   "tarihce": "Kuzey İngiltere'de 1920'lerden beri sevilen; Newcastle Brown Ale ile dünyaya açılan maltlı ale.",
+   "tarif": "Kehribar-kahve, berrak. Karamel, fındık, tost ve hafif çikolata; düşük acılık, kuruya yakın bitiş.",
+   "aroma": [
+    "fındık",
+    "karamel",
+    "tost",
+    "kakao"
+   ],
+   "bardak": "pint",
+   "sicaklik": "8-11 °C",
+   "yemek": "Rosto et, kavurma, mantarlı börek, fındıklı tatlılar.",
+   "ornekler": [
+    "Newcastle Brown Ale",
+    "Samuel Smith's Nut Brown Ale"
+   ],
+   "kaynak": "BJCP 2021 13B British Brown Ale"
+  },
+  {
+   "id": "irish-red-ale",
+   "ad": "Irish Red Ale",
+   "tr": "İrlanda kızıl ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    3.8,
+    5
+   ],
+   "ibu": [
+    18,
+    28
+   ],
+   "srm": [
+    9,
+    14
+   ],
+   "koken": "İrlanda",
+   "tarihce": "İrlanda'nın uzun bira geleneğinde kızıl, maltlı ve yumuşak biraların modern temsilcisi; Smithwick's 1710'dan beri üretilir.",
+   "tarif": "Kehribar-kızıl, berrak. Karamel ve tereyağlı tost, sonda kavrulmuş arpanın hafif kuru dokunuşu; düşük acılık, yumuşak içim.",
+   "aroma": [
+    "karamel",
+    "tost",
+    "tereyağı",
+    "hafif kavrulmuş"
+   ],
+   "bardak": "pint",
+   "sicaklik": "7-10 °C",
+   "yemek": "Kuzu güveç, et sote, patates, kaşarlı tost, kuru köfte.",
+   "ornekler": [
+    "Smithwick's Irish Red",
+    "Kilkenny Irish Cream Ale",
+    "O'Hara's Irish Red",
+    "Murphy's Irish Red"
+   ],
+   "kaynak": "BJCP 2021 15A Irish Red Ale"
+  },
+  {
+   "id": "scottish-ale",
+   "ad": "Scottish Ale (Export)",
+   "tr": "İskoç ale",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    3.9,
+    6
+   ],
+   "ibu": [
+    15,
+    30
+   ],
+   "srm": [
+    12,
+    20
+   ],
+   "koken": "İskoçya, Edinburgh",
+   "tarihce": "İskoçya'da birayı 'shilling' cinsinden fıçı vergisine göre (60/-, 70/-, 80/-) adlandıran geleneğin en güçlü günlük biraları.",
+   "tarif": "Kehribar-koyu bakır, berrak. Karamel, tost ve tereyağlı malt; acılık düşük, şerbetçiotu neredeyse yok, yumuşak gövde.",
+   "aroma": [
+    "karamel",
+    "tost",
+    "malt",
+    "hafif kavrulmuş"
+   ],
+   "bardak": "pint / devedikeni bardak",
+   "sicaklik": "10-13 °C",
+   "yemek": "Kuzu, haggis yerine bumbar dolması, kaşarlı patates, tereyağlı kurabiye.",
+   "ornekler": [
+    "Belhaven Scottish Ale",
+    "Caledonian 80/-",
+    "Orkney Dark Island",
+    "Innis & Gunn The Original (meşe)"
+   ],
+   "kaynak": "BJCP 2021 14C Scottish Export"
+  },
+  {
+   "id": "old-ale",
+   "ad": "Old Ale",
+   "tr": "Old ale (yıllanmış İngiliz ale)",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": [
+    5.5,
+    9
+   ],
+   "ibu": [
+    30,
+    60
+   ],
+   "srm": [
+    10,
+    22
+   ],
+   "koken": "İngiltere",
+   "tarihce": "Uzun süre fıçıda bekletilen, hafif ekşimsi ve yoğun 'stock ale' geleneğinden gelir; bazıları yıllarca dinlendirilir.",
+   "tarif": "Kehribardan koyu kahveye, berrak. Melas, kuru meyve, karamel, toffee; yaşla gelen şeri/porto benzeri tatlar, ısıtan alkol.",
+   "aroma": [
+    "melas",
+    "kuru meyve",
+    "toffee",
+    "şeri",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "snifter / tulip",
+   "sicaklik": "10-13 °C",
+   "yemek": "Stilton, olgun kaşar, kuzu kapama, cevizli baklava, kuru meyve.",
+   "ornekler": [
+    "Theakston Old Peculier",
+    "Gale's Prize Old Ale",
+    "Fuller's Vintage Ale",
+    "Greene King Strong Suffolk"
+   ],
+   "kaynak": "BJCP 2021 17B Old Ale"
+  },
+  {
+   "id": "english-porter",
+   "ad": "English Porter",
+   "tr": "İngiliz porter",
+   "aile": "Stout & Porter",
+   "abv": [
+    4,
+    5.4
+   ],
+   "ibu": [
+    18,
+    35
+   ],
+   "srm": [
+    20,
+    30
+   ],
+   "koken": "İngiltere, Londra",
+   "tarihce": "18. yüzyıl Londra'sında hamalların (porter) içtiği koyu kahverengi bira; stout'un atası.",
+   "tarif": "Kahveden siyaha, yakut yansımalı. Çikolata, karamel, kavrulmuş fındık ve hafif kahve; yumuşak, sert kavrulmuşluk yok.",
+   "aroma": [
+    "çikolata",
+    "karamel",
+    "fındık",
+    "kahve ipucu"
+   ],
+   "bardak": "pint (nonic)",
+   "sicaklik": "9-12 °C",
+   "yemek": "Kuzu yahni, kuru fasulye, ızgara mantar, kek, tiramisu.",
+   "ornekler": [
+    "Fuller's London Porter",
+    "Samuel Smith's Taddy Porter",
+    "Meantime London Porter"
+   ],
+   "kaynak": "BJCP 2021 13C English Porter"
+  },
+  {
+   "id": "american-porter",
+   "ad": "American Porter (Robust Porter)",
+   "tr": "Amerikan porter",
+   "aile": "Stout & Porter",
+   "abv": [
+    4.8,
+    6.5
+   ],
+   "ibu": [
+    25,
+    50
+   ],
+   "srm": [
+    22,
+    40
+   ],
+   "koken": "ABD",
+   "tarihce": "İngiliz porter'ın Amerikan craft biracılarınca daha güçlü, daha kavrulmuş ve daha şerbetçiotlu hale getirilmesi.",
+   "tarif": "Koyu kahve-siyah. Kavrulmuş malt, bitter çikolata, kahve ve hafif şerbetçiotu acılığı; orta-dolgun gövde.",
+   "aroma": [
+    "bitter çikolata",
+    "kahve",
+    "kavrulmuş",
+    "karamel",
+    "çam ipucu"
+   ],
+   "bardak": "pint",
+   "sicaklik": "9-12 °C",
+   "yemek": "Mangalda et, kaburga, burger, kakaolu kek, brownie.",
+   "ornekler": [
+    "Founders Porter",
+    "Deschutes Black Butte Porter",
+    "Great Lakes Edmund Fitzgerald",
+    "Anchor Porter"
+   ],
+   "kaynak": "BJCP 2021 20A American Porter"
+  },
+  {
+   "id": "baltic-porter",
+   "ad": "Baltic Porter",
+   "tr": "Baltık porter",
+   "aile": "Stout & Porter",
+   "abv": [
+    6.5,
+    9.5
+   ],
+   "ibu": [
+    20,
+    40
+   ],
+   "srm": [
+    17,
+    30
+   ],
+   "koken": "Baltık ülkeleri (Polonya, Finlandiya)",
+   "tarihce": "İngiliz imperial stout'ların Baltık'a ihracından esinlenip 19. yüzyılda lager mayasıyla yeniden yorumlanan güçlü porter.",
+   "tarif": "Koyu kızıl-kahveden siyaha, berrak. Karamel, kuru erik, meyan kökü, çikolata; yumuşak, pürüzsüz ve sıcak bir alkol.",
+   "aroma": [
+    "meyan kökü",
+    "kuru erik",
+    "karamel",
+    "çikolata",
+    "melas"
+   ],
+   "bardak": "snifter / tulip",
+   "sicaklik": "9-12 °C",
+   "yemek": "Füme balık, kavurma, olgun peynir, kuru incir, çikolatalı tatlılar.",
+   "ornekler": [
+    "Żywiec Porter",
+    "Okocim Porter",
+    "Sinebrychoff Porter",
+    "Baltika No. 6 Porter"
+   ],
+   "kaynak": "BJCP 2021 9C Baltic Porter"
+  },
+  {
+   "id": "irish-stout",
+   "ad": "Irish Stout (Dry Stout)",
+   "tr": "İrlanda kuru stout",
+   "aile": "Stout & Porter",
+   "abv": [
+    3.8,
+    5
+   ],
+   "ibu": [
+    25,
+    45
+   ],
+   "srm": [
+    25,
+    40
+   ],
+   "koken": "İrlanda, Dublin",
+   "tarihce": "Arthur Guinness'in 1759'da Dublin'de kurduğu fabrikayla dünyaya yayılan, kavrulmuş arpa ile yapılan kuru, siyah bira.",
+   "tarif": "Siyah, krem rengi kalın köpüklü. Kahve, bitter çikolata ve kavrulmuş arpa; düşük-orta gövde, kuru ve kavrulmuş bitiş.",
+   "aroma": [
+    "kahve",
+    "bitter çikolata",
+    "kavrulmuş arpa",
+    "kuru"
+   ],
+   "bardak": "pint (tulip pint)",
+   "sicaklik": "6-8 °C",
+   "yemek": "İstiridye, midye, et güveç, kuru köfte, çikolatalı sufle.",
+   "ornekler": [
+    "Guinness Draught",
+    "Murphy's Irish Stout",
+    "Beamish Irish Stout",
+    "O'Hara's Irish Stout"
+   ],
+   "yeni_baslayana": "Nitro (azotlu) versiyonlar kremamsı ve çok yumuşaktır; koyu bira korkusunu yener.",
+   "kaynak": "BJCP 2021 15B Irish Stout"
+  },
+  {
+   "id": "irish-extra-stout",
+   "ad": "Irish Extra Stout",
+   "tr": "İrlanda ekstra stout",
+   "aile": "Stout & Porter",
+   "abv": [
+    5,
+    6.5
+   ],
+   "ibu": [
+    35,
+    50
+   ],
+   "srm": [
+    30,
+    40
+   ],
+   "koken": "İrlanda, Dublin",
+   "tarihce": "Guinness'in tarihi 'Extra Superior Porter'ından gelen, Dry Stout'tan daha dolgun ve güçlü şişe stout'u.",
+   "tarif": "Siyah, koyu ten köpüklü. Kahve, bitter çikolata, kavrulmuş tahıl ve hafif tatlılık; Dry Stout'tan daha dolgun gövde.",
+   "aroma": [
+    "kahve",
+    "bitter çikolata",
+    "kavrulmuş",
+    "hafif karamel"
+   ],
+   "bardak": "pint",
+   "sicaklik": "7-9 °C",
+   "yemek": "Et yahni, kokoreç, istiridye, çikolatalı kek.",
+   "ornekler": [
+    "Guinness Extra Stout",
+    "Sheaf Stout"
+   ],
+   "kaynak": "BJCP 2021 15C Irish Extra Stout"
+  },
+  {
+   "id": "foreign-extra-stout",
+   "ad": "Foreign Extra Stout",
+   "tr": "Tropik/ihraç stout",
+   "aile": "Stout & Porter",
+   "abv": [
+    6.3,
+    8
+   ],
+   "ibu": [
+    50,
+    70
+   ],
+   "srm": [
+    30,
+    40
+   ],
+   "koken": "İrlanda (ihraç), Karayipler, Afrika",
+   "tarihce": "Tropik ülkelere gönderilen, uzun yolculuğa dayansın diye daha güçlü ve daha acı yapılan stout.",
+   "tarif": "Siyah, ten köpüklü. Kavrulmuş kahve, bitter çikolata, hafif meyvemsilik; dolgun ama kuru, belirgin acılık.",
+   "aroma": [
+    "kahve",
+    "bitter çikolata",
+    "kavrulmuş",
+    "kuru meyve"
+   ],
+   "bardak": "pint / tulip",
+   "sicaklik": "8-11 °C",
+   "yemek": "Baharatlı et, Jamaika tavuğu, acılı Urfa kebap, çikolata.",
+   "ornekler": [
+    "Guinness Foreign Extra Stout",
+    "Lion Stout",
+    "Coopers Best Extra Stout"
+   ],
+   "kaynak": "BJCP 2021 16D Foreign Extra Stout"
+  },
+  {
+   "id": "sweet-stout",
+   "ad": "Sweet Stout / Milk Stout",
+   "tr": "Tatlı stout / sütlü stout",
+   "aile": "Stout & Porter",
+   "abv": [
+    4,
+    6
+   ],
+   "ibu": [
+    20,
+    40
+   ],
+   "srm": [
+    30,
+    40
+   ],
+   "koken": "İngiltere",
+   "tarihce": "20. yüzyıl başında İngiltere'de laktoz (süt şekeri) eklenerek 'besleyici' diye pazarlanan tatlı stout.",
+   "tarif": "Siyah, krem köpüklü. Sütlü kahve, sütlü çikolata ve krema; kavrulmuşluk yumuşak, gövde kremamsı ve tatlı.",
+   "aroma": [
+    "sütlü çikolata",
+    "sütlü kahve",
+    "krema",
+    "karamel"
+   ],
+   "bardak": "pint / tulip",
+   "sicaklik": "8-11 °C",
+   "yemek": "Brownie, profiterol, sütlaç, Türk kahvesiyle tatlı sofrası, dondurma.",
+   "ornekler": [
+    "Left Hand Milk Stout",
+    "Mackeson XXX Stout",
+    "Samuel Adams Cream Stout"
+   ],
+   "yeni_baslayana": "Kahve ve tatlı sevenler için stout'a en kolay giriş.",
+   "kaynak": "BJCP 2021 16A Sweet Stout"
+  },
+  {
+   "id": "oatmeal-stout",
+   "ad": "Oatmeal Stout",
+   "tr": "Yulaflı stout",
+   "aile": "Stout & Porter",
+   "abv": [
+    4.2,
+    5.9
+   ],
+   "ibu": [
+    25,
+    40
+   ],
+   "srm": [
+    22,
+    40
+   ],
+   "koken": "İngiltere",
+   "tarihce": "Yulafın bira yapımındaki eski kullanımından gelir; 1980'lerde Samuel Smith'in versiyonuyla yeniden popülerleşti.",
+   "tarif": "Koyu kahve-siyah, kremamsı. Kahve, sütlü çikolata ve yulaf ezmesi; ipeksi ağız hissi, orta tatlılık.",
+   "aroma": [
+    "yulaf",
+    "sütlü kahve",
+    "çikolata",
+    "fındık"
+   ],
+   "bardak": "pint / tulip",
+   "sicaklik": "8-11 °C",
+   "yemek": "Kahvaltıda pankek, kurabiye, tiramisu, et sote, kuru fasulye.",
+   "ornekler": [
+    "Samuel Smith's Oatmeal Stout",
+    "Anderson Valley Barney Flats",
+    "Young's Double Chocolate Stout (yakın stil)"
+   ],
+   "kaynak": "BJCP 2021 16B Oatmeal Stout"
+  },
+  {
+   "id": "imperial-stout",
+   "ad": "Imperial Stout (Russian Imperial Stout)",
+   "tr": "Emperyal stout",
+   "aile": "Stout & Porter",
+   "abv": [
+    8,
+    12
+   ],
+   "ibu": [
+    50,
+    90
+   ],
+   "srm": [
+    30,
+    40
+   ],
+   "koken": "İngiltere, Londra (Rus sarayı için)",
+   "tarihce": "18. yüzyılda Londra'dan Rus Çarlığı sarayına gönderilen güçlü stout'lardan gelir; Amerikan craft ile yeniden zirveye çıktı.",
+   "tarif": "Simsiyah, koyu köpüklü. Yoğun kahve, bitter çikolata, kuru meyve, meyan kökü ve alkol; çok dolgun, yağımsı gövde.",
+   "aroma": [
+    "espresso",
+    "bitter çikolata",
+    "kuru erik",
+    "meyan kökü",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "snifter",
+   "sicaklik": "11-14 °C",
+   "yemek": "Olgun peynir (rokfor, tulum), çikolatalı fondan, cevizli baklava, kestane şekeri.",
+   "ornekler": [
+    "Old Rasputin",
+    "Founders Imperial Stout",
+    "Samuel Smith's Imperial Stout",
+    "Brooklyn Black Chocolate Stout"
+   ],
+   "yeni_baslayana": "Bir şişeyi iki kişiyle paylaş; yavaşça ısınmasını bekle.",
+   "kaynak": "BJCP 2021 20C Imperial Stout"
+  },
+  {
+   "id": "pastry-stout",
+   "ad": "Pastry Stout",
+   "tr": "Pastane stout'u (tatlı katkılı emperyal stout)",
+   "aile": "Stout & Porter",
+   "abv": [
+    8,
+    14
+   ],
+   "ibu": [
+    30,
+    80
+   ],
+   "srm": [
+    30,
+    40
+   ],
+   "koken": "ABD",
+   "tarihce": "2010'larda Amerikan craft sahnesinde vanilya, kakao, akçaağaç şurubu, hindistancevizi gibi katkılarla tatlı tarifini taklit eden emperyal stout akımı.",
+   "tarif": "Simsiyah, yoğun. Brownie, vanilya, karamel, kahve ve fındık gibi tatlı katkılar; çok tatlı, dolgun ve likörümsü.",
+   "aroma": [
+    "vanilya",
+    "brownie",
+    "akçaağaç",
+    "hindistancevizi",
+    "kahve"
+   ],
+   "bardak": "snifter",
+   "sicaklik": "10-13 °C",
+   "yemek": "Kendisi tatlı yerine geçer; vanilyalı dondurma, sade lokum, kahve.",
+   "ornekler": [
+    "Omnipollo Noa Pecan Mud Cake",
+    "Prairie Bomb!",
+    "Evil Twin Imperial Biscotti Break",
+    "Westbrook Mexican Cake"
+   ],
+   "yeni_baslayana": "Küçük porsiyon iç; tatlı sevenler için bir 'şişede tatlı'.",
+   "kaynak": "BA Specialty Beer; emperyal stout aralığı esas alındı",
+   "guven": "tahmin"
+  },
+  {
+   "id": "english-barleywine",
+   "ad": "English Barleywine",
+   "tr": "İngiliz arpa şarabı",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": [
+    8,
+    12
+   ],
+   "ibu": [
+    35,
+    70
+   ],
+   "srm": [
+    8,
+    22
+   ],
+   "koken": "İngiltere",
+   "tarihce": "İngiliz soylu ailelerinin şarap yerine konan çok güçlü 'stock ale'lerinden gelir; 1903'te Bass No.1 ilk kez 'barley wine' adıyla satıldı.",
+   "tarif": "Kehribardan koyu kahveye. Toffee, melas, kuru meyve, ekmek kabuğu ve şeri; dolgun, ısıtan alkol ve uzun bitiş.",
+   "aroma": [
+    "toffee",
+    "kuru meyve",
+    "melas",
+    "şeri",
+    "ekmek kabuğu"
+   ],
+   "bardak": "snifter",
+   "sicaklik": "12-14 °C",
+   "yemek": "Stilton, olgun çedar, cevizli baklava, incir tatlısı, kuru kayısı.",
+   "ornekler": [
+    "J.W. Lees Harvest Ale",
+    "Fuller's Golden Pride",
+    "Thomas Hardy's Ale",
+    "Robinsons Old Tom"
+   ],
+   "yeni_baslayana": "Yıllandırmaya uygun: bir şişeyi 1-2 yıl saklayıp farkı dene.",
+   "kaynak": "BJCP 2021 17D English Barley Wine"
+  },
+  {
+   "id": "american-barleywine",
+   "ad": "American Barleywine",
+   "tr": "Amerikan arpa şarabı",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": [
+    8,
+    12
+   ],
+   "ibu": [
+    50,
+    100
+   ],
+   "srm": [
+    9,
+    18
+   ],
+   "koken": "ABD",
+   "tarihce": "1975'te Anchor Old Foghorn ve 1983'te Sierra Nevada Bigfoot ile İngiliz stilinin şerbetçiotlu Amerikan yorumu doğdu.",
+   "tarif": "Kehribar-bakır. Karamel ve toffee malt üzerine çam, greyfurt şerbetçiotu; yüksek acılık, yoğun alkol ve dolgun gövde.",
+   "aroma": [
+    "karamel",
+    "greyfurt",
+    "çam",
+    "kuru meyve",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "snifter",
+   "sicaklik": "12-14 °C",
+   "yemek": "Mavi peynir, havuçlu kek, cevizli tatlılar, mangal et.",
+   "ornekler": [
+    "Sierra Nevada Bigfoot",
+    "Anchor Old Foghorn",
+    "Firestone Walker Sucaba (fıçı)",
+    "Avery Hog Heaven"
+   ],
+   "kaynak": "BJCP 2021 22C American Barleywine"
+  },
+  {
+   "id": "wee-heavy",
+   "ad": "Wee Heavy (Strong Scotch Ale)",
+   "tr": "Güçlü İskoç ale",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": [
+    6.5,
+    10
+   ],
+   "ibu": [
+    17,
+    35
+   ],
+   "srm": [
+    14,
+    25
+   ],
+   "koken": "İskoçya, Edinburgh",
+   "tarihce": "İskoçya'nın en güçlü 'shilling' biraları (90/- ve üstü); maltın şerbetçiotuna galip geldiği bir gelenek.",
+   "tarif": "Bakırdan koyu kahveye, berrak. Yoğun karamel, toffee, kuru meyve ve hafif dumanlılık hissi; dolgun, tatlı ve ısıtan.",
+   "aroma": [
+    "karamel",
+    "toffee",
+    "kuru erik",
+    "malt",
+    "alkol sıcaklığı"
+   ],
+   "bardak": "devedikeni bardak / snifter",
+   "sicaklik": "10-13 °C",
+   "yemek": "Kuzu incik, tandır, isli peynir, kuru incir, tereyağlı kurabiye.",
+   "ornekler": [
+    "Traquair House Ale",
+    "Belhaven Wee Heavy",
+    "Founders Backwoods Bastard",
+    "Orkney Skull Splitter"
+   ],
+   "kaynak": "BJCP 2021 17C Wee Heavy"
+  },
+  {
+   "id": "barrel-aged",
+   "ad": "Wood- / Barrel-Aged Beer",
+   "tr": "Fıçıda yıllandırılmış bira",
+   "aile": "Güçlü & Fıçı Yıllanmış",
+   "abv": [
+    7,
+    14
+   ],
+   "ibu": [
+    20,
+    80
+   ],
+   "srm": [
+    6,
+    40
+   ],
+   "koken": "ABD (modern akım); kökeni tüm eski bira geleneği",
+   "tarihce": "1992'de Goose Island'ın burbon fıçısında dinlendirdiği Bourbon County Stout ile modern akım başladı; bugün viski, şarap, rom fıçıları kullanılıyor.",
+   "tarif": "Temel stile göre değişir; genelde koyu ve güçlü. Fıçıdan gelen vanilya, hindistancevizi, meşe ve burbon ya da şarap izleri; dolgun ve likörümsü.",
+   "aroma": [
+    "vanilya",
+    "burbon",
+    "meşe",
+    "hindistancevizi",
+    "karamel",
+    "kuru meyve"
+   ],
+   "bardak": "snifter",
+   "sicaklik": "12-15 °C",
+   "yemek": "Olgun peynir, bitter çikolata, cevizli baklava, kestane tatlısı; tek başına sindirim birası.",
+   "ornekler": [
+    "Goose Island Bourbon County Brand Stout",
+    "Founders KBS",
+    "Firestone Walker Parabola",
+    "Innis & Gunn Original"
+   ],
+   "yeni_baslayana": "Viski seviyorsan, viski fıçısında dinlenmiş bir stout iki dünyayı buluşturur.",
+   "kaynak": "BA Wood- and Barrel-Aged Beer (temel stile göre değişir)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "fruit-beer",
+   "ad": "Fruit Beer",
+   "tr": "Meyveli bira",
+   "aile": "Özel & Diğer",
+   "abv": [
+    3,
+    9
+   ],
+   "ibu": [
+    5,
+    30
+   ],
+   "srm": [
+    2,
+    40
+   ],
+   "koken": "Dünya geneli",
+   "tarihce": "Belçika lambik geleneğinden Amerikan craft akımına kadar, meyve ile biranın birleştirildiği geniş bir kategori.",
+   "tarif": "Renk meyveye göre değişir. Gerçek meyve aroması temel biranın üzerine oturur; tatlılık ve ekşilik meyveye ve tarife göre değişir.",
+   "aroma": [
+    "taze meyve",
+    "ekşi-tatlı",
+    "hafif malt"
+   ],
+   "bardak": "lale kadeh / flüt",
+   "sicaklik": "4-8 °C",
+   "yemek": "Meyveli tatlılar, salata, keçi peyniri, dondurma; yaz sofrası.",
+   "ornekler": [
+    "Founders Rübæus",
+    "Früli Strawberry",
+    "Ballast Point Grapefruit Sculpin",
+    "New Glarus Wisconsin Belgian Red"
+   ],
+   "kaynak": "BJCP 29A (temel stile göre değişir)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "spice-beer",
+   "ad": "Spice, Herb or Vegetable Beer",
+   "tr": "Baharatlı, bitkili ya da sebzeli bira",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4,
+    10
+   ],
+   "ibu": [
+    5,
+    40
+   ],
+   "srm": [
+    3,
+    40
+   ],
+   "koken": "Dünya geneli",
+   "tarihce": "Şerbetçiotundan önce biralar 'gruit' denen bitki karışımlarıyla tatlandırılırdı; bugün bal, kahve, biber, kabak gibi katkılarla sürüyor.",
+   "tarif": "Renk ve gövde temel stile göre değişir. Baharat ya da bitki aroması belirgin ama dengeli; tatlılık ve acılık katkıya göre değişir.",
+   "aroma": [
+    "baharat",
+    "bal",
+    "bitki",
+    "zencefil",
+    "kişniş"
+   ],
+   "bardak": "lale kadeh",
+   "sicaklik": "6-10 °C",
+   "yemek": "Baharatlı yemeklere aynı baharatla eşle: kimyonlu köfte, tarçınlı tatlılar, ballı keçi peyniri.",
+   "ornekler": [
+    "Williams Bros. Fraoch Heather Ale",
+    "Dogfish Head Midas Touch",
+    "Anchor Christmas Ale"
+   ],
+   "kaynak": "BJCP 30A (temel stile göre değişir)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "smoked-beer",
+   "ad": "Smoked Beer (Classic Style Smoked)",
+   "tr": "Tütsülü bira (klasik stil üzerine)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.5,
+    10
+   ],
+   "ibu": [
+    15,
+    45
+   ],
+   "srm": [
+    6,
+    40
+   ],
+   "koken": "Almanya ve ABD",
+   "tarihce": "Rauchbier dışındaki stillerin (porter, bock, weizen) tütsülenmiş maltla yapılması; Alaskan Smoked Porter 1988'den beri öncüdür.",
+   "tarif": "Temel stile göre değişir. Kızılağaç, kayın ya da turba dumanı temel stilin karakterine eşlik eder; duman dengeli olmalı.",
+   "aroma": [
+    "duman",
+    "füme et",
+    "temel stil malt",
+    "çikolata (porterlarda)"
+   ],
+   "bardak": "kupa / snifter",
+   "sicaklik": "8-12 °C",
+   "yemek": "Füme balık, isli patlıcan, mangal, pastırma, çerkez peyniri.",
+   "ornekler": [
+    "Alaskan Smoked Porter",
+    "Aecht Schlenkerla Eiche (Doppelbock)",
+    "Schlenkerla Rauchbier Weizen"
+   ],
+   "kaynak": "BJCP 32A (temel stile göre değişir)",
+   "guven": "tahmin"
+  },
+  {
+   "id": "roggenbier",
+   "ad": "Roggenbier (Rye Beer)",
+   "tr": "Çavdar birası",
+   "aile": "Özel & Diğer",
+   "abv": [
+    4.5,
+    6
+   ],
+   "ibu": [
+    10,
+    20
+   ],
+   "srm": [
+    14,
+    19
+   ],
+   "koken": "Almanya, Regensburg/Bavyera",
+   "tarihce": "Ortaçağ Bavyera'sında yaygın olan çavdar birası, 1516 Saflık Yasası'ndan sonra kayboldu; 1988'de Regensburg'da yeniden canlandı.",
+   "tarif": "Turuncu-bakır, bulanık. Çavdar ekmeği baharatı, muz ve karanfil maya aroması; yağımsı, hafif kremsi gövde.",
+   "aroma": [
+    "çavdar ekmeği",
+    "karanfil",
+    "muz",
+    "baharat"
+   ],
+   "bardak": "Weizen bardağı",
+   "sicaklik": "6-9 °C",
+   "yemek": "Kuru fasulye, karadeniz mısır ekmeği, kavurma, sebze çorbaları.",
+   "ornekler": [
+    "Thurn und Taxis Roggen"
+   ],
+   "kaynak": "BJCP 2021 27A Roggenbier"
+  },
+  {
+   "id": "sahti",
+   "ad": "Sahti",
+   "tr": "Sahti (Fin çiftlik birası)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    7,
+    11
+   ],
+   "ibu": [
+    0,
+    15
+   ],
+   "srm": [
+    4,
+    22
+   ],
+   "koken": "Finlandiya",
+   "tarihce": "Fin köylerinde ardıç dallarından süzgeçle (kuurna) yapılan, kaynatılmadan hazırlanan yüzyıllık çiftlik birası; AB korumalı geleneksel ürün.",
+   "tarif": "Bulanık, altından koyu kahveye. Ardıç, muz ve karanfil, çavdar ekmeği; neredeyse gazsız, tatlı ve güçlü.",
+   "aroma": [
+    "ardıç",
+    "muz",
+    "çavdar",
+    "karanfil",
+    "bal"
+   ],
+   "bardak": "kupa / ahşap kase",
+   "sicaklik": "8-12 °C",
+   "yemek": "Füme balık, ringa, çavdar ekmeği, keçi peyniri, sauna sonrası.",
+   "ornekler": [
+    "Lammin Sahti",
+    "Finlandia Sahti Strong",
+    "Dogfish Head Sah'tea (yorum)"
+   ],
+   "kaynak": "BJCP 2021 27A Sahti"
+  },
+  {
+   "id": "grodziskie",
+   "ad": "Grodziskie (Grätzer)",
+   "tr": "Grodzisk birası (tütsülü buğday)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    2.5,
+    3.3
+   ],
+   "ibu": [
+    20,
+    35
+   ],
+   "srm": [
+    3,
+    6
+   ],
+   "koken": "Polonya, Grodzisk Wielkopolski",
+   "tarihce": "Grodzisk kentinde yüzyıllarca yapılan meşe dumanlı buğday birası; 1993'te üretimi durdu, 2015'ten sonra yeniden canlandırıldı.",
+   "tarif": "Açık altın, berrak, çok gazlı ve uzun köpüklü. Hafif meşe dumanı, buğday ve otsu acılık; çok hafif gövde ve düşük alkol.",
+   "aroma": [
+    "meşe dumanı",
+    "buğday",
+    "otsu",
+    "kuru"
+   ],
+   "bardak": "uzun konik bardak",
+   "sicaklik": "5-8 °C",
+   "yemek": "Füme balık, tütsülü peynir, mantı, piyaz, hafif mezeler.",
+   "ornekler": [
+    "Browar Grodzisk Piwo z Grodziska",
+    "Live Oak Grodziskie"
+   ],
+   "yeni_baslayana": "Dumanlı ama hafif: Rauchbier'i ağır bulanlar için.",
+   "kaynak": "BJCP 2021 27A Piwo Grodziskie"
+  },
+  {
+   "id": "kvass",
+   "ad": "Kvass",
+   "tr": "Kvas (ekmek içeceği)",
+   "aile": "Özel & Diğer",
+   "abv": [
+    0.5,
+    2.5
+   ],
+   "ibu": null,
+   "srm": null,
+   "koken": "Doğu Avrupa (Rusya, Ukrayna, Baltık)",
+   "tarihce": "Slav ve Baltık dünyasında bin yılı aşkın süredir çavdar ekmeğinden yapılan geleneksel, çok düşük alkollü içecek.",
+   "tarif": "Koyu kehribar-kahve, bulanık. Çavdar ekmeği, karamel ve hafif ekşilik; tatlımsı, hafif gazlı ve serinletici.",
+   "aroma": [
+    "çavdar ekmeği",
+    "karamel",
+    "kuru üzüm",
+    "ekşimsi"
+   ],
+   "bardak": "bardak / kupa",
+   "sicaklik": "4-8 °C",
+   "yemek": "Okroşka (soğuk çorba), turşu, börek, çavdar ekmeği; bizdeki boza-ayran sofrasına akraba.",
+   "ornekler": [
+    "Ochakovo Kvass",
+    "Gira Kvass (Litvanya)"
+   ],
+   "yeni_baslayana": "Alkolü çok düşüktür; bizdeki boza ile karşılaştırarak dene.",
+   "kaynak": "Wikipedia: Kvass (genelde ağırlıkça %0,5-1, nadiren %2)",
+   "guven": "tahmin"
+  }
+ ],
+ "srm_renk": {
+  "1": "#F8F753",
+  "2": "#F8F753",
+  "3": "#F6F513",
+  "4": "#ECE61A",
+  "5": "#E0D120",
+  "6": "#D5BC26",
+  "7": "#CAA730",
+  "8": "#BF923B",
+  "9": "#BF8A3A",
+  "10": "#BF813A",
+  "11": "#BE7838",
+  "12": "#BD7035",
+  "13": "#BC6733",
+  "14": "#B06033",
+  "15": "#A45A32",
+  "16": "#995332",
+  "17": "#8D4C32",
+  "18": "#7D442A",
+  "19": "#6D3C22",
+  "20": "#5D341A",
+  "21": "#4F2D19",
+  "22": "#422618",
+  "23": "#341E17",
+  "24": "#261716",
+  "25": "#211514",
+  "26": "#1D1211",
+  "27": "#18100F",
+  "28": "#140D0C",
+  "29": "#0F0B0A",
+  "30": "#0E0A0A",
+  "31": "#0D0A09",
+  "32": "#0C0908",
+  "33": "#0A0808",
+  "34": "#090808",
+  "35": "#080707",
+  "36": "#070606",
+  "37": "#060605",
+  "38": "#050505",
+  "39": "#040504",
+  "40": "#030403"
+ },
+ "eksik_stil_biralari": {
+  "_not": "stil id'leri: lambic, black-ipa, dark-mild, smoked-beer, roggenbier, grodziskie, kvass. Tüm fiyatlar tahmin (TR'de satışı bulunamadı). Cantillon, Stone Brewing, Paulaner kartları katalogda zaten var.",
+  "stil_eslesme": {
+   "cantillon-grand-cru-bruocsella": "lambic",
+   "stone-sublimely-self-righteous": "black-ipa",
+   "moorhouses-black-cat": "dark-mild",
+   "alaskan-smoked-porter": "smoked-beer",
+   "thurn-und-taxis-roggen": "roggenbier",
+   "piwo-z-grodziska": "grodziskie",
+   "ochakovo-kvass": "kvass"
+  },
+  "biralar": [
+   {
+    "id": "cantillon-grand-cru-bruocsella",
+    "ad": "Cantillon Grand Cru Bruocsella",
+    "fab": "Cantillon",
+    "ulke": "Belçika",
+    "bolge": "Brüksel & Pajottenland",
+    "stil": "Lambic",
+    "aile": "Ekşi & Vahşi",
+    "abv": 5.0,
+    "hacim": 75,
+    "tl": 1100,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 91,
+    "filtresiz": 1,
+    "uz": "",
+    "not": "Harmanlanmamış, 3 yıl meşede yıllanmış saf lambik; neredeyse gazsız, şarap gibi"
+   },
+   {
+    "id": "stone-sublimely-self-righteous",
+    "ad": "Stone Sublimely Self-Righteous Black IPA",
+    "fab": "Stone Brewing",
+    "ulke": "ABD",
+    "bolge": "Kaliforniya",
+    "stil": "Black IPA",
+    "aile": "Pale Ale & IPA",
+    "abv": 8.7,
+    "ibu": 90,
+    "hacim": 35.5,
+    "tl": 320,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 91,
+    "filtresiz": 0,
+    "uz": "2007'de 11. yıl birası olarak doğdu, 2021'de geri döndü",
+    "not": "Chinook, Simcoe, Amarillo ve koyu malt: çam, greyfurt ve bitter çikolata"
+   },
+   {
+    "id": "moorhouses-black-cat",
+    "ad": "Moorhouse's Black Cat",
+    "fab": "Moorhouse's",
+    "ulke": "İngiltere",
+    "bolge": "Lancashire",
+    "stil": "Dark Mild",
+    "aile": "İngiliz & İrlanda Ale",
+    "abv": 3.4,
+    "hacim": 50,
+    "tl": 260,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 82,
+    "filtresiz": 0,
+    "uz": "",
+    "not": "Hafif ama koyu: karamel, kakao ve kavrulmuş fındık; klasik İngiliz mild"
+   },
+   {
+    "id": "alaskan-smoked-porter",
+    "ad": "Alaskan Smoked Porter",
+    "fab": "Alaskan Brewing",
+    "ulke": "ABD",
+    "bolge": "Alaska",
+    "stil": "Smoked Porter",
+    "aile": "Özel & Diğer",
+    "abv": 6.5,
+    "ibu": 45,
+    "hacim": 35.5,
+    "tl": 280,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 90,
+    "filtresiz": 0,
+    "uz": "",
+    "not": "Kızılağaç dumanında kurutulmuş malt; her yılın 'vintage'ı yıllandırılabilir"
+   },
+   {
+    "id": "thurn-und-taxis-roggen",
+    "ad": "Thurn und Taxis Roggen",
+    "fab": "Paulaner",
+    "ulke": "Almanya",
+    "bolge": "Bavyera",
+    "stil": "Roggenbier",
+    "aile": "Özel & Diğer",
+    "abv": 5.3,
+    "hacim": 50,
+    "tl": 230,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 80,
+    "filtresiz": 1,
+    "uz": "BJCP'nin Roggenbier için verdiği tek ticari örnek",
+    "not": "Regensburg kökenli çavdar birası: çavdar ekmeği, karanfil ve muz"
+   },
+   {
+    "id": "piwo-z-grodziska",
+    "ad": "Piwo z Grodziska",
+    "fab": "Browar Grodzisk",
+    "ulke": "Polonya",
+    "bolge": "Wielkopolska",
+    "stil": "Grodziskie",
+    "aile": "Özel & Diğer",
+    "abv": 3.1,
+    "hacim": 50,
+    "tl": 200,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 80,
+    "filtresiz": 0,
+    "uz": "",
+    "not": "Meşe dumanlı buğday maltından; hafif, çok gazlı 'Polonya şampanyası'"
+   },
+   {
+    "id": "ochakovo-kvass",
+    "ad": "Ochakovo Kvass",
+    "fab": "Ochakovo",
+    "ulke": "Rusya",
+    "bolge": "Moskova",
+    "stil": "Kvass",
+    "aile": "Özel & Diğer",
+    "abv": 1.2,
+    "hacim": 150,
+    "tl": 150,
+    "fiyatTur": "tahmin",
+    "fiyatKaynak": "",
+    "bul": "yurtdisi",
+    "puan": 70,
+    "filtresiz": 1,
+    "uz": "",
+    "not": "Rusya'nın en bilinen kvas markalarından; çavdar ekmeği, karamel, hafif ekşi"
+   }
+  ],
+  "fabrikalar": {
+   "Moorhouse's": {
+    "k": 1865,
+    "y": "Burnley, Lancashire",
+    "stil": "İngiliz cask ale (mild, bitter, golden)",
+    "h": "Burnley'de 19. yüzyılda alkolsüz içecek üreticisi olarak başlayıp bira fabrikasına dönüştü. Pendle cadılarından esinlenen bira adlarıyla tanınır; Black Cat klasik bir dark mild örneğidir."
+   },
+   "Alaskan Brewing": {
+    "k": 1986,
+    "y": "Juneau, Alaska",
+    "stil": "Amerikan ale, tütsülü porter",
+    "h": "Alaska'nın başkenti Juneau'da kurulan bağımsız fabrika. 1988'den beri yaptığı Smoked Porter, Amerika'da tütsülü bira geleneğinin öncüsü sayılır."
+   },
+   "Browar Grodzisk": {
+    "y": "Grodzisk Wielkopolski, Wielkopolska",
+    "stil": "Grodziskie (tütsülü buğday birası)",
+    "h": "Grodzisk kentindeki tarihi bira fabrikası 1990'larda kapanınca Grodziskie stili de kayboldu. Fabrika 2010'larda yeniden açılarak 'Piwo z Grodziska'yı özgün tarifle tekrar üretmeye başladı."
+   },
+   "Ochakovo": {
+    "y": "Moskova",
+    "stil": "Kvas, lager",
+    "h": "Moskova merkezli büyük içecek üreticisi. Rusya kvas pazarının önde gelen markalarından biridir."
+   }
+  },
+  "konumlar": {
+   "Moorhouse's": [
+    53.789,
+    -2.248
+   ],
+   "Alaskan Brewing": [
+    58.357,
+    -134.506
+   ],
+   "Browar Grodzisk": [
+    52.229,
+    16.366
+   ],
+   "Ochakovo": [
+    55.68,
+    37.45
+   ]
+  },
+  "bolgeler": {
+   "İngiltere|Lancashire": {
+    "k": "Kuzeybatı İngiltere'nin işçi kentlerinde mild ve bitter gibi düşük alkollü cask ale'ler hâlâ pub kültürünün merkezinde.",
+    "t": "Sanayi Devrimi'nin fabrika kentlerinde susuz işçilerin gündelik birası mild'dı.",
+    "i": "Bir pub'da el pompasından (handpump) çekilen bir mild ya da bitter iste.",
+    "konum": [
+     53.8,
+     -2.6
+    ]
+   },
+   "ABD|Alaska": {
+    "k": "Uzak ve soğuk bir eyalette, yerel malzemeyle (kızılağaç dumanı, ladin) deneysel ama köklü biralar yapılır.",
+    "t": "Altına Hücum döneminde Juneau'da bira fabrikaları vardı; 1986'da Alaskan Brewing ile gelenek yeniden başladı.",
+    "i": "Alaskan Smoked Porter'ın farklı yılların şişelerini yan yana dene.",
+    "konum": [
+     58.3,
+     -134.4
+    ]
+   },
+   "Polonya|Wielkopolska": {
+    "k": "Büyük Polonya bölgesi, tarihi Grodziskie stiliyle bilinir: meşe dumanlı buğday maltından hafif, gazlı bira.",
+    "t": "Grodzisk birası 19. yüzyılda Avrupa'ya ihraç edilir, 'Polonya şampanyası' diye anılırdı.",
+    "i": "Piwo z Grodziska'yı uzun konik bardakta, bol köpükle dene.",
+    "konum": [
+     52.4,
+     16.9
+    ]
+   },
+   "Rusya|Moskova": {
+    "k": "Moskova, büyük lager üreticilerinin ve kvas markalarının merkezi.",
+    "t": "Kvas Rusya'da bin yılı aşkın süredir ekmekten yapılan halk içeceğidir; Sovyet döneminde sokak tanklarında satılırdı.",
+    "i": "Kvası soğuk ve yaz günü dene; okroşka çorbasıyla klasik.",
+    "konum": [
+     55.75,
+     37.62
+    ]
+   }
+  }
+ },
+ "eslesme": {
+  "budweiser": "american-lager",
+  "bud-light": "american-light-lager",
+  "michelob-ultra": "american-light-lager",
+  "coors-light": "american-light-lager",
+  "coors-banquet": "american-lager",
+  "miller-lite": "american-light-lager",
+  "pabst-blue-ribbon": "american-lager",
+  "yuengling-traditional-lager": "",
+  "blue-moon-belgian-white": "witbier",
+  "samuel-adams-boston-lager": "vienna-lager",
+  "samuel-adams-utopias": "barrel-aged",
+  "brooklyn-lager": "vienna-lager",
+  "brooklyn-black-chocolate-stout": "imperial-stout",
+  "sierra-nevada-pale-ale": "american-pale-ale",
+  "sierra-nevada-torpedo": "american-ipa",
+  "sierra-nevada-celebration": "american-ipa",
+  "sierra-nevada-bigfoot": "american-barleywine",
+  "anchor-steam-beer": "california-common",
+  "stone-ipa": "west-coast-ipa",
+  "arrogant-bastard-ale": "",
+  "stone-xocoveza": "imperial-stout",
+  "pliny-the-elder": "double-ipa",
+  "pliny-the-younger": "double-ipa",
+  "russian-river-supplication": "wild-ale",
+  "firestone-walker-union-jack": "west-coast-ipa",
+  "firestone-walker-parabola": "barrel-aged",
+  "lagunitas-ipa": "american-ipa",
+  "ballast-point-sculpin": "west-coast-ipa",
+  "deschutes-black-butte-porter": "american-porter",
+  "deschutes-fresh-squeezed": "american-ipa",
+  "deschutes-the-abyss": "imperial-stout",
+  "rogue-dead-guy-ale": "helles-bock",
+  "elysian-space-dust": "double-ipa",
+  "new-belgium-fat-tire": "american-amber-ale",
+  "new-belgium-voodoo-ranger-ipa": "american-ipa",
+  "new-belgium-la-folie": "flanders-red",
+  "oskar-blues-dales-pale-ale": "american-pale-ale",
+  "great-divide-yeti": "imperial-stout",
+  "bells-two-hearted": "american-ipa",
+  "bells-hopslam": "double-ipa",
+  "bells-oberon": "american-wheat",
+  "founders-kbs": "barrel-aged",
+  "founders-breakfast-stout": "imperial-stout",
+  "founders-cbs": "barrel-aged",
+  "founders-all-day-ipa": "session-ipa",
+  "goose-island-ipa": "english-ipa",
+  "goose-island-bourbon-county-stout": "barrel-aged",
+  "three-floyds-zombie-dust": "american-pale-ale",
+  "three-floyds-dark-lord": "imperial-stout",
+  "three-floyds-gumballhead": "american-wheat",
+  "toppling-goliath-pseudo-sue": "american-pale-ale",
+  "toppling-goliath-kbbs": "barrel-aged",
+  "great-lakes-edmund-fitzgerald": "american-porter",
+  "boulevard-tank-7": "saison",
+  "dogfish-head-60-minute": "american-ipa",
+  "dogfish-head-90-minute": "double-ipa",
+  "dogfish-head-seaquench": "",
+  "victory-prima-pils": "german-pils",
+  "victory-golden-monkey": "tripel",
+  "victory-hopdevil": "american-ipa",
+  "ommegang-hennepin": "saison",
+  "ommegang-three-philosophers": "",
+  "the-alchemist-heady-topper": "hazy-ipa",
+  "the-alchemist-focal-banger": "american-ipa",
+  "hill-farmstead-edward": "american-pale-ale",
+  "hill-farmstead-susan": "american-ipa",
+  "tree-house-julius": "hazy-ipa",
+  "tree-house-haze": "hazy-ipa",
+  "trillium-congress-street": "hazy-ipa",
+  "lawsons-sip-of-sunshine": "double-ipa",
+  "maine-beer-lunch": "american-ipa",
+  "allagash-white": "witbier",
+  "allagash-tripel": "tripel",
+  "allagash-curieux": "barrel-aged",
+  "cigar-city-jai-alai": "american-ipa",
+  "cigar-city-hunahpus": "imperial-stout",
+  "shiner-bock": "bock",
+  "landshark-lager": "american-lager",
+  "weihenstephaner-hefeweissbier": "hefeweizen",
+  "weihenstephaner-vitus": "weizenbock",
+  "weihenstephaner-hefeweissbier-dunkel": "dunkelweizen",
+  "weihenstephaner-kristallweissbier": "hefeweizen",
+  "weihenstephaner-original-helles": "munich-helles",
+  "weihenstephaner-korbinian": "doppelbock",
+  "paulaner-hefe-weissbier": "hefeweizen",
+  "paulaner-munchner-hell": "munich-helles",
+  "paulaner-salvator": "doppelbock",
+  "paulaner-oktoberfest-bier": "festbier",
+  "paulaner-hefe-weissbier-dunkel": "dunkelweizen",
+  "erdinger-weissbier": "hefeweizen",
+  "erdinger-dunkel": "dunkelweizen",
+  "erdinger-pikantus": "weizenbock",
+  "erdinger-alkoholfrei": "hefeweizen",
+  "augustiner-lagerbier-hell": "munich-helles",
+  "augustiner-edelstoff": "dortmunder-export",
+  "augustiner-maximator": "doppelbock",
+  "hacker-pschorr-hefe-weisse": "hefeweizen",
+  "hacker-pschorr-kellerbier-anno-1417": "kellerbier",
+  "hacker-pschorr-oktoberfest-maerzen": "marzen",
+  "lowenbrau-original": "munich-helles",
+  "lowenbrau-oktoberfestbier": "festbier",
+  "spaten-munchner-hell": "munich-helles",
+  "spaten-oktoberfestbier": "festbier",
+  "spaten-optimator": "doppelbock",
+  "franziskaner-hefe-weissbier": "hefeweizen",
+  "hofbrau-original": "munich-helles",
+  "hofbrau-hefe-weizen": "hefeweizen",
+  "hofbrau-oktoberfestbier": "festbier",
+  "hofbrau-maibock": "helles-bock",
+  "schneider-weisse-tap7-original": "hefeweizen",
+  "schneider-aventinus": "weizenbock",
+  "schneider-aventinus-eisbock": "eisbock",
+  "schneider-hopfenweisse": "weizenbock",
+  "ayinger-celebrator": "doppelbock",
+  "ayinger-brauweisse": "hefeweizen",
+  "ayinger-jahrhundert-bier": "dortmunder-export",
+  "ayinger-kellerbier": "kellerbier",
+  "ayinger-oktober-fest-maerzen": "marzen",
+  "andechser-doppelbock-dunkel": "doppelbock",
+  "andechser-weissbier-hefetrub": "hefeweizen",
+  "andechser-vollbier-hell": "munich-helles",
+  "tegernseer-hell": "munich-helles",
+  "tegernseer-spezial": "dortmunder-export",
+  "riegele-commerzienrat-privat": "dortmunder-export",
+  "crew-republic-drunken-sailor": "american-ipa",
+  "schlenkerla-rauchbier-maerzen": "rauchbier",
+  "schlenkerla-urbock": "rauchbier",
+  "schlenkerla-eiche": "rauchbier",
+  "schlenkerla-helles": "munich-helles",
+  "spezial-rauchbier-lager": "rauchbier",
+  "mahrs-ungespundet": "kellerbier",
+  "mahrs-der-weisse-bock": "weizenbock",
+  "kulmbacher-eisbock": "eisbock",
+  "monchshof-kellerbier": "kellerbier",
+  "keesmann-herren-pils": "german-pils",
+  "weltenburger-barock-dunkel": "munich-dunkel",
+  "weltenburger-asam-bock": "doppelbock",
+  "fruh-kolsch": "kolsch",
+  "reissdorf-kolsch": "kolsch",
+  "gaffel-kolsch": "kolsch",
+  "paffgen-kolsch": "kolsch",
+  "uerige-alt": "altbier",
+  "uerige-sticke": "altbier",
+  "schumacher-alt": "altbier",
+  "fuchschen-alt": "altbier",
+  "jever-pilsener": "german-pils",
+  "becks": "german-pils",
+  "flensburger-pilsener": "german-pils",
+  "einbecker-ur-bock-dunkel": "bock",
+  "warsteiner-premium": "german-pils",
+  "krombacher-pils": "german-pils",
+  "bitburger-premium-pils": "german-pils",
+  "rothaus-tannenzaepfle": "german-pils",
+  "radeberger-pilsner": "german-pils",
+  "kostritzer-schwarzbier": "schwarzbier",
+  "berliner-kindl-weisse": "berliner-weisse",
+  "schneeeule-marlene": "berliner-weisse",
+  "ritterguts-gose": "gose",
+  "bayerischer-bahnhof-gose": "gose",
+  "quilmes-cristal": "international-pale-lager",
+  "coopers-sparkling-ale": "",
+  "coopers-best-extra-stout": "foreign-extra-stout",
+  "little-creatures-pale-ale": "american-pale-ale",
+  "victoria-bitter": "international-pale-lager",
+  "fosters-lager": "international-pale-lager",
+  "stone-wood-pacific-ale": "",
+  "stiegl-goldbrau": "marzen",
+  "stiegl-grapefruit-radler": "radler",
+  "trumer-pils": "german-pils",
+  "gosser-marzen": "marzen",
+  "zipfer-urtyp": "german-pils",
+  "samichlaus-classic": "doppelbock",
+  "ottakringer-wiener-original": "vienna-lager",
+  "schremser-edelmarzen": "marzen",
+  "westvleteren-12": "belgian-dark-strong",
+  "westvleteren-8": "dubbel",
+  "westvleteren-blond": "belgian-single",
+  "rochefort-6": "dubbel",
+  "rochefort-8": "belgian-dark-strong",
+  "rochefort-10": "belgian-dark-strong",
+  "westmalle-dubbel": "dubbel",
+  "westmalle-tripel": "tripel",
+  "chimay-kirmizi": "dubbel",
+  "chimay-mavi": "belgian-dark-strong",
+  "chimay-beyaz": "tripel",
+  "orval": "belgian-pale-ale",
+  "achel-blond": "tripel",
+  "achel-bruin": "dubbel",
+  "leffe-blonde": "belgian-blonde",
+  "leffe-brune": "dubbel",
+  "leffe-triple": "tripel",
+  "grimbergen-blonde": "belgian-blonde",
+  "grimbergen-double-ambree": "dubbel",
+  "affligem-blond": "belgian-blonde",
+  "affligem-tripel": "tripel",
+  "st-bernardus-abt-12": "belgian-dark-strong",
+  "st-bernardus-prior-8": "dubbel",
+  "st-bernardus-tripel": "tripel",
+  "tripel-karmeliet": "tripel",
+  "maredsous-10-tripel": "tripel",
+  "maredsous-8-brune": "dubbel",
+  "st-feuillien-tripel": "tripel",
+  "st-feuillien-saison": "saison",
+  "cantillon-gueuze": "gueuze",
+  "cantillon-kriek": "fruit-lambic",
+  "cantillon-rose-de-gambrinus": "fruit-lambic",
+  "3-fonteinen-oude-geuze": "gueuze",
+  "3-fonteinen-oude-kriek": "fruit-lambic",
+  "boon-oude-geuze": "gueuze",
+  "boon-oude-kriek": "fruit-lambic",
+  "lindemans-kriek": "fruit-lambic",
+  "lindemans-framboise": "fruit-lambic",
+  "lindemans-cuvee-rene": "gueuze",
+  "timmermans-oude-gueuze": "gueuze",
+  "timmermans-kriek": "fruit-lambic",
+  "girardin-gueuze-1882": "gueuze",
+  "oud-beersel-oude-geuze": "gueuze",
+  "oud-beersel-oude-kriek": "fruit-lambic",
+  "tilquin-oude-gueuze": "gueuze",
+  "belle-vue-kriek": "fruit-lambic",
+  "rodenbach-classic": "flanders-red",
+  "rodenbach-grand-cru": "flanders-red",
+  "duchesse-de-bourgogne": "flanders-red",
+  "liefmans-goudenband": "oud-bruin",
+  "liefmans-fruitesse": "fruit-beer",
+  "petrus-aged-pale": "wild-ale",
+  "saison-dupont": "saison",
+  "moinette-blonde": "belgian-golden-strong",
+  "fantome-saison": "saison",
+  "taras-boulba": "belgian-pale-ale",
+  "hoegaarden": "witbier",
+  "hoegaarden-rosee": "witbier",
+  "blanche-de-namur": "witbier",
+  "st-bernardus-wit": "witbier",
+  "duvel": "belgian-golden-strong",
+  "delirium-tremens": "belgian-golden-strong",
+  "delirium-nocturnum": "belgian-dark-strong",
+  "la-chouffe": "belgian-golden-strong",
+  "mc-chouffe": "belgian-dark-strong",
+  "brugse-zot-blond": "belgian-blonde",
+  "straffe-hendrik-tripel": "tripel",
+  "straffe-hendrik-quadrupel": "belgian-dark-strong",
+  "gulden-draak": "belgian-dark-strong",
+  "kwak": "",
+  "kasteel-donker": "belgian-dark-strong",
+  "kasteel-rouge": "fruit-lambic",
+  "carolus-classic": "belgian-dark-strong",
+  "bush-ambree": "",
+  "stella-artois": "international-pale-lager",
+  "jupiler": "international-pale-lager",
+  "palm-speciale": "belgian-pale-ale",
+  "de-koninck-bolleke": "belgian-pale-ale",
+  "grimbergen-blanche": "witbier",
+  "leffe-ruby": "fruit-beer",
+  "brahma-chopp": "international-pale-lager",
+  "kaiser": "international-pale-lager",
+  "carlsberg-pilsner": "international-pale-lager",
+  "tuborg-gron": "international-pale-lager",
+  "tuborg-julebryg": "",
+  "mikkeller-beer-geek-breakfast": "oatmeal-stout",
+  "to-ol-gose-to-hollywood": "gose",
+  "saku-originaal": "international-pale-lager",
+  "st-george-lager": "international-pale-lager",
+  "san-miguel-pale-pilsen": "international-pale-lager",
+  "koff-porter": "baltic-porter",
+  "lapin-kulta": "international-pale-lager",
+  "lammin-sahti": "sahti",
+  "1664-blanc": "witbier",
+  "kronenbourg-1664": "international-pale-lager",
+  "jenlain-ambree": "biere-de-garde",
+  "3-monts": "biere-de-garde",
+  "la-choulette-ambree": "biere-de-garde",
+  "brains-sa": "english-bitter",
+  "felinfoel-double-dragon": "english-bitter",
+  "tiny-rebel-cwtch": "",
+  "castle-lager": "international-pale-lager",
+  "cass-fresh": "international-pale-lager",
+  "natakhtari-lager": "international-pale-lager",
+  "kingfisher-premium": "international-pale-lager",
+  "la-trappe-quadrupel": "belgian-dark-strong",
+  "la-trappe-tripel": "tripel",
+  "la-trappe-dubbel": "dubbel",
+  "zundert-8": "belgian-dark-strong",
+  "heineken": "international-pale-lager",
+  "amstel": "international-pale-lager",
+  "grolsch-premium-pilsner": "german-pils",
+  "bavaria-premium": "international-pale-lager",
+  "brand-pilsener": "german-pils",
+  "de-molen-hel-verdoemenis": "imperial-stout",
+  "jopen-hoppenbier": "",
+  "brouwerij-t-ij-ijwit": "witbier",
+  "brouwerij-t-ij-zatte": "tripel",
+  "uiltje-bird-of-prey": "american-ipa",
+  "texels-skuumkoppe": "dunkelweizen",
+  "asahi-super-dry": "rice-lager",
+  "sapporo-premium": "rice-lager",
+  "kirin-ichiban": "international-pale-lager",
+  "yebisu": "dortmunder-export",
+  "suntory-the-premium-malts": "german-pils",
+  "hitachino-nest-white-ale": "witbier",
+  "coedo-shiro": "hefeweizen",
+  "coedo-beniaka": "",
+  "unibroue-la-fin-du-monde": "tripel",
+  "unibroue-maudite": "belgian-dark-strong",
+  "unibroue-trois-pistoles": "belgian-dark-strong",
+  "unibroue-blanche-de-chambly": "witbier",
+  "dieu-du-ciel-peche-mortel": "imperial-stout",
+  "dieu-du-ciel-rosee-dhibiscus": "witbier",
+  "molson-canadian": "american-lager",
+  "labatt-blue": "international-pale-lager",
+  "sleeman-cream-ale": "cream-ale",
+  "moosehead-lager": "american-lager",
+  "steam-whistle-pilsner": "czech-pilsner",
+  "driftwood-fat-tug": "west-coast-ipa",
+  "bellwoods-jelly-king": "wild-ale",
+  "tusker-lager": "international-pale-lager",
+  "club-colombia-dorada": "international-pale-lager",
+  "keo": "international-pale-lager",
+  "beerlao-lager": "international-pale-lager",
+  "valmiermuizas-gaisais": "kellerbier",
+  "svyturys-ekstra": "dortmunder-export",
+  "bofferding-pils": "german-pils",
+  "corona-extra": "mexican-lager",
+  "modelo-especial": "mexican-lager",
+  "negra-modelo": "munich-dunkel",
+  "pacifico-clara": "mexican-lager",
+  "victoria": "vienna-lager",
+  "dos-equis-lager": "mexican-lager",
+  "sol": "mexican-lager",
+  "tecate": "mexican-lager",
+  "bohemia-clasica": "international-pale-lager",
+  "windhoek-lager": "munich-helles",
+  "star-lager": "international-pale-lager",
+  "nogne-o-imperial-stout": "imperial-stout",
+  "nogne-o-india-pale-ale": "american-ipa",
+  "lervig-lucky-jack": "american-pale-ale",
+  "lervig-konrads-stout": "imperial-stout",
+  "cusquena-dorada": "international-pale-lager",
+  "zywiec": "international-pale-lager",
+  "tyskie-gronie": "international-pale-lager",
+  "zywiec-porter": "baltic-porter",
+  "okocim-porter": "baltic-porter",
+  "pinta-atak-chmielu": "american-ipa",
+  "super-bock-original": "international-pale-lager",
+  "sagres-cerveja": "international-pale-lager",
+  "baltika-3-classic": "international-pale-lager",
+  "baltika-6-porter": "baltic-porter",
+  "tiger": "international-pale-lager",
+  "singha": "international-pale-lager",
+  "chang-classic": "international-pale-lager",
+  "efes-pilsen": "international-pale-lager",
+  "efes-malt": "international-pale-lager",
+  "efes-ozel-seri": "international-pale-lager",
+  "efes-xtra": "",
+  "efes-xtra-shot": "",
+  "efes-glutensiz": "",
+  "efes-draft": "german-pils",
+  "bomonti-filtresiz": "kellerbier",
+  "bomonti-pilsner": "international-pale-lager",
+  "bomonti-black": "",
+  "bomonti-red-ale": "irish-red-ale",
+  "marmara-gold": "international-pale-lager",
+  "marmara-34": "international-pale-lager",
+  "becks-tr": "german-pils",
+  "miller-tr": "american-lager",
+  "bud-tr": "american-lager",
+  "tuborg-gold": "international-pale-lager",
+  "tuborg-amber": "",
+  "tuborg-filtresiz": "kellerbier",
+  "tuborg-special": "",
+  "carlsberg-tr": "international-pale-lager",
+  "carlsberg-elephant": "",
+  "skol-tr": "international-pale-lager",
+  "venus-tr": "international-pale-lager",
+  "frederik-ipa": "english-ipa",
+  "frederik-marzen": "marzen",
+  "frederik-brown-ale": "british-brown-ale",
+  "frederik-wheat-ipa": "",
+  "gara-guzu-amber-ale": "english-bitter",
+  "gara-guzu-blonde-ale": "british-golden-ale",
+  "gara-guzu-summer-ipa": "session-ipa",
+  "gara-guzu-4c-ipa": "american-ipa",
+  "gara-guzu-gara-porter": "irish-stout",
+  "gara-guzu-weiss": "hefeweizen",
+  "gara-guzu-ters-kose": "",
+  "gara-guzu-meseli": "barrel-aged",
+  "gara-guzu-ucurtma-pils": "german-pils",
+  "gara-guzu-mayhos": "saison",
+  "gara-guzu-tango": "hazy-ipa",
+  "pablo-pils": "german-pils",
+  "pablo-weiss": "hefeweizen",
+  "pablo-ipa": "american-ipa",
+  "pablo-stout": "",
+  "pablo-satsuma-wit": "witbier",
+  "3-kafadar-mosaic-ipa": "american-ipa",
+  "3-kafadar-stardust": "hazy-ipa",
+  "3-kafadar-asna-visne": "wild-ale",
+  "3-kafadar-belgian-blonde": "belgian-blonde",
+  "3-kafadar-okto": "munich-helles",
+  "3-kafadar-american": "american-pale-ale",
+  "somx-oh-la-la-neipa": "hazy-ipa",
+  "somx-kolsch": "kolsch",
+  "somx-simcoe-session": "session-ipa",
+  "somx-bohemian-pilsener": "czech-pilsner",
+  "das-ey-ay-pi-ey": "american-ipa",
+  "das-old-queen-barling": "english-barleywine",
+  "das-bagaj-degaj": "british-golden-ale",
+  "das-diesdos": "",
+  "das-primitif-red-ipa": "",
+  "torch-ipa": "american-ipa",
+  "torch-tokyo-zen": "rice-lager",
+  "torch-red-ale": "irish-red-ale",
+  "torch-pilsner": "german-pils",
+  "torch-honey-pepper-ale": "spice-beer",
+  "bbc-istanbul-pale-ale": "english-ipa",
+  "bbc-halic-gold": "belgian-blonde",
+  "bbc-karbon": "",
+  "knidos-route-333": "american-pale-ale",
+  "knidos-tutti-brutti": "brut-ipa",
+  "knidos-pilsner": "german-pils",
+  "knidos-bugday": "hefeweizen",
+  "knidos-tank-1": "kellerbier",
+  "feliz-kulpa-smyrnale": "american-pale-ale",
+  "feliz-kulpa-queen-smyrna": "witbier",
+  "feliz-kulpa-urla-weiss": "hefeweizen",
+  "trokya-dakka": "american-pale-ale",
+  "trokya-bugu": "witbier",
+  "trokya-mars": "",
+  "antiochs-blonde-ale": "blonde-ale",
+  "antiochs-pale-ale": "american-pale-ale",
+  "antiochs-pilsner": "german-pils",
+  "antiochs-bugday": "witbier",
+  "red-tower-pilsner": "german-pils",
+  "red-tower-marzen": "marzen",
+  "red-tower-helles": "munich-helles",
+  "red-tower-weizen": "hefeweizen",
+  "obolon-premium-extra-brew": "international-pale-lager",
+  "lvivske-1715": "international-pale-lager",
+  "polar-pilsen": "international-pale-lager",
+  "saigon-special": "international-pale-lager",
+  "garage-project-pernicious-weed": "double-ipa",
+  "steinlager-classic": "international-pale-lager",
+  "mythos": "international-pale-lager",
+  "fix-hellas": "international-pale-lager",
+  "alfa-hellenic-lager": "international-pale-lager",
+  "septem-sundays-honey": "spice-beer",
+  "vergina-lager": "international-pale-lager",
+  "pilsner-urquell": "czech-pilsner",
+  "budweiser-budvar-original": "czech-pilsner",
+  "budvar-tmavy-lezak": "czech-dark-lager",
+  "kozel-premium": "czech-pilsner",
+  "kozel-cerny": "czech-dark-lager",
+  "staropramen-premium": "czech-pilsner",
+  "unetice-12": "czech-pilsner",
+  "bernard-svatecni-lezak": "czech-pilsner",
+  "bernard-cerny-lezak": "czech-dark-lager",
+  "krusovice-imperial": "czech-pilsner",
+  "krusovice-cerne": "czech-dark-lager",
+  "svijansky-maz-11": "czech-pilsner",
+  "matuska-raptor-ipa": "american-ipa",
+  "kout-na-sumave-12": "czech-pilsner",
+  "tsingtao": "international-pale-lager",
+  "harbin": "international-pale-lager",
+  "fullers-london-pride": "english-bitter",
+  "fullers-esb": "esb",
+  "fullers-vintage-ale": "english-barleywine",
+  "fullers-london-porter": "english-porter",
+  "samuel-smith-taddy-porter": "english-porter",
+  "samuel-smith-oatmeal-stout": "oatmeal-stout",
+  "samuel-smith-imperial-stout": "imperial-stout",
+  "samuel-smith-nut-brown-ale": "british-brown-ale",
+  "timothy-taylor-landlord": "esb",
+  "marstons-pedigree": "english-bitter",
+  "wychwood-hobgoblin": "esb",
+  "newcastle-brown-ale": "british-brown-ale",
+  "old-speckled-hen": "esb",
+  "st-peters-cream-stout": "sweet-stout",
+  "st-peters-best-bitter": "english-bitter",
+  "meantime-london-lager": "munich-helles",
+  "meantime-london-pale-ale": "english-bitter",
+  "thornbridge-jaipur": "american-ipa",
+  "thornbridge-bracia": "",
+  "kernel-export-stout-london-1890": "foreign-extra-stout",
+  "kernel-table-beer": "",
+  "cloudwater-ddh-pale": "hazy-ipa",
+  "beavertown-neck-oil": "session-ipa",
+  "beavertown-gamma-ray": "american-pale-ale",
+  "magic-rock-cannonball": "american-ipa",
+  "siren-broken-dream": "imperial-stout",
+  "northern-monk-faith": "hazy-ipa",
+  "theakston-old-peculier": "old-ale",
+  "jw-lees-harvest-ale": "english-barleywine",
+  "adnams-broadside": "esb",
+  "youngs-double-chocolate-stout": "sweet-stout",
+  "camden-hells-lager": "munich-helles",
+  "worthington-white-shield": "english-ipa",
+  "burning-sky-saison-a-la-provision": "wild-ale",
+  "greene-king-ipa": "english-ipa",
+  "robinsons-trooper": "english-bitter",
+  "courage-imperial-russian-stout": "imperial-stout",
+  "bass-pale-ale": "english-bitter",
+  "guinness-draught": "irish-stout",
+  "guinness-extra-stout": "irish-extra-stout",
+  "guinness-foreign-extra-stout": "foreign-extra-stout",
+  "murphys-irish-stout": "irish-stout",
+  "beamish-irish-stout": "irish-stout",
+  "kilkenny": "irish-red-ale",
+  "smithwicks-red-ale": "irish-red-ale",
+  "harp-lager": "international-pale-lager",
+  "ohara-irish-stout": "irish-stout",
+  "ohara-irish-red": "irish-red-ale",
+  "ohara-leann-follain": "irish-extra-stout",
+  "galway-bay-of-foam-and-fury": "double-ipa",
+  "galway-bay-buried-at-sea": "sweet-stout",
+  "porterhouse-wrasslers-xxxx": "irish-extra-stout",
+  "brewdog-punk-ipa": "american-ipa",
+  "brewdog-hazy-jane": "hazy-ipa",
+  "brewdog-elvis-juice": "american-ipa",
+  "brewdog-lost-lager": "german-pils",
+  "brewdog-jet-black-heart": "sweet-stout",
+  "innis-gunn-original": "scottish-ale",
+  "belhaven-scottish-stout": "foreign-extra-stout",
+  "tennents-lager": "international-pale-lager",
+  "harviestoun-old-engine-oil": "",
+  "harviestoun-ola-dubh-12": "barrel-aged",
+  "harviestoun-schiehallion": "international-pale-lager",
+  "traquair-house-ale": "wee-heavy",
+  "traquair-jacobite-ale": "wee-heavy",
+  "williams-bros-fraoch-heather-ale": "spice-beer",
+  "fyne-ales-jarl": "british-golden-ale",
+  "orkney-skull-splitter": "wee-heavy",
+  "estrella-damm": "international-pale-lager",
+  "voll-damm-doble-malta": "marzen",
+  "mahou-cinco-estrellas": "international-pale-lager",
+  "alhambra-reserva-1925": "",
+  "estrella-galicia-especial": "international-pale-lager",
+  "estrella-galicia-1906-reserva-especial": "",
+  "omnipollo-noa-pecan-mud-cake": "pastry-stout",
+  "omnipollo-zodiak": "american-ipa",
+  "peroni-nastro-azzurro": "international-pale-lager",
+  "peroni-gran-riserva-doppio-malto": "helles-bock",
+  "birra-moretti-lautentica": "international-pale-lager",
+  "birra-moretti-la-rossa": "doppelbock",
+  "menabrea-bionda": "munich-helles",
+  "baladin-isaac": "witbier",
+  "baladin-nora": "spice-beer",
+  "birrificio-italiano-tipopils": "german-pils",
+  "birra-del-borgo-reale": "american-pale-ale",
+  "ichnusa-non-filtrata": "kellerbier",
+  "einstok-icelandic-white-ale": "witbier",
+  "einstok-arctic-pale-ale": "american-pale-ale"
+ }
+}

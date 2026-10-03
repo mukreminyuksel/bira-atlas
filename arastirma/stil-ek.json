@@ -1,0 +1,219 @@
+{
+ "biralar": [
+  {
+   "id": "cantillon-grand-cru-bruocsella",
+   "ad": "Cantillon Grand Cru Bruocsella",
+   "fab": "Cantillon",
+   "ulke": "Belçika",
+   "bolge": "Brüksel & Pajottenland",
+   "stil": "Lambic",
+   "aile": "Ekşi & Vahşi",
+   "abv": 5.0,
+   "hacim": 75,
+   "tl": 1100,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 91,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Harmanlanmamış, 3 yıl meşede yıllanmış saf lambik; neredeyse gazsız, şarap gibi"
+  },
+  {
+   "id": "stone-sublimely-self-righteous",
+   "ad": "Stone Sublimely Self-Righteous Black IPA",
+   "fab": "Stone Brewing",
+   "ulke": "ABD",
+   "bolge": "Kaliforniya",
+   "stil": "Black IPA",
+   "aile": "Pale Ale & IPA",
+   "abv": 8.7,
+   "ibu": 90,
+   "hacim": 35.5,
+   "tl": 320,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 91,
+   "filtresiz": 0,
+   "uz": "2007'de 11. yıl birası olarak doğdu, 2021'de geri döndü",
+   "not": "Chinook, Simcoe, Amarillo ve koyu malt: çam, greyfurt ve bitter çikolata"
+  },
+  {
+   "id": "moorhouses-black-cat",
+   "ad": "Moorhouse's Black Cat",
+   "fab": "Moorhouse's",
+   "ulke": "İngiltere",
+   "bolge": "Lancashire",
+   "stil": "Dark Mild",
+   "aile": "İngiliz & İrlanda Ale",
+   "abv": 3.4,
+   "hacim": 50,
+   "tl": 260,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 82,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Hafif ama koyu: karamel, kakao ve kavrulmuş fındık; klasik İngiliz mild"
+  },
+  {
+   "id": "alaskan-smoked-porter",
+   "ad": "Alaskan Smoked Porter",
+   "fab": "Alaskan Brewing",
+   "ulke": "ABD",
+   "bolge": "Alaska",
+   "stil": "Smoked Porter",
+   "aile": "Özel & Diğer",
+   "abv": 6.5,
+   "ibu": 45,
+   "hacim": 35.5,
+   "tl": 280,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 90,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Kızılağaç dumanında kurutulmuş malt; her yılın 'vintage'ı yıllandırılabilir"
+  },
+  {
+   "id": "thurn-und-taxis-roggen",
+   "ad": "Thurn und Taxis Roggen",
+   "fab": "Paulaner",
+   "ulke": "Almanya",
+   "bolge": "Bavyera",
+   "stil": "Roggenbier",
+   "aile": "Özel & Diğer",
+   "abv": 5.3,
+   "hacim": 50,
+   "tl": 230,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 80,
+   "filtresiz": 1,
+   "uz": "BJCP'nin Roggenbier için verdiği tek ticari örnek",
+   "not": "Regensburg kökenli çavdar birası: çavdar ekmeği, karanfil ve muz"
+  },
+  {
+   "id": "piwo-z-grodziska",
+   "ad": "Piwo z Grodziska",
+   "fab": "Browar Grodzisk",
+   "ulke": "Polonya",
+   "bolge": "Wielkopolska",
+   "stil": "Grodziskie",
+   "aile": "Özel & Diğer",
+   "abv": 3.1,
+   "hacim": 50,
+   "tl": 200,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 80,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Meşe dumanlı buğday maltından; hafif, çok gazlı 'Polonya şampanyası'"
+  },
+  {
+   "id": "ochakovo-kvass",
+   "ad": "Ochakovo Kvass",
+   "fab": "Ochakovo",
+   "ulke": "Rusya",
+   "bolge": "Moskova",
+   "stil": "Kvass",
+   "aile": "Özel & Diğer",
+   "abv": 1.2,
+   "hacim": 150,
+   "tl": 150,
+   "fiyatTur": "tahmin",
+   "fiyatKaynak": "",
+   "bul": "yurtdisi",
+   "puan": 70,
+   "filtresiz": 1,
+   "uz": "",
+   "not": "Rusya'nın en bilinen kvas markalarından; çavdar ekmeği, karamel, hafif ekşi"
+  }
+ ],
+ "fabrikalar": {
+  "Moorhouse's": {
+   "k": 1865,
+   "y": "Burnley, Lancashire",
+   "stil": "İngiliz cask ale (mild, bitter, golden)",
+   "h": "Burnley'de 19. yüzyılda alkolsüz içecek üreticisi olarak başlayıp bira fabrikasına dönüştü. Pendle cadılarından esinlenen bira adlarıyla tanınır; Black Cat klasik bir dark mild örneğidir."
+  },
+  "Alaskan Brewing": {
+   "k": 1986,
+   "y": "Juneau, Alaska",
+   "stil": "Amerikan ale, tütsülü porter",
+   "h": "Alaska'nın başkenti Juneau'da kurulan bağımsız fabrika. 1988'den beri yaptığı Smoked Porter, Amerika'da tütsülü bira geleneğinin öncüsü sayılır."
+  },
+  "Browar Grodzisk": {
+   "y": "Grodzisk Wielkopolski, Wielkopolska",
+   "stil": "Grodziskie (tütsülü buğday birası)",
+   "h": "Grodzisk kentindeki tarihi bira fabrikası 1990'larda kapanınca Grodziskie stili de kayboldu. Fabrika 2010'larda yeniden açılarak 'Piwo z Grodziska'yı özgün tarifle tekrar üretmeye başladı."
+  },
+  "Ochakovo": {
+   "y": "Moskova",
+   "stil": "Kvas, lager",
+   "h": "Moskova merkezli büyük içecek üreticisi. Rusya kvas pazarının önde gelen markalarından biridir."
+  }
+ },
+ "konumlar": {
+  "Moorhouse's": [
+   53.789,
+   -2.248
+  ],
+  "Alaskan Brewing": [
+   58.357,
+   -134.506
+  ],
+  "Browar Grodzisk": [
+   52.229,
+   16.366
+  ],
+  "Ochakovo": [
+   55.68,
+   37.45
+  ]
+ },
+ "bolgeler": {
+  "İngiltere|Lancashire": {
+   "k": "Kuzeybatı İngiltere'nin işçi kentlerinde mild ve bitter gibi düşük alkollü cask ale'ler hâlâ pub kültürünün merkezinde.",
+   "t": "Sanayi Devrimi'nin fabrika kentlerinde susuz işçilerin gündelik birası mild'dı.",
+   "i": "Bir pub'da el pompasından (handpump) çekilen bir mild ya da bitter iste.",
+   "konum": [
+    53.8,
+    -2.6
+   ]
+  },
+  "ABD|Alaska": {
+   "k": "Uzak ve soğuk bir eyalette, yerel malzemeyle (kızılağaç dumanı, ladin) deneysel ama köklü biralar yapılır.",
+   "t": "Altına Hücum döneminde Juneau'da bira fabrikaları vardı; 1986'da Alaskan Brewing ile gelenek yeniden başladı.",
+   "i": "Alaskan Smoked Porter'ın farklı yılların şişelerini yan yana dene.",
+   "konum": [
+    58.3,
+    -134.4
+   ]
+  },
+  "Polonya|Wielkopolska": {
+   "k": "Büyük Polonya bölgesi, tarihi Grodziskie stiliyle bilinir: meşe dumanlı buğday maltından hafif, gazlı bira.",
+   "t": "Grodzisk birası 19. yüzyılda Avrupa'ya ihraç edilir, 'Polonya şampanyası' diye anılırdı.",
+   "i": "Piwo z Grodziska'yı uzun konik bardakta, bol köpükle dene.",
+   "konum": [
+    52.4,
+    16.9
+   ]
+  },
+  "Rusya|Moskova": {
+   "k": "Moskova, büyük lager üreticilerinin ve kvas markalarının merkezi.",
+   "t": "Kvas Rusya'da bin yılı aşkın süredir ekmekten yapılan halk içeceğidir; Sovyet döneminde sokak tanklarında satılırdı.",
+   "i": "Kvası soğuk ve yaz günü dene; okroşka çorbasıyla klasik.",
+   "konum": [
+    55.75,
+    37.62
+   ]
+  }
+ }
+}

@@ -91,6 +91,65 @@
   "stil": "Alman usulü lager ve buğday",
   "h": "Alanya limanındaki Kızılkule'den adını alan, kendi birasını üretip satan brewpub. Pilsner, Märzen, Helles ve Weizen ile Alman bira geleneğini Akdeniz kıyısına taşır."
  },
+ "à santé Brewery": {
+  "k": 2023,
+  "s": "Asante Gıda Satış ve Pazarlama A.Ş. (aile işletmesi)",
+  "y": "Seyhan, Adana (İstanbul depo)",
+  "stil": "Modern IPA, Belçika ve lager stilleri",
+  "h": "Pandemi döneminde baba-oğulun hayaliyle kurulan à santé, 2023'te Adana'da Çatalan suyuyla üretime başladı. Viking ve Sekado maltları, Yakima şerbetçiotlarıyla çalışan bira fabrikası, Cold IPA'sı ve kış limited'leri (Imperial Stout, Imperial Red) ile kısa sürede Türkiye'nin en beğenilen craft markalarından biri oldu."
+ },
+ "Cyprus Brewart": {
+  "k": 2021,
+  "s": "Cyprus Brewart (Ali Peker)",
+  "y": "Pınarbaşı köyü, Girne, KKTC",
+  "stil": "Lager, IPA, stout; sanat akımı adlı etiketler",
+  "h": "Ali Peker'in hobi olarak başlayıp ticarete dönüştürdüğü Brewart, Kuzey Kıbrıs'ın yerel craft bira üreticisi. Biralarına Pop, Surreal, Naturalist, Cubic, Gothic gibi sanat akımı adları verir; babutsalı Cactus adaya özgüdür. Zivania ve cin de üretir."
+ },
+ "Kubau Farm Brewery": {
+  "s": "Bağımsız (Duygu ve Seçkin)",
+  "y": "Evreşe, Gelibolu, Çanakkale",
+  "stil": "Kölsch, export lager, pale ale ve IPA",
+  "h": "İki makine mühendisinin Çanakkale'nin Evreşe kasabasında kurduğu çiftlik bira fabrikası. Kısa sürede Untappd'de Türkiye'nin en yüksek puanlı üreticileri arasına girdi; biraları İstanbul'da Sanayi 1-A gibi craft barlarda bulunur."
+ },
+ "Süral Grup (Perge)": {
+  "k": 2005,
+  "s": "Süral Grup",
+  "y": "Manavgat, Antalya",
+  "stil": "Hafif ana akım lager",
+  "h": "Antalya'nın turizm grubu Süral'ın 2005'te kurduğu bira tesisi, Efes ve Tuborg dışındaki nadir bağımsız ana akım üreticidir. Kaynak suyu vurgulu Perge Pilsner, Bistro Lager ve Premium ile özellikle Antalya ve Metro mağazalarında bulunur."
+ },
+ "Cunda Bira": {
+  "k": 2017,
+  "s": "Çetin Toklu Cunda Bira",
+  "y": "Ayvalık, Balıkesir",
+  "stil": "Filtresiz ada blonde ale",
+  "h": "2017'de Ayvalık'ta kurulan küçük üretici; ada esintisinden ilham alan filtresiz Cunda Sour ile tanınır."
+ },
+ "Efes Yenilik Atölyesi": {
+  "s": "Anadolu Efes",
+  "y": "Bornova, İzmir",
+  "stil": "Deneysel craft (Haus serisi), Ar-Ge",
+  "h": "Anadolu Efes'in İzmir'deki inovasyon merkezi ve mikro bira tesisi. Glutensiz bira ve +1 Dinlendirme Tekniği burada geliştirildi; Haus serisi Rye IPA, Weizenbock ve NEIPA craft barlarda fıçıdan sunuldu."
+ },
+ "Nova Roma Brewery": {
+  "s": "Bağımsız (kontrat üretim)",
+  "y": "Başakşehir, İstanbul",
+  "stil": "Belçika stilleri",
+  "h": "Başakşehir'de kontrat üretim yapan, Tripel, Belçika IPA'sı ve Quadrupel'e odaklı genç İstanbul markası."
+ },
+ "Khoffner Brewery": {
+  "s": "Bağımsız (brewpub)",
+  "y": "Geyikbayırı ve Lara, Antalya",
+  "stil": "Alman/Çek usulü lager, buğday, stout",
+  "h": "Kurucusunun büyükbabası Carl Khoffner'in tariflerine dayandığı anlatılan Antalya brewpub'ı; Saflık Yasası'na uygun biralarını Lara'daki pub'da tadım tepsisiyle sunar. Şirinyalı'daki bira bahçesi kapandı."
+ },
+ "Park Gıda (Pera)": {
+  "k": 2006,
+  "s": "Park Drinks Company (Park Gıda)",
+  "y": "Çerkezköy, Tekirdağ",
+  "stil": "Deneysel ale ve IPA",
+  "h": "Eski Tuborg CEO'su Ercüment Berilgen'in ortaklığıyla kurulan Çerkezköy tesisi Pera, Zıkkımm ve Joker No:19 markalarını üretti. Güncel üretim durumu belirsiz; biraları seyrek bulunur."
+ },
  "Weihenstephan": {
   "k": 1040,
   "s": "Bavyera eyaleti",
@@ -2099,5 +2158,27 @@
   "y": "Burton upon Trent, Staffordshire",
   "stil": "Burton pale ale",
   "h": "Burton'un sert suyuyla pale ale'i dünyaya tanıtan bira evi; kırmızı üçgen logosu 1876'da İngiltere'nin ilk tescilli markası oldu."
+ },
+ "Moorhouse's": {
+  "k": 1865,
+  "y": "Burnley, Lancashire",
+  "stil": "İngiliz cask ale (mild, bitter, golden)",
+  "h": "Burnley'de 19. yüzyılda alkolsüz içecek üreticisi olarak başlayıp bira fabrikasına dönüştü. Pendle cadılarından esinlenen bira adlarıyla tanınır; Black Cat klasik bir dark mild örneğidir."
+ },
+ "Alaskan Brewing": {
+  "k": 1986,
+  "y": "Juneau, Alaska",
+  "stil": "Amerikan ale, tütsülü porter",
+  "h": "Alaska'nın başkenti Juneau'da kurulan bağımsız fabrika. 1988'den beri yaptığı Smoked Porter, Amerika'da tütsülü bira geleneğinin öncüsü sayılır."
+ },
+ "Browar Grodzisk": {
+  "y": "Grodzisk Wielkopolski, Wielkopolska",
+  "stil": "Grodziskie (tütsülü buğday birası)",
+  "h": "Grodzisk kentindeki tarihi bira fabrikası 1990'larda kapanınca Grodziskie stili de kayboldu. Fabrika 2010'larda yeniden açılarak 'Piwo z Grodziska'yı özgün tarifle tekrar üretmeye başladı."
+ },
+ "Ochakovo": {
+  "y": "Moskova",
+  "stil": "Kvas, lager",
+  "h": "Moskova merkezli büyük içecek üreticisi. Rusya kvas pazarının önde gelen markalarından biridir."
  }
 }

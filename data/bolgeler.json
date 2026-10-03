@@ -35,6 +35,36 @@
   "t": "Red Tower, Alanya'nın simgesi 13. yüzyıl Kızılkule'nin adını taşır.",
   "i": "Sıcak akşamlar için Helles ya da Weizen'i tanktan taze isteyin."
  },
+ "Türkiye|Adana": {
+  "k": "Çukurova'nın sıcak ikliminde modern craft'ın beklenmedik adresi; à santé Cold IPA ve Belçika stilleriyle öne çıkıyor.",
+  "t": "Adana'da Anadolu Efes'in Güney fabrikası da bulunur; craft tarafında 2023'te à santé kuruldu.",
+  "i": "Baharatlı kebapla à santé Cold IPA ya da Vienna Lager deneyin."
+ },
+ "Türkiye|Çanakkale": {
+  "k": "Gelibolu yarımadasının kırsalında çiftlik ölçekli, temiz ve dengeli biralar.",
+  "t": "Kubau Farm Brewery Evreşe'de kuruldu ve hızla en yüksek puanlı Türk üreticiler arasına girdi.",
+  "i": "Kölsch tarzı Roads of Evrese ile başlayın."
+ },
+ "Türkiye|Balıkesir": {
+  "k": "Ayvalık-Cunda'nın tatil havasına eşlik eden küçük ölçekli ada birası.",
+  "t": "Cunda Bira 2017'de Ayvalık'ta kuruldu.",
+  "i": "Cunda Sour ekşi değil; %7'lik güçlü bir blonde ale olduğunu bilerek için."
+ },
+ "Türkiye|Tekirdağ": {
+  "k": "Trakya sanayisinin içinde, Türkiye'nin ilk butik-ölçekli bira denemelerinden birine ev sahipliği yapmış bölge.",
+  "t": "Park Gıda'nın Çerkezköy tesisi Pera ve Zıkkımm markalarını üretti.",
+  "i": "Zıkkımm'ı görürseniz Deep'i deneyin; bulunabilirliği değişken."
+ },
+ "Türkiye|Ankara": {
+  "k": "Başkentte bugün aktif bir craft bira üreticisi tespit edilemedi; Anadolu Efes'in 1995'ten beri çalışan Ankara fabrikası endüstriyel üretim yapıyor.",
+  "t": "Cumhuriyet'in ilk ulusal bira fabrikası 1934'te Atatürk Orman Çiftliği'nde kuruldu (Ankara Birası); kapandı. Taps'ın Çayyolu brewpub'ı da kapandı.",
+  "i": "Ankara'da yerli craft biraları bira evlerinde (ör. Hops Pub, Birader Craft Beer House) bulabilirsiniz."
+ },
+ "KKTC|Girne": {
+  "k": "Kuzey Kıbrıs'ın küçük ama renkli craft sahnesi; babutsa gibi yerel malzemeler kullanılıyor.",
+  "t": "Brewart 2021'de Pınarbaşı'nda üretime başladı; Lefkoşa'da O-LIVE gibi küçük üretim denemeleri de oldu.",
+  "i": "Adaya özgü Brewart Cactus'u (babutsalı) mutlaka deneyin."
+ },
  "Almanya|Bavyera": {
   "k": "Lager ve buğday birasının anavatanı. Münih helles, Märzen, dunkel, doppelbock ve weissbier burada şekillendi; biralar maltlı, temiz ve içimi kolaydır.",
   "t": "1516 Reinheitsgebot (saflık yasası) Bavyera'da ilan edildi. Oktoberfest 1810'dan beri Münih'te ve yalnızca şehrin altı fabrikasının birası sunulur.",
@@ -749,5 +779,25 @@
   "k": "1989'a kadar biranın yasak olduğu İzlanda'da genç ama hızla büyüyen bir bira kültürü.",
   "t": "1 Mart 1989'da yasak kalktı; o gün hâlâ 'Bjórdagurinn' (Bira Günü) olarak kutlanır.",
   "i": "Einstök White Ale yaz akşamları için ferah bir başlangıç."
+ },
+ "İngiltere|Lancashire": {
+  "k": "Kuzeybatı İngiltere'nin işçi kentlerinde mild ve bitter gibi düşük alkollü cask ale'ler hâlâ pub kültürünün merkezinde.",
+  "t": "Sanayi Devrimi'nin fabrika kentlerinde susuz işçilerin gündelik birası mild'dı.",
+  "i": "Bir pub'da el pompasından (handpump) çekilen bir mild ya da bitter iste."
+ },
+ "ABD|Alaska": {
+  "k": "Uzak ve soğuk bir eyalette, yerel malzemeyle (kızılağaç dumanı, ladin) deneysel ama köklü biralar yapılır.",
+  "t": "Altına Hücum döneminde Juneau'da bira fabrikaları vardı; 1986'da Alaskan Brewing ile gelenek yeniden başladı.",
+  "i": "Alaskan Smoked Porter'ın farklı yılların şişelerini yan yana dene."
+ },
+ "Polonya|Wielkopolska": {
+  "k": "Büyük Polonya bölgesi, tarihi Grodziskie stiliyle bilinir: meşe dumanlı buğday maltından hafif, gazlı bira.",
+  "t": "Grodzisk birası 19. yüzyılda Avrupa'ya ihraç edilir, 'Polonya şampanyası' diye anılırdı.",
+  "i": "Piwo z Grodziska'yı uzun konik bardakta, bol köpükle dene."
+ },
+ "Rusya|Moskova": {
+  "k": "Moskova, büyük lager üreticilerinin ve kvas markalarının merkezi.",
+  "t": "Kvas Rusya'da bin yılı aşkın süredir ekmekten yapılan halk içeceğidir; Sovyet döneminde sokak tanklarında satılırdı.",
+  "i": "Kvası soğuk ve yaz günü dene; okroşka çorbasıyla klasik."
  }
 }

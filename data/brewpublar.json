@@ -1,0 +1,157 @@
+{
+ "brewpublar": [
+  {
+   "ad": "à santé Brewery",
+   "sehir": "Adana",
+   "adres": "Yeşiloba Mah. 46205 Sk., Efer 5 Sanayi Sitesi E Blok No:17/30, Seyhan",
+   "tur": "mikro üretici",
+   "not": "2023 kuruluş; 12 bira, kış limited serisi",
+   "kaynak": "https://asantebrewery.com/en/",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Cyprus Brewart",
+   "sehir": "KKTC (Girne)",
+   "adres": "Pınarbaşı köyü",
+   "tur": "mikro üretici",
+   "not": "Bira, zivania ve cin; Güney Kıbrıs'a ihracat hedefi",
+   "kaynak": "https://kibrisgazetesi.com/her-bira-cesidinde-farkli-bir-sanat/",
+   "durum": "aktif"
+  },
+  {
+   "ad": "O-LIVE Organic Marketplace & Boutique Cafe",
+   "sehir": "KKTC (Lefkoşa)",
+   "adres": "Lefkoşa",
+   "tur": "brewpub",
+   "not": "Cananoğlu kardeşlerin üst katta ürettiği 6 bira (Pilsener, wit, pale ale, IPA, dubbel, porter); güncel durum bilinmiyor",
+   "kaynak": "https://www.havadiskibris.com/lefkosada-craft-bira-keyfi/",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Kubau Farm Brewery",
+   "sehir": "Çanakkale",
+   "adres": "Evreşe, Gelibolu",
+   "tur": "mikro üretici",
+   "not": "Çiftlik bira fabrikası; Untappd Türkiye en iyi üreticiler listesinde 2.",
+   "kaynak": "https://untappd.com/brewery/top_rated?country=turkey",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Cunda Bira",
+   "sehir": "Balıkesir (Ayvalık)",
+   "adres": "150 Evler Mah. 29 Mayıs Cad. No:46 B/9, Ayvalık",
+   "tur": "mikro üretici",
+   "not": "2017 kuruluş; Cunda Sour",
+   "kaynak": "https://www.find.com.tr/Company/cetintoklucundabira",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Süral Grup – Perge bira tesisi",
+   "sehir": "Antalya (Manavgat)",
+   "adres": "Antalya-Manavgat asfaltı 42. km, Çakış yol kavşağı",
+   "tur": "mikro üretici",
+   "not": "Bağımsız ana akım lager üreticisi (Perge Pilsner); ölçek mikrodan büyük",
+   "kaynak": "https://beerme.com/region.php?233",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Khoffner Brewery Pub Lara",
+   "sehir": "Antalya",
+   "adres": "Çağlayan Mah., Fener Cad. No:50, Muratpaşa",
+   "tur": "brewpub",
+   "not": "Kendi biraları; üretim Geyikbayırı",
+   "kaynak": "https://www.tripadvisor.com.au/Restaurant_Review-g297962-d19126565-Reviews-Khoffner_Brewery_Pub_Lara-Antalya_Turkish_Mediterranean_Coast.html",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Red Tower Brewery Restaurant",
+   "sehir": "Antalya (Alanya)",
+   "adres": "İskele Cad. No:80, Alanya",
+   "tur": "brewpub",
+   "not": "2005 brewpub, 2017'de mikro bira olarak yeniden; bir rehberde kapalı görünüyor",
+   "kaynak": "https://distillery.news/places/turkey/antalya/alanya/closed/redtower-brewery/",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Efes Yenilik Atölyesi",
+   "sehir": "İzmir",
+   "adres": "Karacaoğlan, Kemalpaşa Cad. No:313, Bornova",
+   "tur": "mikro üretici",
+   "not": "Anadolu Efes inovasyon merkezi ve mikro bira tesisi (Haus serisi)",
+   "kaynak": "https://www.medyaege.com.tr/anadolu-efes-yenilik-atolyesi-izmirde-kuruldu-179841h.htm",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Nova Roma Brewery",
+   "sehir": "İstanbul",
+   "adres": "Başakşehir",
+   "tur": "mikro üretici",
+   "not": "Kontrat üretim; Belçika stilleri",
+   "kaynak": "https://untappd.com/NovaRomaBrewery",
+   "durum": "aktif"
+  },
+  {
+   "ad": "2 Köprü (Trokya)",
+   "sehir": "Edirne",
+   "adres": "Edirne",
+   "tur": "mikro üretici",
+   "not": "Trokya'nın yerel markası: Tunca ve Meriç",
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Bristol Kadıköy (Bristol Hostel's Pub)",
+   "sehir": "İstanbul",
+   "adres": "Caferağa, Sarraf Ali Sk., Kadıköy",
+   "tur": "brewpub",
+   "not": "Bristol Pilsner ve Buğday; üretim durumu doğrulanamadı",
+   "kaynak": "https://untappd.com/w/bristol-kada-ka-y/491887",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Balans Bräu",
+   "sehir": "İstanbul",
+   "adres": "İstiklal Cad. Balo Sk. No:22, Beyoğlu",
+   "tur": "brewpub",
+   "not": "Eski brewpub kaydı; güncel iz yok",
+   "kaynak": "https://beerme.com/region.php?233",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Taps Eskişehir",
+   "sehir": "Eskişehir",
+   "adres": "Fabrikalar Sk. No:1 (Espark yanı)",
+   "tur": "brewpub",
+   "not": "Taps'ın üçüncü şubesi; güncel durumu doğrulanamadı",
+   "kaynak": "https://eksisozluk.com/taps--281603",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Anadolu Efes Ankara Bira Fabrikası",
+   "sehir": "Ankara",
+   "adres": "Ankara",
+   "tur": "mikro üretici",
+   "not": "Endüstriyel fabrika (1995); craft değil, bilgi için",
+   "kaynak": "https://www.eec.com.tr/referanslarimiz/basari-oykuleri/endustriyel-tesisler/anadolu-efes-ankara-bira-fabrikasi",
+   "durum": "aktif"
+  },
+  {
+   "ad": "Park Gıda (Pera / Zıkkımm)",
+   "sehir": "Tekirdağ (Çerkezköy)",
+   "adres": "Organize San. Böl. Atatürk Cad. 7. Sk. No:21, Çerkezköy",
+   "tur": "mikro üretici",
+   "not": "Pera, Zıkkımm, Joker No:19; güncel üretim doğrulanamadı",
+   "kaynak": "https://beerme.com/region.php?233",
+   "durum": "belirsiz"
+  },
+  {
+   "ad": "Tekel Birası (Yozgat)",
+   "sehir": "Yozgat",
+   "adres": "Yozgat",
+   "tur": "mikro üretici",
+   "not": "Eski TEKEL fabrikası kaydı; marka el değiştirdi",
+   "kaynak": "https://beerme.com/region.php?233",
+   "durum": "belirsiz"
+  }
+ ]
+}

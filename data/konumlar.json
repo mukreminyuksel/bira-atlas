@@ -29,6 +29,30 @@
    36.54,
    32.0
   ],
+  "Türkiye|Adana": [
+   37.0,
+   35.32
+  ],
+  "Türkiye|Çanakkale": [
+   40.62,
+   26.88
+  ],
+  "Türkiye|Balıkesir": [
+   39.31,
+   26.69
+  ],
+  "Türkiye|Tekirdağ": [
+   41.29,
+   28.0
+  ],
+  "Türkiye|Ankara": [
+   39.93,
+   32.86
+  ],
+  "KKTC|Girne": [
+   35.3,
+   33.25
+  ],
   "Almanya|Bavyera": [
    48.14,
    11.58
@@ -600,6 +624,22 @@
   "İzlanda|Akureyri": [
    65.68,
    -18.09
+  ],
+  "İngiltere|Lancashire": [
+   53.8,
+   -2.6
+  ],
+  "ABD|Alaska": [
+   58.3,
+   -134.4
+  ],
+  "Polonya|Wielkopolska": [
+   52.4,
+   16.9
+  ],
+  "Rusya|Moskova": [
+   55.75,
+   37.62
   ]
  },
  "damlar": {
@@ -658,6 +698,42 @@
   "Red Tower Brewery": [
    36.54,
    32.0
+  ],
+  "à santé Brewery": [
+   36.99,
+   35.3
+  ],
+  "Cyprus Brewart": [
+   35.3,
+   33.25
+  ],
+  "Kubau Farm Brewery": [
+   40.62,
+   26.88
+  ],
+  "Süral Grup (Perge)": [
+   36.8,
+   31.4
+  ],
+  "Cunda Bira": [
+   39.31,
+   26.69
+  ],
+  "Efes Yenilik Atölyesi": [
+   38.46,
+   27.22
+  ],
+  "Nova Roma Brewery": [
+   41.09,
+   28.8
+  ],
+  "Khoffner Brewery": [
+   36.86,
+   30.75
+  ],
+  "Park Gıda (Pera)": [
+   41.29,
+   28.0
   ],
   "Weihenstephan": [
    48.395,
@@ -1810,6 +1886,22 @@
   "Bass": [
    52.8,
    -1.64
+  ],
+  "Moorhouse's": [
+   53.789,
+   -2.248
+  ],
+  "Alaskan Brewing": [
+   58.357,
+   -134.506
+  ],
+  "Browar Grodzisk": [
+   52.229,
+   16.366
+  ],
+  "Ochakovo": [
+   55.68,
+   37.45
   ]
  }
 }

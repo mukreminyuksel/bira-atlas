@@ -62,6 +62,34 @@
     ]
    ]
   },
+  "bremen-1827": {
+   "tl": 95,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.habergazetesi.com.tr/kirmizi-bira-fiyat",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     95
+    ]
+   ]
+  },
+  "bremen-yuksek-alkollu": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.habergazetesi.com.tr/kirmizi-bira-fiyat",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
   "bud-tr": {
    "tl": 140,
    "tarih": "2026-10-03",
@@ -507,6 +535,48 @@
     [
      "2026-10-03",
      130
+    ]
+   ]
+  },
+  "nova-roma-tripel": {
+   "tl": 145,
+   "tarih": "2026-10-03",
+   "tur": "tr_craft",
+   "guven": "orta",
+   "kaynak": "https://rastbirabahcesi.com/craft/",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     145
+    ]
+   ]
+  },
+  "perge-bistro-lager": {
+   "tl": 57,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.habergazetesi.com.tr/perge-bira-fiyatlari",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     57
+    ]
+   ]
+  },
+  "perge-pilsner": {
+   "tl": 78,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.habergazetesi.com.tr/perge-bira-fiyatlari",
+   "not": "İlk araştırma (arama özetlerinden)",
+   "gecmis": [
+    [
+     "2026-10-03",
+     78
     ]
    ]
   },

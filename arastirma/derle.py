@@ -41,10 +41,30 @@ for k, v in bilgi.get('tadim', {}).items():
 
 # --- Stil eşleşmesi (stil rehberi) ---
 stiller = oku('stiller.json', {})
-esl = stiller.get('eslesme', {})
+esl = dict(stiller.get('eslesme', {}))
+esl.update(stiller.get('eksik_stil_biralari', {}).get('stil_eslesme', {}))
+# Eşleşmesi olmayan (yeni eklenen) biralar: stil metninde en uzun stil adı geçen stil
+adlar = sorted([(x['ad'].lower(), x['id']) for x in stiller.get('stiller', [])], key=lambda t: -len(t[0]))
+def tahmin_stil(d):
+    t = (d.get('stil') or '').lower()
+    for ad, sid in adlar:
+        if ad and ad in t:
+            return sid
+    kel = {'neipa': 'hazy-ipa', 'hazy': 'hazy-ipa', 'new england': 'hazy-ipa', 'double ipa': 'double-ipa', 'imperial stout': 'imperial-stout',
+           'west coast': 'west-coast-ipa', 'ipa': 'american-ipa', 'pale ale': 'american-pale-ale', 'stout': 'irish-stout', 'porter': 'english-porter', 'imperial': 'imperial-stout',
+           'witbier': 'witbier', 'wit': 'witbier', 'hefe': 'hefeweizen', 'weizen': 'hefeweizen', 'wheat': 'american-wheat', 'pilsner': 'german-pils', 'buğday': 'hefeweizen',
+           'tripel': 'tripel', 'dubbel': 'dubbel', 'quad': 'belgian-dark-strong', 'saison': 'saison', 'sour': 'wild-ale', 'gose': 'gose',
+           'pils': 'german-pils', 'helles': 'munich-helles', 'märzen': 'marzen', 'cold ipa': 'west-coast-ipa', 'bock': 'bock', 'red ale': 'irish-red-ale', 'amber': 'american-amber-ale',
+           'brown': 'british-brown-ale', 'lager': 'international-pale-lager', 'blonde': 'blonde-ale', 'golden': 'blonde-ale', 'barleywine': 'american-barleywine'}
+    ids = {x['id'] for x in stiller.get('stiller', [])}
+    for k, v in kel.items():
+        if k in t and v in ids:
+            return v
+    return ''
 for d in data:
-    if esl.get(d['id']):
-        d['sid'] = esl[d['id']]
+    sid = esl.get(d['id']) or tahmin_stil(d)
+    if sid:
+        d['sid'] = sid
 
 # --- DATA ---
 satirlar = []
