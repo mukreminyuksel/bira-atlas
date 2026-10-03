@@ -1,5 +1,96 @@
 {
  "_aciklama": "Bira fabrikası kartları. Anahtar = DATA'daki 'dam'. k: kuruluş, s: sahibi, y: yer, stil: ev stili, h: hikâye.",
+ "Anadolu Efes": {
+  "k": 1969,
+  "s": "Anadolu Grubu (AG Anadolu Grubu Holding)",
+  "y": "İstanbul (Büyükçekmece); İzmir, Ankara, Adana tesisleri",
+  "stil": "Ana akım lager, filtresiz ve lisanslı uluslararası markalar",
+  "h": "1969'da İstanbul ve İzmir'de ilk üretime başlayan Anadolu Efes, Türkiye bira pazarının açık ara lideri. Efes Pilsen'in yanında Bomonti ve Marmara markalarını, lisansla Beck's, Miller ve Bud'ı üretir; AB InBev ile ortak Efes Beverage Group çatısında Rusya'dan Kazakistan'a uzanan bir ağı vardır."
+ },
+ "Türk Tuborg": {
+  "k": 1967,
+  "s": "Carlsberg Group",
+  "y": "Pınarbaşı, İzmir",
+  "stil": "Lager, güçlü lager ve Frederik craft serisi",
+  "h": "1967'de İzmir'de kurulan Türk Tuborg, Türkiye'nin malt üretiminden şişelemeye entegre tek bira fabrikası olarak tanıtılır. Carlsberg Grubu'nun parçasıdır; Tuborg, Carlsberg, Skol ve Venüs'ün yanı sıra Danimarkalı ilk usta biracıya adanmış Frederik serisini üretir."
+ },
+ "Gara Guzu": {
+  "k": 2011,
+  "s": "Bağımsız (aile işletmesi)",
+  "y": "Menteşe, Muğla",
+  "stil": "İngiliz ale'leri, IPA, saison, fıçı yıllandırma",
+  "h": "Akgonca ve Ataç Besi'nin 2011'de kurduğu, ilk üretimini 3,5 yıllık izin sürecinin ardından 2014'te yapan Türkiye'nin ilk gerçek mikro bira fabrikası. Saison, session IPA ve nitro stout gibi stilleri Türkiye'ye ilk getiren marka; Jameson ile fıçı iş birlikleriyle de bilinir."
+ },
+ "Pablo Bira": {
+  "k": 2017,
+  "s": "Bağımsız",
+  "y": "Konacık, Bodrum, Muğla",
+  "stil": "Akdeniz dokunuşlu klasik stiller",
+  "h": "Mustafa Yavaş'ın 2017'de Bodrum Konacık'ta kurduğu mikro bira fabrikası, adını kurucunun köpeği Pablo'dan alır. Pils, Weiss, IPA, Stout ve Bodrum mandalinalı Satsuma Wit ile Ege kıyısının craft markası olmuştur."
+ },
+ "3 Kafadar": {
+  "s": "Bağımsız",
+  "y": "Başakşehir, İstanbul",
+  "stil": "Modern IPA, NEIPA, Belçika ve lager",
+  "h": "Hakan Özkan, Harun Aydın ve Tarık Apak'ın 2013 Oktoberfest gezisinden doğan marka, gezgin (gypsy) bira olarak başlayıp İstanbul'da kendi tesisini kurdu. Untappd'de Türkiye'nin en yüksek puanlı fabrikaları arasında; SOMX gibi markalar da burada üretir."
+ },
+ "SOMX": {
+  "k": 2023,
+  "s": "Bağımsız (3 Kafadar tesisinde üretim)",
+  "y": "İstanbul (Taproomx, Asmalımescit)",
+  "stil": "NEIPA, session IPA, Kölsch, pilsner",
+  "h": "2023'te kurulan SOMX, biralarını 3 Kafadar'ın tesisinde üreten bir 'guguk kuşu' markası. Asmalımescit'teki Taproomx'te on musluktan servis yapar ve Untappd'de Türkiye'nin en üst sıralarında yer alır."
+ },
+ "DAS bira": {
+  "s": "Bağımsız (nano bira fabrikası)",
+  "y": "Lüleburgaz, Kırklareli",
+  "stil": "Amerikan IPA, barleywine, deneysel ale'ler",
+  "h": "Lüleburgaz'da küçük ölçekli bir nano bira fabrikası. Ey Ay Pi Ey IPA'sı Untappd topluluk ödülü kazandı, Old Queen Barling barleywine'ı 2025 European Beer Challenge'da altın madalya aldı."
+ },
+ "Torch Brewery": {
+  "s": "The Populist (kurumsal destekli)",
+  "y": "Bomontiada, Şişli, İstanbul",
+  "stil": "IPA, kırmızı ale, füzyon ve Belçika stilleri",
+  "h": "Tarihi Bomonti bira fabrikasının yerleşkesindeki The Populist'in kendi bira fabrikası. Biraları yalnızca The Populist şubelerinde (Bomonti, Galataport) tanktan servis edilir; pirinç-yeşil çaylı Tokyo Zen gibi füzyon denemeleriyle bilinir."
+ },
+ "Bosphorus Brewing Company": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Şişli, İstanbul",
+  "stil": "İngiliz tarzı ale'ler",
+  "h": "İngiliz bir çift ve Türk ortaklarının kurduğu Şişli'deki brewpub, İstanbul'un ilk nesil butik biracılarından. Norfolk şerbetçiotlarıyla İngiliz tarzı ale'ler üretir; Knidos markası da bu tesiste doğmuştur."
+ },
+ "Knidos Brewery": {
+  "k": 2019,
+  "s": "Bosphorus Brewing Company kökenli",
+  "y": "Başakşehir, İstanbul",
+  "stil": "Pale ale, Brut IPA, lager ve buğday",
+  "h": "Adını Datça'daki antik Karya kenti Knidos'tan alan marka, 2012'de Bosphorus Brewing Company'de başlayan üretimi 2019'dan beri fıçı ve şişede Knidos adıyla dağıtıyor."
+ },
+ "Feliz Kulpa": {
+  "s": "Bağımsız",
+  "y": "Çiğli, İzmir",
+  "stil": "Pale ale ve buğday biraları",
+  "h": "İzmir'in ilk craft bira markası; ev biracılığıyla başlayan iki arkadaş kurdu. Adı, mutlu sonla biten hatalar anlamındaki Latince 'felix culpa'dan gelir; biraları filtresiz ve pastörize edilmemiştir."
+ },
+ "Trokya": {
+  "s": "Bağımsız",
+  "y": "Edirne",
+  "stil": "Pale ale, Belçika wit, red ale",
+  "h": "Bangladeş'te tanışan iki iş arkadaşının, oradaki alkol kısıtlamaları yüzünden kendi biralarını yapmaya karar vermesiyle doğan Edirne markası. Dakka, Buğu ve Mars ile pazara girdi."
+ },
+ "Antiochs Brewery": {
+  "s": "Bağımsız (nano bira fabrikası)",
+  "y": "İskenderun, Hatay",
+  "stil": "Blonde, pale ale, pilsner, buğday",
+  "h": "Hatay'lı ev biracılarının kurduğu İskenderun merkezli nano bira fabrikası. Antik Antakya'ya gönderme yapan adıyla Doğu Akdeniz'in nadir craft üreticilerinden."
+ },
+ "Red Tower Brewery": {
+  "s": "Bağımsız (brewpub)",
+  "y": "Alanya, Antalya",
+  "stil": "Alman usulü lager ve buğday",
+  "h": "Alanya limanındaki Kızılkule'den adını alan, kendi birasını üretip satan brewpub. Pilsner, Märzen, Helles ve Weizen ile Alman bira geleneğini Akdeniz kıyısına taşır."
+ },
  "Weihenstephan": {
   "k": 1040,
   "s": "Bavyera eyaleti",
@@ -409,363 +500,6 @@
   "y": "Kout na Šumavě, Plzeň bölgesi",
   "stil": "Çek lager",
   "h": "Bohemya Ormanı eteğinde tarihî bir şato fabrikası; 2006'da yeniden açıldı. Geleneksel yöntemle yaptığı 12° ležák meraklılarca Çekya'nın en iyisi sayılır."
- },
- "Anheuser-Busch": {
-  "k": 1852,
-  "s": "AB InBev",
-  "y": "St. Louis, Missouri",
-  "stil": "Kitlesel Amerikan lager",
-  "h": "Alman göçmeni Eberhard Anheuser ve damadı Adolphus Busch'un St. Louis fabrikası. 1876'da çıkan Budweiser ABD'nin ilk ulusal birası oldu; 2008'de InBev ile birleşerek dünyanın en büyük bira grubunu kurdu."
- },
- "Coors Brewing Company": {
-  "k": 1873,
-  "s": "Molson Coors",
-  "y": "Golden, Colorado",
-  "stil": "Hafif Amerikan lager",
-  "h": "Alman göçmeni Adolph Coors'un Golden'da kurduğu fabrika, tek noktadan dünyanın en büyük bira üretim tesislerinden biridir. 2005'te Kanadalı Molson ile birleşti."
- },
- "Miller Brewing Company": {
-  "k": 1855,
-  "s": "Molson Coors",
-  "y": "Milwaukee, Wisconsin",
-  "stil": "Amerikan lager ve light lager",
-  "h": "Frederick Miller'ın Milwaukee'de satın aldığı Plank Road fabrikasından doğdu. Miller Lite ile 1975'te light bira pazarını yarattı; ABD işleri bugün Molson Coors'ta."
- },
- "Pabst Brewing Company": {
-  "k": 1844,
-  "s": "Blue Ribbon Intermediate Holdings",
-  "y": "Milwaukee, Wisconsin (köken)",
-  "stil": "Klasik Amerikan lager",
-  "h": "Milwaukee'nin tarihî devlerinden. Kendi fabrikası olmadan sözleşmeli üretimle yaşayan PBR, 2000'lerde alt kültürün ucuz ve 'samimi' birası olarak yeniden doğdu."
- },
- "D.G. Yuengling & Son": {
-  "k": 1829,
-  "s": "Yuengling ailesi (bağımsız)",
-  "y": "Pottsville, Pennsylvania",
-  "stil": "Amber lager, porter",
-  "h": "ABD'nin hâlâ çalışan en eski bira fabrikası. Altı kuşaktır aynı ailede; Yasak döneminde dondurma üreterek ayakta kaldı."
- },
- "Blue Moon Brewing Co.": {
-  "k": 1995,
-  "s": "Molson Coors",
-  "y": "Denver, Colorado",
-  "stil": "Belçika tarzı witbier",
-  "h": "Coors Field stadyumundaki Sandlot fabrikasında Keith Villa tarafından yaratıldı. 'Craft gibi görünen' büyük şirket birası tartışmasının simgesi olsa da witbier'i Amerika'ya sevdirdi."
- },
- "Boston Beer Company": {
-  "k": 1984,
-  "s": "Halka açık (Jim Koch kontrolünde)",
-  "y": "Boston, Massachusetts",
-  "stil": "Lager, mevsimlik ve deneysel ale",
-  "h": "Jim Koch, büyük dedesinin tarifiyle Samuel Adams Boston Lager'ı mutfağında geliştirdi. Amerikan craft hareketinin ilk ulusal markası oldu; 2019'da Dogfish Head'i bünyesine kattı."
- },
- "Brooklyn Brewery": {
-  "k": 1988,
-  "s": "Bağımsız (Kirin ortaklığı)",
-  "y": "Brooklyn, New York",
-  "stil": "Lager, stout, Belçika etkili ale",
-  "h": "Steve Hindy ve Tom Potter'ın kurduğu fabrika, Garrett Oliver'ın ustalığında New York'un bira kimliği oldu. Logo, 'I ♥ NY' tasarımcısı Milton Glaser'a ait."
- },
- "Sierra Nevada": {
-  "k": 1980,
-  "s": "Grossman ailesi (bağımsız)",
-  "y": "Chico, Kaliforniya",
-  "stil": "Pale ale, IPA, barleywine",
-  "h": "Ken Grossman'ın hurda süt tanklarıyla kurduğu fabrika, Cascade şerbetçiotlu Pale Ale ile Amerikan craft birasının temelini attı. Bugün ABD'nin en büyük bağımsız fabrikalarından."
- },
- "Anchor Brewing": {
-  "k": 1896,
-  "s": "Hamdi Ulukaya (2024'ten beri)",
-  "y": "San Francisco, Kaliforniya",
-  "stil": "California Common (steam beer)",
-  "h": "Altına hücum döneminin 'steam beer' geleneğini yaşatan fabrika 1965'te Fritz Maytag'la craft öncüsü oldu. Sapporo döneminde 2023'te kapandı; Chobani kurucusu Hamdi Ulukaya 2024'te satın aldı, 2026 itibarıyla yeniden açılış hazırlığı sürüyor."
- },
- "Stone Brewing": {
-  "k": 1996,
-  "s": "Sapporo (2022'den beri)",
-  "y": "Escondido, Kaliforniya",
-  "stil": "West Coast IPA, güçlü ale",
-  "h": "Greg Koch ve Steve Wagner'in kurduğu Stone, saldırgan acılıktaki biralarıyla Batı Kıyısı IPA kimliğini tanımladı. 2022'de Japon Sapporo'ya satıldı."
- },
- "Russian River Brewing": {
-  "k": 1997,
-  "s": "Cilurzo ailesi (bağımsız)",
-  "y": "Santa Rosa, Kaliforniya",
-  "stil": "Double IPA, ekşi ve vahşi ale",
-  "h": "Şarap üreticisi Korbel'in fabrikası olarak başladı; Vinnie ve Natalie Cilurzo 2003'te markayı aldı. Pliny the Elder ile DIPA'yı popülerleştirdi, fıçıda yıllanan ekşileriyle de ünlü."
- },
- "Firestone Walker": {
-  "k": 1996,
-  "s": "Duvel Moortgat",
-  "y": "Paso Robles, Kaliforniya",
-  "stil": "IPA, fıçı yıllanmış stout",
-  "h": "Adam Firestone ve David Walker'ın şarap bölgesinde kurduğu fabrika; meşe fıçılarda fermantasyon geleneğiyle bilinir. Yıllık fıçı harmanları dünya çapında aranır."
- },
- "Lagunitas Brewing Company": {
-  "k": 1993,
-  "s": "Heineken",
-  "y": "Petaluma, Kaliforniya",
-  "stil": "IPA ve hop ağırlıklı ale",
-  "h": "Tony Magee'nin kurduğu, köpek logolu ve esprili etiketli fabrika. 2017'de tamamen Heineken'e geçti."
- },
- "Ballast Point": {
-  "k": 1996,
-  "s": "Kings & Convicts",
-  "y": "San Diego, Kaliforniya",
-  "stil": "West Coast IPA",
-  "h": "Ev biracılığı dükkânından doğdu; Sculpin IPA ile San Diego IPA'sını tanımladı. 2015'te 1 milyar dolara Constellation'a satıldı, 2019'da Kings & Convicts'e geçti."
- },
- "Deschutes Brewery": {
-  "k": 1988,
-  "s": "Çalışan ortaklığı (bağımsız)",
-  "y": "Bend, Oregon",
-  "stil": "Porter, IPA, imparatorluk stout",
-  "h": "Gary Fish'in Bend'de açtığı birahaneyle başladı. Black Butte Porter, IPA çağında bile porter'ın amiral gemisi olabildiğini kanıtladı."
- },
- "Rogue Ales": {
-  "k": 1988,
-  "s": "Bağımsız",
-  "y": "Newport, Oregon",
-  "stil": "Ale, maibock, deneysel",
-  "h": "Oregon kıyısındaki liman kasabasının asi fabrikası. Kendi arpasını ve şerbetçiotunu yetiştiren 'çiftlik' yaklaşımıyla bilinir."
- },
- "Elysian Brewing": {
-  "k": 1996,
-  "s": "AB InBev",
-  "y": "Seattle, Washington",
-  "stil": "IPA, kabak birası",
-  "h": "Seattle'ın craft öncülerinden; 2015'te AB InBev'e satılması craft camiasında büyük tartışma yarattı."
- },
- "New Belgium Brewing": {
-  "k": 1991,
-  "s": "Lion (Kirin)",
-  "y": "Fort Collins, Colorado",
-  "stil": "Amber ale, IPA, foeder ekşileri",
-  "h": "Jeff Lebesch'in Belçika bisiklet turundan dönüp kurduğu fabrika. Uzun süre çalışanlarına ait olan şirket 2019'da Kirin'in Lion grubuna satıldı; Bell's ile aynı çatı altında."
- },
- "Oskar Blues": {
-  "k": 1997,
-  "s": "Canarchy / Monster Beverage",
-  "y": "Longmont, Colorado",
-  "stil": "Kutu craft ale",
-  "h": "2002'de Dale's Pale Ale'ı kutulayarak 'craft bira şişede olur' kuralını yıktı."
- },
- "Great Divide": {
-  "k": 1994,
-  "s": "Bağımsız",
-  "y": "Denver, Colorado",
-  "stil": "Güçlü ale ve imparatorluk stout",
-  "h": "Brian Dunn'ın Denver'daki fabrikası; Yeti serisi Amerikan imparatorluk stout'unun tanınmış örneklerinden."
- },
- "Bell's Brewery": {
-  "k": 1985,
-  "s": "Lion (Kirin)",
-  "y": "Kalamazoo, Michigan",
-  "stil": "IPA, buğday ale, stout",
-  "h": "Larry Bell'in ev biracılığı dükkânı olarak başladı. Two Hearted IPA, Zymurgy okurlarınca birçok kez ABD'nin en iyi birası seçildi; 2021'de Lion'a satıldı."
- },
- "Founders Brewing": {
-  "k": 1997,
-  "s": "Mahou San Miguel",
-  "y": "Grand Rapids, Michigan",
-  "stil": "İmparatorluk stout, IPA",
-  "h": "Mike Stevens ve Dave Engbers'in kurduğu fabrika, eski alçı madenlerinde bourbon fıçılarında yıllandırdığı KBS ile kült oldu. 2020'de tamamen İspanyol Mahou'ya geçti."
- },
- "Goose Island": {
-  "k": 1988,
-  "s": "AB InBev",
-  "y": "Chicago, Illinois",
-  "stil": "IPA, fıçı yıllanmış stout, Belçika tarzı",
-  "h": "John Hall'un Chicago birahanesi; 1992'de Bourbon County Stout ile fıçı yıllandırma akımını başlattı. 2011'de AB InBev'e satıldı ve Goose IPA dünya geneline dağıtıldı."
- },
- "3 Floyds Brewing": {
-  "k": 1996,
-  "s": "Floyd ailesi (bağımsız)",
-  "y": "Munster, Indiana",
-  "stil": "Hop ağırlıklı ale, imparatorluk stout",
-  "h": "'Not normal' sloganıyla heavy metal estetiğini biraya taşıyan aile fabrikası. Zombie Dust ve Dark Lord Day ile kült statüsünde."
- },
- "Toppling Goliath": {
-  "k": 2009,
-  "s": "Bağımsız",
-  "y": "Decorah, Iowa",
-  "stil": "Pale ale, IPA, fıçı stout",
-  "h": "Clark Lewey'nin küçük Iowa kasabasındaki fabrikası; Pseudo Sue ve Kentucky Brunch Brand Stout ile dünya listelerinin zirvesine çıktı."
- },
- "Great Lakes Brewing": {
-  "k": 1988,
-  "s": "Conway kardeşler (bağımsız)",
-  "y": "Cleveland, Ohio",
-  "stil": "Porter, lager, ale",
-  "h": "Ohio'nun ilk craft fabrikası. Edmund Fitzgerald Porter, Büyük Göller'de batan yük gemisinin anısını yaşatır."
- },
- "Boulevard Brewing": {
-  "k": 1989,
-  "s": "Duvel Moortgat",
-  "y": "Kansas City, Missouri",
-  "stil": "Saison, buğday, Belçika tarzı",
-  "h": "John McDonald'ın kurduğu Orta Batı fabrikası, Smokestack serisiyle Belçika tarzlarında uzmanlaştı; 2013'te Duvel'e katıldı."
- },
- "Dogfish Head": {
-  "k": 1995,
-  "s": "Boston Beer Company",
-  "y": "Milton, Delaware",
-  "stil": "Sürekli şerbetçiotlu IPA, deneysel ale",
-  "h": "Sam Calagione'nin 'normal olmayan insanlar için normal olmayan bira' felsefesiyle kurduğu fabrika; antik bira yeniden canlandırmalarıyla da tanınır. 2019'da Boston Beer ile birleşti."
- },
- "Victory Brewing": {
-  "k": 1996,
-  "s": "Artisanal Brewing Ventures",
-  "y": "Downingtown, Pennsylvania",
-  "stil": "Pils, IPA, Belçika tarzı",
-  "h": "Çocukluk arkadaşları Bill Covaleski ve Ron Barchet'in Almanya'da öğrendikleriyle kurduğu fabrika; Prima Pils Amerikan pilsner'ın ölçütü."
- },
- "Brewery Ommegang": {
-  "k": 1997,
-  "s": "Duvel Moortgat",
-  "y": "Cooperstown, New York",
-  "stil": "Belçika tarzı ale",
-  "h": "New York'ta bir şerbetçiotu çiftliğinde kurulan, tamamen Belçika tarzına adanmış fabrika."
- },
- "The Alchemist": {
-  "k": 2003,
-  "s": "Kimmich ailesi (bağımsız)",
-  "y": "Stowe, Vermont",
-  "stil": "New England IPA",
-  "h": "John ve Jen Kimmich'in Waterbury birahanesi 2011 kasırgasında yıkılınca yalnız Heady Topper'a odaklandılar; bu kutu NEIPA çılgınlığını başlattı."
- },
- "Hill Farmstead": {
-  "k": 2010,
-  "s": "Shaun Hill (bağımsız)",
-  "y": "Greensboro Bend, Vermont",
-  "stil": "Pale ale, saison, fıçı yıllanmış",
-  "h": "Shaun Hill'in aile çiftliğinde kurduğu fabrika; RateBeer tarafından defalarca dünyanın en iyi fabrikası seçildi. Biralar çoğunlukla yalnız çiftlikte satılır."
- },
- "Tree House Brewing": {
-  "k": 2011,
-  "s": "Bağımsız",
-  "y": "Charlton, Massachusetts",
-  "stil": "New England IPA, stout",
-  "h": "Brimfield'da bir ahırda başlayıp Charlton'daki dev tesise taşındı. Julius ile NEIPA'nın referans fabrikalarından; satış yalnız fabrikada."
- },
- "Trillium Brewing": {
-  "k": 2013,
-  "s": "JC ve Esther Tetreault (bağımsız)",
-  "y": "Boston, Massachusetts",
-  "stil": "NEIPA, ekşi ale",
-  "h": "Boston'ın Fort Point semtinde küçük bir tesiste başladı; bugün Canton'daki çiftlik fabrikası ve birahaneleriyle New England'ın önde gelenlerinden."
- },
- "Lawson's Finest Liquids": {
-  "k": 2008,
-  "s": "Lawson ailesi (bağımsız)",
-  "y": "Waitsfield, Vermont",
-  "stil": "Double IPA",
-  "h": "Sean Lawson'ın ormandaki küçük şeker kulübesinde başladı; Sip of Sunshine Vermont'un en aranan kutularından."
- },
- "Maine Beer Company": {
-  "k": 2009,
-  "s": "Kleban kardeşler (bağımsız)",
-  "y": "Freeport, Maine",
-  "stil": "IPA ve pale ale",
-  "h": "'Sadece gerekeni yap' sloganıyla sade etiketli, berrak ve aromatik IPA'larla tanınır; kârının %1'ini doğaya bağışlar."
- },
- "Allagash Brewing": {
-  "k": 1995,
-  "s": "Rob Tod (bağımsız)",
-  "y": "Portland, Maine",
-  "stil": "Belçika tarzı witbier, tripel, coolship ekşileri",
-  "h": "Rob Tod, IPA çağında Belçika tarzını seçti; Allagash White on yıllar sonra Amerika'nın en ödüllü witbier'i oldu. Coolship ile spontane fermantasyonun da ABD öncüsü."
- },
- "Cigar City Brewing": {
-  "k": 2009,
-  "s": "Monster Beverage",
-  "y": "Tampa, Florida",
-  "stil": "IPA, baharatlı stout",
-  "h": "Joey Redner'ın Tampa'nın puro mirasına adanmış fabrikası. Hunahpu's Day festivali yılın en kalabalık bira etkinliklerinden."
- },
- "Spoetzl Brewery": {
-  "k": 1909,
-  "s": "Gambrinus",
-  "y": "Shiner, Texas",
-  "stil": "Bock ve lager",
-  "h": "Bavyeralı Kosmos Spoetzl'in Teksas kasabasındaki fabrikası; Shiner Bock Teksas'ın gayri resmî birası."
- },
- "Unibroue": {
-  "k": 1990,
-  "s": "Sapporo",
-  "y": "Chambly, Québec",
-  "stil": "Şişede mayalanan Belçika tarzı ale",
-  "h": "Québec'te Belçika tarzını yerleştiren fabrika; etiketleri Fransız-Kanada efsanelerini anlatır. 2006'dan beri Sapporo'nun."
- },
- "Dieu du Ciel!": {
-  "k": 1998,
-  "s": "Bağımsız",
-  "y": "Montréal ve Saint-Jérôme, Québec",
-  "stil": "Stout, çiçekli ve baharatlı ale",
-  "h": "Jean-François Gravel'in Montréal birahanesi; Péché Mortel ile dünya listelerine girdi. Üretim 2007'den beri Saint-Jérôme'da."
- },
- "Molson Brewery": {
-  "k": 1786,
-  "s": "Molson Coors",
-  "y": "Montréal, Québec",
-  "stil": "Kanada lageri",
-  "h": "John Molson'ın Montréal'de kurduğu, Kuzey Amerika'nın en eski bira markalarından. 2005'te Coors ile birleşti."
- },
- "Labatt Brewing": {
-  "k": 1847,
-  "s": "AB InBev",
-  "y": "London, Ontario",
-  "stil": "Kanada lageri",
-  "h": "John Kinder Labatt'ın Ontario fabrikası; Labatt Blue on yıllarca Kanada'nın en çok satan birası oldu."
- },
- "Sleeman Breweries": {
-  "k": 1834,
-  "s": "Sapporo",
-  "y": "Guelph, Ontario",
-  "stil": "Cream ale ve lager",
-  "h": "1834'te kurulan aile fabrikası 1933'te kaçakçılık skandalıyla kapandı; John Sleeman 1988'de büyük büyükbabasının tarifleriyle canlandırdı."
- },
- "Moosehead Breweries": {
-  "k": 1867,
-  "s": "Oland ailesi (bağımsız)",
-  "y": "Saint John, New Brunswick",
-  "stil": "Kanada lageri",
-  "h": "Kanada'nın en eski bağımsız fabrikası; altıncı kuşak Oland ailesi tarafından yönetilir."
- },
- "Steam Whistle Brewing": {
-  "k": 2000,
-  "s": "Bağımsız",
-  "y": "Toronto, Ontario",
-  "stil": "Pilsner",
-  "h": "Eski bir lokomotif atölyesinde kurulan, yıllarca yalnız tek bira yapan fabrika."
- },
- "Driftwood Brewery": {
-  "k": 2008,
-  "s": "Bağımsız",
-  "y": "Victoria, Britanya Kolumbiyası",
-  "stil": "West Coast IPA, Belçika tarzı",
-  "h": "Vancouver Adası'nın craft öncülerinden; Fat Tug Kanada'nın en sevilen IPA'larından."
- },
- "Bellwoods Brewery": {
-  "k": 2012,
-  "s": "Bağımsız",
-  "y": "Toronto, Ontario",
-  "stil": "Ekşi, IPA, saison",
-  "h": "Ossington Caddesi'ndeki birahanede başlayan, Kanada'nın en çok övülen craft fabrikalarından."
- },
- "Grupo Modelo": {
-  "k": 1925,
-  "s": "AB InBev (ABD hakları Constellation Brands)",
-  "y": "Mexico City",
-  "stil": "Meksika lageri",
-  "h": "1925'te Mexico City'de kurulan grup Corona ile dünyanın en çok ihraç edilen biralarından birini yarattı. 2013'te AB InBev'e geçti; ABD'deki markalar Constellation'a ait."
- },
- "Cuauhtémoc Moctezuma": {
-  "k": 1890,
-  "s": "Heineken",
-  "y": "Monterrey, Nuevo León",
-  "stil": "Meksika lageri ve pilsner",
-  "h": "Monterrey'de kurulan Cervecería Cuauhtémoc, Moctezuma ile birleşerek Dos Equis, Sol, Tecate ve Bohemia'yı bir araya getirdi. 2010'dan beri Heineken bünyesinde."
  },
  "Sint-Sixtus (Westvleteren)": {
   "k": 1838,
@@ -1471,6 +1205,363 @@
   "stil": "Red ale, modern ale",
   "h": "Bradley Cummings ve Gazz Williams'ın 2012'de garajda başladığı fabrika; Cwtch ile Champion Beer of Britain kazanan ilk Galler birası oldu."
  },
+ "Anheuser-Busch": {
+  "k": 1852,
+  "s": "AB InBev",
+  "y": "St. Louis, Missouri",
+  "stil": "Kitlesel Amerikan lager",
+  "h": "Alman göçmeni Eberhard Anheuser ve damadı Adolphus Busch'un St. Louis fabrikası. 1876'da çıkan Budweiser ABD'nin ilk ulusal birası oldu; 2008'de InBev ile birleşerek dünyanın en büyük bira grubunu kurdu."
+ },
+ "Coors Brewing Company": {
+  "k": 1873,
+  "s": "Molson Coors",
+  "y": "Golden, Colorado",
+  "stil": "Hafif Amerikan lager",
+  "h": "Alman göçmeni Adolph Coors'un Golden'da kurduğu fabrika, tek noktadan dünyanın en büyük bira üretim tesislerinden biridir. 2005'te Kanadalı Molson ile birleşti."
+ },
+ "Miller Brewing Company": {
+  "k": 1855,
+  "s": "Molson Coors",
+  "y": "Milwaukee, Wisconsin",
+  "stil": "Amerikan lager ve light lager",
+  "h": "Frederick Miller'ın Milwaukee'de satın aldığı Plank Road fabrikasından doğdu. Miller Lite ile 1975'te light bira pazarını yarattı; ABD işleri bugün Molson Coors'ta."
+ },
+ "Pabst Brewing Company": {
+  "k": 1844,
+  "s": "Blue Ribbon Intermediate Holdings",
+  "y": "Milwaukee, Wisconsin (köken)",
+  "stil": "Klasik Amerikan lager",
+  "h": "Milwaukee'nin tarihî devlerinden. Kendi fabrikası olmadan sözleşmeli üretimle yaşayan PBR, 2000'lerde alt kültürün ucuz ve 'samimi' birası olarak yeniden doğdu."
+ },
+ "D.G. Yuengling & Son": {
+  "k": 1829,
+  "s": "Yuengling ailesi (bağımsız)",
+  "y": "Pottsville, Pennsylvania",
+  "stil": "Amber lager, porter",
+  "h": "ABD'nin hâlâ çalışan en eski bira fabrikası. Altı kuşaktır aynı ailede; Yasak döneminde dondurma üreterek ayakta kaldı."
+ },
+ "Blue Moon Brewing Co.": {
+  "k": 1995,
+  "s": "Molson Coors",
+  "y": "Denver, Colorado",
+  "stil": "Belçika tarzı witbier",
+  "h": "Coors Field stadyumundaki Sandlot fabrikasında Keith Villa tarafından yaratıldı. 'Craft gibi görünen' büyük şirket birası tartışmasının simgesi olsa da witbier'i Amerika'ya sevdirdi."
+ },
+ "Boston Beer Company": {
+  "k": 1984,
+  "s": "Halka açık (Jim Koch kontrolünde)",
+  "y": "Boston, Massachusetts",
+  "stil": "Lager, mevsimlik ve deneysel ale",
+  "h": "Jim Koch, büyük dedesinin tarifiyle Samuel Adams Boston Lager'ı mutfağında geliştirdi. Amerikan craft hareketinin ilk ulusal markası oldu; 2019'da Dogfish Head'i bünyesine kattı."
+ },
+ "Brooklyn Brewery": {
+  "k": 1988,
+  "s": "Bağımsız (Kirin ortaklığı)",
+  "y": "Brooklyn, New York",
+  "stil": "Lager, stout, Belçika etkili ale",
+  "h": "Steve Hindy ve Tom Potter'ın kurduğu fabrika, Garrett Oliver'ın ustalığında New York'un bira kimliği oldu. Logo, 'I ♥ NY' tasarımcısı Milton Glaser'a ait."
+ },
+ "Sierra Nevada": {
+  "k": 1980,
+  "s": "Grossman ailesi (bağımsız)",
+  "y": "Chico, Kaliforniya",
+  "stil": "Pale ale, IPA, barleywine",
+  "h": "Ken Grossman'ın hurda süt tanklarıyla kurduğu fabrika, Cascade şerbetçiotlu Pale Ale ile Amerikan craft birasının temelini attı. Bugün ABD'nin en büyük bağımsız fabrikalarından."
+ },
+ "Anchor Brewing": {
+  "k": 1896,
+  "s": "Hamdi Ulukaya (2024'ten beri)",
+  "y": "San Francisco, Kaliforniya",
+  "stil": "California Common (steam beer)",
+  "h": "Altına hücum döneminin 'steam beer' geleneğini yaşatan fabrika 1965'te Fritz Maytag'la craft öncüsü oldu. Sapporo döneminde 2023'te kapandı; Chobani kurucusu Hamdi Ulukaya 2024'te satın aldı, 2026 itibarıyla yeniden açılış hazırlığı sürüyor."
+ },
+ "Stone Brewing": {
+  "k": 1996,
+  "s": "Sapporo (2022'den beri)",
+  "y": "Escondido, Kaliforniya",
+  "stil": "West Coast IPA, güçlü ale",
+  "h": "Greg Koch ve Steve Wagner'in kurduğu Stone, saldırgan acılıktaki biralarıyla Batı Kıyısı IPA kimliğini tanımladı. 2022'de Japon Sapporo'ya satıldı."
+ },
+ "Russian River Brewing": {
+  "k": 1997,
+  "s": "Cilurzo ailesi (bağımsız)",
+  "y": "Santa Rosa, Kaliforniya",
+  "stil": "Double IPA, ekşi ve vahşi ale",
+  "h": "Şarap üreticisi Korbel'in fabrikası olarak başladı; Vinnie ve Natalie Cilurzo 2003'te markayı aldı. Pliny the Elder ile DIPA'yı popülerleştirdi, fıçıda yıllanan ekşileriyle de ünlü."
+ },
+ "Firestone Walker": {
+  "k": 1996,
+  "s": "Duvel Moortgat",
+  "y": "Paso Robles, Kaliforniya",
+  "stil": "IPA, fıçı yıllanmış stout",
+  "h": "Adam Firestone ve David Walker'ın şarap bölgesinde kurduğu fabrika; meşe fıçılarda fermantasyon geleneğiyle bilinir. Yıllık fıçı harmanları dünya çapında aranır."
+ },
+ "Lagunitas Brewing Company": {
+  "k": 1993,
+  "s": "Heineken",
+  "y": "Petaluma, Kaliforniya",
+  "stil": "IPA ve hop ağırlıklı ale",
+  "h": "Tony Magee'nin kurduğu, köpek logolu ve esprili etiketli fabrika. 2017'de tamamen Heineken'e geçti."
+ },
+ "Ballast Point": {
+  "k": 1996,
+  "s": "Kings & Convicts",
+  "y": "San Diego, Kaliforniya",
+  "stil": "West Coast IPA",
+  "h": "Ev biracılığı dükkânından doğdu; Sculpin IPA ile San Diego IPA'sını tanımladı. 2015'te 1 milyar dolara Constellation'a satıldı, 2019'da Kings & Convicts'e geçti."
+ },
+ "Deschutes Brewery": {
+  "k": 1988,
+  "s": "Çalışan ortaklığı (bağımsız)",
+  "y": "Bend, Oregon",
+  "stil": "Porter, IPA, imparatorluk stout",
+  "h": "Gary Fish'in Bend'de açtığı birahaneyle başladı. Black Butte Porter, IPA çağında bile porter'ın amiral gemisi olabildiğini kanıtladı."
+ },
+ "Rogue Ales": {
+  "k": 1988,
+  "s": "Bağımsız",
+  "y": "Newport, Oregon",
+  "stil": "Ale, maibock, deneysel",
+  "h": "Oregon kıyısındaki liman kasabasının asi fabrikası. Kendi arpasını ve şerbetçiotunu yetiştiren 'çiftlik' yaklaşımıyla bilinir."
+ },
+ "Elysian Brewing": {
+  "k": 1996,
+  "s": "AB InBev",
+  "y": "Seattle, Washington",
+  "stil": "IPA, kabak birası",
+  "h": "Seattle'ın craft öncülerinden; 2015'te AB InBev'e satılması craft camiasında büyük tartışma yarattı."
+ },
+ "New Belgium Brewing": {
+  "k": 1991,
+  "s": "Lion (Kirin)",
+  "y": "Fort Collins, Colorado",
+  "stil": "Amber ale, IPA, foeder ekşileri",
+  "h": "Jeff Lebesch'in Belçika bisiklet turundan dönüp kurduğu fabrika. Uzun süre çalışanlarına ait olan şirket 2019'da Kirin'in Lion grubuna satıldı; Bell's ile aynı çatı altında."
+ },
+ "Oskar Blues": {
+  "k": 1997,
+  "s": "Canarchy / Monster Beverage",
+  "y": "Longmont, Colorado",
+  "stil": "Kutu craft ale",
+  "h": "2002'de Dale's Pale Ale'ı kutulayarak 'craft bira şişede olur' kuralını yıktı."
+ },
+ "Great Divide": {
+  "k": 1994,
+  "s": "Bağımsız",
+  "y": "Denver, Colorado",
+  "stil": "Güçlü ale ve imparatorluk stout",
+  "h": "Brian Dunn'ın Denver'daki fabrikası; Yeti serisi Amerikan imparatorluk stout'unun tanınmış örneklerinden."
+ },
+ "Bell's Brewery": {
+  "k": 1985,
+  "s": "Lion (Kirin)",
+  "y": "Kalamazoo, Michigan",
+  "stil": "IPA, buğday ale, stout",
+  "h": "Larry Bell'in ev biracılığı dükkânı olarak başladı. Two Hearted IPA, Zymurgy okurlarınca birçok kez ABD'nin en iyi birası seçildi; 2021'de Lion'a satıldı."
+ },
+ "Founders Brewing": {
+  "k": 1997,
+  "s": "Mahou San Miguel",
+  "y": "Grand Rapids, Michigan",
+  "stil": "İmparatorluk stout, IPA",
+  "h": "Mike Stevens ve Dave Engbers'in kurduğu fabrika, eski alçı madenlerinde bourbon fıçılarında yıllandırdığı KBS ile kült oldu. 2020'de tamamen İspanyol Mahou'ya geçti."
+ },
+ "Goose Island": {
+  "k": 1988,
+  "s": "AB InBev",
+  "y": "Chicago, Illinois",
+  "stil": "IPA, fıçı yıllanmış stout, Belçika tarzı",
+  "h": "John Hall'un Chicago birahanesi; 1992'de Bourbon County Stout ile fıçı yıllandırma akımını başlattı. 2011'de AB InBev'e satıldı ve Goose IPA dünya geneline dağıtıldı."
+ },
+ "3 Floyds Brewing": {
+  "k": 1996,
+  "s": "Floyd ailesi (bağımsız)",
+  "y": "Munster, Indiana",
+  "stil": "Hop ağırlıklı ale, imparatorluk stout",
+  "h": "'Not normal' sloganıyla heavy metal estetiğini biraya taşıyan aile fabrikası. Zombie Dust ve Dark Lord Day ile kült statüsünde."
+ },
+ "Toppling Goliath": {
+  "k": 2009,
+  "s": "Bağımsız",
+  "y": "Decorah, Iowa",
+  "stil": "Pale ale, IPA, fıçı stout",
+  "h": "Clark Lewey'nin küçük Iowa kasabasındaki fabrikası; Pseudo Sue ve Kentucky Brunch Brand Stout ile dünya listelerinin zirvesine çıktı."
+ },
+ "Great Lakes Brewing": {
+  "k": 1988,
+  "s": "Conway kardeşler (bağımsız)",
+  "y": "Cleveland, Ohio",
+  "stil": "Porter, lager, ale",
+  "h": "Ohio'nun ilk craft fabrikası. Edmund Fitzgerald Porter, Büyük Göller'de batan yük gemisinin anısını yaşatır."
+ },
+ "Boulevard Brewing": {
+  "k": 1989,
+  "s": "Duvel Moortgat",
+  "y": "Kansas City, Missouri",
+  "stil": "Saison, buğday, Belçika tarzı",
+  "h": "John McDonald'ın kurduğu Orta Batı fabrikası, Smokestack serisiyle Belçika tarzlarında uzmanlaştı; 2013'te Duvel'e katıldı."
+ },
+ "Dogfish Head": {
+  "k": 1995,
+  "s": "Boston Beer Company",
+  "y": "Milton, Delaware",
+  "stil": "Sürekli şerbetçiotlu IPA, deneysel ale",
+  "h": "Sam Calagione'nin 'normal olmayan insanlar için normal olmayan bira' felsefesiyle kurduğu fabrika; antik bira yeniden canlandırmalarıyla da tanınır. 2019'da Boston Beer ile birleşti."
+ },
+ "Victory Brewing": {
+  "k": 1996,
+  "s": "Artisanal Brewing Ventures",
+  "y": "Downingtown, Pennsylvania",
+  "stil": "Pils, IPA, Belçika tarzı",
+  "h": "Çocukluk arkadaşları Bill Covaleski ve Ron Barchet'in Almanya'da öğrendikleriyle kurduğu fabrika; Prima Pils Amerikan pilsner'ın ölçütü."
+ },
+ "Brewery Ommegang": {
+  "k": 1997,
+  "s": "Duvel Moortgat",
+  "y": "Cooperstown, New York",
+  "stil": "Belçika tarzı ale",
+  "h": "New York'ta bir şerbetçiotu çiftliğinde kurulan, tamamen Belçika tarzına adanmış fabrika."
+ },
+ "The Alchemist": {
+  "k": 2003,
+  "s": "Kimmich ailesi (bağımsız)",
+  "y": "Stowe, Vermont",
+  "stil": "New England IPA",
+  "h": "John ve Jen Kimmich'in Waterbury birahanesi 2011 kasırgasında yıkılınca yalnız Heady Topper'a odaklandılar; bu kutu NEIPA çılgınlığını başlattı."
+ },
+ "Hill Farmstead": {
+  "k": 2010,
+  "s": "Shaun Hill (bağımsız)",
+  "y": "Greensboro Bend, Vermont",
+  "stil": "Pale ale, saison, fıçı yıllanmış",
+  "h": "Shaun Hill'in aile çiftliğinde kurduğu fabrika; RateBeer tarafından defalarca dünyanın en iyi fabrikası seçildi. Biralar çoğunlukla yalnız çiftlikte satılır."
+ },
+ "Tree House Brewing": {
+  "k": 2011,
+  "s": "Bağımsız",
+  "y": "Charlton, Massachusetts",
+  "stil": "New England IPA, stout",
+  "h": "Brimfield'da bir ahırda başlayıp Charlton'daki dev tesise taşındı. Julius ile NEIPA'nın referans fabrikalarından; satış yalnız fabrikada."
+ },
+ "Trillium Brewing": {
+  "k": 2013,
+  "s": "JC ve Esther Tetreault (bağımsız)",
+  "y": "Boston, Massachusetts",
+  "stil": "NEIPA, ekşi ale",
+  "h": "Boston'ın Fort Point semtinde küçük bir tesiste başladı; bugün Canton'daki çiftlik fabrikası ve birahaneleriyle New England'ın önde gelenlerinden."
+ },
+ "Lawson's Finest Liquids": {
+  "k": 2008,
+  "s": "Lawson ailesi (bağımsız)",
+  "y": "Waitsfield, Vermont",
+  "stil": "Double IPA",
+  "h": "Sean Lawson'ın ormandaki küçük şeker kulübesinde başladı; Sip of Sunshine Vermont'un en aranan kutularından."
+ },
+ "Maine Beer Company": {
+  "k": 2009,
+  "s": "Kleban kardeşler (bağımsız)",
+  "y": "Freeport, Maine",
+  "stil": "IPA ve pale ale",
+  "h": "'Sadece gerekeni yap' sloganıyla sade etiketli, berrak ve aromatik IPA'larla tanınır; kârının %1'ini doğaya bağışlar."
+ },
+ "Allagash Brewing": {
+  "k": 1995,
+  "s": "Rob Tod (bağımsız)",
+  "y": "Portland, Maine",
+  "stil": "Belçika tarzı witbier, tripel, coolship ekşileri",
+  "h": "Rob Tod, IPA çağında Belçika tarzını seçti; Allagash White on yıllar sonra Amerika'nın en ödüllü witbier'i oldu. Coolship ile spontane fermantasyonun da ABD öncüsü."
+ },
+ "Cigar City Brewing": {
+  "k": 2009,
+  "s": "Monster Beverage",
+  "y": "Tampa, Florida",
+  "stil": "IPA, baharatlı stout",
+  "h": "Joey Redner'ın Tampa'nın puro mirasına adanmış fabrikası. Hunahpu's Day festivali yılın en kalabalık bira etkinliklerinden."
+ },
+ "Spoetzl Brewery": {
+  "k": 1909,
+  "s": "Gambrinus",
+  "y": "Shiner, Texas",
+  "stil": "Bock ve lager",
+  "h": "Bavyeralı Kosmos Spoetzl'in Teksas kasabasındaki fabrikası; Shiner Bock Teksas'ın gayri resmî birası."
+ },
+ "Unibroue": {
+  "k": 1990,
+  "s": "Sapporo",
+  "y": "Chambly, Québec",
+  "stil": "Şişede mayalanan Belçika tarzı ale",
+  "h": "Québec'te Belçika tarzını yerleştiren fabrika; etiketleri Fransız-Kanada efsanelerini anlatır. 2006'dan beri Sapporo'nun."
+ },
+ "Dieu du Ciel!": {
+  "k": 1998,
+  "s": "Bağımsız",
+  "y": "Montréal ve Saint-Jérôme, Québec",
+  "stil": "Stout, çiçekli ve baharatlı ale",
+  "h": "Jean-François Gravel'in Montréal birahanesi; Péché Mortel ile dünya listelerine girdi. Üretim 2007'den beri Saint-Jérôme'da."
+ },
+ "Molson Brewery": {
+  "k": 1786,
+  "s": "Molson Coors",
+  "y": "Montréal, Québec",
+  "stil": "Kanada lageri",
+  "h": "John Molson'ın Montréal'de kurduğu, Kuzey Amerika'nın en eski bira markalarından. 2005'te Coors ile birleşti."
+ },
+ "Labatt Brewing": {
+  "k": 1847,
+  "s": "AB InBev",
+  "y": "London, Ontario",
+  "stil": "Kanada lageri",
+  "h": "John Kinder Labatt'ın Ontario fabrikası; Labatt Blue on yıllarca Kanada'nın en çok satan birası oldu."
+ },
+ "Sleeman Breweries": {
+  "k": 1834,
+  "s": "Sapporo",
+  "y": "Guelph, Ontario",
+  "stil": "Cream ale ve lager",
+  "h": "1834'te kurulan aile fabrikası 1933'te kaçakçılık skandalıyla kapandı; John Sleeman 1988'de büyük büyükbabasının tarifleriyle canlandırdı."
+ },
+ "Moosehead Breweries": {
+  "k": 1867,
+  "s": "Oland ailesi (bağımsız)",
+  "y": "Saint John, New Brunswick",
+  "stil": "Kanada lageri",
+  "h": "Kanada'nın en eski bağımsız fabrikası; altıncı kuşak Oland ailesi tarafından yönetilir."
+ },
+ "Steam Whistle Brewing": {
+  "k": 2000,
+  "s": "Bağımsız",
+  "y": "Toronto, Ontario",
+  "stil": "Pilsner",
+  "h": "Eski bir lokomotif atölyesinde kurulan, yıllarca yalnız tek bira yapan fabrika."
+ },
+ "Driftwood Brewery": {
+  "k": 2008,
+  "s": "Bağımsız",
+  "y": "Victoria, Britanya Kolumbiyası",
+  "stil": "West Coast IPA, Belçika tarzı",
+  "h": "Vancouver Adası'nın craft öncülerinden; Fat Tug Kanada'nın en sevilen IPA'larından."
+ },
+ "Bellwoods Brewery": {
+  "k": 2012,
+  "s": "Bağımsız",
+  "y": "Toronto, Ontario",
+  "stil": "Ekşi, IPA, saison",
+  "h": "Ossington Caddesi'ndeki birahanede başlayan, Kanada'nın en çok övülen craft fabrikalarından."
+ },
+ "Grupo Modelo": {
+  "k": 1925,
+  "s": "AB InBev (ABD hakları Constellation Brands)",
+  "y": "Mexico City",
+  "stil": "Meksika lageri",
+  "h": "1925'te Mexico City'de kurulan grup Corona ile dünyanın en çok ihraç edilen biralarından birini yarattı. 2013'te AB InBev'e geçti; ABD'deki markalar Constellation'a ait."
+ },
+ "Cuauhtémoc Moctezuma": {
+  "k": 1890,
+  "s": "Heineken",
+  "y": "Monterrey, Nuevo León",
+  "stil": "Meksika lageri ve pilsner",
+  "h": "Monterrey'de kurulan Cervecería Cuauhtémoc, Moctezuma ile birleşerek Dos Equis, Sol, Tecate ve Bohemia'yı bir araya getirdi. 2010'dan beri Heineken bünyesinde."
+ },
  "Alhambra": {
   "k": 1925,
   "s": "Mahou San Miguel",
@@ -2008,96 +2099,5 @@
   "y": "Burton upon Trent, Staffordshire",
   "stil": "Burton pale ale",
   "h": "Burton'un sert suyuyla pale ale'i dünyaya tanıtan bira evi; kırmızı üçgen logosu 1876'da İngiltere'nin ilk tescilli markası oldu."
- },
- "Anadolu Efes": {
-  "k": 1969,
-  "s": "Anadolu Grubu (AG Anadolu Grubu Holding)",
-  "y": "İstanbul (Büyükçekmece); İzmir, Ankara, Adana tesisleri",
-  "stil": "Ana akım lager, filtresiz ve lisanslı uluslararası markalar",
-  "h": "1969'da İstanbul ve İzmir'de ilk üretime başlayan Anadolu Efes, Türkiye bira pazarının açık ara lideri. Efes Pilsen'in yanında Bomonti ve Marmara markalarını, lisansla Beck's, Miller ve Bud'ı üretir; AB InBev ile ortak Efes Beverage Group çatısında Rusya'dan Kazakistan'a uzanan bir ağı vardır."
- },
- "Türk Tuborg": {
-  "k": 1967,
-  "s": "Carlsberg Group",
-  "y": "Pınarbaşı, İzmir",
-  "stil": "Lager, güçlü lager ve Frederik craft serisi",
-  "h": "1967'de İzmir'de kurulan Türk Tuborg, Türkiye'nin malt üretiminden şişelemeye entegre tek bira fabrikası olarak tanıtılır. Carlsberg Grubu'nun parçasıdır; Tuborg, Carlsberg, Skol ve Venüs'ün yanı sıra Danimarkalı ilk usta biracıya adanmış Frederik serisini üretir."
- },
- "Gara Guzu": {
-  "k": 2011,
-  "s": "Bağımsız (aile işletmesi)",
-  "y": "Menteşe, Muğla",
-  "stil": "İngiliz ale'leri, IPA, saison, fıçı yıllandırma",
-  "h": "Akgonca ve Ataç Besi'nin 2011'de kurduğu, ilk üretimini 3,5 yıllık izin sürecinin ardından 2014'te yapan Türkiye'nin ilk gerçek mikro bira fabrikası. Saison, session IPA ve nitro stout gibi stilleri Türkiye'ye ilk getiren marka; Jameson ile fıçı iş birlikleriyle de bilinir."
- },
- "Pablo Bira": {
-  "k": 2017,
-  "s": "Bağımsız",
-  "y": "Konacık, Bodrum, Muğla",
-  "stil": "Akdeniz dokunuşlu klasik stiller",
-  "h": "Mustafa Yavaş'ın 2017'de Bodrum Konacık'ta kurduğu mikro bira fabrikası, adını kurucunun köpeği Pablo'dan alır. Pils, Weiss, IPA, Stout ve Bodrum mandalinalı Satsuma Wit ile Ege kıyısının craft markası olmuştur."
- },
- "3 Kafadar": {
-  "s": "Bağımsız",
-  "y": "Başakşehir, İstanbul",
-  "stil": "Modern IPA, NEIPA, Belçika ve lager",
-  "h": "Hakan Özkan, Harun Aydın ve Tarık Apak'ın 2013 Oktoberfest gezisinden doğan marka, gezgin (gypsy) bira olarak başlayıp İstanbul'da kendi tesisini kurdu. Untappd'de Türkiye'nin en yüksek puanlı fabrikaları arasında; SOMX gibi markalar da burada üretir."
- },
- "SOMX": {
-  "k": 2023,
-  "s": "Bağımsız (3 Kafadar tesisinde üretim)",
-  "y": "İstanbul (Taproomx, Asmalımescit)",
-  "stil": "NEIPA, session IPA, Kölsch, pilsner",
-  "h": "2023'te kurulan SOMX, biralarını 3 Kafadar'ın tesisinde üreten bir 'guguk kuşu' markası. Asmalımescit'teki Taproomx'te on musluktan servis yapar ve Untappd'de Türkiye'nin en üst sıralarında yer alır."
- },
- "DAS bira": {
-  "s": "Bağımsız (nano bira fabrikası)",
-  "y": "Lüleburgaz, Kırklareli",
-  "stil": "Amerikan IPA, barleywine, deneysel ale'ler",
-  "h": "Lüleburgaz'da küçük ölçekli bir nano bira fabrikası. Ey Ay Pi Ey IPA'sı Untappd topluluk ödülü kazandı, Old Queen Barling barleywine'ı 2025 European Beer Challenge'da altın madalya aldı."
- },
- "Torch Brewery": {
-  "s": "The Populist (kurumsal destekli)",
-  "y": "Bomontiada, Şişli, İstanbul",
-  "stil": "IPA, kırmızı ale, füzyon ve Belçika stilleri",
-  "h": "Tarihi Bomonti bira fabrikasının yerleşkesindeki The Populist'in kendi bira fabrikası. Biraları yalnızca The Populist şubelerinde (Bomonti, Galataport) tanktan servis edilir; pirinç-yeşil çaylı Tokyo Zen gibi füzyon denemeleriyle bilinir."
- },
- "Bosphorus Brewing Company": {
-  "k": 2012,
-  "s": "Bağımsız",
-  "y": "Şişli, İstanbul",
-  "stil": "İngiliz tarzı ale'ler",
-  "h": "İngiliz bir çift ve Türk ortaklarının kurduğu Şişli'deki brewpub, İstanbul'un ilk nesil butik biracılarından. Norfolk şerbetçiotlarıyla İngiliz tarzı ale'ler üretir; Knidos markası da bu tesiste doğmuştur."
- },
- "Knidos Brewery": {
-  "k": 2019,
-  "s": "Bosphorus Brewing Company kökenli",
-  "y": "Başakşehir, İstanbul",
-  "stil": "Pale ale, Brut IPA, lager ve buğday",
-  "h": "Adını Datça'daki antik Karya kenti Knidos'tan alan marka, 2012'de Bosphorus Brewing Company'de başlayan üretimi 2019'dan beri fıçı ve şişede Knidos adıyla dağıtıyor."
- },
- "Feliz Kulpa": {
-  "s": "Bağımsız",
-  "y": "Çiğli, İzmir",
-  "stil": "Pale ale ve buğday biraları",
-  "h": "İzmir'in ilk craft bira markası; ev biracılığıyla başlayan iki arkadaş kurdu. Adı, mutlu sonla biten hatalar anlamındaki Latince 'felix culpa'dan gelir; biraları filtresiz ve pastörize edilmemiştir."
- },
- "Trokya": {
-  "s": "Bağımsız",
-  "y": "Edirne",
-  "stil": "Pale ale, Belçika wit, red ale",
-  "h": "Bangladeş'te tanışan iki iş arkadaşının, oradaki alkol kısıtlamaları yüzünden kendi biralarını yapmaya karar vermesiyle doğan Edirne markası. Dakka, Buğu ve Mars ile pazara girdi."
- },
- "Antiochs Brewery": {
-  "s": "Bağımsız (nano bira fabrikası)",
-  "y": "İskenderun, Hatay",
-  "stil": "Blonde, pale ale, pilsner, buğday",
-  "h": "Hatay'lı ev biracılarının kurduğu İskenderun merkezli nano bira fabrikası. Antik Antakya'ya gönderme yapan adıyla Doğu Akdeniz'in nadir craft üreticilerinden."
- },
- "Red Tower Brewery": {
-  "s": "Bağımsız (brewpub)",
-  "y": "Alanya, Antalya",
-  "stil": "Alman usulü lager ve buğday",
-  "h": "Alanya limanındaki Kızılkule'den adını alan, kendi birasını üretip satan brewpub. Pilsner, Märzen, Helles ve Weizen ile Alman bira geleneğini Akdeniz kıyısına taşır."
  }
 }

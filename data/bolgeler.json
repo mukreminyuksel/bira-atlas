@@ -1,5 +1,40 @@
 {
  "_aciklama": "Bölge rehberleri. Anahtar 'ülke|bölge'. k: karakter, t: bilgi, i: ipucu.",
+ "Türkiye|İstanbul": {
+  "k": "Türkiye biracılığının merkezi: Anadolu Efes'in ana tesisi ile 3 Kafadar, SOMX, Knidos, Torch ve Bosphorus Brewing gibi craft üreticileri burada. Kadıköy, Beyoğlu ve Bomonti birahaneleri yerli craft'ın vitrini.",
+  "t": "1890'larda İsviçreli Bomonti kardeşlerin kurduğu Bomonti fabrikası Osmanlı'nın ilk sanayi bira üretimiydi; yerleşke bugün Bomontiada adıyla Torch'a ev sahipliği yapıyor.",
+  "i": "Market rafında Bomonti Filtresiz ile başla, sonra Kadıköy veya Asmalımescit'te musluktan 3 Kafadar Stardust ve SOMX NEIPA dene."
+ },
+ "Türkiye|İzmir": {
+  "k": "Türk Tuborg'un Pınarbaşı'ndaki dev tesisiyle ülkenin ikinci bira başkenti; Feliz Kulpa ile kentin kendi craft sahnesi de var.",
+  "t": "Türk Tuborg 1967'de İzmir'de kuruldu; Tuborg Gold ve Carlsberg'in Türkiye üretimi buradan çıkar.",
+  "i": "Frederik serisi market rafındaki en kolay craft adımı; Kordon'da Feliz Kulpa Smyrn'Ale arayın."
+ },
+ "Türkiye|Muğla": {
+  "k": "Ege kıyısının craft yuvası: Menteşe'de Gara Guzu, Bodrum'da Pablo. Deneysel ale'ler, yerel meyveler ve tatil birası kültürü öne çıkıyor.",
+  "t": "Gara Guzu 2014'te Türkiye'nin ilk mikro bira fabrikası olarak üretime başladı ve ülkedeki craft dalgasını başlattı.",
+  "i": "Gara Guzu Amber Ale ile başlayın; Bodrum'da Pablo Satsuma Wit tam bir yaz birası."
+ },
+ "Türkiye|Kırklareli": {
+  "k": "Trakya'nın ödüllü nano biracılığı: Lüleburgaz'daki DAS bira, güçlü IPA ve barleywine'larıyla öne çıkıyor.",
+  "t": "DAS bira 2025'te hem Untappd topluluk ödülü hem de European Beer Challenge altın madalyası aldı.",
+  "i": "DAS Ey Ay Pi Ey'i İstanbul'daki craft barlarda (ör. Sanayi 1-A) arayın."
+ },
+ "Türkiye|Edirne": {
+  "k": "Trokya ile Trakya'nın sınır kentinde küçük ölçekli, Belçika ve İngiliz esintili craft üretimi.",
+  "t": "Trokya, Dakka, Buğu ve Mars adlı üç birayla pazara girdi.",
+  "i": "Ferah bir başlangıç için Buğu (Belçika wit) iyi seçim."
+ },
+ "Türkiye|Hatay": {
+  "k": "Doğu Akdeniz'in nadir craft noktası; İskenderun'daki Antiochs nano bira fabrikası blonde, pale ale ve buğday üretiyor.",
+  "t": "Antiochs, Hatay'lı ev biracılarınca kuruldu ve adını antik Antiokheia'dan alır.",
+  "i": "Antiochs Blonde Ale, baharatlı Hatay mutfağıyla iyi eşleşir."
+ },
+ "Türkiye|Antalya": {
+  "k": "Turizm kıyısında brewpub kültürü; Alanya'daki Red Tower Alman usulü lager ve buğday biraları üretiyor.",
+  "t": "Red Tower, Alanya'nın simgesi 13. yüzyıl Kızılkule'nin adını taşır.",
+  "i": "Sıcak akşamlar için Helles ya da Weizen'i tanktan taze isteyin."
+ },
  "Almanya|Bavyera": {
   "k": "Lager ve buğday birasının anavatanı. Münih helles, Märzen, dunkel, doppelbock ve weissbier burada şekillendi; biralar maltlı, temiz ve içimi kolaydır.",
   "t": "1516 Reinheitsgebot (saflık yasası) Bavyera'da ilan edildi. Oktoberfest 1810'dan beri Münih'te ve yalnızca şehrin altı fabrikasının birası sunulur.",
@@ -104,81 +139,6 @@
   "k": "Bağımsız, geleneksel yöntemlerle çalışan fabrikaların bölgesi.",
   "t": "Svijany 16. yüzyıldan beri bira yapıyor ve büyük gruplara katılmadan ayakta kaldı.",
   "i": "Svijany'nin farklı derecelerdeki (10°, 11°, 12°) biralarını karşılaştır; derece şıra yoğunluğunu gösterir."
- },
- "ABD|Kaliforniya": {
-  "k": "Amerikan craft birasının doğduğu yer. Batı Kıyısı IPA'sı kuru, acı ve reçineli; Sierra Nevada, Stone ve Russian River bu kimliği tanımladı.",
-  "t": "1849 Altına Hücum'un 'steam beer'i ve 1965'te Anchor'ı kurtaran Fritz Maytag ile modern craft hareketi burada başladı.",
-  "i": "Sierra Nevada Pale Ale ile başla, ardından Stone IPA ve fırsat bulursan taze bir Pliny the Elder dene."
- },
- "ABD|Pasifik Kuzeybatı": {
-  "k": "ABD şerbetçiotunun neredeyse tamamı Washington ve Oregon'da yetişir. Bira; çam, greyfurt ve toprak notalı, cömertçe şerbetçiotlu.",
-  "t": "Yakima Vadisi ve Willamette Vadisi dünyanın en önemli şerbetçiotu bölgelerinden; Portland 'Beervana' lakaplıdır.",
-  "i": "Deschutes Black Butte Porter ve Fresh Squeezed IPA bölgeyi iki uçtan tanıtır."
- },
- "ABD|Colorado": {
-  "k": "Büyük lager devlerinden (Coors) Belçika esintili craft'a uzanan geniş bir yelpaze. Great American Beer Festival'in evi.",
-  "t": "Golden'daki Coors 1873'ten beri; 1991'de kurulan New Belgium ve Oskar Blues craft'ı ulusal ölçeğe taşıdı.",
-  "i": "New Belgium Fat Tire ve Dale's Pale Ale kolay başlangıç; meraklılar La Folie'yi aramalı."
- },
- "ABD|Orta Batı": {
-  "k": "Alman göçmen mirası lager geleneği ile dünyanın en aranan fıçı yıllanmış stout'ları aynı bölgede. Michigan, Illinois, Indiana ve Iowa craft'ın merkezleri.",
-  "t": "Milwaukee ve St. Louis 19. yüzyılda Alman biracılarla kitlesel lagerin başkentleri oldu; 1992'de Goose Island fıçı yıllandırmayı başlattı.",
-  "i": "Bell's Two Hearted ve Founders Breakfast Stout bölgenin iki yüzünü gösterir."
- },
- "ABD|Orta Atlantik": {
-  "k": "New York, Pennsylvania ve Delaware'de Alman lager mirası ile deneysel craft yan yana. Sürekli şerbetçiotlama ve Belçika tarzı burada gelişti.",
-  "t": "Pottsville'deki Yuengling 1829'dan beri ABD'nin en eski aktif fabrikası; Brooklyn ve Dogfish Head 1990'larda craft'ı doğu kıyısına taşıdı.",
-  "i": "Victory Prima Pils ve Dogfish Head 60 Minute iyi bir giriş."
- },
- "ABD|New England": {
-  "k": "Bulanık, sulu ve düşük acılıklı New England IPA'nın (NEIPA) anavatanı; Maine'de ise Belçika tarzı ustalık.",
-  "t": "2011'de Heady Topper ile başlayan akım Tree House, Trillium ve Hill Farmstead'le dünya trendine dönüştü; kutular fabrika kapısında kuyrukla satılır.",
-  "i": "Taze içmek esastır: Heady Topper ya da Julius'u bulursan bekletme. Allagash White daha kolay bulunur."
- },
- "ABD|Güney": {
-  "k": "Sıcak iklime uygun ferah biralar ile tropikal meyve, baharat ve biberle oynayan cesur stout'lar.",
-  "t": "Florida ve Teksas'ın craft sahnesi 2000'lerin sonunda patladı; Shiner'daki Spoetzl ise 1909'dan beri Alman-Çek lager mirasını sürdürüyor.",
-  "i": "Cigar City Jai Alai'yi ferah bir IPA olarak dene; Hunahpu's festivalde efsanedir."
- },
- "Kanada|Québec": {
-  "k": "Fransız etkisiyle Belçika tarzı güçlü ale'ler, baharatlı ve şişede mayalanan biralar. Kanada craft'ının kalbi.",
-  "t": "Montréal'deki Molson 1786'dan beri; 1990'larda Unibroue ve Dieu du Ciel! Québec'i Belçika tarzının Kuzey Amerika merkezi yaptı.",
-  "i": "La Fin du Monde'yi lale bardakta, 8-10°C'de dene."
- },
- "Kanada|Ontario": {
-  "k": "Büyük Kanada lagerleri ile Toronto'nun hızlı büyüyen craft sahnesi; temiz pilsner'lardan kuru şerbetçiotlu ekşilere.",
-  "t": "Labatt 1847'den beri; Steam Whistle ve Bellwoods Toronto'yu craft şehri yaptı.",
-  "i": "Steam Whistle Pilsner güvenli başlangıç, Jelly King cesur adım."
- },
- "Kanada|Atlantik Kanada": {
-  "k": "Denizci kasabaların sade ve içimi kolay lagerleri, aile fabrikası geleneği.",
-  "t": "Moosehead 1867'den beri Oland ailesinde; Kanada'nın en eski bağımsız fabrikası.",
-  "i": "Moosehead'i soğuk ve deniz ürünleriyle iç."
- },
- "Kanada|Britanya Kolumbiyası": {
-  "k": "ABD Batı Kıyısı'na benzer şekilde şerbetçiotu öne çıkan IPA'lar ve yaratıcı küçük fabrikalar.",
-  "t": "Vancouver ve Victoria Kanada'nın craft yoğunluğu en yüksek şehirlerinden.",
-  "i": "Fat Tug IPA bölgenin ölçütüdür."
- },
- "Meksika|Mexico City": {
-  "k": "Hafif, ferah Meksika lagerleri ile 19. yüzyıl Avusturya mirası Viyana ve koyu lagerler.",
-  "t": "İmparator Maximilian döneminde gelen Avusturyalı biracılar Viyana lager stilini getirdi; Grupo Modelo 1925'te başkentte kuruldu.",
-  "i": "Corona'yı limonla, Negra Modelo'yu taco ve mole ile dene."
- },
- "Meksika|Monterrey": {
-  "k": "Meksika'nın sanayi başkenti; Cuauhtémoc Moctezuma'nın lager ve pilsner'ları.",
-  "t": "Cervecería Cuauhtémoc 1890'da Monterrey'de kuruldu; bugün Heineken'in Meksika üssü.",
-  "i": "Bohemia, Meksika lagerlerinin en 'şerbetçiotlu' olanıdır."
- },
- "Meksika|Sinaloa": {
-  "k": "Pasifik kıyısının ferah, hafif plaj lagerleri.",
-  "t": "Mazatlán'daki Cervecería del Pacífico 1900'de Alman göçmenlerce kuruldu.",
-  "i": "Pacífico'yu deniz ürünleri ve ceviche ile iç."
- },
- "Meksika|Baja California": {
-  "k": "ABD sınırındaki kasabaların sade lagerleri ve Ensenada-Tijuana'nın yükselen craft sahnesi.",
-  "t": "Tecate markası 1944'te sınır kasabası Tecate'de doğdu.",
-  "i": "Tecate'yi tuz ve limonla 'michelada' olarak dene."
  },
  "Belçika|Batı Flandre": {
   "k": "Trappist Westvleteren, St. Bernardus ve Flanders red ale'in ülkesi. Meşe foederlerde olgunlaşan ekşi kırmızılar ve yoğun quad'lar bölgenin imzası.",
@@ -404,6 +364,81 @@
   "k": "Galler'in yükselen craft sahnesi.",
   "t": "Tiny Rebel 2012'de kuruldu, 2015'te Britanya şampiyonu oldu.",
   "i": "Cwtch, kırmızı ale ile modern şerbetçiotunu tanımak için ideal."
+ },
+ "ABD|Kaliforniya": {
+  "k": "Amerikan craft birasının doğduğu yer. Batı Kıyısı IPA'sı kuru, acı ve reçineli; Sierra Nevada, Stone ve Russian River bu kimliği tanımladı.",
+  "t": "1849 Altına Hücum'un 'steam beer'i ve 1965'te Anchor'ı kurtaran Fritz Maytag ile modern craft hareketi burada başladı.",
+  "i": "Sierra Nevada Pale Ale ile başla, ardından Stone IPA ve fırsat bulursan taze bir Pliny the Elder dene."
+ },
+ "ABD|Pasifik Kuzeybatı": {
+  "k": "ABD şerbetçiotunun neredeyse tamamı Washington ve Oregon'da yetişir. Bira; çam, greyfurt ve toprak notalı, cömertçe şerbetçiotlu.",
+  "t": "Yakima Vadisi ve Willamette Vadisi dünyanın en önemli şerbetçiotu bölgelerinden; Portland 'Beervana' lakaplıdır.",
+  "i": "Deschutes Black Butte Porter ve Fresh Squeezed IPA bölgeyi iki uçtan tanıtır."
+ },
+ "ABD|Colorado": {
+  "k": "Büyük lager devlerinden (Coors) Belçika esintili craft'a uzanan geniş bir yelpaze. Great American Beer Festival'in evi.",
+  "t": "Golden'daki Coors 1873'ten beri; 1991'de kurulan New Belgium ve Oskar Blues craft'ı ulusal ölçeğe taşıdı.",
+  "i": "New Belgium Fat Tire ve Dale's Pale Ale kolay başlangıç; meraklılar La Folie'yi aramalı."
+ },
+ "ABD|Orta Batı": {
+  "k": "Alman göçmen mirası lager geleneği ile dünyanın en aranan fıçı yıllanmış stout'ları aynı bölgede. Michigan, Illinois, Indiana ve Iowa craft'ın merkezleri.",
+  "t": "Milwaukee ve St. Louis 19. yüzyılda Alman biracılarla kitlesel lagerin başkentleri oldu; 1992'de Goose Island fıçı yıllandırmayı başlattı.",
+  "i": "Bell's Two Hearted ve Founders Breakfast Stout bölgenin iki yüzünü gösterir."
+ },
+ "ABD|Orta Atlantik": {
+  "k": "New York, Pennsylvania ve Delaware'de Alman lager mirası ile deneysel craft yan yana. Sürekli şerbetçiotlama ve Belçika tarzı burada gelişti.",
+  "t": "Pottsville'deki Yuengling 1829'dan beri ABD'nin en eski aktif fabrikası; Brooklyn ve Dogfish Head 1990'larda craft'ı doğu kıyısına taşıdı.",
+  "i": "Victory Prima Pils ve Dogfish Head 60 Minute iyi bir giriş."
+ },
+ "ABD|New England": {
+  "k": "Bulanık, sulu ve düşük acılıklı New England IPA'nın (NEIPA) anavatanı; Maine'de ise Belçika tarzı ustalık.",
+  "t": "2011'de Heady Topper ile başlayan akım Tree House, Trillium ve Hill Farmstead'le dünya trendine dönüştü; kutular fabrika kapısında kuyrukla satılır.",
+  "i": "Taze içmek esastır: Heady Topper ya da Julius'u bulursan bekletme. Allagash White daha kolay bulunur."
+ },
+ "ABD|Güney": {
+  "k": "Sıcak iklime uygun ferah biralar ile tropikal meyve, baharat ve biberle oynayan cesur stout'lar.",
+  "t": "Florida ve Teksas'ın craft sahnesi 2000'lerin sonunda patladı; Shiner'daki Spoetzl ise 1909'dan beri Alman-Çek lager mirasını sürdürüyor.",
+  "i": "Cigar City Jai Alai'yi ferah bir IPA olarak dene; Hunahpu's festivalde efsanedir."
+ },
+ "Kanada|Québec": {
+  "k": "Fransız etkisiyle Belçika tarzı güçlü ale'ler, baharatlı ve şişede mayalanan biralar. Kanada craft'ının kalbi.",
+  "t": "Montréal'deki Molson 1786'dan beri; 1990'larda Unibroue ve Dieu du Ciel! Québec'i Belçika tarzının Kuzey Amerika merkezi yaptı.",
+  "i": "La Fin du Monde'yi lale bardakta, 8-10°C'de dene."
+ },
+ "Kanada|Ontario": {
+  "k": "Büyük Kanada lagerleri ile Toronto'nun hızlı büyüyen craft sahnesi; temiz pilsner'lardan kuru şerbetçiotlu ekşilere.",
+  "t": "Labatt 1847'den beri; Steam Whistle ve Bellwoods Toronto'yu craft şehri yaptı.",
+  "i": "Steam Whistle Pilsner güvenli başlangıç, Jelly King cesur adım."
+ },
+ "Kanada|Atlantik Kanada": {
+  "k": "Denizci kasabaların sade ve içimi kolay lagerleri, aile fabrikası geleneği.",
+  "t": "Moosehead 1867'den beri Oland ailesinde; Kanada'nın en eski bağımsız fabrikası.",
+  "i": "Moosehead'i soğuk ve deniz ürünleriyle iç."
+ },
+ "Kanada|Britanya Kolumbiyası": {
+  "k": "ABD Batı Kıyısı'na benzer şekilde şerbetçiotu öne çıkan IPA'lar ve yaratıcı küçük fabrikalar.",
+  "t": "Vancouver ve Victoria Kanada'nın craft yoğunluğu en yüksek şehirlerinden.",
+  "i": "Fat Tug IPA bölgenin ölçütüdür."
+ },
+ "Meksika|Mexico City": {
+  "k": "Hafif, ferah Meksika lagerleri ile 19. yüzyıl Avusturya mirası Viyana ve koyu lagerler.",
+  "t": "İmparator Maximilian döneminde gelen Avusturyalı biracılar Viyana lager stilini getirdi; Grupo Modelo 1925'te başkentte kuruldu.",
+  "i": "Corona'yı limonla, Negra Modelo'yu taco ve mole ile dene."
+ },
+ "Meksika|Monterrey": {
+  "k": "Meksika'nın sanayi başkenti; Cuauhtémoc Moctezuma'nın lager ve pilsner'ları.",
+  "t": "Cervecería Cuauhtémoc 1890'da Monterrey'de kuruldu; bugün Heineken'in Meksika üssü.",
+  "i": "Bohemia, Meksika lagerlerinin en 'şerbetçiotlu' olanıdır."
+ },
+ "Meksika|Sinaloa": {
+  "k": "Pasifik kıyısının ferah, hafif plaj lagerleri.",
+  "t": "Mazatlán'daki Cervecería del Pacífico 1900'de Alman göçmenlerce kuruldu.",
+  "i": "Pacífico'yu deniz ürünleri ve ceviche ile iç."
+ },
+ "Meksika|Baja California": {
+  "k": "ABD sınırındaki kasabaların sade lagerleri ve Ensenada-Tijuana'nın yükselen craft sahnesi.",
+  "t": "Tecate markası 1944'te sınır kasabası Tecate'de doğdu.",
+  "i": "Tecate'yi tuz ve limonla 'michelada' olarak dene."
  },
  "Arjantin|Buenos Aires": {
   "k": "Arjantin'de bira, şarabın gölgesinde ama asado sofralarının vazgeçilmezi; Bariloche'de güçlü craft sahnesi.",
@@ -714,40 +749,5 @@
   "k": "1989'a kadar biranın yasak olduğu İzlanda'da genç ama hızla büyüyen bir bira kültürü.",
   "t": "1 Mart 1989'da yasak kalktı; o gün hâlâ 'Bjórdagurinn' (Bira Günü) olarak kutlanır.",
   "i": "Einstök White Ale yaz akşamları için ferah bir başlangıç."
- },
- "Türkiye|İstanbul": {
-  "k": "Türkiye biracılığının merkezi: Anadolu Efes'in ana tesisi ile 3 Kafadar, SOMX, Knidos, Torch ve Bosphorus Brewing gibi craft üreticileri burada. Kadıköy, Beyoğlu ve Bomonti birahaneleri yerli craft'ın vitrini.",
-  "t": "1890'larda İsviçreli Bomonti kardeşlerin kurduğu Bomonti fabrikası Osmanlı'nın ilk sanayi bira üretimiydi; yerleşke bugün Bomontiada adıyla Torch'a ev sahipliği yapıyor.",
-  "i": "Market rafında Bomonti Filtresiz ile başla, sonra Kadıköy veya Asmalımescit'te musluktan 3 Kafadar Stardust ve SOMX NEIPA dene."
- },
- "Türkiye|İzmir": {
-  "k": "Türk Tuborg'un Pınarbaşı'ndaki dev tesisiyle ülkenin ikinci bira başkenti; Feliz Kulpa ile kentin kendi craft sahnesi de var.",
-  "t": "Türk Tuborg 1967'de İzmir'de kuruldu; Tuborg Gold ve Carlsberg'in Türkiye üretimi buradan çıkar.",
-  "i": "Frederik serisi market rafındaki en kolay craft adımı; Kordon'da Feliz Kulpa Smyrn'Ale arayın."
- },
- "Türkiye|Muğla": {
-  "k": "Ege kıyısının craft yuvası: Menteşe'de Gara Guzu, Bodrum'da Pablo. Deneysel ale'ler, yerel meyveler ve tatil birası kültürü öne çıkıyor.",
-  "t": "Gara Guzu 2014'te Türkiye'nin ilk mikro bira fabrikası olarak üretime başladı ve ülkedeki craft dalgasını başlattı.",
-  "i": "Gara Guzu Amber Ale ile başlayın; Bodrum'da Pablo Satsuma Wit tam bir yaz birası."
- },
- "Türkiye|Kırklareli": {
-  "k": "Trakya'nın ödüllü nano biracılığı: Lüleburgaz'daki DAS bira, güçlü IPA ve barleywine'larıyla öne çıkıyor.",
-  "t": "DAS bira 2025'te hem Untappd topluluk ödülü hem de European Beer Challenge altın madalyası aldı.",
-  "i": "DAS Ey Ay Pi Ey'i İstanbul'daki craft barlarda (ör. Sanayi 1-A) arayın."
- },
- "Türkiye|Edirne": {
-  "k": "Trokya ile Trakya'nın sınır kentinde küçük ölçekli, Belçika ve İngiliz esintili craft üretimi.",
-  "t": "Trokya, Dakka, Buğu ve Mars adlı üç birayla pazara girdi.",
-  "i": "Ferah bir başlangıç için Buğu (Belçika wit) iyi seçim."
- },
- "Türkiye|Hatay": {
-  "k": "Doğu Akdeniz'in nadir craft noktası; İskenderun'daki Antiochs nano bira fabrikası blonde, pale ale ve buğday üretiyor.",
-  "t": "Antiochs, Hatay'lı ev biracılarınca kuruldu ve adını antik Antiokheia'dan alır.",
-  "i": "Antiochs Blonde Ale, baharatlı Hatay mutfağıyla iyi eşleşir."
- },
- "Türkiye|Antalya": {
-  "k": "Turizm kıyısında brewpub kültürü; Alanya'daki Red Tower Alman usulü lager ve buğday biraları üretiyor.",
-  "t": "Red Tower, Alanya'nın simgesi 13. yüzyıl Kızılkule'nin adını taşır.",
-  "i": "Sıcak akşamlar için Helles ya da Weizen'i tanktan taze isteyin."
  }
 }

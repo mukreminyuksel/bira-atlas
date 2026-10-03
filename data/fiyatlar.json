@@ -2,12 +2,342 @@
  "guncelleme": "2026-10-03",
  "kur": null,
  "fiyatlar": {
-  "weihenstephaner-hefeweissbier": {
+  "1664-blanc": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu; 33 cl şişe 120 TL",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
+  "becks": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Beck's 50 cl şişe (TR'de Efes dağıtımı/üretimi)",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
+  "becks-tr": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Beck's 50 cl şişe",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
+  "bomonti-filtresiz": {
+   "tl": 130,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl; Migros/Carrefour/Tespo listelerinde de 130 TL",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     130
+    ]
+   ]
+  },
+  "bud-tr": {
+   "tl": 140,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Bud 50 cl şişe/kutu 140 TL",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     140
+    ]
+   ]
+  },
+  "budweiser": {
+   "tl": 140,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "TR'de satılan Bud 50 cl (Efes üretimi) fiyatı",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     140
+    ]
+   ]
+  },
+  "carlsberg-elephant": {
+   "tl": 170,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     170
+    ]
+   ]
+  },
+  "carlsberg-pilsner": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "TR'de satılan Carlsberg (Türk Tuborg üretimi) 50 cl kutu",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
+  "carlsberg-tr": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu; depozitolu şişe 130,50 TL",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
+  "corona-extra": {
+   "tl": 165,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "35,5 cl şişe; Migros/Carrefour listesinde de 165",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     165
+    ]
+   ]
+  },
+  "duvel": {
+   "tl": 260,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl tek yön şişe",
+   "bul": "tekel",
+   "gecmis": [
+    [
+     "2026-10-03",
+     260
+    ]
+   ]
+  },
+  "efes-glutensiz": {
+   "tl": 160,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl tek yön şişe",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     160
+    ]
+   ]
+  },
+  "efes-malt": {
+   "tl": 125,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu 125 TL; şişe 123+2 depozito",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     125
+    ]
+   ]
+  },
+  "efes-ozel-seri": {
+   "tl": 125,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://egeyasam.com/bira-fiyatlari",
+   "not": "\"50 cl Efes Özel Seri / Green: 125 TL\" (13 Temmuz zammı sonrası liste)",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     125
+    ]
+   ]
+  },
+  "efes-pilsen": {
+   "tl": 125,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu 125 TL; depozitolu şişe 123+2=125 TL. Migros/Carrefour listelerinde de 125 TL",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     125
+    ]
+   ]
+  },
+  "efes-xtra": {
+   "tl": 160,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     160
+    ]
+   ]
+  },
+  "efes-xtra-shot": {
+   "tl": 100,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Xtra Shot yalnız 23,7 cl kutu: 100 TL; katalog 50 cl — orantılı ~211 TL, hacmi kontrol edin",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     100
+    ]
+   ]
+  },
+  "erdinger-weissbier": {
+   "tl": 200,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Erdinger 33 cl tek yön şişe (Efes listesi); habergazetesi ~195 TL",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     200
+    ]
+   ]
+  },
+  "frederik-brown-ale": {
    "tl": 160,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/weihenstephaner-bira-fiyat",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "\"35 cl Frederik Depozitosuz Şişe 160 ₺\" — çeşit ayrımı yok, tüm seri aynı fiyat varsayıldı; Temmuz listesinde (egeyasam) 130 TL idi",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     160
+    ]
+   ]
+  },
+  "frederik-ipa": {
+   "tl": 160,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "\"35 cl Frederik Depozitosuz Şişe 160 ₺\" — çeşit ayrımı yok, tüm seri aynı fiyat varsayıldı; Temmuz listesinde (egeyasam) 130 TL idi",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     160
+    ]
+   ]
+  },
+  "frederik-marzen": {
+   "tl": 160,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "\"35 cl Frederik Depozitosuz Şişe 160 ₺\" — çeşit ayrımı yok, tüm seri aynı fiyat varsayıldı; Temmuz listesinde (egeyasam) 130 TL idi",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     160
+    ]
+   ]
+  },
+  "frederik-wheat-ipa": {
+   "tl": 160,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "\"35 cl Frederik Depozitosuz Şişe 160 ₺\" — çeşit ayrımı yok, tüm seri aynı fiyat varsayıldı; Temmuz listesinde (egeyasam) 130 TL idi",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     160
+    ]
+   ]
+  },
+  "gara-guzu-amber-ale": {
+   "tl": 160,
+   "tarih": "2026-10-03",
+   "tur": "tr_craft",
+   "guven": "orta",
+   "kaynak": "https://fiyathaberleri.com.tr/bira-fiyatlari/",
    "not": "İlk araştırma (arama özetlerinden)",
    "gecmis": [
     [
@@ -16,45 +346,93 @@
     ]
    ]
   },
-  "weihenstephaner-vitus": {
-   "tl": 195,
+  "grimbergen-blonde": {
+   "tl": 200,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/weihenstephaner-bira-fiyat",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl depozitosuz şişe",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
-     195
+     200
     ]
    ]
   },
-  "erdinger-weissbier": {
-   "tl": 195,
+  "grimbergen-double-ambree": {
+   "tl": 200,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl depozitosuz şişe",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     200
+    ]
+   ]
+  },
+  "guinness-draught": {
+   "tl": 215,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "44 cl kutu; Migros/Carrefour listelerinde de 215",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     215
+    ]
+   ]
+  },
+  "heineken": {
+   "tl": 150,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://egeyasam.com/bira-fiyatlari",
+   "not": "Kaynak \"50 cl Heineken şişe/kutu: 140-160 TL\" aralığı veriyor; orta değer alındı. 33 cl ~120 TL (habergazetesi Migros)",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     150
+    ]
+   ]
+  },
+  "hoegaarden": {
+   "tl": 200,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl tek yön şişe",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     200
+    ]
+   ]
+  },
+  "jupiler": {
+   "tl": 130,
+   "tarih": "2026-10-03",
+   "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "not": "Efes toptan listesi: Jupiler Kutu 50 cl 24'lü tava 3.157,40 TL KDV dahil → adet ~131,5 TL (toptan, raf fiyatı değil)",
+   "bul": "yurtdisi",
    "gecmis": [
     [
      "2026-10-03",
-     195
-    ]
-   ]
-  },
-  "becks": {
-   "tl": 135,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/carrefour-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     135
+     130
     ]
    ]
   },
@@ -72,55 +450,14 @@
     ]
    ]
   },
-  "budweiser": {
-   "tl": 140,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     140
-    ]
-   ]
-  },
-  "corona-extra": {
-   "tl": 165,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     165
-    ]
-   ]
-  },
-  "sol": {
-   "tl": 155,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     155
-    ]
-   ]
-  },
   "leffe-blonde": {
    "tl": 200,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "guven": "yuksek",
+   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
+   "not": "\"Leffe Blonde / Brune 33 cl 200 TL\"; karekod Leffe 200 TL",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
@@ -132,251 +469,29 @@
    "tl": 200,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     200
-    ]
-   ]
-  },
-  "grimbergen-blonde": {
-   "tl": 200,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     200
-    ]
-   ]
-  },
-  "grimbergen-double-ambree": {
-   "tl": 200,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     200
-    ]
-   ]
-  },
-  "hoegaarden": {
-   "tl": 200,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     200
-    ]
-   ]
-  },
-  "1664-blanc": {
-   "tl": 135,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/blanc-1664-bira-fiyat-2026-guncel-liste-ve-tum-cesitler",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     135
-    ]
-   ]
-  },
-  "duvel": {
-   "tl": 260,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
+   "guven": "yuksek",
    "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "not": "\"Leffe Blonde / Brune 33 cl 200 TL\"",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
-     260
+     200
     ]
    ]
   },
-  "stella-artois": {
-   "tl": 135,
+  "marmara-gold": {
+   "tl": 90,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/carrefour-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "kaynak": "https://www.habergazetesi.com.tr/marmara-gold-bira-fiyat",
+   "not": "50 cl şişe/kutu ~85–95 TL aralığı (Mayıs 2026, Temmuz zammı öncesi); 1 lt ~110 TL",
+   "bul": "tekel",
    "gecmis": [
     [
      "2026-10-03",
-     135
-    ]
-   ]
-  },
-  "heineken": {
-   "tl": 150,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/migros-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     150
-    ]
-   ]
-  },
-  "guinness-draught": {
-   "tl": 215,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.birgun.net/haber/bira-fiyatlari-2026-guncel-282109",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     215
-    ]
-   ]
-  },
-  "carlsberg-pilsner": {
-   "tl": 132.5,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/carlsberg-bira-fiyat",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     132.5
-    ]
-   ]
-  },
-  "carlsberg-elephant": {
-   "tl": 170,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     170
-    ]
-   ]
-  },
-  "efes-pilsen": {
-   "tl": 125,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/zam-sonrasi-guncel-efes-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     125
-    ]
-   ]
-  },
-  "efes-malt": {
-   "tl": 125,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/zam-sonrasi-guncel-efes-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     125
-    ]
-   ]
-  },
-  "efes-ozel-seri": {
-   "tl": 125,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/zam-sonrasi-guncel-efes-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     125
-    ]
-   ]
-  },
-  "efes-xtra": {
-   "tl": 160,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/zam-sonrasi-guncel-efes-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     160
-    ]
-   ]
-  },
-  "efes-glutensiz": {
-   "tl": 160,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/zam-sonrasi-guncel-efes-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     160
-    ]
-   ]
-  },
-  "bomonti-filtresiz": {
-   "tl": 130,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/migros-bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     130
-    ]
-   ]
-  },
-  "becks-tr": {
-   "tl": 135,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     135
+     90
     ]
    ]
   },
@@ -384,9 +499,10 @@
    "tl": 130,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Miller Büyük (50 cl tek yön şişe)",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
@@ -394,17 +510,48 @@
     ]
    ]
   },
-  "bud-tr": {
-   "tl": 140,
+  "sol": {
+   "tl": 155,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl depozitosuz şişe",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
-     140
+     155
+    ]
+   ]
+  },
+  "stella-artois": {
+   "tl": 135,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Stella Artois 50 cl (Carrefour listesi de 135 TL); 44 cl şişe de 135",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     135
+    ]
+   ]
+  },
+  "tuborg-filtresiz": {
+   "tl": 130,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl depozitosuz şişe",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     130
     ]
    ]
   },
@@ -412,9 +559,10 @@
    "tl": 125,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/migros-bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "50 cl kutu / depozitosuz şişe 125 TL; depozitolu şişe 123 TL",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
@@ -426,9 +574,10 @@
    "tl": 160,
    "tarih": "2026-10-03",
    "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/kirmizi-bira-fiyat/amp",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "Kırmızı Tuborg 50 cl kutu",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
@@ -436,47 +585,77 @@
     ]
    ]
   },
-  "carlsberg-tr": {
-   "tl": 132.5,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     132.5
-    ]
-   ]
-  },
-  "frederik-ipa": {
-   "tl": 130,
-   "tarih": "2026-10-03",
-   "tur": "tr_raf",
-   "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/bira-fiyatlari",
-   "not": "İlk araştırma (arama özetlerinden)",
-   "gecmis": [
-    [
-     "2026-10-03",
-     130
-    ]
-   ]
-  },
-  "gara-guzu-amber-ale": {
+  "weihenstephaner-hefeweissbier": {
    "tl": 160,
    "tarih": "2026-10-03",
-   "tur": "tr_craft",
-   "guven": "orta",
-   "kaynak": "https://fiyathaberleri.com.tr/bira-fiyatlari/",
-   "not": "İlk araştırma (arama özetlerinden)",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl depozitosuz şişe (Türk Tuborg ithal listesi)",
+   "bul": "kolay",
    "gecmis": [
     [
      "2026-10-03",
      160
+    ]
+   ]
+  },
+  "weihenstephaner-vitus": {
+   "tl": 195,
+   "tarih": "2026-10-03",
+   "tur": "tr_raf",
+   "guven": "yuksek",
+   "kaynak": "https://www.karekod.org/blog/bira-fiyatlari/",
+   "not": "33 cl depozitosuz şişe",
+   "bul": "kolay",
+   "gecmis": [
+    [
+     "2026-10-03",
+     195
     ]
    ]
   }
+ },
+ "inceleme": [],
+ "denendi": {
+  "1664-blanc": "2026-10-03",
+  "becks": "2026-10-03",
+  "becks-tr": "2026-10-03",
+  "bomonti-filtresiz": "2026-10-03",
+  "bud-tr": "2026-10-03",
+  "budweiser": "2026-10-03",
+  "carlsberg-elephant": "2026-10-03",
+  "carlsberg-pilsner": "2026-10-03",
+  "carlsberg-tr": "2026-10-03",
+  "corona-extra": "2026-10-03",
+  "duvel": "2026-10-03",
+  "efes-glutensiz": "2026-10-03",
+  "efes-malt": "2026-10-03",
+  "efes-ozel-seri": "2026-10-03",
+  "efes-pilsen": "2026-10-03",
+  "efes-xtra": "2026-10-03",
+  "efes-xtra-shot": "2026-10-03",
+  "erdinger-weissbier": "2026-10-03",
+  "frederik-brown-ale": "2026-10-03",
+  "frederik-ipa": "2026-10-03",
+  "frederik-marzen": "2026-10-03",
+  "frederik-wheat-ipa": "2026-10-03",
+  "grimbergen-blonde": "2026-10-03",
+  "grimbergen-double-ambree": "2026-10-03",
+  "guinness-draught": "2026-10-03",
+  "heineken": "2026-10-03",
+  "hoegaarden": "2026-10-03",
+  "jupiler": "2026-10-03",
+  "leffe-blonde": "2026-10-03",
+  "leffe-brune": "2026-10-03",
+  "marmara-gold": "2026-10-03",
+  "miller-tr": "2026-10-03",
+  "sol": "2026-10-03",
+  "stella-artois": "2026-10-03",
+  "tuborg-filtresiz": "2026-10-03",
+  "tuborg-gold": "2026-10-03",
+  "tuborg-special": "2026-10-03",
+  "weihenstephaner-hefeweissbier": "2026-10-03",
+  "weihenstephaner-vitus": "2026-10-03"
  }
 }

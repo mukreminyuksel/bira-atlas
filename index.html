@@ -328,6 +328,18 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 .vurgu{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px;margin-bottom:12px}
 .vurgu div{background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:10px;font-size:13px}.vurgu b{display:block;color:var(--amber-soft);font-size:11px;text-transform:uppercase;margin-bottom:3px}
 .glist .mini{cursor:pointer}
+.stilaile{font-size:16px;color:var(--amber2);margin:18px 0 8px}.stilaile span{font-size:12.5px;color:var(--muted2);font-weight:600}
+.stilgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+.stilkart{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 12px;cursor:pointer}.stilkart:hover{border-color:var(--amber-soft)}
+.sk-ust{display:flex;gap:10px;align-items:center}.sk-ad{font-weight:800;font-size:14px;color:var(--txt)}.sk-tr{font-size:12px;color:var(--muted2)}
+.sk-olcu{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 6px}.sk-olcu span{font-size:11.5px;background:var(--bg2);border:1px solid var(--line);border-radius:6px;padding:1px 6px;color:var(--amber-soft);font-weight:700}
+.sk-txt{font-size:12.5px;color:var(--muted);line-height:1.45}.renk.buyuk{width:26px;height:26px}
+.pasaile{margin-top:16px}.pasaile h3{font-size:15px;color:var(--amber2);margin-bottom:8px}.pasaile h3 span{color:var(--muted2);font-weight:600;font-size:13px}
+.damgalar{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:8px}
+.damga{display:flex;gap:8px;align-items:flex-start;background:var(--panel);border:1px dashed var(--line);border-radius:10px;padding:8px 10px;opacity:.6}
+.damga.ok{opacity:1;border:1px solid rgba(127,191,106,.5);background:rgba(127,191,106,.08)}.damga[data-stil]{cursor:pointer}
+.damga .dn{font-size:13px;font-weight:700;color:var(--txt)}.damga .dad{font-size:11px;color:var(--muted2)}.damga .db{font-size:11.5px;color:var(--muted);margin-top:2px}.damga.ok .db{color:var(--have)}
+.renk{display:inline-block;width:12px;height:12px;border-radius:50%;flex:none;border:1px solid rgba(255,255,255,.25);vertical-align:middle;margin-right:2px}
 /* SOSYAL: rehber + sade listeler */
 .sgiris{background:linear-gradient(135deg,rgba(120,170,255,.10),var(--panel));border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:12px;font-size:13.5px}
 .sgiris span{color:var(--muted);font-size:13px;line-height:1.5}.sgiris .satir{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
@@ -383,20 +395,20 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 <header><div class="wrap">
   <div class="brand">
     <div style="font-size:34px">🍺</div>
-    <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Bira Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.0</span></h1>
+    <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Bira Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.1</span></h1>
       <div class="sub">Bölge → Bira fabrikası → Bira · Uzman & AI tercihleri · Türkiye katmanları · Kişisel koleksiyon</div></div>
   </div>
   <div class="stats">
-    <div class="glass-box" data-goto="mylist" style="cursor:pointer"><div class="glass"><div class="fill" id="fill" style="height:0%"></div></div>
+    <div class="glass-box" data-goto="gurme" style="cursor:pointer"><div class="glass"><div class="fill" id="fill" style="height:0%"></div></div>
       <div class="gstat">
-        <div class="grow"><span class="gl">Hedefe ulaşma</span><span class="gv" id="pct">0%</span></div>
+        <div class="grow"><span class="gl">Stil pasaportu</span><span class="gv" id="pct">0</span></div>
         <div class="grow"><span class="gl">AI Top 25</span><span class="gv ai" id="pctAI">0%</span></div>
       </div></div>
     <div class="kpi clk" data-goto="explore"><div class="lbl">Toplam Bira</div><div class="val" id="kTotal">0</div></div>
-    <div class="kpi have clk" data-goto="mylist"><div class="lbl">Elimde Var ›</div><div class="val" id="kHave">0</div></div>
-    <div class="kpi target clk" data-goto="mylist"><div class="lbl">Hedefim ›</div><div class="val" id="kTarget">0</div></div>
-    <div class="kpi clk" data-goto="mylist"><div class="lbl">Dolap Değeri (TL)</div><div class="val" id="kValue">0</div></div>
-    <div class="kpi clk" data-goto="mylist"><div class="lbl">Hedef Maliyeti (TL)</div><div class="val" id="kTargetVal">0</div></div>
+    <div class="kpi have clk" data-goto="mylist"><div class="lbl">Denedim ›</div><div class="val" id="kHave">0</div></div>
+    <div class="kpi target clk" data-goto="mylist"><div class="lbl">Deneyeceğim ›</div><div class="val" id="kTarget">0</div></div>
+    <div class="kpi clk" data-goto="gurme"><div class="lbl">Denenen Ülke</div><div class="val" id="kValue">0</div></div>
+    <div class="kpi clk" data-goto="notes"><div class="lbl">Ortalama Puanın</div><div class="val" id="kTargetVal">—</div></div>
   </div>
 </div></header>
 
@@ -412,6 +424,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   <nav class="tabs hidden" id="subNav">
     <div class="tab active" data-group="kesfet" data-view="explore">📋 Bölge listesi</div>
     <div class="tab" data-group="kesfet" data-view="harita">🌍 Harita</div>
+    <div class="tab" data-group="kesfet" data-view="stil">🎨 Stil Rehberi</div>
     <div class="tab" data-group="listeler" data-view="experts">🏆 Uzman Top 50</div>
     <div class="tab" data-group="listeler" data-view="ai">🤖 AI Tercihleri</div>
     <div class="tab" data-group="listeler" data-view="ncf">🌫️ Filtresizler Top 50</div>
@@ -420,9 +433,10 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div class="tab" data-group="listeler" data-view="magazin">✨ Magazin</div>
     <div class="tab" data-group="oneri" data-view="akilli">🎯 Akıllı Öneri</div>
     <div class="tab" data-group="oneri" data-view="personal">🧭 Bana Özel</div>
+    <div class="tab" data-group="oneri" data-view="yemek">🍽️ Yemek & Bira</div>
     <div class="tab" data-group="koleksiyon" data-view="mylist">📋 Listem</div>
     <div class="tab" data-group="koleksiyon" data-view="notes">📝 Tadım Notlarım</div>
-    <div class="tab" data-group="koleksiyon" data-view="gurme">🎖️ Gurme Seviyem</div>
+    <div class="tab" data-group="koleksiyon" data-view="gurme">🛂 Stil Pasaportu</div>
     <div class="tab" data-group="koleksiyon" data-view="stats">📊 İstatistik</div>
     <div class="tab" data-group="sosyal" data-view="gece">🍻 Tadım Geceleri</div>
     <div class="tab" data-group="sosyal" data-view="kulup">🏛️ Kulüplerim</div>
@@ -434,7 +448,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div id="listeAlani">
     <div class="controls">
       <input type="text" id="search" placeholder="🔍 Bira, fabrika, stil veya bölge ara…">
-      <select id="fStatus"><option value="">Tüm durumlar</option><option value="have">Elimde olanlar</option><option value="missing">Eksik olanlar</option><option value="target">Hedeflerim</option></select>
+      <select id="fStatus"><option value="">Tüm durumlar</option><option value="have">Denediklerim</option><option value="missing">Denemediklerim</option><option value="target">Deneyeceklerim</option></select>
       <select id="fTier"><option value="">Tüm seviyeler</option><option value="Premium">🏆 Efsane</option><option value="2">Seçkin</option><option value="3">Gündelik</option></select>
       <select id="fType"><option value="">Tüm stiller</option><option>Lager & Pilsner</option><option>Koyu Lager & Bock</option><option>Buğday</option><option>Pale Ale & IPA</option><option>Belçika & Manastır</option><option>Stout & Porter</option><option>Ekşi & Vahşi</option><option>İngiliz & İrlanda Ale</option><option>Güçlü & Fıçı Yıllanmış</option><option>Özel & Diğer</option></select>
       <select id="fSort"><option value="puan">Sırala: Puan</option><option value="fiyat">Fiyat (yüksek)</option><option value="fiyatA">Fiyat (düşük)</option></select>
@@ -448,6 +462,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
       <span class="chip" data-avail="yurtdisi">Yurt dışı</span>
       <span class="chip" id="ncfChip" style="margin-left:6px">🌫️ Sadece Filtresiz</span>
     </div>
+    <div class="expctl seviye"><span class="sv-et">Düzen:</span><button data-agacmod="ulke">🌍 Ülkeye göre</button><button data-agacmod="stil">🎨 Stile göre</button></div>
     <div class="expctl seviye" id="seviyeSecici"><span class="sv-et">Göster:</span>
       <button data-seviye="0">🌍 Ülkeler</button><button data-seviye="1">📍 Bölgeler</button><button data-seviye="2">🏭 Fabrikalar</button><button data-seviye="3">🍺 Biralar</button></div>
     <div id="tree"></div>
@@ -536,10 +551,15 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <p class="note">Bir biranın mini görseline tıklayınca <b>Untappd</b> araması, 📷 ile Google Görseller açılır.</p>
   </section>
 
+  <section id="view-stil" class="hidden">
+    <p class="intro">Biranın dili stillerdir. Her stilin rengi, acılığı (IBU), alkol aralığı, bardağı, servis sıcaklığı ve sofra eşleşmesi burada. Bir stile dokun; tarihçesini, nasıl bir tat beklemen gerektiğini ve katalogdaki örneklerini gör. Renk noktaları biranın gerçek rengine (SRM) yakındır.</p>
+    <div class="controls" style="grid-template-columns:1fr"><input type="text" id="stilAra" placeholder="🔍 Stil ara (ör. IPA, buğday, ekşi, Belçika)…"></div>
+    <div id="stilBox"></div>
+  </section>
   <section id="view-harita" class="hidden">
     <div class="h-ust">
       <div class="pillrow" style="margin:0">
-        <span class="chip on" data-hmod="hepsi">Tüm biralar</span><span class="chip" data-hmod="elimde">✓ Elimdekiler</span><span class="chip" data-hmod="hedef">★ Hedeflerim</span>
+        <span class="chip on" data-hmod="hepsi">Tüm biralar</span><span class="chip" data-hmod="elimde">✓ Denediklerim</span><span class="chip" data-hmod="hedef">★ Deneyeceklerim</span>
       </div>
       <div class="pillrow" style="margin:0">
         <button class="btn" data-hgit="dunya">🌍 Dünya</button><button class="btn" data-hgit="turkiye">🇹🇷 Türkiye</button><button class="btn" data-hgit="belcika">🇧🇪 Belçika</button>
@@ -558,7 +578,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   <section id="view-gece" class="hidden"><div id="geceKutu"></div></section>
   <section id="view-kulup" class="hidden"><div id="kulupKutu"></div></section>
   <section id="view-stats" class="hidden">
-    <p class="intro">Koleksiyonunun rakamlarla portresi: değer, dağılımlar ve öne çıkanlar. <b>Elimde olanlar</b> üzerinden hesaplanır.</p>
+    <p class="intro">Bira yolculuğunun rakamlarla portresi. <b>Denediklerin</b> ve verdiğin puanlar üzerinden hesaplanır.</p>
     <div id="statsBox"></div>
   </section>
 
@@ -568,12 +588,16 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   </section>
 
   <section id="view-gurme" class="hidden">
-    <p class="intro">Elindeki biralara göre <b>Gurme Puanın</b> (100 üzerinden) ve unvanın. Puan; stil ailesi kapsama, tat profili dengesi, kalite, prestij, güçlü/fıçı biralar, nadirlik ve tadım deneyiminden hesaplanır. Hedeflerini alırsan çıkacağın seviyeyi ve bir üst seviye için ne almanın en mantıklı olduğunu da görürsün.</p>
+    <p class="intro">Her yeni stil pasaportuna bir <b>damga</b>: denediğin biralar hangi stillerden, hangileri henüz eksik? Damga topladıkça unvanın yükselir; eksik stiller için Türkiye\'de bulunabilen bir bira önerilir.</p>
     <div id="gurmeBox"></div>
   </section>
 
+  <section id="view-yemek" class="hidden">
+    <p class="intro">Sofrana göre bira: bir yemek seç, ona yakışan stilleri ve <b>neden</b> yakıştığını gör. Öneriler önce denediğin biralardan, sonra Türkiye'de kolay bulunanlardan gelir. Temel kural: <b>benzer tatlar birbirini tamamlar, zıt tatlar dengeler</b> — acıyı serin bir lager söndürür, yağı karbonasyon ve şerbetçiotu keser, tatlıyı kavrulmuş malt taşır.</p>
+    <div id="yemekBox"></div>
+  </section>
   <section id="view-personal" class="hidden">
-    <p class="intro">Sana özel: damağının <b>tat radarı</b>, eldekilere göre <b>akıllı “Sıradaki Bira” önerisi</b> ve ruh haline göre <b>“bu akşam ne içsem?”</b>. Hepsi senin koleksiyonun ve tadım puanlarından hesaplanır.</p>
+    <p class="intro">Sana özel: damağının <b>tat radarı</b>, denediklerine göre <b>akıllı “Sıradaki Bira” önerisi</b> ve ruh haline göre <b>“bu akşam ne içsem?”</b>. Hepsi senin koleksiyonun ve tadım puanlarından hesaplanır.</p>
     <div id="personalBox"></div>
   </section>
 
@@ -583,13 +607,13 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   </section>
 
   <section id="view-mylist" class="hidden">
-    <p class="intro">Koleksiyonun ve hedeflerin. Bir birayı aldığında <b>Elimde Var</b>'a geçir; hedeflerin otomatik küçülür.</p>
+    <p class="intro">Bira günlüğün: denediklerin ve denemek istediklerin. Bir birayı içince <b>Denedim</b> işaretle; istersen 📝 ile puanını ve notunu ekle. Denenecekler listesi markete giderken alışveriş listen olur.</p>
     <div class="bulut" id="bulutKutu"></div>
     <div class="listcol">
-      <div><h3>✅ Elimde Var <span id="haveCount" style="color:var(--muted);font-weight:400;font-size:13px"></span></h3>
-        <div id="haveList"></div><div class="tot"><span>Dolap Değeri</span><span id="haveTot" style="color:var(--have)">0 TL</span></div></div>
-      <div><h3>🎯 Hedeflerim <span id="targetCount" style="color:var(--muted);font-weight:400;font-size:13px"></span></h3>
-        <div id="targetList"></div><div class="tot"><span>Tahmini Maliyet</span><span id="targetTot" style="color:var(--target)">0 TL</span></div></div>
+      <div><h3>✅ Denediklerim <span id="haveCount" style="color:var(--muted);font-weight:400;font-size:13px"></span></h3>
+        <div id="haveList"></div><div class="tot"><span>Denenen stil</span><span id="haveTot" style="color:var(--have)">0</span></div></div>
+      <div><h3>☆ Deneyeceklerim <span id="targetCount" style="color:var(--muted);font-weight:400;font-size:13px"></span></h3>
+        <div id="targetList"></div><div class="tot"><span>Hepsini almak (tahmini)</span><span id="targetTot" style="color:var(--target)">0 TL</span></div></div>
     </div>
     <div class="eklekutu"><h3>➕ Kendi biranı ekle</h3>
       <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px">
@@ -602,7 +626,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
         <input id="naDam" placeholder="Bira fabrikası">
         <input id="naBolge" placeholder="Bölge (ör. Bavyera)">
         <input id="naTl" type="number" placeholder="Fiyat (TL)"></div>
-      <button class="eklebtn" id="addBtn">Listeme Ekle (Elimde Var)</button>
+      <button class="eklebtn" id="addBtn">Ekle (Denedim)</button>
       <p class="note">Eklediğin biralar bu cihazda kayıtlı kalır.</p></div>
   </section>
 
@@ -670,7 +694,7 @@ const DATA = [
 {"id":"pliny-the-younger","ad":"Pliny the Younger","dam":"Russian River Brewing","ulke":"ABD","bolge":"Kaliforniya","sev":"Premium","tur":"Pale Ale & IPA","stil":"Triple IPA","abv":10.25,"ibu":0,"hacim":51,"tl":0,"bul":"zor","puan":98,"uz":"Yalnız şubatta, sadece fıçıdan","ai":9,"kat":0,"ncf":0,"not":"Yılda iki hafta sunulan triple IPA; saatlerce kuyruk bekletir"},
 {"id":"russian-river-supplication","ad":"Russian River Supplication","dam":"Russian River Brewing","ulke":"ABD","bolge":"Kaliforniya","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Wild Ale (Sour Cherry)","abv":7.75,"ibu":0,"hacim":37.5,"tl":600,"bul":"zor","puan":93,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Pinot noir fıçısında vişneyle yıllanan, Brett'li ekşi ale"},
 {"id":"firestone-walker-union-jack","ad":"Firestone Walker Union Jack","dam":"Firestone Walker","ulke":"ABD","bolge":"Kaliforniya","sev":"Premium","tur":"Pale Ale & IPA","stil":"West Coast IPA","abv":7.0,"ibu":0,"hacim":35.5,"tl":220,"bul":"zor","puan":86,"uz":"GABF madalyalı","ai":0,"kat":0,"ncf":0,"not":"Temiz, kuru ve parlak Batı Kıyısı IPA'sı"},
-{"id":"firestone-walker-parabola","ad":"Firestone Walker Parabola","dam":"Firestone Walker","ulke":"ABD","bolge":"Kaliforniya","sev":"Premium","tur":"Güçlü & Fıçı Yıllanmış","stil":"Bourbon Barrel-Aged Imperial Stout","abv":14.0,"ibu":0,"hacim":35.5,"tl":750,"bul":"zor","puan":95,"uz":"","ai":0,"kat":3,"ncf":0,"not":"Bourbon fıçısında yıllanan mevsimlik; vanilya, meşe, bitter çikolata"},
+{"id":"firestone-walker-parabola","ad":"Firestone Walker Parabola","dam":"Firestone Walker","ulke":"ABD","bolge":"Kaliforniya","sev":"Premium","tur":"Güçlü & Fıçı Yıllanmış","stil":"Bourbon Barrel-Aged Imperial Stout","abv":14.0,"ibu":0,"hacim":35.5,"tl":750,"bul":"zor","puan":95,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Bourbon fıçısında yıllanan mevsimlik; vanilya, meşe, bitter çikolata"},
 {"id":"lagunitas-ipa","ad":"Lagunitas IPA","dam":"Lagunitas Brewing Company","ulke":"ABD","bolge":"Kaliforniya","sev":"3","tur":"Pale Ale & IPA","stil":"American IPA","abv":6.2,"ibu":51,"hacim":35.5,"tl":200,"bul":"yurtdisi","puan":83,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Köpek logolu, karamel tabanlı dengeli IPA; Heineken bünyesinde"},
 {"id":"ballast-point-sculpin","ad":"Ballast Point Sculpin","dam":"Ballast Point","ulke":"ABD","bolge":"Kaliforniya","sev":"2","tur":"Pale Ale & IPA","stil":"West Coast IPA","abv":7.0,"ibu":70,"hacim":35.5,"tl":210,"bul":"yurtdisi","puan":87,"uz":"World Beer Cup 2010 altın","ai":0,"kat":0,"ncf":0,"not":"San Diego IPA'sı; kayısı, mango ve limon kabuğu"},
 {"id":"deschutes-black-butte-porter","ad":"Deschutes Black Butte Porter","dam":"Deschutes Brewery","ulke":"ABD","bolge":"Pasifik Kuzeybatı","sev":"Premium","tur":"Stout & Porter","stil":"American Porter","abv":5.2,"ibu":30,"hacim":35.5,"tl":190,"bul":"yurtdisi","puan":85,"uz":"","ai":0,"kat":0,"ncf":0,"not":"1988'den beri amiral gemisi; kakao ve kahveli kremsi porter"},
@@ -709,10 +733,10 @@ const DATA = [
 {"id":"ommegang-three-philosophers","ad":"Ommegang Three Philosophers","dam":"Brewery Ommegang","ulke":"ABD","bolge":"Orta Atlantik","sev":"2","tur":"Belçika & Manastır","stil":"Quadrupel + Kriek","abv":9.7,"ibu":0,"hacim":35.5,"tl":260,"bul":"zor","puan":88,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Quadrupel ile vişneli kriek harmanı; kuru meyve ve şeri"},
 {"id":"the-alchemist-heady-topper","ad":"Heady Topper","dam":"The Alchemist","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"New England Double IPA","abv":8.0,"ibu":0,"hacim":47.3,"tl":300,"bul":"zor","puan":96,"uz":"NEIPA akımının ilk ikonu","ai":11,"kat":3,"ncf":1,"not":"'Kutudan iç' der; bulanık, tropikal ve çam; Vermont efsanesi"},
 {"id":"the-alchemist-focal-banger","ad":"Focal Banger","dam":"The Alchemist","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"American IPA","abv":7.0,"ibu":0,"hacim":47.3,"tl":280,"bul":"zor","puan":94,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Citra ve Mosaic; Heady'nin daha meyvemsi kardeşi"},
-{"id":"hill-farmstead-edward","ad":"Hill Farmstead Edward","dam":"Hill Farmstead","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"American Pale Ale","abv":5.2,"ibu":0,"hacim":75,"tl":650,"bul":"zor","puan":95,"uz":"RateBeer 'dünyanın en iyi fabrikası' defalarca","ai":0,"kat":3,"ncf":1,"not":"Shaun Hill'in büyükbabasına adanmış, narin ve çiçeksi pale ale"},
+{"id":"hill-farmstead-edward","ad":"Hill Farmstead Edward","dam":"Hill Farmstead","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"American Pale Ale","abv":5.2,"ibu":0,"hacim":75,"tl":650,"bul":"zor","puan":95,"uz":"RateBeer 'dünyanın en iyi fabrikası' defalarca","ai":0,"kat":0,"ncf":1,"not":"Shaun Hill'in büyükbabasına adanmış, narin ve çiçeksi pale ale"},
 {"id":"hill-farmstead-susan","ad":"Hill Farmstead Susan","dam":"Hill Farmstead","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"American IPA","abv":6.2,"ibu":0,"hacim":75,"tl":650,"bul":"zor","puan":94,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Riwaka ve Citra; ananas ve limon kabuğu, yumuşak gövde"},
 {"id":"tree-house-julius","ad":"Tree House Julius","dam":"Tree House Brewing","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"New England IPA","abv":6.8,"ibu":0,"hacim":47.3,"tl":260,"bul":"zor","puan":96,"uz":"","ai":0,"kat":3,"ncf":1,"not":"Portakal suyu görünümlü, mango ve şeftalili NEIPA referansı"},
-{"id":"tree-house-haze","ad":"Tree House Haze","dam":"Tree House Brewing","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"New England Double IPA","abv":8.2,"ibu":0,"hacim":47.3,"tl":280,"bul":"zor","puan":95,"uz":"","ai":0,"kat":3,"ncf":1,"not":"Yoğun tropikal meyve, kremsi gövde; sadece fabrikada satılır"},
+{"id":"tree-house-haze","ad":"Tree House Haze","dam":"Tree House Brewing","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"New England Double IPA","abv":8.2,"ibu":0,"hacim":47.3,"tl":280,"bul":"zor","puan":95,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Yoğun tropikal meyve, kremsi gövde; sadece fabrikada satılır"},
 {"id":"trillium-congress-street","ad":"Trillium Congress Street","dam":"Trillium Brewing","ulke":"ABD","bolge":"New England","sev":"2","tur":"Pale Ale & IPA","stil":"New England IPA","abv":7.2,"ibu":0,"hacim":47.3,"tl":240,"bul":"zor","puan":91,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Galaxy şerbetçiotlu Boston NEIPA'sı; çarkıfelek ve mandalina"},
 {"id":"lawsons-sip-of-sunshine","ad":"Lawson's Finest Sip of Sunshine","dam":"Lawson's Finest Liquids","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"Double IPA","abv":8.0,"ibu":0,"hacim":47.3,"tl":280,"bul":"zor","puan":94,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Adı gibi güneşli: ananas, mango ve çiçek; Vermont DIPA'sı"},
 {"id":"maine-beer-lunch","ad":"Maine Beer Company Lunch","dam":"Maine Beer Company","ulke":"ABD","bolge":"New England","sev":"Premium","tur":"Pale Ale & IPA","stil":"American IPA","abv":7.0,"ibu":0,"hacim":50,"tl":320,"bul":"zor","puan":93,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Bir balinanın adını taşıyan, berrak ve meyvemsi IPA"},
@@ -825,7 +849,7 @@ const DATA = [
 {"id":"schremser-edelmarzen","ad":"Schremser Edelmärzen","dam":"Schremser","ulke":"Avusturya","bolge":"Aşağı Avusturya","sev":"3","tur":"Lager & Pilsner","stil":"Avusturya Märzen","abv":5.0,"ibu":0,"hacim":50,"tl":220,"bul":"yurtdisi","puan":80,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Waldviertel'in granit suyuyla yumuşak, ekmeksi Märzen"},
 // ===== BELÇIKA =====
 {"id":"westvleteren-12","ad":"Westvleteren 12","dam":"Sint-Sixtus (Westvleteren)","ulke":"Belçika","bolge":"Batı Flandre","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Quadrupel","abv":10.2,"ibu":0,"hacim":33,"tl":750,"bul":"zor","puan":99,"uz":"Yıllarca RateBeer dünyanın en iyi birası","ai":0,"kat":3,"ncf":1,"not":"Sadece manastırdan rezervasyonla; kuru incir, karamel, koyu meyve — efsane quad"},
-{"id":"westvleteren-8","ad":"Westvleteren 8","dam":"Sint-Sixtus (Westvleteren)","ulke":"Belçika","bolge":"Batı Flandre","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Dubbel","abv":8.0,"ibu":0,"hacim":33,"tl":600,"bul":"zor","puan":95,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Kuru erik, kahverengi şeker ve baharat; 12'nin daha çevik kardeşi"},
+{"id":"westvleteren-8","ad":"Westvleteren 8","dam":"Sint-Sixtus (Westvleteren)","ulke":"Belçika","bolge":"Batı Flandre","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Dubbel","abv":8.0,"ibu":0,"hacim":33,"tl":600,"bul":"zor","puan":95,"uz":"","ai":0,"kat":3,"ncf":1,"not":"Kuru erik, kahverengi şeker ve baharat; 12'nin daha çevik kardeşi"},
 {"id":"westvleteren-blond","ad":"Westvleteren Blond","dam":"Sint-Sixtus (Westvleteren)","ulke":"Belçika","bolge":"Batı Flandre","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Blond / Trappist Single","abv":5.8,"ibu":0,"hacim":33,"tl":500,"bul":"zor","puan":91,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Otsu şerbetçiotu ve ekmeksi malt; manastırın en hafif, en içimli birası"},
 {"id":"rochefort-6","ad":"Rochefort 6","dam":"Brasserie de Rochefort","ulke":"Belçika","bolge":"Namur","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Dubbel","abv":7.5,"ibu":0,"hacim":33,"tl":330,"bul":"craft","puan":88,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Kırmızı kapak; toprak, kuru meyve ve hafif baharat, nadir üretilen klasik"},
 {"id":"rochefort-8","ad":"Rochefort 8","dam":"Brasserie de Rochefort","ulke":"Belçika","bolge":"Namur","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Strong Dark Ale","abv":9.2,"ibu":0,"hacim":33,"tl":380,"bul":"craft","puan":93,"uz":"","ai":0,"kat":2,"ncf":1,"not":"Yeşil kapak; incir, çikolata, karamel; yıllandırmaya çok uygun"},
@@ -853,9 +877,9 @@ const DATA = [
 {"id":"maredsous-8-brune","ad":"Maredsous 8 Brune","dam":"Maredsous","ulke":"Belçika","bolge":"Namur","sev":"3","tur":"Belçika & Manastır","stil":"Belgian Dubbel","abv":8.0,"ibu":0,"hacim":33,"tl":290,"bul":"craft","puan":84,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Kuru meyve, karamel ve kavrulmuş malt; dolgun koyu manastır"},
 {"id":"st-feuillien-tripel","ad":"St-Feuillien Tripel","dam":"St-Feuillien","ulke":"Belçika","bolge":"Hainaut","sev":"2","tur":"Belçika & Manastır","stil":"Belgian Tripel","abv":8.5,"ibu":0,"hacim":33,"tl":290,"bul":"craft","puan":85,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Narenciye kabuğu ve çiçeksi şerbetçiotu; aile işletmesinden tripel"},
 {"id":"st-feuillien-saison","ad":"St-Feuillien Saison","dam":"St-Feuillien","ulke":"Belçika","bolge":"Hainaut","sev":"2","tur":"Özel & Diğer","stil":"Saison","abv":6.5,"ibu":0,"hacim":33,"tl":280,"bul":"craft","puan":86,"uz":"World Beer Awards en iyi saison","ai":0,"kat":0,"ncf":1,"not":"Biberli, kuru ve köpüklü; Hainaut çiftlik birası geleneği"},
-{"id":"cantillon-gueuze","ad":"Cantillon Classic Gueuze","dam":"Cantillon","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Gueuze","abv":5.5,"ibu":0,"hacim":37.5,"tl":600,"bul":"zor","puan":95,"uz":"Lambic dünyasının referansı","ai":19,"kat":0,"ncf":1,"not":"Kemik kuru, limon, at battaniyesi ve elma; Brüksel'in yaşayan müzesinden"},
+{"id":"cantillon-gueuze","ad":"Cantillon Classic Gueuze","dam":"Cantillon","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Gueuze","abv":5.5,"ibu":0,"hacim":37.5,"tl":600,"bul":"zor","puan":95,"uz":"Lambic dünyasının referansı","ai":19,"kat":3,"ncf":1,"not":"Kemik kuru, limon, at battaniyesi ve elma; Brüksel'in yaşayan müzesinden"},
 {"id":"cantillon-kriek","ad":"Cantillon Kriek","dam":"Cantillon","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Kriek (Fruit Lambic)","abv":5.0,"ibu":0,"hacim":37.5,"tl":650,"bul":"zor","puan":94,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Bütün ekşi vişneyle; badem, vişne çekirdeği, sert ekşilik — şekersiz"},
-{"id":"cantillon-rose-de-gambrinus","ad":"Cantillon Rosé de Gambrinus","dam":"Cantillon","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Framboise (Fruit Lambic)","abv":5.0,"ibu":0,"hacim":37.5,"tl":650,"bul":"zor","puan":95,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Taze ahududu patlaması üzerinde kuru, keskin lambic"},
+{"id":"cantillon-rose-de-gambrinus","ad":"Cantillon Rosé de Gambrinus","dam":"Cantillon","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Framboise (Fruit Lambic)","abv":5.0,"ibu":0,"hacim":37.5,"tl":650,"bul":"zor","puan":95,"uz":"","ai":0,"kat":3,"ncf":1,"not":"Taze ahududu patlaması üzerinde kuru, keskin lambic"},
 {"id":"3-fonteinen-oude-geuze","ad":"3 Fonteinen Oude Geuze","dam":"3 Fonteinen","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Gueuze","abv":6.0,"ibu":0,"hacim":37.5,"tl":550,"bul":"zor","puan":95,"uz":"Oude Geuze ikonlarından","ai":0,"kat":0,"ncf":1,"not":"Greyfurt, saman ve meşe; zarif ve kompleks harman"},
 {"id":"3-fonteinen-oude-kriek","ad":"3 Fonteinen Oude Kriek","dam":"3 Fonteinen","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"Premium","tur":"Ekşi & Vahşi","stil":"Kriek (Fruit Lambic)","abv":6.0,"ibu":0,"hacim":37.5,"tl":600,"bul":"zor","puan":95,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Schaerbeek vişnesiyle; derin meyve, badem ve canlı asidite"},
 {"id":"boon-oude-geuze","ad":"Oude Geuze Boon","dam":"Boon","ulke":"Belçika","bolge":"Brüksel & Pajottenland","sev":"2","tur":"Ekşi & Vahşi","stil":"Gueuze","abv":7.0,"ibu":0,"hacim":37.5,"tl":400,"bul":"zor","puan":91,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Elma, limon ve vanilyalı meşe; yumuşak, erişilebilir oude geuze"},
@@ -909,7 +933,6 @@ const DATA = [
 {"id":"kaiser","ad":"Kaiser","dam":"Kaiser","ulke":"Brezilya","bolge":"Minas Gerais","sev":"3","tur":"Lager & Pilsner","stil":"International Pale Lager","abv":4.5,"ibu":0,"hacim":35,"tl":100,"bul":"zor","puan":62,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Heineken'e ait Brezilya halk birası; sade ve ucuz"},
 // ===== DANIMARKA =====
 {"id":"carlsberg-pilsner","ad":"Carlsberg Pilsner","dam":"Carlsberg","ulke":"Danimarka","bolge":"Kopenhag","sev":"3","tur":"Lager & Pilsner","stil":"International Pale Lager","abv":5.0,"ibu":0,"hacim":50,"tl":132.5,"bul":"kolay","puan":74,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Kopenhag'ın simge lageri; Türkiye'de Türk Tuborg lisansla üretiyor"},
-{"id":"carlsberg-elephant","ad":"Carlsberg Elephant","dam":"Carlsberg","ulke":"Danimarka","bolge":"Kopenhag","sev":"3","tur":"Koyu Lager & Bock","stil":"Strong Lager","abv":7.2,"ibu":0,"hacim":50,"tl":170,"bul":"kolay","puan":73,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Fil Kapısı'ndan adını alan güçlü, maltlı ve hafif tatlı lager"},
 {"id":"tuborg-gron","ad":"Tuborg Grøn","dam":"Tuborg","ulke":"Danimarka","bolge":"Kopenhag","sev":"3","tur":"Lager & Pilsner","stil":"International Pale Lager","abv":4.6,"ibu":0,"hacim":33,"tl":75,"bul":"yurtdisi","puan":72,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Danimarka'nın yeşil etiketli orijinal Tuborg pilsneri; hafif ve çok içimli"},
 {"id":"tuborg-julebryg","ad":"Tuborg Julebryg","dam":"Tuborg","ulke":"Danimarka","bolge":"Kopenhag","sev":"3","tur":"Koyu Lager & Bock","stil":"Dark Lager (Christmas)","abv":5.6,"ibu":0,"hacim":33,"tl":85,"bul":"yurtdisi","puan":76,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Kasım'daki 'J-Dag' ile çıkan, karamel ve meyankökü notalı Noel lageri"},
 {"id":"mikkeller-beer-geek-breakfast","ad":"Mikkeller Beer Geek Breakfast","dam":"Mikkeller","ulke":"Danimarka","bolge":"Kopenhag","sev":"Premium","tur":"Stout & Porter","stil":"Oatmeal Coffee Stout","abv":7.5,"ibu":0,"hacim":33,"tl":420,"bul":"craft","puan":92,"uz":"RateBeer 2006 dünyanın en iyi stout'u","ai":15,"kat":2,"ncf":0,"not":"Yulaf ve kahveyle mayalanan, Mikkeller'i dünyaya tanıtan ikonik stout"},
@@ -972,7 +995,7 @@ const DATA = [
 {"id":"unibroue-maudite","ad":"Unibroue Maudite","dam":"Unibroue","ulke":"Kanada","bolge":"Québec","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Strong Dark Ale","abv":8.0,"ibu":0,"hacim":34.1,"tl":240,"bul":"zor","puan":88,"uz":"","ai":0,"kat":0,"ncf":1,"not":"'Lanetli' kızıl ale; baharat, karamel ve kuru meyve"},
 {"id":"unibroue-trois-pistoles","ad":"Unibroue Trois Pistoles","dam":"Unibroue","ulke":"Kanada","bolge":"Québec","sev":"Premium","tur":"Belçika & Manastır","stil":"Belgian Dark Strong Ale","abv":9.0,"ibu":0,"hacim":34.1,"tl":250,"bul":"zor","puan":89,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Kara at efsanesi; erik, kakao, esmer şeker"},
 {"id":"unibroue-blanche-de-chambly","ad":"Blanche de Chambly","dam":"Unibroue","ulke":"Kanada","bolge":"Québec","sev":"Premium","tur":"Buğday","stil":"Witbier","abv":5.0,"ibu":0,"hacim":34.1,"tl":200,"bul":"zor","puan":84,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Unibroue'nun ilk birası; narenciye ve baharatlı yumuşak witbier"},
-{"id":"dieu-du-ciel-peche-mortel","ad":"Dieu du Ciel! Péché Mortel","dam":"Dieu du Ciel!","ulke":"Kanada","bolge":"Québec","sev":"Premium","tur":"Stout & Porter","stil":"Imperial Coffee Stout","abv":9.5,"ibu":0,"hacim":34.1,"tl":300,"bul":"zor","puan":95,"uz":"RateBeer en iyiler listesinde uzun yıllar","ai":17,"kat":0,"ncf":0,"not":"'Ölümcül günah': yoğun espresso, bitter çikolata, kremsi doku"},
+{"id":"dieu-du-ciel-peche-mortel","ad":"Dieu du Ciel! Péché Mortel","dam":"Dieu du Ciel!","ulke":"Kanada","bolge":"Québec","sev":"Premium","tur":"Stout & Porter","stil":"Imperial Coffee Stout","abv":9.5,"ibu":0,"hacim":34.1,"tl":300,"bul":"zor","puan":95,"uz":"RateBeer en iyiler listesinde uzun yıllar","ai":0,"kat":0,"ncf":0,"not":"'Ölümcül günah': yoğun espresso, bitter çikolata, kremsi doku"},
 {"id":"dieu-du-ciel-rosee-dhibiscus","ad":"Dieu du Ciel! Rosée d'Hibiscus","dam":"Dieu du Ciel!","ulke":"Kanada","bolge":"Québec","sev":"Premium","tur":"Buğday","stil":"Witbier (Hibiscus)","abv":5.9,"ibu":0,"hacim":34.1,"tl":240,"bul":"zor","puan":88,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Pembe renkli, ebegümeci çiçekli buğday; çiçeksi ve hafif ekşi"},
 {"id":"molson-canadian","ad":"Molson Canadian","dam":"Molson Brewery","ulke":"Kanada","bolge":"Québec","sev":"3","tur":"Lager & Pilsner","stil":"American Lager","abv":5.0,"ibu":0,"hacim":35.5,"tl":100,"bul":"yurtdisi","puan":70,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Kanada'nın akçaağaç yapraklı ulusal lageri"},
 {"id":"labatt-blue","ad":"Labatt Blue","dam":"Labatt Brewing","ulke":"Kanada","bolge":"Ontario","sev":"3","tur":"Lager & Pilsner","stil":"Pilsner (North American)","abv":5.0,"ibu":0,"hacim":34.1,"tl":100,"bul":"yurtdisi","puan":70,"uz":"","ai":0,"kat":0,"ncf":0,"not":"1951'den beri; hafif, temiz, Kanada'nın en çok satanlarından"},
@@ -1038,7 +1061,7 @@ const DATA = [
 {"id":"efes-malt","ad":"Efes Malt","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Lager & Pilsner","stil":"International Pale Lager (%100 malt)","abv":5.0,"ibu":0,"hacim":50,"tl":125,"bul":"kolay","puan":75,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Yalnızca arpa maltıyla; Pilsen'e göre biraz daha gövdeli ve bisküvimsi"},
 {"id":"efes-ozel-seri","ad":"Efes Özel Seri","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Lager & Pilsner","stil":"Premium Lager","abv":5.0,"ibu":0,"hacim":50,"tl":125,"bul":"kolay","puan":75,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Efes'in daha aromatik premium lager'ı; hafif karamel ve şerbetçiotu dengesi"},
 {"id":"efes-xtra","ad":"Efes Xtra","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Güçlü & Fıçı Yıllanmış","stil":"Strong Lager","abv":7.5,"ibu":0,"hacim":50,"tl":160,"bul":"kolay","puan":72,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Yüksek alkollü sert lager; tatlımsı malt, belirgin alkol sıcaklığı"},
-{"id":"efes-xtra-shot","ad":"Efes Xtra Shot","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Güçlü & Fıçı Yıllanmış","stil":"Strong Lager","abv":9.0,"ibu":0,"hacim":50,"tl":165,"bul":"kolay","puan":70,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Efes'in en güçlü birası; yoğun malt ve alkol, soğuk içilmeli"},
+{"id":"efes-xtra-shot","ad":"Efes Xtra Shot","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Güçlü & Fıçı Yıllanmış","stil":"Strong Lager","abv":9.0,"ibu":0,"hacim":23.7,"tl":165,"bul":"kolay","puan":70,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Efes'in en güçlü birası; yoğun malt ve alkol, soğuk içilmeli"},
 {"id":"efes-glutensiz","ad":"Efes Glutensiz","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Özel & Diğer","stil":"Gluten-Free Lager","abv":5.0,"ibu":0,"hacim":50,"tl":160,"bul":"kolay","puan":73,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Glutensiz üretilen Efes; çölyak hastaları için ana akım lager alternatifi"},
 {"id":"efes-draft","ad":"Efes Draft (Fıçı)","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Lager & Pilsner","stil":"German Pilsner","abv":5.0,"ibu":0,"hacim":50,"tl":130,"bul":"kolay","puan":74,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Kısa pastörize, fıçı biçimli şişede; taze ve yumuşak içimli Efes"},
 {"id":"bomonti-filtresiz","ad":"Bomonti Filtresiz","dam":"Anadolu Efes","ulke":"Türkiye","bolge":"İstanbul","sev":"3","tur":"Lager & Pilsner","stil":"Unfiltered Lager (Zwickel)","abv":5.0,"ibu":0,"hacim":50,"tl":130,"bul":"kolay","puan":78,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Filtrelenmemiş, hafif bulanık; ekmeksi malt ve yumuşak gövdeli şehir klasiği"},
@@ -1161,7 +1184,7 @@ const DATA = [
 {"id":"fullers-london-porter","ad":"Fuller's London Porter","dam":"Fuller's","ulke":"İngiltere","bolge":"Londra","sev":"2","tur":"Stout & Porter","stil":"English Porter","abv":5.4,"ibu":0,"hacim":50,"tl":250,"bul":"yurtdisi","puan":87,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Kahverengi malt ağırlıklı klasik porter; çikolata, kahve ve kadifemsi gövde"},
 {"id":"samuel-smith-taddy-porter","ad":"Samuel Smith's Taddy Porter","dam":"Samuel Smith","ulke":"İngiltere","bolge":"Yorkshire","sev":"2","tur":"Stout & Porter","stil":"English Porter","abv":5.0,"ibu":0,"hacim":55,"tl":260,"bul":"craft","puan":88,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Taş Yorkshire Square'lerde mayalanır; meyan, kakao ve kuru bitiş"},
 {"id":"samuel-smith-oatmeal-stout","ad":"Samuel Smith's Oatmeal Stout","dam":"Samuel Smith","ulke":"İngiltere","bolge":"Yorkshire","sev":"2","tur":"Stout & Porter","stil":"Oatmeal Stout","abv":5.0,"ibu":32,"hacim":55,"tl":260,"bul":"craft","puan":90,"uz":"Stilin dünya referansı","ai":16,"kat":0,"ncf":0,"not":"Yulaf sayesinde ipeksi gövde; sütlü kahve ve bitter çikolata"},
-{"id":"samuel-smith-imperial-stout","ad":"Samuel Smith's Imperial Stout","dam":"Samuel Smith","ulke":"İngiltere","bolge":"Yorkshire","sev":"2","tur":"Stout & Porter","stil":"Russian Imperial Stout","abv":7.0,"ibu":0,"hacim":55,"tl":300,"bul":"craft","puan":89,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Daha hafif tarihî imperial; kuru erik, melas ve kavrulmuş arpa"},
+{"id":"samuel-smith-imperial-stout","ad":"Samuel Smith's Imperial Stout","dam":"Samuel Smith","ulke":"İngiltere","bolge":"Yorkshire","sev":"2","tur":"Stout & Porter","stil":"Russian Imperial Stout","abv":7.0,"ibu":0,"hacim":55,"tl":300,"bul":"craft","puan":89,"uz":"","ai":17,"kat":0,"ncf":0,"not":"Daha hafif tarihî imperial; kuru erik, melas ve kavrulmuş arpa"},
 {"id":"samuel-smith-nut-brown-ale","ad":"Samuel Smith's Nut Brown Ale","dam":"Samuel Smith","ulke":"İngiltere","bolge":"Yorkshire","sev":"2","tur":"İngiliz & İrlanda Ale","stil":"English Brown Ale","abv":5.0,"ibu":0,"hacim":55,"tl":250,"bul":"craft","puan":85,"uz":"","ai":21,"kat":0,"ncf":0,"not":"Fındık, karamel ve tost; İngiliz brown ale'in tanımı"},
 {"id":"timothy-taylor-landlord","ad":"Timothy Taylor's Landlord","dam":"Timothy Taylor","ulke":"İngiltere","bolge":"Yorkshire","sev":"2","tur":"İngiliz & İrlanda Ale","stil":"Strong Bitter (Pale Ale)","abv":4.3,"ibu":0,"hacim":50,"tl":250,"bul":"yurtdisi","puan":88,"uz":"CAMRA Champion Beer of Britain (4 kez)","ai":0,"kat":0,"ncf":0,"not":"Fıçıda efsane; narenciye-çiçek şerbetçiotu, bisküvi malt ve kuru bitiş"},
 {"id":"marstons-pedigree","ad":"Marston's Pedigree","dam":"Marston's","ulke":"İngiltere","bolge":"Staffordshire","sev":"3","tur":"İngiliz & İrlanda Ale","stil":"Best Bitter","abv":4.5,"ibu":0,"hacim":50,"tl":220,"bul":"yurtdisi","puan":78,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Burton union sistemiyle mayalanır; sülfürlü 'Burton snatch', elma ve malt"},
@@ -1250,33 +1273,7 @@ const DATA = [
 {"id":"einstok-icelandic-white-ale","ad":"Einstök Icelandic White Ale","dam":"Einstök","ulke":"İzlanda","bolge":"Akureyri","sev":"3","tur":"Buğday","stil":"Witbier","abv":5.2,"ibu":0,"hacim":33,"tl":250,"bul":"craft","puan":82,"uz":"","ai":0,"kat":0,"ncf":1,"not":"Kutup dairesi yakınından portakal kabuğu ve kişnişli Belçika usulü wit"},
 {"id":"einstok-arctic-pale-ale","ad":"Einstök Icelandic Arctic Pale Ale","dam":"Einstök","ulke":"İzlanda","bolge":"Akureyri","sev":"3","tur":"Pale Ale & IPA","stil":"American Pale Ale","abv":5.6,"ibu":0,"hacim":33,"tl":250,"bul":"craft","puan":80,"uz":"","ai":0,"kat":0,"ncf":0,"not":"Buzul suyuyla yapılan, çam ve narenciye notalı dengeli pale ale"},
 ];
-const AI_GROUPS = {
-"pilsner-urquell": "Lager & Pilsner",
-"budweiser-budvar-original": "Lager & Pilsner",
-"weihenstephaner-original-helles": "Lager & Pilsner",
-"ayinger-celebrator": "Koyu Lager & Bock",
-"paulaner-salvator": "Koyu Lager & Bock",
-"schneider-aventinus": "Buğday",
-"weihenstephaner-vitus": "Buğday",
-"weihenstephaner-hefeweissbier": "Buğday",
-"pliny-the-younger": "Pale Ale & IPA",
-"pliny-the-elder": "Pale Ale & IPA",
-"the-alchemist-heady-topper": "Pale Ale & IPA",
-"rochefort-10": "Belçika & Manastır",
-"st-bernardus-abt-12": "Belçika & Manastır",
-"westmalle-tripel": "Belçika & Manastır",
-"mikkeller-beer-geek-breakfast": "Stout & Porter",
-"samuel-smith-oatmeal-stout": "Stout & Porter",
-"dieu-du-ciel-peche-mortel": "Stout & Porter",
-"rodenbach-grand-cru": "Ekşi & Vahşi",
-"cantillon-gueuze": "Ekşi & Vahşi",
-"fullers-esb": "İngiliz & İrlanda Ale",
-"samuel-smith-nut-brown-ale": "İngiliz & İrlanda Ale",
-"toppling-goliath-kbbs": "Güçlü & Fıçı Yıllanmış",
-"schneider-aventinus-eisbock": "Güçlü & Fıçı Yıllanmış",
-"das-ey-ay-pi-ey": "Türkiye",
-"das-old-queen-barling": "Türkiye"
-};
+const AI_GROUPS = {"pilsner-urquell": "Lager & Pilsner", "budweiser-budvar-original": "Lager & Pilsner", "weihenstephaner-original-helles": "Lager & Pilsner", "ayinger-celebrator": "Koyu Lager & Bock", "paulaner-salvator": "Koyu Lager & Bock", "schneider-aventinus": "Buğday", "weihenstephaner-vitus": "Buğday", "weihenstephaner-hefeweissbier": "Buğday", "pliny-the-younger": "Pale Ale & IPA", "pliny-the-elder": "Pale Ale & IPA", "the-alchemist-heady-topper": "Pale Ale & IPA", "rochefort-10": "Belçika & Manastır", "st-bernardus-abt-12": "Belçika & Manastır", "westmalle-tripel": "Belçika & Manastır", "mikkeller-beer-geek-breakfast": "Stout & Porter", "samuel-smith-oatmeal-stout": "Stout & Porter", "samuel-smith-imperial-stout": "Stout & Porter", "rodenbach-grand-cru": "Ekşi & Vahşi", "cantillon-gueuze": "Ekşi & Vahşi", "fullers-esb": "İngiliz & İrlanda Ale", "samuel-smith-nut-brown-ale": "İngiliz & İrlanda Ale", "toppling-goliath-kbbs": "Güçlü & Fıçı Yıllanmış", "schneider-aventinus-eisbock": "Güçlü & Fıçı Yıllanmış", "das-ey-ay-pi-ey": "Türkiye", "das-old-queen-barling": "Türkiye"};
 
 const LS='bira_atlas_v1';
 let state=JSON.parse(localStorage.getItem(LS)||'null');
@@ -1320,11 +1317,18 @@ function thumb(b){
   if(b.img)return `<div class="thumb" data-page="${esc(pageURL(b))}" style="background:#f4ead6 center/cover no-repeat url('${esc(b.img)}')" title="Şişenin sayfasını aç"></div>`;
   return `<div class="thumb" data-page="${esc(pageURL(b))}" style="--c:${colorFor(b)}" title="Şişenin sayfasını aç (fotoğraf + bilgi)"><div class="lab">${initials(b)}</div></div>`;
 }
-function damKey(b){return b.ulke+'|||'+b.bolge+'|||'+b.dam}
+// Keşfet ağacı iki düzende: ülke → bölge → fabrika ya da stil ailesi → stil → fabrika (harita sekmesinde hep ülke)
+let AGAC_MOD=(()=>{try{return localStorage.getItem('bira_agac_mod')||'ulke';}catch(e){return 'ulke';}})();
+const AILE_SIRA=['Lager & Pilsner','Buğday','Pale Ale & IPA','Belçika & Manastır','Stout & Porter','Koyu Lager & Bock','İngiliz & İrlanda Ale','Ekşi & Vahşi','Güçlü & Fıçı Yıllanmış','Özel & Diğer'];
+const AILE_EMOJI={'Lager & Pilsner':'🍺','Buğday':'🌾','Pale Ale & IPA':'🌿','Belçika & Manastır':'⛪','Stout & Porter':'☕','Koyu Lager & Bock':'🐐','İngiliz & İrlanda Ale':'🇬🇧','Ekşi & Vahşi':'🍒','Güçlü & Fıçı Yıllanmış':'🛢️','Özel & Diğer':'✨'};
+const stilMod=()=>AGAC_MOD==='stil'&&!haritaAcik();
+function stilAdi(b){const st=b.sid&&stilBul(b.sid);return st?(st.tr&&st.tr!==st.ad?st.ad+' · '+st.tr:st.ad):(b.stil||b.tur);}
+const K1=b=>stilMod()?b.tur:b.ulke, K2=b=>stilMod()?stilAdi(b):b.bolge;
+function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "Belçika", "ABD", "İngiltere", "İskoçya", "Hollanda", "Çekya", "İrlanda", "Kanada", "İtalya", "Meksika", "Japonya", "Avusturya", "Danimarka", "Avustralya", "İspanya", "Yunanistan", "Fransa", "Polonya", "Norveç", "Finlandiya", "Galler", "Çin", "Portekiz", "İzlanda", "Tayland", "Yeni Zelanda", "Brezilya", "Ukrayna", "İsveç", "Rusya", "Güney Afrika", "Namibya", "Laos", "Peru", "Kenya", "Etiyopya", "Litvanya", "Venezuela", "Vietnam", "Kıbrıs", "Hindistan", "Arjantin", "Filipinler", "Estonya", "Letonya", "Nijerya", "Lüksemburg", "Singapur", "Kolombiya", "Gürcistan", "Güney Kore"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "Belçika", "ABD", "İngiltere", "İskoçya", "Hollanda", "Çekya", "İrlanda", "Kanada", "İtalya", "Meksika", "Avusturya", "Japonya", "İspanya", "Avustralya", "Polonya", "Fransa", "Danimarka", "Yunanistan", "Norveç", "Finlandiya", "Galler", "İsveç", "Brezilya", "Çin", "Portekiz", "Tayland", "Yeni Zelanda", "İzlanda", "Rusya", "Ukrayna", "Nijerya", "Hindistan", "Güney Afrika", "Lüksemburg", "Etiyopya", "Kolombiya", "Güney Kore", "Arjantin", "Kıbrıs", "Letonya", "Filipinler", "Peru", "Namibya", "Laos", "Kenya", "Litvanya", "Vietnam", "Singapur", "Venezuela", "Estonya", "Gürcistan"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -1355,30 +1359,36 @@ function renderTree(){
   const arama=q.length>=2;
   if(q!==aramaSon){aramaSon=q;aramaKapali.clear();}
   const byCountry={};
-  bottles.forEach(b=>{(byCountry[b.ulke]=byCountry[b.ulke]||{});
-    (byCountry[b.ulke][b.bolge]=byCountry[b.ulke][b.bolge]||{});
-    (byCountry[b.ulke][b.bolge][b.dam]=byCountry[b.ulke][b.bolge][b.dam]||[]).push(b);});
+  const SM=stilMod();
+  bottles.forEach(b=>{const u=K1(b),r=K2(b);(byCountry[u]=byCountry[u]||{});
+    (byCountry[u][r]=byCountry[u][r]||{});
+    (byCountry[u][r][b.dam]=byCountry[u][r][b.dam]||[]).push(b);});
+  const SIRA=SM?AILE_SIRA:COUNTRY_ORDER;
   const countries=Object.keys(byCountry).sort((a,b)=>{
-    let ia=COUNTRY_ORDER.indexOf(a),ib=COUNTRY_ORDER.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib);});
+    let ia=SIRA.indexOf(a),ib=SIRA.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib);});
+  document.querySelectorAll('[data-agacmod]').forEach(x=>x.classList.toggle('on',x.dataset.agacmod===(SM?'stil':'ulke')));
+  const sv0=document.querySelector('[data-seviye="0"]'),sv1=document.querySelector('[data-seviye="1"]');
+  if(sv0){sv0.textContent=SM?'🎨 Aileler':'🌍 Ülkeler';sv1.textContent=SM?'🏷️ Stiller':'📍 Bölgeler';}
   if(haritaAcik()&&HARITA)haritaCiz();  // Harita sekmesinde liste filtreleri haritaya da yansır
   if(!countries.length){tree.innerHTML='<div class="empty">Filtrelere uyan bira yok.</div>';return;}
   countries.forEach(ulke=>{
     const cKapali=arama?aramaKapali.has('ülke:'+ulke):collapsedCountries.has(ulke);
     const cEl=document.createElement('div');cEl.className='country'+(cKapali?' closed':'');
     const total=Object.values(byCountry[ulke]).reduce((s,r)=>s+Object.values(r).reduce((q,a)=>q+a.length,0),0);
-    cEl.innerHTML=`<div class="head"><span class="caret">▼</span><span class="flag">${FLAGS[ulke]||'🌍'}</span><h2>${ulke}</h2>
+    cEl.innerHTML=`<div class="head"><span class="caret">▼</span><span class="flag">${SM?(AILE_EMOJI[ulke]||'🍺'):(FLAGS[ulke]||'🌍')}</span><h2>${ulke}</h2>
       <span class="agacgrup"><button class="agacbtn" data-agac="ac" data-kapsam="u" data-u="${esc(ulke)}" title="${esc(ulke)} içindeki her şeyi aç">⊕</button><button class="agacbtn" data-agac="kapat" data-kapsam="u" data-u="${esc(ulke)}" title="${esc(ulke)} içindekileri bölge düzeyine indir">⊖</button></span>
       <span class="count">${total} bira</span></div><div class="body"></div>`;
     const body=cEl.querySelector('.body');
-    const regions=Object.keys(byCountry[ulke]).sort((a,b)=>{
-      let ia=REGION_ORDER.indexOf(a),ib=REGION_ORDER.indexOf(b);return (ia<0?50:ia)-(ib<0?50:ib);});
+    const regions=Object.keys(byCountry[ulke]).sort((a,b)=>SM?Object.values(byCountry[ulke][b]).flat().length-Object.values(byCountry[ulke][a]).flat().length:a.localeCompare(b,'tr'));
     regions.forEach(bolge=>{
       const rKey=ulke+'|'+bolge;
       const rKapali=arama?aramaKapali.has('bölge:'+rKey):collapsedRegions.has(rKey);
       const rEl=document.createElement('div');rEl.className='region'+(rKapali?' closed':'');rEl.dataset.rk=rKey;
       const rc=Object.values(byCountry[ulke][bolge]).reduce((q,a)=>q+a.length,0);
       const rk=bolgeAnahtar({ulke,bolge});
-      rEl.innerHTML=`<div class="rhead"><span class="caret">▼</span><h3>${bolge}</h3>${BOLGELER[rk]?`<button class="bilgibtn rehber" data-bolge="${esc(rk)}" title="${esc(bolge)} bölge rehberi">📖 Rehber</button>`:''}
+      const b0=Object.values(byCountry[ulke][bolge])[0][0],sid=SM&&b0.sid&&stilBul(b0.sid)?b0.sid:'';
+      const rehber=SM?(sid?`<button class="bilgibtn rehber" data-stil="${esc(sid)}" title="Stil rehberi">📖 Stil</button>`:''):(BOLGELER[rk]?`<button class="bilgibtn rehber" data-bolge="${esc(rk)}" title="${esc(bolge)} bölge rehberi">📖 Rehber</button>`:'');
+      rEl.innerHTML=`<div class="rhead"><span class="caret">▼</span>${SM?renkNokta(b0)+' ':''}<h3>${bolge}</h3>${rehber}
         <span class="agacgrup"><button class="agacbtn" data-agac="ac" data-kapsam="r" data-u="${esc(ulke)}" data-r="${esc(bolge)}" title="Bu bölgedeki tüm fabrikaları aç">⊕</button><button class="agacbtn" data-agac="kapat" data-kapsam="r" data-u="${esc(ulke)}" data-r="${esc(bolge)}" title="Bu bölgedeki fabrikaları kapat">⊖</button></span>
         <span class="rc">${rc} bira</span></div>`;
       rEl.querySelector('.rhead').onclick=e=>{
@@ -1440,14 +1450,14 @@ function bottleRow(b,rank){
   if(state.notes[b.id]&&state.notes[b.id].p) badges.push(`<span class="badge" style="background:rgba(127,191,106,.18);color:#9fd68c;border:1px solid rgba(127,191,106,.4)">📝 ${state.notes[b.id].p}</span>`);
   el.innerHTML=`<div class="rank">${rank}</div>
     ${thumb(b)}
-    <div class="info"><div class="nm"><span class="isimlink" data-detay="${b.id}">${b.ad}</span> ${badges.join(' ')}</div>
+    <div class="info"><div class="nm">${renkNokta(b)} <span class="isimlink" data-detay="${b.id}">${b.ad}</span> ${badges.join(' ')}</div>
       <div class="meta">${b.stil||b.tur} · ${b.abv?b.abv+'% · ':''}${b.hacim?b.hacim+' cl · ':''}<span class="avail av-${b.bul}">${avTxt}</span> · ${b.not}</div></div>
     <div class="price" data-id="${b.id}">${fmt(priceOf(b))}</div>
     <div class="acts">
       <button class="btn" data-img="${esc(imgURL(b))}" title="Google Görseller'de aç">📷</button>
       <button class="btn" data-taste="${b.id}" title="Tadım notu / puanın">📝</button>
-      <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${b.id}">${haveOn?'✓ Elimde':'+ Elimde'}</button>
-      <button class="btn ${targetOn?'target-on':''}" data-act="target" data-id="${b.id}">${targetOn?'★ Hedef':'☆ Hedef'}</button></div>`;
+      <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${b.id}">${haveOn?'✓ Denedim':'+ Denedim'}</button>
+      <button class="btn ${targetOn?'target-on':''}" data-act="target" data-id="${b.id}">${targetOn?'★ Denenecek':'☆ Denenecek'}</button></div>`;
   return el;
 }
 
@@ -1486,8 +1496,8 @@ function card(b,num,src){
         ${src&&num!==''?`<div class="src">${src}</div>`:''}</div></div>
     <div class="row">
       <button class="btn" data-taste="${b.id}" title="Tadım notu / puanın">📝</button>
-      <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${b.id}">${haveOn?'✓ Elimde':'+ Elimde'}</button>
-      <button class="btn ${targetOn?'target-on':''}" data-act="target" data-id="${b.id}">${targetOn?'★ Hedef':'☆ Hedef'}</button>
+      <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${b.id}">${haveOn?'✓ Denedim':'+ Denedim'}</button>
+      <button class="btn ${targetOn?'target-on':''}" data-act="target" data-id="${b.id}">${targetOn?'★ Denenecek':'☆ Denenecek'}</button>
       <span class="price" data-id="${b.id}">${fmt(priceOf(b))}</span></div>`;
   return el;
 }
@@ -1963,72 +1973,47 @@ function levelOf(s){let L=GURME_LEVELS[0],idx=0;GURME_LEVELS.forEach((l,i)=>{if(
 // kategori/profil için temsilci (TR'de mantıklı) öneri şişeleri
 const REP_CAT={"Lager & Pilsner": "pilsner-urquell", "Koyu Lager & Bock": "ayinger-celebrator", "Buğday": "schneider-aventinus", "Pale Ale & IPA": "pliny-the-younger", "Belçika & Manastır": "rochefort-10", "Stout & Porter": "mikkeller-beer-geek-breakfast", "Ekşi & Vahşi": "rodenbach-grand-cru", "İngiliz & İrlanda Ale": "fullers-esb", "Güçlü & Fıçı Yıllanmış": "toppling-goliath-kbbs", "Özel & Diğer": "schlenkerla-rauchbier-maerzen"};
 const REP_PROF={"Şerbetçiotu": "pliny-the-younger", "Malt & Karamel": "ayinger-celebrator", "Kavrulmuş": "mikkeller-beer-geek-breakfast", "Meyve & Ester": "schneider-aventinus", "Ekşi": "rodenbach-grand-cru", "Güçlü (%8+)": "rochefort-10", "Filtresiz": "mahrs-ungespundet"};
+const PASAPORT_SEVIYE=[
+  {min:0,e:'🌱',t:'Acemi',d:'Pasaportun yeni açıldı. Lager dışında bir stil deneyerek başla.'},
+  {min:3,e:'🍺',t:'Meraklı',d:'Farklı stillerin kapısını araladın.'},
+  {min:8,e:'🧭',t:'Stil Kâşifi',d:'Buğdaydan IPA\'ya, stout\'tan Belçika\'ya yol alıyorsun.'},
+  {min:15,e:'📖',t:'Bilinçli İçici',d:'Stilleri ayırt ediyor, neyi neden sevdiğini biliyorsun.'},
+  {min:25,e:'🎩',t:'Bira Gurmesi',d:'Geniş ve dengeli bir damak; ekşiler ve güçlüler de pasaportunda.'},
+  {min:35,e:'🏆',t:'Uzman Tadımcı',d:'Lambic, trappist, rauchbier… nadir stiller de damgalı.'},
+  {min:50,e:'🧙',t:'Usta',d:'Cicerone ruhu: stil haritasının çoğu senin.'},
+  {min:65,e:'👑',t:'Efsane',d:'Pasaportunda boş sayfa kalmadı. Şerefe!'}
+];
+function pasaportSeviye(n){let L=PASAPORT_SEVIYE[0],i=0;PASAPORT_SEVIYE.forEach((l,k)=>{if(n>=l.min){L=l;i=k;}});return {...L,i,sonraki:PASAPORT_SEVIYE[i+1]||null};}
+function stilOnerisi(stId){
+  const UL={kolay:4,tekel:3,craft:2,zor:-2,yurtdisi:-6};
+  return allBottles().filter(b=>stilAnahtar(b)===stId&&!state.have.includes(b.id)).sort((a,b)=>((b.puan||0)+(UL[b.bul]||0))-((a.puan||0)+(UL[a.bul]||0)))[0];
+}
 function renderGurme(){
   const box=document.getElementById('gurmeBox');
-  const have=state.have, withT=[...new Set([...state.have,...state.target])];
-  const cur=computeScore(have), proj=computeScore(withT);
-  const lvl=levelOf(cur.total), plvl=levelOf(proj.total);
-  // karakter (baskın profil)
-  const bs=allBottles().filter(b=>have.includes(b.id));
-  const pc={}; bs.forEach(b=>profilesOf(b).forEach(p=>pc[p]=(pc[p]||0)+1));
-  const domProf=Object.entries(pc).sort((a,b)=>b[1]-a[1])[0];
-  const cc={}; bs.forEach(b=>{const c=regionCat(b);cc[c]=(cc[c]||0)+1;});
-  const domCat=Object.entries(cc).sort((a,b)=>b[1]-a[1])[0];
-  const circ=2*Math.PI*66, off=circ*(1-cur.total/100);
-  const P=cur.parts, MAXP={sReg:12,sDam:13,sStyle:10,sQual:16,sDepth:14,sPres:14,sAge:8,sExp:8,sTaste:5};
-  const barRow=(lbl,v,mx)=>`<div class="bar"><div class="bl">${lbl}</div><div class="track"><div class="fillb" style="width:${Math.round(v/mx*100)}%"></div></div><div class="bv">${v.toFixed(1)}/${mx}</div></div>`;
-  // öneriler: eksik kategoriler + eksik profiller
-  const sugg=[]; const seen=new Set();
-  GURME_CATS.forEach(c=>{ if(!cur.cats.has(c)){ const id=REP_CAT[c]; const b=allBottles().find(x=>x.id===id); if(b&&!have.includes(id)&&!seen.has(id)){seen.add(id);sugg.push({b,why:`<b>${c}</b> stili koleksiyonunda yok`});} } });
-  CORE_PROFILES.forEach(p=>{ if(!cur.profs.has(p)){ const id=REP_PROF[p]; const b=allBottles().find(x=>x.id===id); if(b&&!have.includes(id)&&!seen.has(id)){seen.add(id);sugg.push({b,why:`<b>${p}</b> profili eksik`});} } });
-  const suggTop=sugg.slice(0,5);
-  let html=`
-  <div class="ghero">
-    <div class="ring"><svg width="150" height="150">
-      <circle cx="75" cy="75" r="66" fill="none" stroke="rgba(0,0,0,.3)" stroke-width="11"/>
+  const tum=stilListesi(),dn=denenenStiller(),n=[...dn].filter(k=>tum.some(x=>x.id===k)).length;
+  const lv=pasaportSeviye(n),circ=2*Math.PI*66,off=circ*(1-(tum.length?n/tum.length:0));
+  const haveBy={};allBottles().filter(b=>state.have.includes(b.id)).forEach(b=>{(haveBy[stilAnahtar(b)]=haveBy[stilAnahtar(b)]||[]).push(b);});
+  let html=`<div class="ghero">
+    <div class="ring"><svg width="150" height="150"><circle cx="75" cy="75" r="66" fill="none" stroke="rgba(0,0,0,.3)" stroke-width="11"/>
       <circle cx="75" cy="75" r="66" fill="none" stroke="url(#g)" stroke-width="11" stroke-linecap="round" stroke-dasharray="${circ}" stroke-dashoffset="${off}"/>
-      <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2c14e"/><stop offset="1" stop-color="#c8862a"/></linearGradient></defs>
-      </svg><div class="center"><div class="sc">${cur.total}</div><div class="of">/ 100 puan</div></div></div>
-    <div class="who">
-      <div class="emoji">${lvl.e}</div>
-      <div class="title">${lvl.t}</div>
-      <div class="desc">${lvl.d}</div>
-      <div class="char">Karakterin: <b>${domProf?domProf[0]:'—'}</b>${domCat?' · ağırlık <b>'+domCat[0]+'</b>':''} · ${cur.n} farklı bira · ${cur.dams.size} fabrika · ${cur.cats.size}/${GURME_CATS.length} stil ailesi · ort. kalite <b>${cur.avg?cur.avg.toFixed(1):'—'}</b> · ${cur.rated||0} tadım notu · ham ${cur.raw||0} × kalite ×${cur.qf?cur.qf.toFixed(2):'—'} = <b>${cur.total}</b></div>
-    </div>
-  </div>
-  <div class="bars"><h3>📊 Puan Dağılımı</h3>
-    ${barRow('Stil Ailesi Kapsama',P.sReg,MAXP.sReg)}
-    ${barRow('Kaliteli Fabrika Çeşitliliği',P.sDam,MAXP.sDam)}
-    ${barRow('Tat Profili Dengesi',P.sStyle,MAXP.sStyle)}
-    ${barRow('Ortalama Kalite',P.sQual,MAXP.sQual)}
-    ${barRow('Kalite Derinliği (88/92+)',P.sDepth,MAXP.sDepth)}
-    ${barRow('Prestij & Ödül',P.sPres,MAXP.sPres)}
-    ${barRow('Güçlü & Fıçı Biralar',P.sAge,MAXP.sAge)}
-    ${barRow('Nadirlik & Ülke Keşfi',P.sExp,MAXP.sExp)}
-    ${barRow('Deneyim & Tadım Notları',P.sTaste,MAXP.sTaste)}
-  </div>`;
-  if(state.target.length){
-    const delta=proj.total-cur.total;
-    html+=`<div class="proj"><div class="big">🎯 Hedeflerini (${state.target.length} bira) alırsan: <b>${proj.total} puan</b> ${delta>0?'(+'+delta+')':''} → <b>${plvl.e} ${plvl.t}</b>${plvl.idx>lvl.idx?' — seviye atlarsın! 🚀':''}</div></div>`;
-  }
-  html+=`<div class="ladder">`+GURME_LEVELS.map((l,i)=>{
-    const cls=i===lvl.idx?'cur':(i<lvl.idx?'done':'');
-    const range=l.min+(GURME_LEVELS[i+1]?'–'+(GURME_LEVELS[i+1].min-1):'–100');
-    return `<div class="lvl ${cls}"><span class="e">${l.e}</span><span class="ln">${l.t}</span><span class="lr">${range} puan</span></div>`;
-  }).join('')+`</div>`;
-  if(suggTop.length){
-    html+=`<div class="sugg"><h3>🧭 Bir üst seviye / daha iyi gurme için</h3>
-      <p class="note" style="margin:0 0 6px">Eksik stil ailelerini ve tat profillerini kapatan, Türkiye'de mantıklı seçimler. Hedefe eklemek için ★ tıkla.</p>`;
-    suggTop.forEach(s=>{
-      const t=state.target.includes(s.b.id);
-      html+=`<div class="si">${thumb(s.b)}<div class="why">${s.b.ad} <span style="color:var(--muted)">— ${s.why}</span></div>
-        <span class="price">${fmt(priceOf(s.b))}</span>
-        <button class="btn ${t?'target-on':''}" data-act="target" data-id="${s.b.id}">${t?'★ Hedef':'☆ Hedefe ekle'}</button></div>`;
-    });
-    html+=`</div>`;
-  } else {
-    html+=`<div class="sugg"><h3>🧭 Bir üst seviye için</h3><p class="note" style="margin:0">Tüm stil ailelerini kapsamışsın! Artık derinleşme zamanı: trappist'ler, lambic'ler, fıçı yıllanmış stout'lar ve farklı ülkelerin craft'larıyla prestij ve nadirlik puanını yükselt.</p></div>`;
-  }
+      <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2c14e"/><stop offset="1" stop-color="#c8862a"/></linearGradient></defs></svg>
+      <div class="center"><div class="sc">${n}</div><div class="of">/ ${tum.length} stil</div></div></div>
+    <div class="who"><div class="emoji">${lv.e}</div><div class="title">${lv.t}</div><div class="desc">${lv.d}</div>
+      <div class="char">${state.have.length} bira denedin · ${new Set(allBottles().filter(b=>state.have.includes(b.id)).map(b=>b.ulke)).size} ülke · ${new Set(allBottles().filter(b=>state.have.includes(b.id)).map(b=>b.tur)).size}/10 stil ailesi${lv.sonraki?` · <b>${lv.sonraki.e} ${lv.sonraki.t}</b> için ${lv.sonraki.min-n} damga daha`:''}</div></div></div>`;
+  // Sıradaki damgalar: denenmemiş stillerden Türkiye'de bulunabilen birası olanlar
+  const aday=tum.filter(x=>!dn.has(x.id)).map(x=>({x,b:stilOnerisi(x.id)})).filter(o=>o.b).sort((a,b)=>({kolay:0,tekel:1,craft:2,zor:3,yurtdisi:4}[a.b.bul]-{kolay:0,tekel:1,craft:2,zor:3,yurtdisi:4}[b.b.bul])||(b.b.puan-a.b.puan)).slice(0,6);
+  if(aday.length){html+=`<div class="sugg"><h3>🛂 Sıradaki damgaların</h3><p class="note" style="margin:0 0 6px">Henüz denemediğin stiller ve her biri için en kolay bulunan iyi örnek.</p>`;
+    aday.forEach(o=>{const t=state.target.includes(o.b.id);
+      html+=`<div class="si">${renkNokta(o.b)}<div class="why"><b>${g$(o.x.tr||o.x.ad)}</b> <span style="color:var(--muted)">— ${o.b.ad} · <span class="avail av-${o.b.bul}">${AV_TXT[o.b.bul]}</span></span></div>
+        <span class="price">${fmt(priceOf(o.b))}</span><button class="btn ${t?'target-on':''}" data-act="target" data-id="${o.b.id}">${t?'★':'☆'}</button></div>`;});
+    html+='</div>';}
+  // Aile aile damga sayfaları
+  const aileler=[...new Set(tum.map(x=>x.aile))];
+  aileler.forEach(a=>{const st=tum.filter(x=>x.aile===a);const d=st.filter(x=>dn.has(x.id)).length;
+    html+=`<div class="pasaile"><h3>${g$(a)} <span>${d}/${st.length}</span></h3><div class="damgalar">`+st.map(x=>{const ok=dn.has(x.id),bs=haveBy[x.id]||[];
+      const renk=x.srm?srmRenk((x.srm[0]+x.srm[1])/2):'';
+      return `<div class="damga ${ok?'ok':''}" ${STILLER.length?`data-stil="${g$(x.id)}"`:''} title="${g$(x.ad)}">${renk?`<span class="renk" style="background:${renk}"></span>`:''}<div><div class="dn">${g$(x.tr||x.ad)}</div>${x.tr&&x.tr!==x.ad?`<div class="dad">${g$(x.ad)}</div>`:''}<div class="db">${ok?'✓ '+g$(bs[0].ad)+(bs.length>1?' +'+(bs.length-1):''):'—'}</div></div></div>`;}).join('')+'</div></div>';});
+  html+=`<div class="ladder" style="margin-top:16px">`+PASAPORT_SEVIYE.map((l,i)=>`<div class="lvl ${i===lv.i?'cur':i<lv.i?'done':''}"><span class="e">${l.e}</span><span class="ln">${l.t}</span><span class="lr">${l.min}+ stil</span></div>`).join('')+`</div>`;
   box.innerHTML=html;
 }
 const AROMA=["Acı/Şerbetçiotu", "Narenciye", "Tropik Meyve", "Çam/Reçine", "Meyveli", "Muz/Karanfil", "Kırmızı Meyve", "Kuru Meyve", "Malt/Ekmek", "Karamel", "Bal", "Kavrulmuş", "Kahve", "Çikolata", "İsli", "Ekşi", "Baharatlı", "Çiçeksi", "Otsu/Toprak", "Vanilya/Meşe", "Ferah", "Gövdeli/Dolgun", "Kuru (Dry)", "Tatlı", "Köpüklü/Canlı", "Yumuşak içim", "Alkollü/Sıcak", "Metalik", "Uzun bitiş", "Kısa bitiş"];
@@ -2106,7 +2091,7 @@ function recommendations(){
 function renderPersonal(){
   const box=document.getElementById('personalBox');
   const have=allBottles().filter(b=>state.have.includes(b.id));
-  if(!have.length){box.innerHTML='<div class="empty">Önce birkaç birayı “Elimde Var” işaretle — sana özel radar, öneri ve “bu akşam ne içsem” buradan çıkacak.</div>';return;}
+  if(!have.length){box.innerHTML='<div class="empty">Önce birkaç birayı “Denedim” işaretle — sana özel radar, öneri ve “bu akşam ne içsem” buradan çıkacak.</div>';return;}
   const prof=userFlavorProfile();
   const maxV=Math.max(1,...RADAR.map(a=>prof[a]||0));
   // radar SVG
@@ -2130,7 +2115,7 @@ function renderPersonal(){
   const topReg=Object.entries(rc).sort((a,b)=>b[1]-a[1])[0];
   let html='<div class="ghero" style="align-items:stretch"><div style="flex-shrink:0">'+radar+'</div><div class="who"><div class="title" style="font-size:20px">Damağının Profili</div><div class="char" style="margin-top:8px">Baskın tatların: <b>'+(topFl||'—')+'</b></div><div class="char">Ağırlık stilin: <b>'+(topReg?topReg[0]:'—')+'</b></div><div class="char">'+have.length+' farklı bira · '+dams+' fabrika · '+regs+' stil ailesi</div><div class="char">Eleştirmen ort. <b>'+(avg?avg.toFixed(1):'—')+'</b>'+(myAvg?' · senin ort. puanın <b>'+myAvg+'</b>':'')+'</div></div></div>';
   // ÖNERİ
-  html+='<div class="sugg"><h3>🧭 Sıradaki Bira — sana özel öneri</h3><p class="note" style="margin:0 0 6px">Elindekiler, tadım puanların, sevdiğin profiller, eksik stiller ve Türkiye’de bulunabilirliğe göre sıralı.</p>';
+  html+='<div class="sugg"><h3>🧭 Sıradaki Bira — sana özel öneri</h3><p class="note" style="margin:0 0 6px">Denediklerin, tadım puanların, sevdiğin profiller, eksik stiller ve Türkiye’de bulunabilirliğe göre sıralı.</p>';
   recommendations().forEach((r,i)=>{const t=state.target.includes(r.b.id);
     html+='<div class="si">'+thumb(r.b)+'<div class="why"><b>'+(i+1)+'.</b> '+r.b.ad+' <span style="color:var(--muted)">— '+(r.why||'iyi seçim')+'</span></div><span class="price">'+fmt(priceOf(r.b))+'</span><button class="btn" data-taste="'+r.b.id+'">📝</button><button class="btn '+(t?'target-on':'')+'" data-act="target" data-id="'+r.b.id+'">'+(t?'★':'☆')+'</button></div>';});
   html+='</div>';
@@ -2145,7 +2130,7 @@ function renderMood(){
   const el=document.getElementById('moodResult'); if(!el)return;
   const M=MOODS[personalMood];
   const list=allBottles().filter(b=>state.have.includes(b.id)&&M.f(b)).sort((a,b)=>(b.puan||0)-(a.puan||0)).slice(0,3);
-  if(!list.length){el.innerHTML='<div class="empty">Bu ruh haline uygun, elinde olan bir bira yok — “Sıradaki Bira” önerisinden bir tane edinebilirsin.</div>';return;}
+  if(!list.length){el.innerHTML='<div class="empty">Bu ruh haline uygun, denediğin bir bira yok — “Sıradaki Bira” önerisinden bir tane edinebilirsin.</div>';return;}
   el.innerHTML='<div class="grid">'+list.map(b=>'<div class="card"><div class="top">'+thumb(b)+'<div><div class="nm"><span class="isimlink" data-detay="'+b.id+'">'+b.ad+'</span></div><div class="meta">'+b.dam+' · '+b.bolge+' · '+(b.puan||'')+' puan</div></div></div><div class="row"><button class="btn" data-taste="'+b.id+'">📝 Not</button><span class="price">'+fmt(priceOf(b))+'</span></div></div>').join('')+'</div>';
 }
 
@@ -2153,21 +2138,21 @@ function renderMyList(){
   const have=allBottles().filter(b=>state.have.includes(b.id));
   const target=allBottles().filter(b=>state.target.includes(b.id));
   const hL=document.getElementById('haveList'),tL=document.getElementById('targetList');
-  hL.innerHTML=have.length?'':'<div class="empty">Henüz bira işaretlemedin.</div>';
-  tL.innerHTML=target.length?'':'<div class="empty">Henüz hedef eklemedin.</div>';
+  hL.innerHTML=have.length?'':'<div class="empty">Henüz denediğin bira yok. Keşfet\'te bir biranın yanındaki <b>+ Denedim</b>\'e bas.</div>';
+  tL.innerHTML=target.length?'':'<div class="empty">Denemek istediğin biraları ☆ ile buraya ekle.</div>';
+  // Denediklerin: önce senin puanına, sonra eleştirmen puanına göre
+  have.sort((a,b)=>((state.notes[b.id]||{}).p||0)-((state.notes[a.id]||{}).p||0)||(b.puan||0)-(a.puan||0));
   have.forEach(b=>hL.appendChild(miniHave(b)));
   target.forEach(b=>tL.appendChild(mini(b)));
-  const adet=have.reduce((s,b)=>s+qtyOf(b.id),0);
-  document.getElementById('haveTot').textContent=fmt(have.reduce((s,b)=>s+(priceOf(b)||0)*qtyOf(b.id),0));
+  document.getElementById('haveTot').textContent=denenenStiller().size+' / '+stilListesi().length;
   document.getElementById('targetTot').textContent=fmt(target.reduce((s,b)=>s+(priceOf(b)||0),0));
-  document.getElementById('haveCount').textContent='('+have.length+' çeşit · '+adet+' adet)';
+  document.getElementById('haveCount').textContent='('+have.length+')';
   document.getElementById('targetCount').textContent='('+target.length+')';
 }
 function miniHave(b){
   const el=document.createElement('div');el.className='mini';
-  const q=qtyOf(b.id);
-  el.innerHTML=`<div style="flex:1;min-width:0"><div class="nm"><span class="isimlink" data-detay="${b.id}">${b.ad}</span></div><div class="meta">${b.dam} · ${b.bolge} · ${fmt(priceOf(b))}${q>1?' × '+q+' = <b style="color:var(--have)">'+fmt(priceOf(b)*q)+'</b>':''}</div></div>
-    <div class="qty"><button class="qbtn" data-qty="dec" data-id="${b.id}">−</button><span class="qn">${q}</span><button class="qbtn" data-qty="inc" data-id="${b.id}">+</button></div>
+  const nt=state.notes[b.id];
+  el.innerHTML=`${renkNokta(b)}<div style="flex:1;min-width:0"><div class="nm"><span class="isimlink" data-detay="${b.id}">${b.ad}</span></div><div class="meta">${b.stil||b.tur} · ${b.ulke}${nt&&nt.p?` · <b style="color:var(--have)">senin puanın ${nt.p}</b>`:''}</div></div>
     <button class="btn" data-taste="${b.id}" title="Tadım notu / puanın">📝</button>
     <button class="btn" data-act="have" data-id="${b.id}" title="Listeden çıkar">✕</button>`;
   return el;
@@ -2183,26 +2168,106 @@ function mini(b){
 
 function renderStats(){
   const total=allBottles().length, have=state.have.length, target=state.target.length;
-  // Hedefe ulaşma: istediklerinin (elimde + hedef) ne kadarı elimde
-  const wantPool=have+target;
-  const pctHedef=wantPool?Math.round(have/wantPool*100):0;
-  // AI Top 25: 25 AI seçiminden kaçı elimde
+  const tum=stilListesi(), dn=denenenStiller();
+  const oran=tum.length?Math.round(dn.size/tum.length*100):0;
   const aiIds=allBottles().filter(b=>b.ai).map(b=>b.id);
   const aiOwned=aiIds.filter(id=>state.have.includes(id)).length;
-  const pctAI=aiIds.length?Math.round(aiOwned/aiIds.length*100):0;
-  // Hiç hedef seçilmemişse oran anlamsız (elindekiler/elindekiler = %100); boş göster
-  document.getElementById('fill').style.height=(target?Math.min(pctHedef,100):0)+'%';
-  document.getElementById('pct').textContent=target?pctHedef+'%':'—';
-  document.getElementById('pct').title=target?'':'Henüz hedef şişe seçmedin (☆ Hedef)';
-  document.getElementById('pctAI').textContent=pctAI+'% ('+aiOwned+'/'+aiIds.length+')';
+  document.getElementById('fill').style.height=Math.min(oran,100)+'%';
+  document.getElementById('pct').textContent=dn.size+'/'+tum.length;
+  document.getElementById('pct').title='Denediğin farklı bira stili';
+  document.getElementById('pctAI').textContent=Math.round(aiOwned/(aiIds.length||1)*100)+'% ('+aiOwned+'/'+aiIds.length+')';
   document.getElementById('kTotal').textContent=total;
   document.getElementById('kHave').textContent=have;
   document.getElementById('kTarget').textContent=target;
-  document.getElementById('kValue').textContent=allBottles().filter(b=>state.have.includes(b.id)).reduce((s,b)=>s+(priceOf(b)||0)*qtyOf(b.id),0).toLocaleString('tr-TR');
-  document.getElementById('kTargetVal').textContent=allBottles().filter(b=>state.target.includes(b.id)).reduce((s,b)=>s+(priceOf(b)||0),0).toLocaleString('tr-TR');
+  document.getElementById('kValue').textContent=new Set(allBottles().filter(b=>state.have.includes(b.id)).map(b=>b.ulke)).size;
+  const p=Object.values(state.notes).map(n=>n.p||0).filter(Boolean);
+  document.getElementById('kTargetVal').textContent=p.length?Math.round(p.reduce((a,b)=>a+b,0)/p.length):'—';
 }
 
 
+
+/* ===== STİL REHBERİ (data/stiller.json) ===== */
+function aralik(a,birim){return Array.isArray(a)&&a.length===2?(a[0]===a[1]?a[0]:a[0]+'–'+a[1])+(birim||''):'—';}
+function stilBiralari(id){return allBottles().filter(b=>stilAnahtar(b)===id).sort((a,b)=>(b.puan||0)-(a.puan||0));}
+function renderStil(){
+  const box=document.getElementById('stilBox');if(!box)return;
+  if(!STILLER.length){box.innerHTML='<div class="empty">Stil rehberi yükleniyor…</div>';return;}
+  const q=(document.getElementById('stilAra').value||'').toLocaleLowerCase('tr').trim();
+  const uy=x=>!q||[x.ad,x.tr,x.aile,x.koken,(x.aroma||[]).join(' ')].join(' ').toLocaleLowerCase('tr').includes(q);
+  let html='';
+  AILE_SIRA.forEach(a=>{
+    const st=STILLER.filter(x=>x.aile===a&&uy(x));if(!st.length)return;
+    html+=`<h3 class="stilaile">${AILE_EMOJI[a]||'🍺'} ${g$(a)} <span>${st.length} stil</span></h3><div class="stilgrid">`+st.map(x=>{
+      const n=stilBiralari(x.id).length,ok=denenenStiller().has(x.id);
+      return `<div class="stilkart" data-stil="${g$(x.id)}"><div class="sk-ust"><span class="renk buyuk" style="background:${srmRenk(x.srm?(x.srm[0]+x.srm[1])/2:10)}"></span><div><div class="sk-ad">${g$(x.ad)}${ok?' <span title="Denedin" style="color:var(--have)">✓</span>':''}</div>${x.tr&&x.tr!==x.ad?`<div class="sk-tr">${g$(x.tr)}</div>`:''}</div></div>
+        <div class="sk-olcu"><span>%${aralik(x.abv)}</span><span>${aralik(x.ibu)} IBU</span>${n?`<span>${n} bira</span>`:''}</div>
+        <div class="sk-txt">${g$((x.tarif||'').slice(0,110))}${(x.tarif||'').length>110?'…':''}</div></div>`;}).join('')+'</div>';
+  });
+  box.innerHTML=html||'<div class="empty">Aramana uyan stil yok.</div>';
+}
+function openStil(id){
+  const x=STILLER.find(y=>y.id===id);if(!x)return;
+  const bs=stilBiralari(id),ulas=bs.filter(b=>['kolay','tekel','craft'].includes(b.bul));
+  const renk=srmRenk(x.srm?(x.srm[0]+x.srm[1])/2:10);
+  kartAc(`<div class="dt-head"><span class="renk" style="width:46px;height:46px;background:${renk}"></span><div><h3>${g$(x.ad)}</h3><div class="dt-sub">${g$(x.tr||'')}${x.tr?' · ':''}${g$(x.aile)}${x.koken?' · '+g$(x.koken):''}</div></div></div>
+    <div class="dt-grid">
+      <div class="dt-f"><div class="l">Alkol</div><div class="v">%${aralik(x.abv)}</div></div>
+      <div class="dt-f"><div class="l">Acılık</div><div class="v">${aralik(x.ibu)} IBU</div></div>
+      <div class="dt-f"><div class="l">Renk</div><div class="v">${aralik(x.srm)} SRM <span class="renk" style="background:${srmRenk(x.srm?x.srm[0]:5)}"></span><span class="renk" style="background:${srmRenk(x.srm?x.srm[1]:10)}"></span></div></div>
+      <div class="dt-f"><div class="l">Bardak</div><div class="v" style="font-size:13px">${g$(x.bardak||'—')}</div></div>
+      <div class="dt-f"><div class="l">Servis</div><div class="v" style="font-size:13px">${g$(x.sicaklik||'—')}</div></div>
+      <div class="dt-f"><div class="l">Katalogda</div><div class="v">${bs.length} bira</div></div>
+    </div>
+    ${x.tarif?`<div class="dt-sec"><h4>Nasıl bir bira?</h4><div class="dt-txt">${g$(x.tarif)}</div></div>`:''}
+    ${(x.aroma||[]).length?`<div class="dt-sec"><h4>Beklenen tatlar</h4><div class="aromarow">${x.aroma.map(a=>`<span class="aroma">${g$(a)}</span>`).join('')}</div></div>`:''}
+    ${x.tarihce?`<div class="dt-sec"><h4>Tarihçe</h4><div class="dt-txt">${g$(x.tarihce)}</div></div>`:''}
+    ${x.yemek?`<div class="dt-sec"><h4>🍽️ Sofrada</h4><div class="dt-txt">${g$(x.yemek)}</div></div>`:''}
+    ${x.yeni_baslayana?`<div class="dt-sec"><h4>🌱 Nereden başlamalı?</h4><div class="dt-txt">${g$(x.yeni_baslayana)}</div></div>`:''}
+    ${ulas.length?`<div class="dt-sec"><h4>🛒 Türkiye'de bulabileceklerin</h4>${ulas.slice(0,6).map(miniSatir).join('')}</div>`:''}
+    ${bs.length>ulas.length?`<div class="dt-sec"><h4>🌍 Diğer örnekler</h4>${bs.filter(b=>!ulas.includes(b)).slice(0,8).map(miniSatir).join('')}</div>`:''}
+    ${!bs.length&&(x.ornekler||[]).length?`<div class="dt-sec"><h4>Dünyadan örnekler</h4><div class="dt-txt">${x.ornekler.map(g$).join(', ')}</div></div>`:''}`,'st='+encodeURIComponent(id));
+}
+document.addEventListener('click',e=>{const st=e.target.closest('[data-stil]');if(st&&STILLER.length){e.stopPropagation();openStil(st.dataset.stil);}},true);
+document.addEventListener('input',e=>{if(e.target.id==='stilAra')renderStil();});
+
+/* ===== YEMEK & BİRA EŞLEŞTİRME ===== */
+// aile: uyan stil aileleri · stil: stil adında aranacak kelimeler · kacin: kaçınılacaklar (ör. acılıda yüksek IBU)
+const YEMEKLER=[
+ {k:'kebap',e:'🍢',ad:'Izgara köfte, şiş, pirzola',aile:['Koyu Lager & Bock','İngiliz & İrlanda Ale'],stil:/märzen|amber|vienna|dunkel|brown|bock|red ale/i,neden:'Mangalın karamelize kabuğu, kavrulmuş ve karamel maltla aynı dili konuşur; orta gövde eti bastırmadan eşlik eder.'},
+ {k:'aci',e:'🌶️',ad:'Acılı kebap, Adana, çiğ köfte',aile:['Lager & Pilsner','Buğday'],stil:/helles|lager|pils|hefe|weiz|weiss|wit/i,kacin:b=>(b.ibu||0)>35||(b.abv||0)>7,neden:'Acıyı serin, hafif ve az acı bir bira söndürür. Yüksek alkol ve yoğun şerbetçiotu acıyı büyütür; IPA\'dan kaçın.'},
+ {k:'lahmacun',e:'🫓',ad:'Lahmacun, pide, pizza',aile:['Lager & Pilsner','Pale Ale & IPA'],stil:/pils|pale ale|session|kellerbier|helles/i,neden:'Hamur ve domatesin ekşiliği, pilsner\'ın gevrek acılığı ve bisküvi maltıyla ferahlar; pale ale\'ın narenciyesi limonu taklit eder.'},
+ {k:'manti',e:'🥟',ad:'Mantı, yoğurtlu yemekler',aile:['Buğday'],stil:/wit|hefe|weiz|saison|blanc|blanche/i,neden:'Yoğurt ve sarımsağa witbier\'ın kişniş–portakal kabuğu, hefeweizen\'in yumuşak dokusu çok yakışır; saison\'un kuru bitişi ağızı temizler.'},
+ {k:'balik',e:'🐟',ad:'Izgara balık, midye, kalamar',aile:['Lager & Pilsner','Buğday'],stil:/pils|helles|kölsch|kolsch|wit|gose|lager/i,neden:'Narin balık eti hafif, temiz ve gazlı biralarla parlar; witbier limon gibi davranır, gose\'un tuzu deniz ürünlerini sever. (İstiridye ile kuru stout da klasik bir ikilidir.)'},
+ {k:'meze',e:'🫒',ad:'Meze sofrası, beyaz peynir, kavun',aile:['Lager & Pilsner','Buğday','Belçika & Manastır'],stil:/helles|wit|saison|blond|kellerbier|pils/i,neden:'Rakı sofrası gibi çok çeşitli tabaklarda yumuşak, ferah ve hafif baharatlı biralar hiçbir mezeyi ezmez.'},
+ {k:'kuzu',e:'🍖',ad:'Kuzu tandır, kavurma, güveç',aile:['Belçika & Manastır','Koyu Lager & Bock','İngiliz & İrlanda Ale'],stil:/dubbel|bock|brown|scotch|porter|dunkel|amber/i,neden:'Yağlı ve uzun pişen etler, dubbel\'ın kuru meyvesi ve bock\'un dolgun maltıyla derinleşir.'},
+ {k:'sucuk',e:'🌭',ad:'Sucuk, pastırma, füme etler',aile:['Koyu Lager & Bock','Özel & Diğer'],stil:/rauch|märzen|smoke|isli|dunkel|bock/i,neden:'İsli ve baharatlı şarküteriye Bamberg rauchbier\'ı ya da Märzen\'in tostlanmış maltı eşlik eder.'},
+ {k:'burger',e:'🍔',ad:'Hamburger, kanat, kızartma',aile:['Pale Ale & IPA'],stil:/ipa|pale ale|amber/i,neden:'Şerbetçiotu acılığı ve yüksek karbonasyon yağı keser; IPA\'nın reçinemsi aroması ızgara etle güçlü bir ikili yapar.'},
+ {k:'cerez',e:'🥜',ad:'Kuruyemiş, cips, maç önü',aile:['Lager & Pilsner','Pale Ale & IPA'],stil:/pils|lager|ipa|pale/i,neden:'Tuzlu atıştırmalık, gazlı ve ferah bir birayla sonsuz döngüye girer.'},
+ {k:'peynir',e:'🧀',ad:'Olgun peynir tabağı',aile:['Belçika & Manastır','Güçlü & Fıçı Yıllanmış'],stil:/tripel|dubbel|quad|abt|barleywine|trappist|strong/i,neden:'Eski kaşar, tulum ve mavi peynirler trappist\'lerin ve barleywine\'ın yoğun malt–meyve yapısıyla dengelenir.'},
+ {k:'cikolata',e:'🍫',ad:'Çikolatalı tatlı, brownie',aile:['Stout & Porter','Güçlü & Fıçı Yıllanmış'],stil:/stout|porter|imperial/i,neden:'Kavrulmuş malt kahve ve kakao gibidir: çikolata ile benzer tatların buluşması, en güvenli eşleşmelerden biri.'},
+ {k:'baklava',e:'🍯',ad:'Baklava, şerbetli tatlılar',aile:['Güçlü & Fıçı Yıllanmış','Belçika & Manastır'],stil:/quad|barleywine|abt|eisbock|doppelbock|imperial/i,neden:'Şerbetin tatlılığına ancak daha tatlı ve güçlü biralar dayanır; quadrupel ve barleywine\'ın karamel–kuru meyvesi fıstıkla buluşur.'},
+ {k:'meyveli',e:'🍒',ad:'Meyveli tatlı, cheesecake',aile:['Ekşi & Vahşi','Buğday'],stil:/kriek|framboise|fruit|lambic|wit|berliner/i,neden:'Kiraz ve ahududulu lambic\'ler tatlının meyvesini yansıtır, ekşiliği kremayı keser.'},
+ {k:'uzak',e:'🍣',ad:'Suşi, Uzak Doğu mutfağı',aile:['Lager & Pilsner','Buğday'],stil:/rice|japan|lager|wit|pils/i,neden:'Narin ve temiz Japon lager\'ları ile witbier, soya ve zencefili bastırmadan tamamlar.'}
+];
+let YEMEK_SEC='kebap';
+function yemekBiralari(y){
+  const UL={kolay:4,tekel:3,craft:2,zor:-3,yurtdisi:-8};
+  const uy=b=>(y.aile.includes(b.tur)||y.stil.test((b.stil||'')+' '+b.ad))&&!(y.kacin&&y.kacin(b));
+  const skor=b=>(y.stil.test((b.stil||'')+' '+b.ad)?6:0)+(b.puan||0)/4+(UL[b.bul]||0)+(b.ulke==='Türkiye'?2:0)+((state.notes[b.id]||{}).p||0)/10;
+  const hepsi=allBottles().filter(uy).sort((a,b)=>skor(b)-skor(a));
+  return {denenen:hepsi.filter(b=>state.have.includes(b.id)).slice(0,4),onerilen:hepsi.filter(b=>!state.have.includes(b.id)&&b.bul!=='yurtdisi').slice(0,8)};
+}
+function renderYemek(){
+  const box=document.getElementById('yemekBox');if(!box)return;
+  const y=YEMEKLER.find(x=>x.k===YEMEK_SEC)||YEMEKLER[0],{denenen,onerilen}=yemekBiralari(y);
+  const satir=b=>{const t=state.target.includes(b.id);return `<div class="si">${renkNokta(b)}<div class="why"><span class="isimlink" data-detay="${b.id}">${b.ad}</span> <span style="color:var(--muted)">— ${b.stil||b.tur} · <span class="avail av-${b.bul}">${AV_TXT[b.bul]}</span></span></div><span class="price">${fmt(priceOf(b))}</span><button class="btn ${t?'target-on':''}" data-act="target" data-id="${b.id}">${t?'★':'☆'}</button></div>`;};
+  box.innerHTML=`<div class="aromarow" style="margin-bottom:12px">${YEMEKLER.map(x=>`<span class="aroma${x.k===y.k?' on':''}" data-yemek="${x.k}">${x.e} ${x.ad}</span>`).join('')}</div>
+    <div class="sugg"><h3>${y.e} ${y.ad}</h3><p class="dt-txt" style="margin:4px 0 10px">${y.neden}</p>
+      <div class="aromarow" style="margin-bottom:8px">${y.aile.map(a=>`<span class="aroma" style="cursor:default">${a}</span>`).join('')}</div>
+      ${denenen.length?`<h3 style="margin-top:10px;font-size:14px">✓ Denediklerinden</h3>${denenen.map(satir).join('')}`:''}
+      <h3 style="margin-top:10px;font-size:14px">🛒 Bulabileceğin öneriler</h3>${onerilen.map(satir).join('')||'<div class="empty">Uygun bira bulunamadı.</div>'}</div>`;
+}
+document.addEventListener('click',e=>{const y=e.target.closest('[data-yemek]');if(y){YEMEK_SEC=y.dataset.yemek;renderYemek();}});
 
 /* ===== AKILLI: Bütçe önerisi + Boşluk analizi + Karşılaştırma ===== */
 let AK_BUDGET=0, AK_CMP=['','',''];
@@ -2239,7 +2304,7 @@ function runBudget(){
   let html='';
   html+=akCard('🏅 Bütçeyle alınabilecek en kaliteliler', kaliteli.map(b=>akRow(b)).join(''));
   html+=akCard('💡 En iyi puan/fiyat fırsatları', firsat.map(b=>akRow(b)).join(''), 'Liraya en çok kalite veren biralar (puan ≥ 84).');
-  if(hedef.length) html+=akCard('🎯 Hedef listenden alınabilecekler', hedef.map(b=>akRow(b)).join(''));
+  if(hedef.length) html+=akCard('☆ Deneyeceklerinden alınabilecekler', hedef.map(b=>akRow(b)).join(''));
   html+=akCard('🛒 Bütçe sepeti (kaliteyi en çoklayan)', basket.map(b=>akRow(b)).join('')
     +'<div style="display:flex;justify-content:space-between;margin-top:8px;font-weight:800;color:var(--amber2)"><span>'+basket.length+' bira</span><span>'+fmt(basketTot)+' / '+fmt(B)+'</span></div>',
     'Bütçenle en yüksek toplam kaliteyi hedefleyen örnek sepet.');
@@ -2248,7 +2313,7 @@ function runBudget(){
 function runGap(){
   const out=document.getElementById('akGapOut'); if(!out) return;
   const all=allBottles(); const have=all.filter(b=>state.have.includes(b.id));
-  if(!have.length){out.innerHTML='<div style="color:var(--muted);font-size:13px;padding:6px 0">Önce birkaç birayı <b>Elimde Var</b> işaretle; boşlukları ona göre çıkarırım.</div>';return;}
+  if(!have.length){out.innerHTML='<div style="color:var(--muted);font-size:13px;padding:6px 0">Önce birkaç birayı <b>Denedim</b> işaretle; boşlukları ona göre çıkarırım.</div>';return;}
   const haveCats=new Set(have.map(regionCat));
   const haveProfs=new Set(); have.forEach(b=>profilesOf(b).forEach(p=>haveProfs.add(p)));
   const haveTypes=new Set(have.map(b=>b.tur));
@@ -2321,38 +2386,38 @@ function renderAkilli(){
 function makeShareCard(){
   const all=allBottles();
   const have=[...new Set(state.have)].map(id=>all.find(b=>b.id===id)).filter(Boolean);
-  if(!have.length){alert('Önce birkaç birayı Elimde Var işaretle.');return;}
-  const sc=computeScore(state.have), lv=levelOf(sc.total);
+  if(!have.length){alert('Önce birkaç birayı Denedim işaretle.');return;}
+  const nSt=denenenStiller().size, lv=pasaportSeviye(nSt), sc={total:nSt};
   const value=have.reduce((s,b)=>s+(priceOf(b)||0)*qtyOf(b.id),0);
   const units=have.reduce((s,b)=>s+qtyOf(b.id),0);
   const countries=new Set(have.map(b=>b.ulke)).size;
   const dams=new Set(have.map(b=>b.dam)).size;
-  const top=have.slice().sort((a,b)=>(b.puan||0)-(a.puan||0)).slice(0,5);
+  const top=have.slice().sort((a,b)=>(((state.notes[b.id]||{}).p||b.puan||0))-(((state.notes[a.id]||{}).p||a.puan||0))).slice(0,5);
   const W=1080,H=1350,c=document.createElement('canvas');c.width=W;c.height=H;const x=c.getContext('2d');
   const g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,'#22180c');g.addColorStop(1,'#140d05');x.fillStyle=g;x.fillRect(0,0,W,H);
   x.strokeStyle='#e0a83c';x.lineWidth=6;x.strokeRect(28,28,W-56,H-56);
   x.textAlign='center';
   x.fillStyle='#f2c14e';x.font='800 64px system-ui,Arial';x.fillText('🍺 BİRA ATLASI',W/2,130);
-  x.fillStyle='#b9a888';x.font='600 30px system-ui,Arial';x.fillText('Koleksiyonum',W/2,175);
+  x.fillStyle='#b9a888';x.font='600 30px system-ui,Arial';x.fillText('Bira Pasaportum',W/2,175);
   // gurme seviye
   x.fillStyle='#f4ead6';x.font='90px system-ui,Arial';x.fillText(lv.e,W/2,300);
   x.fillStyle='#f2c14e';x.font='800 46px system-ui,Arial';x.fillText(lv.t,W/2,365);
   x.fillStyle='#e0a83c';x.font='800 120px system-ui,Arial';x.fillText(sc.total,W/2,500);
-  x.fillStyle='#8a7a5c';x.font='600 28px system-ui,Arial';x.fillText('Gurme Puanı / 100',W/2,545);
+  x.fillStyle='#8a7a5c';x.font='600 28px system-ui,Arial';x.fillText('stil damgası / '+stilListesi().length,W/2,545);
   // stat boxes
-  const stats=[[have.length,'Farklı Bira'],[units,'Toplam Adet'],[countries,'Ülke'],[dams,'Fabrika']];
+  const stats=[[have.length,'Denenen Bira'],[new Set(have.map(b=>b.tur)).size+'/10','Stil Ailesi'],[countries,'Ülke'],[dams,'Fabrika']];
   const bw=(W-120)/4;
   stats.forEach((s,i)=>{const bx=60+i*bw;x.fillStyle='#2b2012';x.fillRect(bx+6,600,bw-12,120);x.strokeStyle='#4a3a1e';x.lineWidth=2;x.strokeRect(bx+6,600,bw-12,120);
     x.fillStyle='#f2c14e';x.font='800 44px system-ui,Arial';x.fillText(s[0],bx+bw/2,665);
     x.fillStyle='#b9a888';x.font='600 21px system-ui,Arial';x.fillText(s[1],bx+bw/2,700);});
   // value
-  x.fillStyle='#7fbf6a';x.font='800 52px system-ui,Arial';x.fillText(value.toLocaleString('tr-TR')+' TL',W/2,800);
-  x.fillStyle='#8a7a5c';x.font='600 26px system-ui,Arial';x.fillText('Dolap Değeri',W/2,838);
+  const pn=Object.values(state.notes).map(n=>n.p||0).filter(Boolean);x.fillStyle='#7fbf6a';x.font='800 52px system-ui,Arial';x.fillText(pn.length?Math.round(pn.reduce((a,b)=>a+b,0)/pn.length)+' / 100':'—',W/2,800);
+  x.fillStyle='#8a7a5c';x.font='600 26px system-ui,Arial';x.fillText('Ortalama puanım',W/2,838);
   // top 5
   x.textAlign='left';x.fillStyle='#f2c14e';x.font='800 34px system-ui,Arial';x.fillText('★ En İyi 5',70,920);
   top.forEach((b,i)=>{const y=975+i*68;
     x.fillStyle='#2b2012';x.fillRect(70,y-38,W-140,56);
-    x.fillStyle='#e0a83c';x.font='800 30px system-ui,Arial';x.textAlign='left';x.fillText((b.puan||'—')+'',92,y);
+    x.fillStyle='#e0a83c';x.font='800 30px system-ui,Arial';x.textAlign='left';x.fillText((((state.notes[b.id]||{}).p)||b.puan||'—')+'',92,y);
     x.fillStyle='#f4ead6';x.font='600 28px system-ui,Arial';
     let name=b.ad;while(x.measureText(name).width>760&&name.length>4){name=name.slice(0,-2);} if(name!==b.ad)name+='…';
     x.fillText(name,175,y);});
@@ -2360,92 +2425,51 @@ function makeShareCard(){
   x.textAlign='center';x.fillStyle='#8a7a5c';x.font='600 24px system-ui,Arial';
   const d=new Date().toLocaleDateString('tr-TR');
   x.fillText('Bira Atlası  ·  '+d,W/2,H-60);
-  c.toBlob(bl=>{const u=URL.createObjectURL(bl);const a=document.createElement('a');a.href=u;a.download='bira-koleksiyonum.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);},'image/png');
+  c.toBlob(bl=>{const u=URL.createObjectURL(bl);const a=document.createElement('a');a.href=u;a.download='bira-pasaportum.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);},'image/png');
 }
 
 function renderStats2(){
   const box=document.getElementById('statsBox'); if(!box) return;
-  const all=allBottles();
-  const haveIds=[...new Set(state.have)];
-  const have=haveIds.map(id=>all.find(b=>b.id===id)).filter(Boolean);
-  if(!have.length){ box.innerHTML='<div class="note" style="padding:24px;text-align:center">Henüz <b>Elimde Var</b> işaretli biran yok. Keşfet sekmesinden ekledikçe burada koleksiyonunun istatistikleri oluşur. 🍺</div>'; return; }
-  const units=have.reduce((s,b)=>s+qtyOf(b.id),0);
-  const value=have.reduce((s,b)=>s+(priceOf(b)||0)*qtyOf(b.id),0);
-  const targets=[...new Set(state.target)].map(id=>all.find(b=>b.id===id)).filter(Boolean);
-  const targetVal=targets.reduce((s,b)=>s+(priceOf(b)||0),0);
-  const dams=new Set(have.map(b=>b.dam)).size;
-  const countries=new Set(have.map(b=>b.ulke)).size;
-  const regions=new Set(have.map(b=>b.bolge).filter(Boolean)).size;
-  const puans=have.map(b=>b.puan||0).filter(Boolean);
-  const avg=puans.length?Math.round(puans.reduce((s,x)=>s+x,0)/puans.length*10)/10:0;
-  const priced=have.filter(b=>priceOf(b)>0);
-  const pricey=priced.slice().sort((a,b)=>priceOf(b)-priceOf(a))[0];
-  const best=have.slice().sort((a,b)=>(b.puan||0)-(a.puan||0))[0];
-  const mostQty=have.slice().sort((a,b)=>qtyOf(b.id)-qtyOf(a.id))[0];
-  const avgBottle=priced.length?Math.round(value/units):0;
-
+  const have=allBottles().filter(b=>state.have.includes(b.id));
+  if(!have.length){ box.innerHTML='<div class="note" style="padding:24px;text-align:center">Henüz <b>Denedim</b> işaretli biran yok. Keşfet sekmesinden işaretledikçe burada bira yolculuğunun istatistikleri oluşur. 🍺</div>'; return; }
+  const not=id=>(state.notes[id]||{}).p||0;
+  const puanli=have.filter(b=>not(b.id));
+  const ort=puanli.length?Math.round(puanli.reduce((s,b)=>s+not(b.id),0)/puanli.length):0;
+  const fav=puanli.slice().sort((a,b)=>not(b.id)-not(a.id))[0];
+  const guclu=have.slice().sort((a,b)=>(b.abv||0)-(a.abv||0))[0];
+  const aci=have.filter(b=>b.ibu).sort((a,b)=>b.ibu-a.ibu)[0];
   const card=(lbl,val,sub)=>'<div style="background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;min-width:0">'
     +'<div style="color:var(--muted);font-size:12px;font-weight:700">'+lbl+'</div>'
-    +'<div style="color:var(--amber2);font-size:22px;font-weight:800;line-height:1.2;margin-top:2px">'+val+'</div>'
+    +'<div style="color:var(--amber2);font-size:20px;font-weight:800;line-height:1.25;margin-top:2px">'+val+'</div>'
     +(sub?'<div style="color:var(--muted2);font-size:11px;margin-top:2px">'+sub+'</div>':'')+'</div>';
-
-  // bar list builder
-  function bars(title,pairs,unit){
+  function bars(title,pairs){
     if(!pairs.length) return '';
     const max=Math.max(...pairs.map(p=>p[1]))||1;
-    let rows=pairs.map(p=>{
-      const w=Math.round(p[1]/max*100);
-      return '<div style="display:flex;align-items:center;gap:8px;margin:4px 0">'
-        +'<div style="width:120px;flex:0 0 120px;font-size:12px;color:var(--txt);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+p[0]+'</div>'
-        +'<div style="flex:1;background:var(--bg2);border-radius:6px;overflow:hidden;height:16px"><div style="height:100%;width:'+w+'%;background:linear-gradient(90deg,#d8a13a,#f2c14e);border-radius:6px"></div></div>'
-        +'<div style="width:64px;flex:0 0 64px;text-align:right;font-size:12px;color:var(--muted);font-weight:700">'+p[1].toLocaleString('tr-TR')+(unit||'')+'</div></div>';
-    }).join('');
-    return '<div style="background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-top:12px">'
-      +'<div style="font-weight:800;color:var(--amber2);font-size:14px;margin-bottom:6px">'+title+'</div>'+rows+'</div>';
+    return '<div style="background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-top:12px"><div style="font-weight:800;color:var(--amber2);font-size:14px;margin-bottom:6px">'+title+'</div>'
+      +pairs.map(p=>'<div style="display:flex;align-items:center;gap:8px;margin:4px 0"><div style="width:130px;flex:0 0 130px;font-size:12px;color:var(--txt);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+p[0]+'</div>'
+        +'<div style="flex:1;background:var(--bg2);border-radius:6px;overflow:hidden;height:16px"><div style="height:100%;width:'+Math.round(p[1]/max*100)+'%;background:linear-gradient(90deg,#d8a13a,#f2c14e);border-radius:6px"></div></div>'
+        +'<div style="width:40px;flex:0 0 40px;text-align:right;font-size:12px;color:var(--muted);font-weight:700">'+p[1]+'</div></div>').join('')+'</div>';
   }
-  // count helper (by units)
-  function tally(keyFn){const m={};have.forEach(b=>{const k=keyFn(b);if(k==null||k==='')return;m[k]=(m[k]||0)+qtyOf(b.id);});return Object.entries(m).sort((a,b)=>b[1]-a[1]);}
-  function tallyVal(keyFn){const m={};have.forEach(b=>{const k=keyFn(b);if(k==null||k==='')return;m[k]=(m[k]||0)+(priceOf(b)||0)*qtyOf(b.id);});return Object.entries(m).sort((a,b)=>b[1]-a[1]);}
-
-  const byCountry=tally(b=>b.ulke).slice(0,8);
-  const byType=tally(b=>b.tur);
-  const byRegion=tally(b=>b.bolge).slice(0,8);
-  const sevMap={'Premium':'🏆 Efsane','2':'Seçkin','3':'Gündelik'};
-  const bySev=tally(b=>sevMap[b.sev]||b.sev);
-  const valByCountry=tallyVal(b=>b.ulke).slice(0,8).map(p=>[p[0],Math.round(p[1])]);
-
-  // flavor tally
-  const fm={};
-  have.forEach(b=>{const fl=flavorsOf(b);fl.forEach(x=>{fm[x]=(fm[x]||0)+qtyOf(b.id);});});
-  const byFlavor=Object.entries(fm).sort((a,b)=>b[1]-a[1]).slice(0,10);
-
-  // price buckets
-  const buckets=[['< 150 TL',0,150],['150–250',150,250],['250–400',250,400],['400–800',400,800],['800+',800,1e12]];
-  const pb=buckets.map(bk=>{let c=0;have.forEach(b=>{const p=priceOf(b)||0;if(p>=bk[1]&&p<bk[2])c+=qtyOf(b.id);});return [bk[0],c];}).filter(x=>x[1]>0);
-
-  const cards='<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px">'
-    +card('Dolap Değeri', value.toLocaleString('tr-TR')+' TL', units+' adet')
-    +card('Farklı Bira', have.length, dams+' fabrika · '+countries+' ülke')
-    +card('Ortalama Puan', avg||'—', best?('En yüksek: '+(best.puan||'—')):'')
-    +card('Adet Başı Ort.', avgBottle?avgBottle.toLocaleString('tr-TR')+' TL':'—', regions+' bölge')
-    +card('Hedef Maliyeti', targetVal.toLocaleString('tr-TR')+' TL', targets.length+' hedef bira')
-    +'</div>';
-
-  const hi='<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-top:12px">'
-    +(pricey?card('💎 En Pahalı', pricey.ad, fmt(priceOf(pricey))):'')
-    +(best?card('🏆 En Yüksek Puan', best.ad, (best.puan||'—')+' / 100'):'')
-    +(mostQty&&qtyOf(mostQty.id)>1?card('📦 En Çok Adet', mostQty.ad, qtyOf(mostQty.id)+' adet'):'')
-    +'</div>';
-
-  const shareBtn='<div style="margin:0 0 4px"><button id="shareCardBtn" style="background:linear-gradient(180deg,#f2c14e,#d8a13a);color:#1a1208;border:none;border-radius:10px;padding:9px 16px;font-weight:800;cursor:pointer;font-size:14px">📸 Koleksiyon kartı oluştur</button> <span style="color:var(--muted2);font-size:12px">PNG indir, paylaş</span></div>';
-  box.innerHTML = shareBtn + cards + hi
-    + bars('🌍 Ülke dağılımı (adet)', byCountry)
-    + bars('🍺 Stil ailesi dağılımı (adet)', byType)
-    + bars('📍 Bölge dağılımı (adet)', byRegion)
-    + bars('🎖️ Fabrika seviyesi (adet)', bySev)
-    + bars('🍯 Tat profili (adet)', byFlavor)
-    + bars('💰 Fiyat aralığı (adet)', pb)
-    + bars('💵 Ülkeye göre değer (TL)', valByCountry, ' TL');
+  const say=f=>{const m={};have.forEach(b=>{const k=f(b);if(k)m[k]=(m[k]||0)+1;});return Object.entries(m).sort((a,b)=>b[1]-a[1]);};
+  const abvAr=[['< %4.5',0,4.5],['%4.5–5.5',4.5,5.5],['%5.5–7',5.5,7],['%7–9',7,9],['%9+',9,99]];
+  const fm={};have.forEach(b=>flavorsOf(b).forEach(x=>{fm[x]=(fm[x]||0)+1;}));
+  const aileOrt=Object.entries(have.reduce((m,b)=>{if(not(b.id)){(m[b.tur]=m[b.tur]||[]).push(not(b.id));}return m;},{})).map(([k,v])=>[k,Math.round(v.reduce((a,b)=>a+b,0)/v.length)]).sort((a,b)=>b[1]-a[1]);
+  box.innerHTML='<div style="margin:0 0 4px"><button id="shareCardBtn" style="background:linear-gradient(180deg,#f2c14e,#d8a13a);color:#1a1208;border:none;border-radius:10px;padding:9px 16px;font-weight:800;cursor:pointer;font-size:14px">📸 Bira pasaportu kartı oluştur</button> <span style="color:var(--muted2);font-size:12px">PNG indir, paylaş</span></div>'
+    +'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px">'
+    +card('Denenen bira',have.length,new Set(have.map(b=>b.dam)).size+' fabrika')
+    +card('Stil damgası',denenenStiller().size+' / '+stilListesi().length,new Set(have.map(b=>b.tur)).size+'/10 stil ailesi')
+    +card('Ülke',new Set(have.map(b=>b.ulke)).size,new Set(have.map(b=>b.ulke+'|'+b.bolge)).size+' bölge')
+    +card('Ortalama puanın',ort||'—',puanli.length+' biraya puan verdin')
+    +'</div><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-top:12px">'
+    +(fav?card('❤️ Favorin',fav.ad,'senin puanın '+not(fav.id)):'')
+    +(guclu?card('💪 En güçlüsü',guclu.ad,'%'+guclu.abv):'')
+    +(aci?card('🌿 En acısı',aci.ad,aci.ibu+' IBU'):'')
+    +'</div>'
+    +bars('❤️ Stil ailesine göre ortalama puanın',aileOrt)
+    +bars('🍺 Stil ailesi (adet)',say(b=>b.tur))
+    +bars('🌍 Ülke (adet)',say(b=>b.ulke).slice(0,10))
+    +bars('💪 Alkol aralığı (adet)',abvAr.map(r=>[r[0],have.filter(b=>(b.abv||0)>=r[1]&&(b.abv||0)<r[2]).length]).filter(x=>x[1]))
+    +bars('🍯 Tat profili (adet)',Object.entries(fm).sort((a,b)=>b[1]-a[1]).slice(0,10));
   const sb=document.getElementById('shareCardBtn'); if(sb) sb.onclick=makeShareCard;
 }
 
@@ -2504,12 +2528,13 @@ document.querySelectorAll('.chip[data-avail]').forEach(c=>c.onclick=()=>{
   if(activeAvail.has(a)){activeAvail.delete(a);c.classList.remove('on');}else{activeAvail.add(a);c.classList.add('on');}
   renderTree();
 });
+document.addEventListener('click',e=>{const m=e.target.closest('[data-agacmod]');if(!m)return;AGAC_MOD=m.dataset.agacmod;try{localStorage.setItem('bira_agac_mod',AGAC_MOD);}catch(x){}renderTree();});
 document.getElementById('ncfChip').onclick=function(){ncfOnly=!ncfOnly;this.classList.toggle('on',ncfOnly);renderTree();};
 /* ===== AĞAÇ SEVİYELERİ: 0 Ülkeler · 1 Bölgeler · 2 Fabrikalar · 3 Şişeler ===== */
 function agacOgeleri(f){
   // Filtrelere uyan şişelerden ülke, bölge ve fabrika anahtarları (isteğe bağlı kapsam filtresi f)
   const u=new Set(),r=new Set(),d=new Set();
-  allBottles().filter(passFilters).filter(f||(()=>true)).forEach(b=>{u.add(b.ulke);r.add(b.ulke+'|'+b.bolge);d.add(damKey(b));});
+  allBottles().filter(passFilters).filter(f||(()=>true)).forEach(b=>{u.add(K1(b));r.add(K1(b)+'|'+K2(b));d.add(damKey(b));});
   return {u,r,d};
 }
 function aramaVar(){return document.getElementById('search').value.trim().length>=2;}
@@ -2547,13 +2572,13 @@ document.addEventListener('click',e=>{
   const b=e.target.closest('[data-agac]');if(!b)return;
   e.stopPropagation();
   const u=b.dataset.u,r=b.dataset.r,ac=b.dataset.agac==='ac';
-  if(b.dataset.kapsam==='u')seviyeUygula(ac?3:1,x=>x.ulke===u);
-  else seviyeUygula(ac?3:2,x=>x.ulke===u&&x.bolge===r);
+  if(b.dataset.kapsam==='u')seviyeUygula(ac?3:1,x=>K1(x)===u);
+  else seviyeUygula(ac?3:2,x=>K1(x)===u&&K2(x)===r);
 },true);
 // Sekme → çizim fonksiyonu. Sadece açık sekme çizilir (eskiden her işaretlemede 13 sekmenin
 // hepsi yeniden çiziliyordu); sekmeye geçince o sekme güncel durumla yeniden çizilir.
 const RENDER={explore:renderTree,experts:renderExperts,ai:renderAI,magazin:renderMagazin,ncf:renderNCF,katman:renderKatman,
-  stats:renderStats2,gece:renderGece,kulup:renderKulup,akilli:renderAkilli,harita:()=>{renderTree();renderHarita();},gurme:renderGurme,personal:renderPersonal,notes:renderNotes,mylist:renderMyList,fiyat:renderFiyat};
+  stats:renderStats2,gece:renderGece,kulup:renderKulup,akilli:renderAkilli,harita:()=>{renderTree();renderHarita();},gurme:renderGurme,yemek:renderYemek,stil:renderStil,personal:renderPersonal,notes:renderNotes,mylist:renderMyList,fiyat:renderFiyat};
 const lastInGroup={};
 function showGroup(g){
   document.querySelectorAll('.grp').forEach(x=>x.classList.toggle('active',x.dataset.group===g));
@@ -2654,7 +2679,7 @@ document.getElementById('restoreFile').onchange=(e)=>{
     const d=JSON.parse(r.result);const s=d.state||d;
     if(!s.have&&!s.target){alert('Geçersiz yedek dosyası.');return;}
     state={have:s.have||[],target:s.target||[],prices:s.prices||{},custom:s.custom||[],qty:s.qty||{},notes:s.notes||{}};
-    save();renderAll();alert('Yedek yüklendi ✓  ('+state.have.length+' elimde, '+state.target.length+' hedef)');
+    save();renderAll();alert('Yedek yüklendi ✓  ('+state.have.length+' denendi, '+state.target.length+' denenecek)');
   }catch(err){alert('Dosya okunamadı: '+err.message);}};
   r.readAsText(f);e.target.value='';
 };
@@ -2742,8 +2767,8 @@ function openDetay(id){
     ${nt&&nt.t?`<div class="dt-sec"><h4>Senin notun</h4><div class="dt-txt">${esc(nt.t)}</div></div>`:''}
     <div class="dt-sec"><h4>Benzer biralar</h4>${benzerler(b).map(x=>`<div class="mini">${thumb(x)}<div><div class="nm"><span class="isimlink" data-detay="${x.id}">${x.ad}</span></div><div class="meta">${x.bolge} · ${x.puan||'—'} puan</div></div><span class="price">${fmt(priceOf(x))}</span></div>`).join('')}</div>
     <div class="dt-acts">
-      <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${id}">${haveOn?'✓ Elimde':'+ Elimde'}</button>
-      <button class="btn ${targetOn?'target-on':''}" data-act="target" data-id="${id}">${targetOn?'★ Hedef':'☆ Hedefe ekle'}</button>
+      <button class="btn ${haveOn?'have-on':''}" data-act="have" data-id="${id}">${haveOn?'✓ Denedim':'+ Denedim'}</button>
+      <button class="btn ${targetOn?'target-on':''}" data-act="target" data-id="${id}">${targetOn?'★ Denenecek':'☆ Denenecek'}</button>
       <button class="btn" data-taste="${id}">📝 Tadım notu</button>
       <button class="btn" data-page="${esc(pageURL(b))}">🔎 Untappd</button>
       <button class="btn" data-paylas="${id}">🔗 Paylaş</button>
@@ -2753,7 +2778,7 @@ function openDetay(id){
 }
 function closeDetay(){
   DETAY_ID=null;document.getElementById('detayBg').classList.remove('on');
-  if(/^#([sdb]=|qr$)/.test(location.hash))history.replaceState(null,'',location.pathname+location.search);
+  if(/^#([sdb]=|st=|qr$)/.test(location.hash))history.replaceState(null,'',location.pathname+location.search);
 }
 document.addEventListener('click',e=>{
   if(e.target.id==='detayBg'||e.target.closest('[data-detay-kapat]')){closeDetay();return;}
@@ -2772,6 +2797,27 @@ window.addEventListener('hashchange',hashAc);
 
 /* ===== DAMITIMEVİ KARTLARI, BÖLGE REHBERLERİ, TADIM NOTLARI (data/*.json) ===== */
 let DAMS={},BOLGELER={},TADIM={};
+// Stil rehberi (data/stiller.json). Yüklenmezse katalogdaki stil adları kullanılır.
+let STILLER=[],SRM_RENK={};
+const sadeStil=t=>String(t||'').toLocaleLowerCase('tr').replace(/[^a-z0-9ğüşıöç]+/g,' ').trim();
+function stilAnahtar(b){return b.sid||('x:'+sadeStil(b.stil||b.tur));}
+function stilListesi(){
+  if(STILLER.length)return STILLER;
+  const m=new Map();allBottles().forEach(b=>{const k=stilAnahtar(b);if(!m.has(k))m.set(k,{id:k,ad:b.stil||b.tur,tr:'',aile:b.tur});});
+  return [...m.values()];
+}
+function stilBul(id){return stilListesi().find(x=>x.id===id);}
+function denenenStiller(){return new Set(allBottles().filter(b=>state.have.includes(b.id)).map(stilAnahtar));}
+function srmRenk(v){
+  if(!v)return '';const k=Math.max(1,Math.min(40,Math.round(v)));
+  if(SRM_RENK[k])return SRM_RENK[k];
+  // Yedek: SRM→RGB yaklaşık eğrisi
+  const r=Math.round(Math.min(255,Math.max(0,255*Math.pow(0.975,k)))),g=Math.round(Math.min(255,Math.max(0,245*Math.pow(0.88,k)))),bb=Math.round(Math.min(255,Math.max(0,220*Math.pow(0.7,k))));
+  return `rgb(${r},${g},${bb})`;
+}
+function biraSrm(b){const st=b.sid&&stilBul(b.sid);if(st&&st.srm)return (st.srm[0]+st.srm[1])/2;
+  return {'Lager & Pilsner':4,'Buğday':5,'Pale Ale & IPA':8,'Belçika & Manastır':12,'İngiliz & İrlanda Ale':14,'Ekşi & Vahşi':10,'Koyu Lager & Bock':22,'Güçlü & Fıçı Yıllanmış':28,'Stout & Porter':38,'Özel & Diğer':12}[b.tur]||10;}
+function renkNokta(b){return `<span class="renk" style="background:${srmRenk(biraSrm(b))}" title="Renk (SRM ~${Math.round(biraSrm(b))})"></span>`;}
 function bolgeAnahtar(b){return (b.ulke||'')+'|'+(b.bolge||'');}
 function miniSatir(x){return `<div class="mini">${thumb(x)}<div><div class="nm"><span class="isimlink" data-detay="${x.id}">${x.ad}</span></div><div class="meta">${x.dam} · ${x.puan||'—'} puan · <span class="avail av-${x.bul}">${AV_TXT[x.bul]||x.bul}</span></div></div><span class="price">${fmt(priceOf(x))}</span></div>`;}
 function kartAc(html,hash){
@@ -2816,11 +2862,11 @@ document.addEventListener('click',e=>{
   const dm=e.target.closest('[data-dam]');if(dm){e.stopPropagation();openDam(dm.dataset.dam);return;}
   const bl=e.target.closest('[data-bolge]');if(bl){e.stopPropagation();openBolge(bl.dataset.bolge);return;}
 },true);
-Promise.all(['fabrikalar','bolgeler','tadim'].map(f=>fetch('data/'+f+'.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}))))
-  .then(([d,b,t])=>{DAMS=d;BOLGELER=b;TADIM=t;renderAll();hashAc2();});
+Promise.all(['fabrikalar','bolgeler','tadim','stiller'].map(f=>fetch('data/'+f+'.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}))))
+  .then(([d,b,t,st])=>{DAMS=d;BOLGELER=b;TADIM=t;STILLER=st.stiller||[];SRM_RENK=st.srm_renk||{};renderAll();hashAc2();});
 function hashAc2(){
   const h=decodeURIComponent(location.hash);
-  if(h.startsWith('#d='))openDam(h.slice(3));else if(h.startsWith('#b='))openBolge(h.slice(3));
+  if(h.startsWith('#d='))openDam(h.slice(3));else if(h.startsWith('#b='))openBolge(h.slice(3));else if(h.startsWith('#st='))openStil(h.slice(4));
 }
 
 /* ===== HARİTA (Leaflet; data/konumlar.json) ===== */
@@ -2915,8 +2961,8 @@ function haritaCiz(){
   }
   const not=document.getElementById('haritaNot');
   if(not&&!sis.length&&HMod==='hepsi')not.textContent='Arama ve filtrelere uyan bira yok.';
-  else if(not&&HMod!=='hepsi'&&!sis.length)not.textContent=HMod==='elimde'?'Henüz "Elimde" işaretlediğin bira yok; işaretledikçe haritan dolacak.':'Henüz hedef bira seçmedin.';
-  else if(not)not.textContent='Daireler bölgedeki bira sayısını gösterir; yakınlaştırınca bira fabrikaları belirir (yeşil = elinde olan birası var). Bir yere dokununca alttaki listede orası açılır; rehber ve kartlar için listedeki 📖 ve ℹ️ butonlarını kullan. Listede arama yaparsan harita da ona göre süzülür.';
+  else if(not&&HMod!=='hepsi'&&!sis.length)not.textContent=HMod==='elimde'?'Henüz "Denedim" işaretlediğin bira yok; işaretledikçe haritan dolacak.':'Henüz "Denenecek" bira seçmedin.';
+  else if(not)not.textContent='Daireler bölgedeki bira sayısını gösterir; yakınlaştırınca bira fabrikaları belirir (yeşil = denediğin birası var). Bir yere dokununca alttaki listede orası açılır; rehber ve kartlar için listedeki 📖 ve ℹ️ butonlarını kullan. Listede arama yaparsan harita da ona göre süzülür.';
 }
 document.addEventListener('click',e=>{
   const hm=e.target.closest('[data-hmod]');
@@ -3037,7 +3083,7 @@ async function bulutBaglan(kod){
     sosyalBirlestir(so);
     renderAll();renderBulut();
     if(yerelDolu){BULUT.kirli=true;lsYaz('bira_bulut_kirli',true);await bulutGonder();bulutDurum('☁️ Bağlandı; bu cihazdaki liste buluttakiyle birleştirildi.');}
-    else bulutDurum('☁️ Bağlandı; listen bu cihaza geldi ('+state.have.length+' elimde, '+state.target.length+' hedef).');
+    else bulutDurum('☁️ Bağlandı; listen bu cihaza geldi ('+state.have.length+' denendi, '+state.target.length+' denenecek).');
   }catch(e){bulutDurum('⚠️ '+e.message,true);}
 }
 function bulutKes(){
@@ -3244,7 +3290,7 @@ function renderGece(){
         <label>Tadılacak şişeler (en fazla 12; sıra = örnek numarası)
           <div style="display:flex;gap:8px"><input id="gSiseAra" list="gSiseListe" placeholder="Şişe adı yaz ve seç…" style="flex:1"><button class="btn" data-gece="ekle">Ekle</button></div>
           <datalist id="gSiseListe">${allBottles().map(b=>`<option value="${g$(b.ad)}">`).join('')}</datalist></label>
-        ${elimde.length?`<div><div style="font-size:12px;color:var(--muted2);margin-bottom:4px">Elimdekilerden hızlı ekle:</div><div class="gsec">${elimde.slice(0,30).map(b=>`<span style="cursor:pointer" data-gece-hizli="${b.id}">+ ${g$(b.ad)}</span>`).join('')}</div></div>`:''}
+        ${elimde.length?`<div><div style="font-size:12px;color:var(--muted2);margin-bottom:4px">Denediklerinden hızlı ekle:</div><div class="gsec">${elimde.slice(0,30).map(b=>`<span style="cursor:pointer" data-gece-hizli="${b.id}">+ ${g$(b.ad)}</span>`).join('')}</div></div>`:''}
         <div class="gsec" id="gSecilen"></div>
         <label style="display:flex;align-items:center;gap:8px;flex-direction:row"><input type="checkbox" id="gKor"> 🎭 Kör tadım: şişelerin adı ben açıklayana kadar gizli kalsın</label>
         <div style="display:flex;gap:8px;flex-wrap:wrap"><button class="eklebtn" style="margin:0" data-gece="olustur">🍺 Geceyi oluştur</button><button class="btn" data-sosyal="gece-form">Vazgeç</button></div>
