@@ -2,6 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
+<script>if(/github\.io$/.test(location.hostname))location.replace('https://bira-atlas.pages.dev/'+location.search+location.hash);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bira Atlası · Koleksiyon Takibi</title>
 <link rel="manifest" href="manifest.webmanifest">
@@ -676,7 +677,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 </div>
 
   <p class="note">💾 İşaretlemelerin ve fiyat düzenlemelerin bu tarayıcıda otomatik kaydedilir. Fiyatlar Ekim 2026 yaklaşık Türkiye perakende referansıdır (belirtilen hacim için); mağazaya ve ÖTV zamlarına göre değişir. <span id="fiyatDurum"></span> <a href="#" id="resetBtn">↺ Tüm seçimleri sıfırla</a></p>
-  <p class="note" style="margin-top:4px">🥃 Kardeş site: <a href="https://viski-atlas.netlify.app" target="_blank" rel="noopener" style="color:var(--amber2)">Viski Atlası</a> — 1000+ viski, aynı mantıkla.</p>
+  <p class="note" style="margin-top:4px">🥃 Kardeş site: <a href="https://viski-atlas.pages.dev" target="_blank" rel="noopener" style="color:var(--amber2)">Viski Atlası</a> — 1000+ viski, aynı mantıkla.</p>
 </div>
 
 <script>
@@ -3318,7 +3319,7 @@ function makeShareCard(){
   // footer
   x.textAlign='center';x.fillStyle='#8a7a5c';x.font='600 24px system-ui,Arial';
   const d=new Date().toLocaleDateString('tr-TR');
-  x.fillText('Bira Atlası  ·  '+d,W/2,H-60);
+  x.fillText('bira-atlas.pages.dev  ·  '+d,W/2,H-60);
   c.toBlob(bl=>{const u=URL.createObjectURL(bl);const a=document.createElement('a');a.href=u;a.download='bira-pasaportum.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);},'image/png');
 }
 

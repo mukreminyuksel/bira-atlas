@@ -1,7 +1,7 @@
 # 🍺 Bira Atlası
 
-Türkiye odaklı, Türkçe bira kataloğu ve kişisel bira günlüğü — [Viski Atlası](https://viski-atlas.netlify.app)'nın kardeşi.
-Yayın: https://mukreminyuksel.github.io/bira-atlas/ (Cloudflare Pages'e taşınınca bulut/sosyal bölümler açılacak).
+Türkiye odaklı, Türkçe bira kataloğu ve kişisel bira günlüğü — [Viski Atlası](https://viski-atlas.pages.dev)'nın kardeşi.
+Yayın: https://bira-atlas.pages.dev (Cloudflare Pages; eski GitHub Pages adresi buraya yönlendirir).
 
 ## İçerik
 - **1150+ bira**, 74 ülke; Türkiye'den 150'ye yakın bira (Efes, Tuborg, Bomonti ve Gara Guzu, 3 Kafadar, SOMX, DAS, à santé, Kubau, Knidos… gibi craft'lar), KKTC.
