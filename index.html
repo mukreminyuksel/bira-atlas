@@ -460,6 +460,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div class="tab" data-group="sosyal" data-view="kulup">🏛️ Kulüplerim</div>
     <div class="tab" data-group="sosyal" data-view="topluluk">🌐 Topluluk</div>
     <div class="tab" data-group="kaynak" data-view="kaynak">📚 Kaynaklar</div>
+    <div class="tab" data-group="kaynak" data-view="satis">🛒 Nereden Alınır</div>
   </nav>
 
   <section id="view-explore">
@@ -600,6 +601,10 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div id="fiyatBox"></div>
   </section>
   <section id="view-gece" class="hidden"><div id="geceKutu"></div></section>
+  <section id="view-satis" class="hidden">
+    <p class="intro">Nereden alınır? Uzman dükkânlar, zincir mağazalar ve havalimanı duty-free'leri. Mağazaların kendi sitelerine ve Instagram hesaplarına bağlantı veriyoruz; fiyat ve stok için mağazaya danışın.</p>
+    <div id="satisBox"></div>
+  </section>
   <section id="view-kulup" class="hidden"><div id="kulupKutu"></div></section>
   <section id="view-topluluk" class="hidden">
     <p class="intro">Türkiye'nin bira topluluğu: bira yorumcuları, ev birası (homebrew) grupları, forumlar, bira okulları, podcast'ler ve festivaller. Liste araştırmayla derlendi ve yalnızca yakın zamanda aktif olduğu görülenleri içerir; liste her güncellemede yeniden kontrol edilir.</p>
@@ -1978,7 +1983,7 @@ function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "KKTC": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹", "Bulgaristan": "🇧🇬", "Endonezya": "🇮🇩", "Ermenistan": "🇦🇲", "Fas": "🇲🇦", "Filistin": "🇵🇸", "Jamaika": "🇯🇲", "Kamboçya": "🇰🇭", "Kongo DC": "🇨🇩", "Kosova": "🇽🇰", "Küba": "🇨🇺", "Lübnan": "🇱🇧", "Sri Lanka": "🇱🇰", "Tanzanya": "🇹🇿", "Tayvan": "🇹🇼", "Tunus": "🇹🇳", "Uganda": "🇺🇬", "Ürdün": "🇯🇴", "İsrail": "🇮🇱", "İsviçre": "🇨🇭", "Şili": "🇨🇱"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Avusturya", "Japonya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Brezilya", "Norveç", "İsviçre", "Çin", "Estonya", "İsveç", "Galler", "Portekiz", "Tayland", "Güney Kore", "Rusya", "İsrail", "Lübnan", "Finlandiya", "Şili", "Gürcistan", "Arjantin", "Litvanya", "Vietnam", "Filistin", "Letonya", "İzlanda", "Güney Afrika", "Hindistan", "Jamaika", "Ukrayna", "Singapur", "Sri Lanka", "Ermenistan", "Ürdün", "Bulgaristan", "Fas", "Uganda", "Laos", "Namibya", "Küba", "Kongo DC", "Kosova", "Tanzanya", "Kolombiya", "Endonezya", "Lüksemburg", "Venezuela", "Kamboçya", "Nijerya", "Etiyopya", "Tunus", "Peru", "Tayvan", "Kenya", "Filipinler", "Kıbrıs"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Avusturya", "Japonya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Brezilya", "İsviçre", "Norveç", "Çin", "İsveç", "Estonya", "Galler", "Tayland", "Portekiz", "Arjantin", "İsrail", "Şili", "Lübnan", "Vietnam", "Finlandiya", "Rusya", "Litvanya", "Güney Kore", "Gürcistan", "İzlanda", "Hindistan", "Güney Afrika", "Jamaika", "Filistin", "Ukrayna", "Letonya", "Nijerya", "Lüksemburg", "Kıbrıs", "Filipinler", "Ermenistan", "Tunus", "Kongo DC", "Singapur", "Tanzanya", "Laos", "Bulgaristan", "Kamboçya", "Etiyopya", "Kosova", "Venezuela", "Uganda", "Kolombiya", "Tayvan", "Küba", "Fas", "Sri Lanka", "Namibya", "Kenya", "Endonezya", "Ürdün", "Peru"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -3478,6 +3483,287 @@ const FAMOUS=[
 "a-sante-vienna-lager"
 ],
 "tr": true
+},
+{
+"g": "karakter",
+"e": "🎩",
+"ad": "Cingöz Recai",
+"rol": "Peyami Safa'nın 'Server Bedi' takma adıyla yazdığı beyefendi hırsız-dedektif (roman, 1924)",
+"blurb": "😄 Bizce: Kitaplarda bira bardağı değil, Paşa konaklarının kasası var. Ama 1920'lerin İstanbul'unda Sherlock Holmes'u atlatan birine Feriköy'deki Bomonti'nin köpüğü yakışır.",
+"picks": [
+"bomonti-filtresiz",
+"bomonti-pilsner"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Gragas",
+"rol": "League of Legends (oyun, 2009)",
+"blurb": "🎮 Oyunda: Mükemmel bira peşindeki 'Ayak Takımının Elebaşı'; Freljord buzullarında bulduğu erimeyen buz parçası lager'ını hem güçlendiriyor hem ideal sıcaklıkta tutuyor. Bizce buzla yoğunlaştırılmış Eisbock.",
+"picks": [
+"kulmbacher-eisbock",
+"schneider-aventinus-eisbock"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Brewmaster (Mangix)",
+"rol": "Dota 2 (oyun, 2013)",
+"blurb": "🎮 Oyunda: Oyo Tarikatı keşişleri malt ve şerbetçiotuyla kendi içkilerini yapıp kutsal sarhoşlukla ruhlar âlemine ulaşır. Mangix unvanı dokuz gün süren sarhoş düelloyla kazandı. Bizce keşiş birası: Trappist.",
+"picks": [
+"westvleteren-12",
+"st-bernardus-abt-12"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Chen Stormstout",
+"rol": "Warcraft III / World of Warcraft (oyun, 2003-)",
+"blurb": "🎮 Oyunda: Egzotik malzeme peşinde dünyayı dolaşan efsanevi Pandaren biracı; Mists of Pandaria'da atalarının Stormstout Bira Fabrikası'nı geri alıp başına geçer. Bizce soyadına uygun bir stout ve bir Tsingtao.",
+"picks": [
+"guinness-foreign-extra-stout",
+"tsingtao"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Harth Stonebrew",
+"rol": "Hearthstone (oyun, 2014)",
+"blurb": "🎮 Oyunda: Hearthstone'un hanını işleten cüce Hancı; oyunun yüzü, eğitim maçlarının sunucusu, Sarge adında bir faresi var. Soyadı bile 'Taşbira'. Bizce han ocağının yanında koyu bir İngiliz ale.",
+"picks": [
+"theakston-old-peculier",
+"orkney-dark-island"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Henry (Skalitzli)",
+"rol": "Kingdom Come: Deliverance 1-2 (oyun, 2018/2025)",
+"blurb": "🎮 Oyunda: Bohemya meyhanelerinde bira testisiyle içer; fazla kaçırırsa ertesi sabah akşamdan kalma, bulanık ekran ve düşük statlarla uyanır. 'İçki' bile ayrı bir yetenek. Bizce Bohemya'ya Çek koyu lager'ı.",
+"picks": [
+"budvar-tmavy-lezak",
+"bernard-cerny-lezak",
+"pilsner-urquell"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Oghren",
+"rol": "Dragon Age: Origins (oyun, 2009)",
+"blurb": "🎮 Oyunda: Ale'ye düşkün, çoğu zaman sarhoş cüce berserker; ona içki hediye edince onayı artar, en çok da ale'ye bayılır. Kampta bir sohbetin sonunda 'ASSLESS CHAPS!' diye bağırıp yere yığılır. Bizce sert bir İngiliz ale.",
+"picks": [
+"wychwood-hobgoblin",
+"fullers-esb"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Deep Rock Galactic cüceleri",
+"rol": "Deep Rock Galactic (oyun, 2020)",
+"blurb": "🎮 Oyunda: Uzay madenci cücelerin üssünde Abyss Bar var; Blackreach Blonde içen dans etmeye başlar, Skull Crusher Ale ve Blackout Stout menüde, 'Leaf Lover's Special' ise sarhoşluğu siler. Bizce kafatası kıran gerçek bir İskoç.",
+"picks": [
+"orkney-skull-splitter",
+"guinness-draught"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Barney Calhoun",
+"rol": "Half-Life / Half-Life 2 (oyun, 1998/2004)",
+"blurb": "🎮 Oyunda: Black Mesa güvenlikçileri 'Sonra yakala beni, sana bir bira ısmarlayayım' derdi; Half-Life 2'nin başında Barney Gordon'a 'Şimdi... sana borçlu olduğum o bira' diye takılır. Borç hâlâ ödenmedi. Bizce bir PBR.",
+"picks": [
+"pabst-blue-ribbon",
+"samuel-adams-boston-lager"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Duke Nukem",
+"rol": "Duke Nukem Forever (oyun, 2011)",
+"blurb": "🎮 Oyunda: Eski oyunların taşınabilir ilk yardım çantasının yerini bira almış: 40 onsluk kutuyu içince hasar %75 azalır ama görüş bulanıklaşır. Striptiz kulübündeki 8 birayı devirmenin başarımı bile var. Bizce kutu Amerikan lager.",
+"picks": [
+"coors-banquet",
+"budweiser"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Pam",
+"rol": "Stardew Valley (oyun, 2016)",
+"blurb": "🎮 Oyunda: Otobüs şoförü; her akşam 16.00'dan sonra Stardrop Saloon'a yürüyen, Gus'ın en sadık müşterisi. En sevdiği hediyeler arasında Beer, Pale Ale ve Mead var. Bizce Pelikan Kasabası'na sade bir Amerikan pale ale.",
+"picks": [
+"sierra-nevada-pale-ale",
+"oskar-blues-dales-pale-ale"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Varric Tethras",
+"rol": "Dragon Age II / Inquisition (oyun, 2011/2014)",
+"blurb": "🎮 Oyunda: Kirkwall'daki Hanged Man meyhanesinin süitinden ailesinin işlerini yöneten cüce hikâye anlatıcısı. Tavsiyesi: 'Bira kuruyemişlerinden yiyeceksen önce kıpırdamadıklarından emin ol.' Bizce tavernaya bir bitter.",
+"picks": [
+"timothy-taylor-landlord",
+"harveys-sussex-best-bitter"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Calradia savaş beyi",
+"rol": "Mount & Blade II: Bannerlord (oyun, 2020; TaleWorlds, Ankara)",
+"blurb": "🎮 Oyunda: Türk yapımı Calradia'da şehirlere bira imalathanesi kurup tahıldan bira üretebilir, kervanla satabilirsiniz; bira talebi şehrin refahıyla artar. Yeter ki her şehir aynı fikre kapılmasın. Bizce yerli bir craft.",
+"picks": [
+"gara-guzu-amber-ale",
+"trokya-dakka",
+"efes-pilsen"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Guybrush Threepwood",
+"rol": "The Secret of Monkey Island (oyun, 1990)",
+"blurb": "🎮 Oyunda: SCUMM Bar'daki korsanların grogunda 'gazyağı, sülfürik asit, rom, aseton, akü asidi ve/veya pepperoni' var; Guybrush onunla Otis'in hücre kilidini eritir. 😄 Grog bira değil; bizce korsana Piraat.",
+"picks": [
+"piraat",
+"fullers-london-porter"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Tapper barmeni",
+"rol": "Tapper (oyun, arcade, 1983)",
+"blurb": "🎮 Oyunda: Dört tezgâhta susamış müşterilere bardak kaydıran barmen. Anheuser-Busch sponsorluydu; ilk makinelerin kolları gerçek Budweiser musluklarıydı. Çocuklar için 1984'te 'Root Beer Tapper' oldu. Bizce elbette Bud.",
+"picks": [
+"budweiser",
+"budweiser-budvar-original"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Ragnar Thunderbrew",
+"rol": "World of Warcraft (oyun, 2004)",
+"blurb": "🎮 Oyunda: Dun Morogh'un karlı Kharanos kasabasındaki Thunderbrew Distillery, dünyanın en iyi ale'lerinden bazılarıyla ünlü cüce hanı; mahzeninde 'Thunder Ale' fıçıları durur. Bizce karlı dağ cücesine güçlü bir İskoç ale.",
+"picks": [
+"traquair-house-ale",
+"founders-dirty-bastard"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Dwarf Fortress cüceleri",
+"rol": "Dwarf Fortress (oyun, 2006)",
+"blurb": "🎮 Oyunda: Cüceler mevsimde ortalama dört kez içki ister; su içmeye mecbur kalınca yavaşlar, mutsuzlaşır. Hafif çakırkeyif cüce daha verimli çalışır. Bizce cüceye cüce: etiketinde cüce olan La Chouffe.",
+"picks": [
+"la-chouffe",
+"gulden-draak"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Joe Barbaro",
+"rol": "Mafia II (oyun, 2010)",
+"blurb": "🎮 Oyunda: 1945'te izinli gelen Vito'yu 'Hadi bir bira içelim' diye bara götürüp kadeh tokuşturur; 1951'de Lone Star barında acısını içkiyle boğup ortalığı birbirine katar. Bizce Empire Bay'e 50'lerin Amerikan lager'ı.",
+"picks": [
+"pabst-blue-ribbon",
+"yuengling-traditional-lager"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Johnny Silverhand",
+"rol": "Cyberpunk 2077 (oyun, 2020)",
+"blurb": "🎮 Oyunda: Afterlife'ın efsane içkisi 'The Johnny Silverhand': tekilalı old fashioned, üstüne bir miktar bira, süs olarak acı biber. İçen 'Sarhoş' olur, nişanı yarıya düşer. Bizce birası Meksikalı olsun.",
+"picks": [
+"negra-modelo",
+"modelo-especial"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Mordecai",
+"rol": "Borderlands 2 (oyun, 2012)",
+"blurb": "🎮 Oyunda: 'Rakkaholics Anonymous' görevinde Hodunk'ların Rakk Ale kaçakçı aracından fıçıları vurup Mordecai'ye getirirsiniz. Etiket uyarısı: 'Rakk-ale yeniden etiketlenmiş tiner. İçmeyin.' Bizce Pandora çölüne gerçek bir IPA.",
+"picks": [
+"stone-ipa",
+"ballast-point-sculpin"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Reinhardt Wilhelm",
+"rol": "Overwatch (oyun, 2016)",
+"blurb": "🎮 Oyunda: Koca zırhlı Alman şövalyenin kuşanılabilir bir repliği tek kelime: 'Beer!' Oyuncular bunu öteki repliklerle birleştirip 'Onur… ve bira!' yaptı; Blizzard mağazası adına bira kupası bile sattı. Bizce Münih.",
+"picks": [
+"augustiner-lagerbier-hell",
+"paulaner-oktoberfest-bier"
+]
+},
+{
+"g": "karakter",
+"e": "🎮",
+"ad": "Roman Bellic",
+"rol": "Grand Theft Auto IV (oyun, 2008)",
+"blurb": "🎮 Oyunda: Niko'nun 'kuzen'i; bara gitmeyi her zaman sever, bu yüzden bira içmeye çağırmak arkadaşlığı hızla artırır. Sarhoş dönüşte taksi en akıllıcası. Bizce Liberty City'deki Doğu Avrupalıya bir Baltika.",
+"picks": [
+"baltika-3-classic",
+"zywiec"
+]
+},
+{
+"g": "karakter",
+"e": "🎩",
+"ad": "Arsen Lüpen",
+"rol": "Maurice Leblanc'ın beyefendi hırsızı (roman, 1905)",
+"blurb": "😄 Bizce: Lüpen sayfalarda bira köpüğüyle anılmıyor; kılık değiştirip Herlock Sholmès'ü atlatmakla meşgul. Fransız centilmen hırsıza Kuzey Fransa'nın bière de garde'ı ya da şık bir 1664 Blanc.",
+"picks": [
+"jenlain-ambree",
+"1664-blanc"
+]
+},
+{
+"g": "karakter",
+"e": "⚔️",
+"ad": "Kara Murat",
+"rol": "Rahmi Turan ve Abdullah Turhan'ın çizgi romanı (1971), Cüneyt Arkın filmleri",
+"blurb": "😄 Bizce: Fatih'in fedaisi bira değil, şerbet içer, o da kılıç kınına girdiyse. Bizans'ı yarıp geçen birine İstanbul'un yerli köpüğü: Bomonti Black ya da güçlü bir Efes Xtra.",
+"picks": [
+"bomonti-black",
+"efes-xtra"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "⚔️",
+"ad": "Malkoçoğlu",
+"rol": "Ayhan Başoğlu'nun çizgi romanı (1964), Cüneyt Arkın filmleri",
+"blurb": "😄 Bizce: Akıncı beyinin heybesinde bira yok, sınır boylarında at koşturmaktan vakit kalmıyor. Yine de yorgun akıncıya Trakya'dan bir craft: Trokya Kuzgun, yanında Gara Guzu Porter.",
+"picks": [
+"trokya-kuzgun",
+"gara-guzu-porter"
+],
+"tr": true
 }
 ];
 let openMag=new Set();
@@ -3524,7 +3810,7 @@ const KAR_TURLER=[['hepsi','Tümü'],['gecer','✅ Eserde geçenler'],['dizi','�
 const MAGF={tur:'hepsi',q:''};
 function karTur(f){
   const r=(f.rol||'').toLocaleLowerCase('tr'),t=[];
-  if(/^(📺|📖)/.test(f.blurb||''))t.push('gecer');
+  if(/^(📺|📖|🎮)/.test(f.blurb||''))t.push('gecer');
   if(/çizgi|anime|manga|bonelli|marvel|dc\)|animasyon/.test(r))t.push('cizgi');
   else{if(/dizi|sitcom/.test(r))t.push('dizi');if(/film/.test(r))t.push('film');if(/roman|öykü|hikâye|kitap/.test(r))t.push('roman');}
   if(/oyun|video/.test(r))t.push('oyun');
@@ -4368,7 +4654,7 @@ document.addEventListener('click',e=>{
 // Sekme → çizim fonksiyonu. Sadece açık sekme çizilir (eskiden her işaretlemede 13 sekmenin
 // hepsi yeniden çiziliyordu); sekmeye geçince o sekme güncel durumla yeniden çizilir.
 const RENDER={explore:renderTree,experts:renderExperts,ai:renderAI,magazin:renderMagazin,ncf:renderNCF,katman:renderKatman,
-  stats:renderStats2,gece:renderGece,kulup:renderKulup,akilli:renderAkilli,harita:()=>{renderTree();renderHarita();},gurme:renderGurme,yemek:renderYemek,topluluk:renderTopluluk,stil:renderStil,turkiye:renderTurkiye,personal:renderPersonal,notes:renderNotes,mylist:renderMyList,fiyat:renderFiyat};
+  stats:renderStats2,gece:renderGece,kulup:renderKulup,satis:renderSatis,akilli:renderAkilli,harita:()=>{renderTree();renderHarita();},gurme:renderGurme,yemek:renderYemek,topluluk:renderTopluluk,stil:renderStil,turkiye:renderTurkiye,personal:renderPersonal,notes:renderNotes,mylist:renderMyList,fiyat:renderFiyat};
 const lastInGroup={};
 function showGroup(g){
   document.querySelectorAll('.grp').forEach(x=>x.classList.toggle('active',x.dataset.group===g));
@@ -5274,6 +5560,26 @@ document.addEventListener('click',async e=>{
 });
 document.addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.id==='gSiseAra'){e.preventDefault();geceSiseEkle(e.target.value);e.target.value='';}});
 
+/* ===== NEREDEN ALINIR (data/satis.json) ===== */
+let SATIS=null,SATIS_F='';
+const SATIS_TUR={butik:['🏬','Uzman dükkânlar'],craft:['🍺','Craft dükkânları & birahaneler'],zincir:['🛒','Zincir mağazalar'],'duty-free':['✈️','Havalimanı duty-free'],yurtdisi:['🌍','Yurt dışı (yalnızca fiyat karşılaştırması)']};
+function renderSatis(){
+  const box=document.getElementById('satisBox');if(!box)return;
+  if(SATIS===null){SATIS={yerler:[]};fetch('data/satis.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).then(d=>{SATIS={yasal_not:d.yasal_not||'',yerler:(d.yerler||[]).filter(x=>x.site==='bira'||x.site==='ikisi')};renderSatis();}).catch(()=>{});box.innerHTML='<div class="empty">Yükleniyor…</div>';return;}
+  const Y=SATIS.yerler;
+  if(!Y.length){box.innerHTML='<div class="empty">Liste hazırlanıyor.</div>';return;}
+  const turler=Object.keys(SATIS_TUR).filter(t=>Y.some(x=>x.tur===t));
+  let html=SATIS.yasal_not?`<div class="ipucu" style="margin-bottom:12px">⚖️ ${g$(SATIS.yasal_not)}</div>`:'';
+  html+=`<div class="aromarow" style="margin-bottom:12px"><span class="aroma${!SATIS_F?' on':''}" data-satistur="">Hepsi (${Y.length})</span>${turler.map(t=>`<span class="aroma${SATIS_F===t?' on':''}" data-satistur="${t}">${SATIS_TUR[t][0]} ${SATIS_TUR[t][1]} (${Y.filter(x=>x.tur===t).length})</span>`).join('')}</div>`;
+  turler.filter(t=>!SATIS_F||SATIS_F===t).forEach(t=>{
+    html+=`<h3 class="stilaile">${SATIS_TUR[t][0]} ${SATIS_TUR[t][1]}</h3><div class="stilgrid">`+Y.filter(x=>x.tur===t).map(x=>`<div class="stilkart" style="cursor:default">
+      <div class="sk-ad">${g$(x.ad)}</div>
+      <div class="sk-olcu">${x.sehir?`<span>📍 ${g$(x.sehir)}</span>`:''}</div>
+      <div class="sk-txt">${g$(x.not||'')}</div>
+      <div class="ulinkler">${x.web?`<a class="ulink" href="${g$(x.web)}" target="_blank" rel="noopener nofollow">🌐 Site</a>`:''}${x.instagram?`<a class="ulink" href="${g$(x.instagram)}" target="_blank" rel="noopener nofollow">📷 Instagram</a>`:''}</div></div>`).join('')+'</div>';});
+  box.innerHTML=html;
+}
+document.addEventListener('click',e=>{const t=e.target.closest('[data-satistur]');if(t){SATIS_F=t.dataset.satistur;renderSatis();}});
 /* ===== KULÜP (davetle kapalı topluluk) ===== */
 let KULUP={id:null,davet:null,veri:null,geceler:[]};
 const kuluplerim=()=>lsAl('bira_kulupler',{});
