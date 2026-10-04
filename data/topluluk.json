@@ -519,6 +519,171 @@
    "aciklama": "Urla'da konserli Octoberfest buluşması (16–17 Ekim 2026).",
    "aktiflik": "2026'da aktif",
    "kaynak": "https://izmirmag.net/festival/"
+  },
+  {
+   "tur": "dernek",
+   "ad": "Moda Bira Kulübü",
+   "hesap": "Moda Bira Kulübü",
+   "url": "https://www.facebook.com/modabirakulubu/",
+   "sehir": "İstanbul (Kadıköy)",
+   "aciklama": "Kadıköy'de bira kültürünü ve ev biracılığını geliştirmeyi amaçlayan, Moda'daki mekânlarda bira ve ev birası tadımları düzenleyen sosyal kulüp.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "http://modabirakulubu.com/etkinlikler/",
+   "dogrulama": "curl"
+  },
+  {
+   "tur": "blog",
+   "ad": "Bira Akademisi",
+   "hesap": "@biraakademisi",
+   "url": "https://www.biraakademisi.com/",
+   "sehir": "İstanbul",
+   "aciklama": "Bira kültürü, ev biracılığı, stil rehberleri (IPA, buğday birası) ve İstanbul craft bira mekânları üzerine Türkçe blog.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://www.biraakademisi.com/istanbulda-craft-bira-icebileceginiz-en-iyi-mekanlar/",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "etkinlik",
+   "ad": "TÜBİKOK Ev Birası Yarışması 2026",
+   "hesap": "TÜBİKOK",
+   "url": "http://www.tubikok.com/public/homebrew-results",
+   "sehir": "İstanbul (Beşiktaş)",
+   "aciklama": "29 Mart 2026'da IF Performance Hall Beşiktaş'ta yapılan, IPA, Weizen, deneysel gibi kategorilerde sonuçları yayımlanan ev birası yarışması.",
+   "aktiflik": "aktif",
+   "kaynak": "http://www.tubikok.com/public/homebrew-results",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Zeplin Pub & Delicatessen",
+   "hesap": "@zeplinpub",
+   "url": "https://www.instagram.com/zeplinpub/",
+   "sehir": "İstanbul (Kadıköy, Bağdat Caddesi)",
+   "aciklama": "Yerli ve yabancı craft bira seçkisi sunan Bağdat Caddesi'ndeki pub ve şarküteri.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://istanbultouristpass.com/blog/food-drink/beer-culture-in-istanbul",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "instagram",
+   "ad": "DAS Bira",
+   "hesap": "@dasbrewingco",
+   "url": "https://www.dasbira.com/en",
+   "sehir": "Kırklareli (Lüleburgaz)",
+   "aciklama": "\"Old Queen Barling\" barleywine'ıyla 2025 European Beer Challenge altın madalyası alan bağımsız craft bira üreticisi.",
+   "aktiflik": "aktif",
+   "kaynak": "https://untappd.com/dasbira",
+   "dogrulama": "curl"
+  },
+  {
+   "tur": "instagram",
+   "ad": "LOKAL Beer Cafe",
+   "hesap": "@lokalbeercafe",
+   "url": "https://www.instagram.com/lokalbeercafe/",
+   "sehir": "Kırklareli (Lüleburgaz)",
+   "aciklama": "Lüleburgaz'ın bira odaklı pub'ı; DAS Bira ile aynı şehirde craft bira içilebilecek mekân.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://www.lokalbeercafe.com/",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "etkinlik",
+   "ad": "Craft Beer Lab",
+   "hesap": "Craft Beer Lab",
+   "url": "https://www.timeout.com/istanbul/bars-and-pubs/craft-beer-lab",
+   "sehir": "İstanbul (Beşiktaş, Akaretler)",
+   "aciklama": "Akaretler'de çok sayıda musluktan yerli ve yabancı craft bira sunan bira barı (bağlantı Time Out tanıtımına).",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://www.timeout.com/istanbul/bars-and-pubs/craft-beer-lab",
+   "dogrulama": "curl"
+  },
+  {
+   "tur": "etkinlik",
+   "ad": "Rast Bira Bahçesi – Craft seçkisi",
+   "hesap": "rastbirabahcesi.com",
+   "url": "https://rastbirabahcesi.com/craft/",
+   "sehir": "İzmir (Karşıyaka, Atakent)",
+   "aciklama": "Her ay ulusal craft akımından 10 farklı yerli birayı (Gara Guzu, Trokya, 3 Kafadar vb.) musluğa alan bira bahçesi.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://rastbirabahcesi.com/craft/",
+   "dogrulama": "curl"
+  },
+  {
+   "tur": "instagram",
+   "ad": "rePUBlic İzmir",
+   "hesap": "@republicizmir",
+   "url": "https://www.instagram.com/republicizmir/",
+   "sehir": "İzmir (Alsancak)",
+   "aciklama": "Kendini \"şehrin craft bira noktası\" olarak tanıtan Alsancak pub'ı.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://www.instagram.com/republicizmir/",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Madame Prokopp",
+   "hesap": "@madameprokopp",
+   "url": "https://www.instagram.com/madameprokopp/",
+   "sehir": "İzmir (Alsancak)",
+   "aciklama": "Kendi ürettiği biralar, atıştırmalıklar ve sanat etkinlikleri sunan, Feliz Kulpa gibi yerel biralara yer veren Alsancak mekânı.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://madameprokopp.com/brews_/",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Trokya Beer",
+   "hesap": "@trokyabeer",
+   "url": "https://www.instagram.com/trokyabeer/",
+   "sehir": "Türkiye geneli",
+   "aciklama": "Aralık 2019'da ilk üç birasını çıkaran, Kuzgun Oatmeal Stout'uyla bilinen ve birkaç ayda bir yeni lezzet tanıtan craft bira markası.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://rastbirabahcesi.com/craft/",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "instagram",
+   "ad": "Bira Atölyesi",
+   "hesap": "@bira.atolyesi",
+   "url": "https://www.instagram.com/bira.atolyesi/",
+   "sehir": "İstanbul (Bahçeşehir), Tekirdağ (Çorlu)",
+   "aciklama": "Bahçeşehir ve Çorlu'da şubeleri olan, geniş bira menüsüyle bilinen birahane; Instagram'da 50 bini aşkın takipçi.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://www.facebook.com/biraatolyesicorlu/",
+   "dogrulama": "arama"
+  },
+  {
+   "tur": "festival",
+   "ad": "Oktoberfest Ankara 2026 (ODTÜ Vişnelik)",
+   "hesap": "festivall.com.tr",
+   "url": "https://festivall.com.tr/festival/14746/oktoberfest-ankara/",
+   "sehir": "Ankara",
+   "aciklama": "27 Eylül 2026'da ODTÜ Mezunları Derneği Vişnelik Çim Amfi'de konserli Oktoberfest bira şenliği.",
+   "aktiflik": "aktif",
+   "kaynak": "https://www.yeniankara.com.tr/ankara/ankara-festival-takvimi-2026-eylul-ve-ekimde-hangi-festivaller-var-183328",
+   "dogrulama": "curl"
+  },
+  {
+   "tur": "festival",
+   "ad": "Oktoberfest 2026 – JW Marriott Ankara",
+   "hesap": "biletimgo.com",
+   "url": "https://www.biletimgo.com/etkinlik/oktoberfest-2026-ankara-31384",
+   "sehir": "Ankara",
+   "aciklama": "17 Ekim 2026'da JW Marriott Ankara'da Bavyera mutfağı, müzik ve oyunlarla düzenlenen Oktoberfest.",
+   "aktiflik": "aktif",
+   "kaynak": "https://www.biletimgo.com/etkinlik/oktoberfest-2026-ankara-31384",
+   "dogrulama": "curl"
+  },
+  {
+   "tur": "etkinlik",
+   "ad": "Beerzone Kaleiçi (Untappd)",
+   "hesap": "Beerzone",
+   "url": "https://untappd.com/v/beerzone/4829192",
+   "sehir": "Antalya (Kaleiçi)",
+   "aciklama": "Kaleiçi'nde dünya biraları sunan bira barı; Untappd'de check-in'leri izlenebiliyor.",
+   "aktiflik": "bilinmiyor",
+   "kaynak": "https://antalyacityzone.com/sehrini-tani/antalyada-is-cikisi-biralayacak-7-mekan/115",
+   "dogrulama": "curl"
   }
  ]
 }
