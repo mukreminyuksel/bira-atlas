@@ -1,0 +1,2456 @@
+{
+ "tadim": {
+  "a-sante-west-coast-ipa": {
+   "b": "Çam reçinesi, greyfurt kabuğu ve çiçeksi şerbetçiotu; Centennial-Amarillo-Simcoe üçlüsü belirgin",
+   "d": "Münih maltından gelen hafif karamel-ekmek tabanı üstünde iddialı, kuru bir acılık",
+   "f": "Uzun, reçineli ve acı",
+   "s": "IPA ya da tulip bardak, 6-8°C; fish & chips, Meksika mutfağı (taco, acılı yemekler)",
+   "kaynak": "https://asantebrewery.com/tr/beer/westcoast-ipa-bira/"
+  },
+  "a-sante-saison": {
+   "b": "Belçika mayasından muz ve turunçgil, hafif baharat",
+   "d": "Açık renkli, içimi kolay, kuru ve aromatik",
+   "f": "Kısa-orta, ferah ve hafif biberimsi",
+   "s": "Tulip ya da saison bardağı, 7-9°C; kızarmış tavuk, falafel, Tay mutfağı",
+   "kaynak": "https://asantebrewery.com/tr/beer/saison-bira/"
+  },
+  "a-sante-summer-lager": {
+   "b": "Lime ve greyfurt kabuğu, hafif tahıl",
+   "d": "Hafif gövde, dengeli malt, turunçgilli serinletici içim",
+   "f": "Kısa, temiz ve ferah",
+   "s": "Pilsner ya da silindir bardak, 3-5°C; her yemekle uyumlu, özellikle salata ve deniz ürünleri",
+   "kaynak": "https://asantebrewery.com/tr/beer/summer-lager/"
+  },
+  "gara-guzu-weiss": {
+   "b": "Narenciyeden egzotik meyveye uzanan canlı aroma; buğday maltından ekmeksi taban",
+   "d": "Buğulu turuncu, tok ve dolgun; tatlımsı-ekşimsi nüanslar, Belçika tarzına yakın, düşük acılık (IBU 18)",
+   "f": "Ferah, hafif mayhoş",
+   "s": "İnce uzun weizen bardağı, iyi soğutulmuş (5-7°C); balık, deniz ürünleri, Asya mutfağı, limonlu tatlılar",
+   "kaynak": "https://degustasyon.net/gara-guzu-weiss-bier-mugla/"
+  },
+  "gara-guzu-ters-kose": {
+   "b": "Vic Secret ve Galaxy'den tropik meyve, çarkıfelek ve ananas; Celeia'dan çiçeksi ton",
+   "d": "Pilsner ve Bohem pilsner maltıyla açık, temiz lager gövdesi; belirgin ama dengeli acılık (IBU 35)",
+   "f": "Kuru, meyvemsi-acı",
+   "s": "Pilsner ya da IPA bardağı, 5-7°C; acılı tavuk, balık taco, mezeler",
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  "das-bagaj-degaj": {
+   "b": "Dry hop kaynaklı narenciye ve çiçeksi şerbetçiotu",
+   "d": "Açık sarı, berrak, dengeli; hafif malt üstünde ferah şerbetçiotu",
+   "f": "Temiz, hafif acımsı ve ferahlatıcı",
+   "s": "Tulip ya da pint bardak, 5-7°C; salatalar, ızgara tavuk, hafif deniz ürünleri",
+   "kaynak": "https://www.dasbira.com/biralar"
+  },
+  "das-diesdos": {
+   "b": "Kavrulmuş malt, ekmek kabuğu, hafif kakao",
+   "d": "Derin kahverengi Çek tarzı koyu lager; iki ay sıfır derecede dinlendirilmiş, yumuşak ve temiz",
+   "f": "Kuru, hafif kavrulmuş",
+   "s": "Çek tipi kulplu bardak (tuplák), 6-8°C; sosis, kavurma, ızgara köfte",
+   "kaynak": "https://www.dasbira.com/biralar"
+  },
+  "das-primitif-red-ipa": {
+   "b": "Çam reçinesi, erik ve olgun kırmızı meyve; altında karamelize malt",
+   "d": "Buğulu maun renk, dolgun gövde; şerbetçiotu burukluğuna meyankökü ve karamel eşlik ediyor",
+   "f": "Uzun, reçineli ve hafif karamelli",
+   "s": "Tulip ya da IPA bardağı, 10-12°C; şarküteri, ızgara kırmızı et, burger",
+   "kaynak": "https://degustasyon.net/primitif-red-ipa-kirklareli/"
+  },
+  "gara-guzu-tango": {
+   "b": "Greyfurt, turunç ve tropik meyve (Citra/Mosaic tarzı sulu şerbetçiotu)",
+   "d": "Buğulu sarı, yumuşak ve dolgun; aromatik, düşük-orta acılık",
+   "f": "Canlı, meyvemsi ve ferah",
+   "s": "Kutu yerine teku ya da IPA bardağı, 6-8°C; acılı tavuk, baharatlı karides, midye",
+   "kaynak": "https://degustasyon.net/gara-guzu-tango-nepa-mugla/"
+  },
+  "gara-guzu-ucurtma-pils": {
+   "b": "Narenciye kabuğu ve otsu şerbetçiotu, hafif tahıl",
+   "d": "Filtresiz, buğulu; klasik pilsnerden biraz daha ağır, canlı ve keskin",
+   "f": "Kuru, hafif acı",
+   "s": "Pilsner bardağı, 6-8°C; kızartmalar, acılı tavuk kanadı, baharatlı beyaz etler",
+   "kaynak": "https://degustasyon.net/gara-guzu-ucurtma-pils-mugla/"
+  },
+  "3-kafadar-okto": {
+   "b": "Hafif karamel ve ekmek; turunç ve mandalina dokunuşu",
+   "d": "Buğulu kehribar, orta-dolgun gövde; Oktoberfest biralarını andıran yuvarlak malt",
+   "f": "Orta uzunlukta, hafif şerbetçiotlu",
+   "s": "Krug ya da Willi bardak, 8-10°C; şarküteri, sosis, ızgara et",
+   "kaynak": "https://degustasyon.net/3-kafadar-okto-istanbul/"
+  },
+  "3-kafadar-american": {
+   "b": "Turunç, greyfurt ve mandalina; %100 Amerikan şerbetçiotu",
+   "d": "Bakır kızılı, berrak; yoğun şerbetçiotu burukluğu, canlı ve ferah",
+   "f": "Damakta kalıcı, acımsı-narenciyeli",
+   "s": "Shaker pint ya da tulip, 6-8°C; acılı yemekler, egzotik mutfaklar, burger",
+   "kaynak": "https://degustasyon.net/3-kafadar-american-istanbul/"
+  },
+  "pablo-weiss": {
+   "b": "Muz ve egzotik meyve; tipik buğday birası esteri",
+   "d": "Buğulu altın sarısı, hafif içimli, yumuşak ve ferah",
+   "f": "Kısa, yumuşak",
+   "s": "Weizen bardağı, 6°C civarı; Asya ve füzyon mutfağı, baharatlı beyaz etler",
+   "kaynak": "https://degustasyon.net/pablo-weissbier-bodrum/"
+  },
+  "pablo-pils": {
+   "b": "Alman maltı, Amerikan şerbetçiotundan turunçgil ve tropik meyve",
+   "d": "Koyu altın, filtresiz ve hafif buğulu; dolgun, malt ve şerbetçiotu belirgin",
+   "f": "Kısa",
+   "s": "Pilsner bardağı, 6°C; gün içi serinlemek ya da baharatlı yemekler",
+   "kaynak": "https://degustasyon.net/pablo-pils-bodrum/"
+  },
+  "torch-honey-pepper-ale": {
+   "b": "Kuru meyve ve tatlı baharat",
+   "d": "Kehribar renk; bal ve biber çeşnisi hafifçe seziliyor, ince gövde",
+   "f": "Kısa, hafif biberli",
+   "s": "Tulip bardak, 6-8°C; acılı tavuk kanadı, Asya mutfağı",
+   "kaynak": "https://degustasyon.net/torch-honey-pepper-ale-istanbul/"
+  },
+  "torch-red-ale": {
+   "b": "Turunç reçeli, karamel ve tatlı baharat",
+   "d": "Kızıl kehribar, tok içimli, malt ağırlıklı",
+   "f": "Orta, karamelli",
+   "s": "Pint ya da nonic bardak, 8-10°C; şarküteri, kırmızı et, az acılı kebaplar",
+   "kaynak": "https://degustasyon.net/torch-brewery-red-ale-istanbul-3/"
+  },
+  "torch-pilsner": {
+   "b": "Hafif malt, az şerbetçiotu",
+   "d": "Pilsner için koyuca kehribar renk; yumuşak, malt ağırlıklı",
+   "f": "Kısa",
+   "s": "Pilsner bardağı, 4-6°C; meze, ızgara tavuk",
+   "kaynak": "https://degustasyon.net/torch-brewery-pilsner-istanbul/"
+  },
+  "knidos-pilsner": {
+   "b": "Pilsner maltı ve hafif limon kabuğu",
+   "d": "Buğulu altın, dolgun ve ferahlatıcı; Çek tarifiyle üç tür şerbetçiotu",
+   "f": "Temiz, hafif acımsı",
+   "s": "Pilsner bardağı, 6°C; balık, kalamar, meze",
+   "kaynak": "https://degustasyon.net/knidos-pilsner-istanbul/"
+  },
+  "knidos-bugday": {
+   "b": "Turunçgil ve egzotik meyve",
+   "d": "Buğulu turuncu, yoğun kıvamlı; buğdayın yanında arpa maltı da belirgin",
+   "f": "Orta, yumuşak",
+   "s": "Weizen bardağı, 6-8°C; yemek birası: tavuk, salata, hafif makarnalar",
+   "kaynak": "https://degustasyon.net/knidos-bugday-istanbul/"
+  },
+  "knidos-tank-1": {
+   "b": "Hafif narenciye ve tahıl",
+   "d": "Buğulu altın, canlı köpük; dolgun ve ferahlatıcı filtresiz lager",
+   "f": "Kalıcı, narenciyeli",
+   "s": "Pilsner ya da silindir bardak, 5-7°C; sosis, acılı kanat, tava balık",
+   "kaynak": "https://degustasyon.net/knidos-tank-1-lager-istanbul/"
+  },
+  "feliz-kulpa-urla-weiss": {
+   "b": "Narenciye ve hafif baharat",
+   "d": "Buğulu turuncu, keskin ve canlı; buruk-mayhoş izler",
+   "f": "Kısa-orta, mayhoş",
+   "s": "Weizen bardağı, 6-8°C; serinlemek için ya da acılı yemeklerle",
+   "kaynak": "https://degustasyon.net/feliz-kulpa-040-urlaweiss-izmir/"
+  },
+  "trokya-dakka": {
+   "b": "Mandalina, turunç ve egzotik meyve; Amerikan ve Sloven şerbetçiotları",
+   "d": "Buğulu kehribar, yulaf katkısıyla yoğun kıvamlı ve dolgun; orta acılık (IBU 30)",
+   "f": "Aromatik, orta uzunlukta",
+   "s": "Pint ya da tulip, 6-10°C; köfte, burger, şarküteri",
+   "kaynak": "https://degustasyon.net/trokya-dakka-pale-ale-edirne/"
+  },
+  "trokya-mars": {
+   "b": "Yanık portakal kabuğu, karamel",
+   "d": "Kızıl kehribar, beş maltlı zengin ve dolgun gövde; IBU 28",
+   "f": "Orta-uzun, karamelize",
+   "s": "Nonic pint, 6-10°C; kırmızı et, şarküteri",
+   "kaynak": "https://degustasyon.net/trokya-mars-red-ale-edirne/"
+  },
+  "2-kopru-meric": {
+   "b": "Turunç ve çam, hafif baharat",
+   "d": "Bakır kızılı, buruk ve tok içimli",
+   "f": "Orta, acımsı",
+   "s": "Pint bardak, 8-10°C (fazla soğutmadan); baharatlı Asya yemekleri",
+   "kaynak": "https://degustasyon.net/2kopru-meric-pale-ale-edirne/"
+  },
+  "red-tower-ipa": {
+   "b": "Kayısı ve turunç reçeli, yoğun şerbetçiotu",
+   "d": "Bakır renk, filtresiz; çok sek ve buruk",
+   "f": "Acımtırak, kalıcı",
+   "s": "IPA bardağı, 6-8°C; acılı Meksika, Hint ve Tay yemekleri",
+   "kaynak": "https://degustasyon.net/red-tower-ipa-alanya/"
+  },
+  "red-tower-red-ale": {
+   "b": "Kayısı ve turunçgil",
+   "d": "Turuncumsu kahverengi, buğulu; tok ve dolgun, yüksek karbonasyon",
+   "f": "Orta, meyvemsi",
+   "s": "Nonic pint, 8-10°C (aşırı soğutmadan); ızgara et, kebap",
+   "kaynak": "https://degustasyon.net/red-tower-red-ale-alanya/"
+  },
+  "red-tower-pale-ale": {
+   "b": "Narenciye, çam reçinesi, tatlı baharat ve çiçek",
+   "d": "Kehribar sarısı, buğulu; zengin ve kompleks, belirgin şerbetçiotu acılığı",
+   "f": "Uzun, ferahlatıcı acılık",
+   "s": "Pint ya da tulip, 6-8°C; baharatlı yemekler",
+   "kaynak": "https://degustasyon.net/red-tower-pale-ale-alanya/"
+  },
+  "frederik-wheat-ipa": {
+   "b": "Yoğun turunçgil ve tropik meyve",
+   "d": "Buğulu turuncu, buğday maltıyla yumuşak gövde; Frederik IPA'dan daha az acı, dengeli",
+   "f": "Ferah, damakta kalıcı",
+   "s": "Teku ya da weizen bardağı, iyi soğutulmuş (5-7°C); egzotik mutfaklar, tacos",
+   "kaynak": "https://degustasyon.net/tuborg-frederik-wheat-ipa-izmir/"
+  },
+  "tuborg-amber": {
+   "b": "Karamel malt, meyankökünü andıran şerbetçiotu",
+   "d": "Maun renk, %100 malt; tok, yoğun ve güçlü",
+   "f": "Buruk, orta uzunlukta",
+   "s": "Pint bardak, 7-9°C (çok soğutmadan); kırmızı et, kebap",
+   "kaynak": "https://degustasyon.net/tuborg-amber-izmir/"
+  },
+  "efes-glutensiz": {
+   "b": "Kavrulmuş tahıl, hafif karamel (karabuğday maltı)",
+   "d": "Koyu altın, dolgun ve kıvamlı; aroması sade",
+   "f": "Kısa, tahılsı",
+   "s": "Pilsner bardağı, 4-6°C; az acılı lahmacun, kebap, dürüm, burger",
+   "kaynak": "https://degustasyon.net/efes-glutensiz-istanbul/"
+  },
+  "efes-xtra-shot": {
+   "b": "Malt ve alkol sıcaklığı",
+   "d": "Koyu altın-kehribar, keskin ve güçlü; meyankökünü andıran burukluk",
+   "f": "Sıcak, alkollü",
+   "s": "Kutudan bardağa (küçük bardak), 3-5°C; bol baharatlı Asya mutfağı",
+   "kaynak": "https://degustasyon.net/efes-lager-extra-shot-istanbul/"
+  },
+  "bud-tr": {
+   "b": "Hafif tahıl ve şerbetçiotu",
+   "d": "Açık sarı, hafif ve yumuşak; arpa maltı ve pirinçle temiz içim",
+   "f": "Kısa, temiz",
+   "s": "Silindir bardak, 2-4°C; burger, kızartma, cips",
+   "kaynak": "https://degustasyon.net/bud-abd-istanbul/"
+  },
+  "schneider-hopfenweisse": {
+   "b": "Narenciye ve tropik meyve, yoğun şerbetçiotu; arkada muz ve buğday",
+   "d": "Bulanık kehribar, filtresiz; tok, ağır ve sert, belirgin burukluk",
+   "f": "Uzun, acımsı ve alkollü sıcaklık",
+   "s": "Weizen ya da teku bardağı, 8-10°C; bol baharatlı Asya yemekleri",
+   "kaynak": "https://degustasyon.net/schneider-weisse-tap-5-meine-hopfenweisse-almanya/"
+  },
+  "st-bernardus-tripel": {
+   "b": "Kızarmış ekmek, muz ve mango",
+   "d": "Bulanık kehribar, şişede ikinci fermantasyon; dolgun ve tok",
+   "f": "Uzun, meyvemsi",
+   "s": "Kadeh ya da kalis, 6-8°C; egzotik mutfaklar, beyaz etler",
+   "kaynak": "https://degustasyon.net/st-bernardus-tripel-belcika/"
+  },
+  "carolus-classic": {
+   "b": "Malt, karamel, baharat ve koyu meyve",
+   "d": "Kızıl-kehribar, şarabımsı zenginlikte, kompleks ve güçlü",
+   "f": "Uzun; şerbetçiotu burukluğu ile malt birlikte kalıyor",
+   "s": "Kalis ya da tulip, 10-12°C (fazla soğutmadan); etler, bitter çikolatalı tatlılar",
+   "kaynak": "https://degustasyon.net/gouden-carolus-classic-belcika/"
+  },
+  "brooklyn-black-chocolate-stout": {
+   "b": "Bitter çikolata, kahve ve meyankökü",
+   "d": "Siyah, sütlü kahve renkli köpük; dolgun, buruk-acı-ekşi denge, arkada hafif tatlılık",
+   "f": "Uzun, kavrulmuş ve ağır",
+   "s": "Snifter, 10-13°C; ızgara et, istiridye, çikolatalı tatlılar",
+   "kaynak": "https://degustasyon.net/brooklyn-black-chocolate-stout-abd/"
+  },
+  "hacker-pschorr-hefe-weisse": {
+   "b": "Mango, muz ve kuru kayısı",
+   "d": "Bulanık turuncu, %60 buğday maltı; dolgun, tok ama körpe ve ferah",
+   "f": "Orta, meyvemsi",
+   "s": "Weizen bardağı, 6-8°C; balık, deniz ürünleri, meyveli tatlılar",
+   "kaynak": "https://degustasyon.net/hacker-pschorr-weisse-almanya/"
+  },
+  "hacker-pschorr-kellerbier-anno-1417": {
+   "b": "Turunçgil ve malt, hafif maya",
+   "d": "Bulanık kehribar, filtresiz; dolgun, sek ve hafif baharlı",
+   "f": "Kuru, orta uzunlukta",
+   "s": "Seramik krug ya da mug, 8-10°C (çok soğutmadan); Asya mutfağı, baharatlı yemekler, yahniler",
+   "kaynak": "https://degustasyon.net/hacker-pschorr-munchner-kellerbier-anno-1417-almanya-2/"
+  },
+  "schlenkerla-helles": {
+   "b": "Otsu şerbetçiotu, çok hafif duman (isli biralarla aynı mahzende mayalanmasından)",
+   "d": "Hafif buğulu altın, yumuşak içimli ve baharlı",
+   "f": "Kalıcı, hafif acımsı",
+   "s": "Krug ya da mug, 6-8°C; baharatlı yiyecekler, Bamberg tarzı sosisler",
+   "kaynak": "https://degustasyon.net/helles-schlenkerla-lager-almanya/"
+  },
+  "straffe-hendrik-tripel": {
+   "b": "Egzotik meyve, turunçgil ve karamel",
+   "d": "Bakır kızılı, tok ve yoğun; tatlımsı-hafif mayhoş",
+   "f": "Orta-uzun, sıcak",
+   "s": "Kadeh, 8-10°C; Asya mutfağı, tatlı-ekşi soslu yemekler",
+   "kaynak": "https://degustasyon.net/straffe-hendrik-brugs-tripel-belcika/"
+  },
+  "budvar-tmavy-lezak": {
+   "b": "Meyankökü ve kavrulmuş malt",
+   "d": "Siyaha yakın kahverengi; kahve ve karamel, dolgun ve doyurucu",
+   "f": "Kalıcı, hafif kavrulmuş",
+   "s": "Çek kulplu bardak, 6-10°C (ılıkça da uygun); kırmızı et, şarküteri",
+   "kaynak": "https://degustasyon.net/budvar-dark-lager-cekya/"
+  },
+  "mc-chouffe": {
+   "b": "Turunçgil marmelatı, koyu meyve, baharat",
+   "d": "Buğulu koyu kahve, zengin ve kompleks",
+   "f": "Uzun, meyvemsi",
+   "s": "Ayaklı kadeh ya da tulip, 10-12°C; kırmızı et, baharatlı yemekler",
+   "kaynak": "https://degustasyon.net/mc-chouffe-belcika/"
+  },
+  "radeberger-pilsner": {
+   "b": "Çiçeksi şerbetçiotu, taze tahıl",
+   "d": "Altın sarısı, taze ve körpe; ölçülü acılık, hafif içim",
+   "f": "Kuru, temiz",
+   "s": "Pilsner kadehi, 5-7°C; kızartmalar, tava balık, acılı kanat, lahmacun",
+   "kaynak": "https://degustasyon.net/radeberger-pilsner-almanya/"
+  },
+  "grimbergen-blonde": {
+   "b": "Narenciye ve hafif karamel",
+   "d": "Kehribar sarısı, dolgun ve kıvamlı",
+   "f": "Orta, hafif tatlımsı",
+   "s": "Kalis, 6-8°C; baharatlı beyaz etler, Asya mutfağı",
+   "kaynak": "https://degustasyon.net/grimbergen-blonde-belcika/"
+  },
+  "brewdog-lost-lager": {
+   "b": "Hafif buruk, aromatik şerbetçiotu",
+   "d": "Altın sarısı, hafif ve rahat içimli",
+   "f": "Temiz, ferah",
+   "s": "Pilsner bardağı, 6-8°C; hafif atıştırmalıklar",
+   "kaynak": "https://degustasyon.net/brewdog-lost-lager-iskocya/"
+  },
+  "paulaner-oktoberfest-bier": {
+   "b": "Taze malt ve şerbetçiotu",
+   "d": "Koyu altın, tok içimli; canlı ve aromatik",
+   "f": "Orta, maltlı",
+   "s": "Maß ya da krug, 8-10°C; sosis, sucuk, şarküteri, sakatat",
+   "kaynak": "https://degustasyon.net/paulaner-oktobrfest-bier-almanya/"
+  },
+  "wychwood-hobgoblin": {
+   "b": "Bitter çikolata, meyankökü ve karamel",
+   "d": "Koyu kızıl-kahve, dolgun ve tok; Chocolate ve Crystal malt, Styrian/Goldings/Fuggles",
+   "f": "Ölçülü burukluk",
+   "s": "Pint bardak, 10-12°C; kırmızı et, kebap, şarküteri",
+   "kaynak": "https://degustasyon.net/hobgoblin-ingiltere/"
+  },
+  "affligem-blond": {
+   "b": "Taze ekmek, tropik meyve, turunçgil",
+   "d": "Buğulu koyu altın, filtresiz; dolgun, meyvemsi ve belirgin acılık",
+   "f": "Kalıcı",
+   "s": "Kalis, 8-10°C; balık, deniz ürünleri, başlangıçlar",
+   "kaynak": "https://degustasyon.net/affligem-blonde-belcika/"
+  },
+  "2-kopru-tunca": {
+   "b": "Hafif çiçeksi şerbetçiotu, temiz tahıl",
+   "d": "Altın sarısı, orta gövdeli, gevrek ve kolay içimli; düşük acılık (IBU 20)",
+   "f": "Temiz, ferah",
+   "s": "Pint ya da silindir bardak, 5-7°C; meze, ızgara balık, salata",
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  "feliz-kulpa-asfaleya": {
+   "b": "Turunç, çiçek ve baharatımsı şerbetçiotu",
+   "d": "Açık altın, orta gövde; hissedilir şerbetçiotu acılığı (IBU 32)",
+   "f": "Damakta kalıcı acılık",
+   "s": "Tulip ya da pint, 6-8°C; ızgara tavuk, peynir tabağı",
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  "feliz-kulpa-queen-smyrna": {
+   "b": "Çiçeksi, arkada muz ve topraksı tonlar (siyez buğdayı)",
+   "d": "Bulanık açık altın, orta gövde; karanfil ve muz, dengeli acılık (IBU 24)",
+   "f": "Yumuşak, hafif baharatlı",
+   "s": "Witbier bardağı, 5-7°C; Ege otlu mezeler, deniz ürünleri, keçi peyniri",
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  "red-tower-pilsner": {
+   "b": "Hafif tahıl ve otsu şerbetçiotu",
+   "d": "Doğal bulanık (filtresiz), uzun süre çökmeyen köpük; ferah ve hafif",
+   "f": "Kısa, serinletici",
+   "s": "Pilsner bardağı, 4-6°C; Akdeniz mezeleri, ızgara balık",
+   "kaynak": "https://mein-reiseblog.net/red-tower-brauerei-in-alanya/"
+  },
+  "red-tower-marzen": {
+   "b": "Kavrulmuş malt ve karamel",
+   "d": "Koyu renkli, daha yüksek malt oranı; pilsnere göre tatlımsı ve yuvarlak",
+   "f": "Orta, maltlı",
+   "s": "Krug ya da mug, 7-9°C; ızgara et, sosis",
+   "kaynak": "https://mein-reiseblog.net/red-tower-brauerei-in-alanya/"
+  },
+  "weihenstephaner-hefeweissbier-dunkel": {
+   "b": "Olgun muz, meyvemsi tatlılık ve ince malt",
+   "d": "Kestane rengi; köpüklü ve dolgun, hafif karamel ile kadifemsi doku",
+   "f": "Yumuşak, hafif kavrulmuş",
+   "s": "Weizen bardağı, 6-8°C; av eti, fırın domuz yerine dana rosto, tatlılar",
+   "kaynak": "https://www.weihenstephaner.de/en/our-beers/dark-wheat-beer-1"
+  },
+  "weihenstephaner-korbinian": {
+   "b": "Hafif meyvemsi; erik ve incir",
+   "d": "Koyu doppelbock; tofi, fındık ve çikolatayı andıran koyu malt, tatlılığı kavrulmuş malt dengeliyor",
+   "f": "Uzun, kavrulmuş ve tatlımsı",
+   "s": "Kadeh ya da stange, 8-10°C; füme et ve balık, çikolatalı tatlılar",
+   "kaynak": "https://www.weihenstephaner.de/en/our-beers/korbinian-1"
+  },
+  "weihenstephaner-kristallweissbier": {
+   "b": "Muz, hafif turunçgil, meyvemsi buket",
+   "d": "Filtreli, parlak koyu altın; ince ve canlı karbonasyon, taze narenciye ve muz",
+   "f": "Ferah, temiz",
+   "s": "Weizen bardağı, 6-8°C; levrek/sudak fileto, beyaz balık",
+   "kaynak": "https://www.weihenstephaner.de/en/our-beers/kristallweissbier-1"
+  },
+  "weihenstephaner-original-helles": {
+   "b": "İnce aromatik malt ve hafif şerbetçiotu",
+   "d": "Saman altını; yumuşak, içimi kolay, yuvarlak ince şerbetçiotu tadı",
+   "f": "Temiz, hafif acımsı",
+   "s": "Krug ya da pilsner kadehi, 6-8°C; salata, kanatlı, güveç, biftek",
+   "kaynak": "https://www.weihenstephaner.de/en/our-beers/original-helles-1"
+  },
+  "the-alchemist-focal-banger": {
+   "b": "Olgun ananas, kavun, greyfurt ve portakal; hafif beyaz ekmek ve baharat",
+   "d": "Citra ve Mosaic ile dolgun gövdeli IPA; iddialı, dişe yapışan acılık, greyfurt tatlılığı",
+   "f": "Topraksı, reçineli ve uzun acı",
+   "s": "Kutudan IPA bardağına, 6-8°C; acılı tavuk, Meksika mutfağı, keskin çedar",
+   "kaynak": "https://www.beerandbrewing.com/review/focal-banger"
+  },
+  "three-floyds-dark-lord": {
+   "b": "Bitter çikolata, kahve, siyah kiraz, tütün, deri ve erik",
+   "d": "Kahve, Meksika vanilyası ve Hint şekeriyle; esmer şeker, melas ve karamel tatlılığı",
+   "f": "Uzun, tatlı-acı ve alkollü sıcaklık",
+   "s": "Snifter, 12-14°C, yavaş yudumlanır; bitter çikolatalı tatlılar, mavi peynir",
+   "kaynak": "https://www.beerandbrewing.com/review/three-floyds-brewing-co-dark-lord-2022-1658769495"
+  },
+  "schlenkerla-eiche": {
+   "b": "Meşe dumanı, pastırma, kamp ateşi; melanoidin ve tofi tatlılığı",
+   "d": "Meşe odunuyla tütsülenmiş malt; dolgun ama yapışkan değil, kuru erik tatlılığı, Hallertau acılığı",
+   "f": "Pürüzsüz, ısıtan alkol ve hafif küllü tahıl",
+   "s": "Kadeh ya da krug, 10-12°C; füme etler, pastırma, sert peynirler, Noel yemekleri",
+   "kaynak": "https://www.beerandbrewing.com/review/aecht-schlenkerla-eiche"
+  },
+  "trillium-congress-street": {
+   "b": "Çam, narenciye kabuğu, kavun ve ananas (Avustralya Galaxy şerbetçiotu)",
+   "d": "Şeftali, klementin ve tropik meyve; yumuşak, kabarık gövde, ılımlı acılık ve hafif bisküvi malt",
+   "f": "Yarı kuru, hafif tatlı",
+   "s": "Teku ya da IPA bardağı, 6-8°C; balık taco, Tay köri, ızgara karides",
+   "kaynak": "https://www.beerandbrewing.com/review/congress-street"
+  },
+  "alaskan-smoked-porter": {
+   "b": "Kızılağaç odunu dumanı, karamel ve ekmek kabuğu",
+   "d": "Orta-dolgun gövde; yumuşak bitter çikolata ile iç içe ince duman",
+   "f": "Uzun, dumanlı",
+   "s": "Snifter ya da nonic, 10-13°C; füme somon, barbekü, sert peynirler",
+   "kaynak": "https://www.beerandbrewing.com/review/alaskan-brewing-co-smoked-porter-1653594610"
+  },
+  "oud-beersel-oude-geuze": {
+   "b": "Islak taş mineralliği, şeftali, karabiber; hafif ahır/saman funk",
+   "d": "Laktik ekşilik, ekşi kiraz ve limon, papaya; hafif karamel malt tabanı, yüksek karbonasyon",
+   "f": "Yumuşak ekşi, hafif deri",
+   "s": "Gueuze kadehi ya da tumbler, 8-10°C; midye, keçi peyniri, salatalar",
+   "kaynak": "https://www.beerandbrewing.com/review/oud-beersel-oude-gueze-vielle-1636501460"
+  },
+  "boulevard-tank-7": {
+   "b": "Greyfurt, limon ve portakal; topraksı saison baharatı, çiçek, hafif muz",
+   "d": "Saman rengi, hafif-orta gövde; yumuşak tatlı malt, belirgin şerbetçiotu acılığı, çok canlı karbonasyon",
+   "f": "Biberli ve kuru",
+   "s": "Tulip, 7-9°C; kızarmış tavuk, deniz ürünleri, keçi peyniri",
+   "kaynak": "https://www.beerandbrewing.com/review/tank-7"
+  },
+  "st-bernardus-prior-8": {
+   "b": "Muz esteri, tofi malt, hafif karanfil; kiraz ve elma",
+   "d": "Yakut-mor renk; kuru üzüm, muz, karanfil, derin malt gövdesi, ölçülü acılık",
+   "f": "Uzun, tatlı-acı",
+   "s": "Kalis kadeh, 10-12°C; güveç, ördek, olgun peynirler",
+   "kaynak": "https://www.beerandbrewing.com/review/st.-bernardus-prior-8"
+  },
+  "fantome-saison": {
+   "b": "Tropik meyve şekeri, bal, hafif alkol",
+   "d": "Limon, portakal ve mandalina; mango, çarkıfelek ve ananasla sulu, meyvemsi",
+   "f": "Kuru, gevrek ve hafif acı",
+   "s": "Tulip, 8-10°C; deniz ürünleri, Asya mutfağı, yumuşak peynirler",
+   "kaynak": "https://www.beerandbrewing.com/review/fantome-saison"
+  },
+  "ommegang-three-philosophers": {
+   "b": "Karamel, bisküvi, tofi; kırmızı elma, armut, kiraz ve kuru üzüm, tarçınımsı baharat",
+   "d": "%2 kirazlı ale harmanı; malt tatlılığı ve elma esteri, orta gövde, alkol sıcaklığı",
+   "f": "Çok kuru ve oldukça acı",
+   "s": "Kadeh ya da tulip, 10-13°C; ördek, kiraz soslu etler, bitter çikolata",
+   "kaynak": "https://www.beerandbrewing.com/review/three-philosophers"
+  },
+  "allagash-tripel": {
+   "b": "Muz, ağaç meyveleri, karanfil, karabiber ve bal; çarkıfelek ve otsu notlar",
+   "d": "Liçi, şeftali ve baharat; malt destekleyici rolde, tatlıya yakın ama dengeli",
+   "f": "Uzun, yumuşak ve kuru",
+   "s": "Tulip, 8-10°C; kızarmış tavuk, deniz ürünleri, krem peynirler",
+   "kaynak": "https://www.beerandbrewing.com/review/allagash-tripel-ale"
+  },
+  "rochefort-6": {
+   "b": "Bal, çiçek, kayısı ve erik; hafif karamel",
+   "d": "Kızıl-kahve, yumuşak gövde; topraksı ve otsu karakter, şişede doğal karbonasyon",
+   "f": "Orta, hafif sakız ve karamel",
+   "s": "Trappist kadehi, 10-12°C; mantarlı yemekler, kuzu, Trappist peyniri",
+   "kaynak": "https://www.beerandbrewing.com/review/trappistes-rochefort-6"
+  },
+  "lindemans-cuvee-rene": {
+   "b": "Islak arduvaz mineralliği, belirgin funk, hafif ahududu",
+   "d": "Genç ve yıllanmış lambic harmanı; parlak lime asiditesi, çok kuru ve canlı",
+   "f": "Kuru, yüksek karbonasyonlu, ekşi",
+   "s": "Gueuze kadehi, 8-10°C; midye, istiridye, keçi peyniri",
+   "kaynak": "https://www.beerandbrewing.com/review/oude-gueuze-cuvee-rene"
+  },
+  "taras-boulba": {
+   "b": "Asil şerbetçiotu: otsu, çiçeksi, biberli ve hafif narenciye",
+   "d": "Çok kuru, beyaz biber ve çiçek; enerjik karbonasyon, düşük alkollü",
+   "f": "Uzun, yumuşak asil acılık",
+   "s": "Tulip ya da tumbler, 6-8°C; midye-patates, ızgara balık, salatalar",
+   "kaynak": "https://www.beerandbrewing.com/review/brasserie-de-la-senne-taras-boulba-1636501605"
+  },
+  "straffe-hendrik-quadrupel": {
+   "b": "Koyu kristal malt, tofi, yanık karamel; kuru üzüm, kiraz, kuru erik",
+   "d": "Kuru meyve, hurma, hafif çikolata; kişniş, anason ve kavrulmuş kestane",
+   "f": "Hafif şurupsu, ısıtan ve meyvemsi",
+   "s": "Kadeh, 12-14°C; çikolata, olgun peynirler, av eti",
+   "kaynak": "https://www.beerandbrewing.com/review/straffe-hendrik-quadrupel"
+  },
+  "hacker-pschorr-oktoberfest-maerzen": {
+   "b": "Meyvemsi malt, taze hasat tahıl, kızarmış ekmek",
+   "d": "Kızıl tonlu altın; kızarmış karamel, meyveli kek, hafif kuru üzüm ve zencefil",
+   "f": "Kurumaya giden hafif yapışkan bitiş",
+   "s": "Krug, 7-9°C; pretzel, sosis, fırın tavuk",
+   "kaynak": "https://www.beerandbrewing.com/review/hacker-pschorr-oktoberfest-m%C3%A4rzen--1623108258"
+  },
+  "hofbrau-maibock": {
+   "b": "Tatlı malt, tofi ve kızarmış ekmek; odunsu asil şerbetçiotu",
+   "d": "Büyük malt gövdesi, hafif kiraz, ısıtan alkol; tatlılığı kesen belirgin acılık",
+   "f": "Hafif buruk",
+   "s": "Kadeh ya da krug, 7-9°C; domuz yerine dana rosto, beyaz sosis, bahar yemekleri",
+   "kaynak": "https://www.beerandbrewing.com/review/hofbrau-maibock"
+  },
+  "deschutes-fresh-squeezed": {
+   "b": "Limon, greyfurt, gül ve ahududu (Citra-Mosaic)",
+   "d": "Hafif ve meyvemsi, krakerimsi malt; düşük-orta acılık",
+   "f": "Hafif tatlımsı",
+   "s": "IPA bardağı, 6-8°C; burger, fish & chips, acılı kanat",
+   "kaynak": "https://www.beerandbrewing.com/review/fresh-squeezed-ipa"
+  },
+  "achel-bruin": {
+   "b": "Hafif biber ve baharat, ısındıkça kiraz ve şeftali",
+   "d": "Tofi ve kuru üzümlü yuvarlak malt; muz, kiraz, erik ve karanfil",
+   "f": "Kuru, gevrek acılık",
+   "s": "Trappist kadehi, 10-12°C; güveç, mantarlı yemekler, Trappist peyniri",
+   "kaynak": "https://www.beerandbrewing.com/review/achel-bruin"
+  },
+  "elysian-space-dust": {
+   "b": "Şeftali, mango, portakal, çam ve limon",
+   "d": "Önde tatlı malt, sonra güçlü acılık; Chinook acılığı, Citra-Amarillo aroması",
+   "f": "Kabuksu acılık ve hafif alkol sıcaklığı",
+   "s": "IPA bardağı, 6-8°C; acılı Asya yemekleri, burger",
+   "kaynak": "https://www.beerandbrewing.com/review/space-dust-ipa"
+  },
+  "victory-golden-monkey": {
+   "b": "Kişniş, zencefil, limon; armut ve kızarmış karamel",
+   "d": "Tatlı karamel malt, limon şekeri, belirgin alkol",
+   "f": "Uzun, dil arkasında hoş acılık",
+   "s": "Tulip, 8-10°C; Tay mutfağı, kızarmış tavuk, yumuşak peynirler",
+   "kaynak": "https://www.beerandbrewing.com/review/golden-monkey"
+  },
+  "maredsous-10-tripel": {
+   "b": "Muz, kraker ve baharat; ölçülü",
+   "d": "Graham krakeri malt, muz, ananas, elma; hafif şarabımsı, kremsi gövde",
+   "f": "Dengeli, uzun, ısıtan ve kuru",
+   "s": "Maredsous kadehi, 8-10°C; beyaz et, Maredsous peyniri, deniz ürünleri",
+   "kaynak": "https://www.beerandbrewing.com/review/maredsous-10-tripel"
+  },
+  "lindemans-framboise": {
+   "b": "Ahududu turtası, hafif vanilya ve ıslak odun",
+   "d": "Çok tatlı ve reçelimsi ahududu; altında ılımlı ekşilik, meyve kabuğu tanini",
+   "f": "Kısa, meyvemsi",
+   "s": "Flüt kadeh, 3-5°C; çikolatalı tatlılar, cheesecake, meyveli tart",
+   "kaynak": "https://www.beerandbrewing.com/review/lindemans-brewery-lindemans-framboise-1724856172"
+  },
+  "3-fonteinen-oude-kriek": {
+   "b": "Ekşi ve tatlı kiraz, topraksı baharat",
+   "d": "Keskin laktik ekşilik ile kiraz tatlılığı dengede; canlı karbonasyon",
+   "f": "Kuru, kirazlı; hafif ahır funk",
+   "s": "Lambic kadehi, 8-10°C; ördek, keçi peyniri, bitter çikolata",
+   "kaynak": "https://www.beerandbrewing.com/review/oude-kriek"
+  },
+  "erdinger-alkoholfrei": {
+   "b": "Malt aroması, hafif şerbetçiotu, ince brioche ve maya baharatı",
+   "d": "Saman sarısı; baharatlı ve malt ağırlıklı, hafif tatlımsı, ince acılık ve bir tutam meyvemsi asidite",
+   "f": "Ferah, ince köpüren",
+   "s": "Weizen bardağı, 6-8°C; spor sonrası, salatalar, ızgara tavuk",
+   "kaynak": "https://erdinger.de/de-DE/biersorten/alkoholfreies-weissbier"
+  },
+  "hofbrau-original": {
+   "b": "Hafif malt ve ince şerbetçiotu",
+   "d": "Dolgun, hafif maltlı ve olgun; uyumlu malt-şerbetçiotu dengesi",
+   "f": "Zarif, hafif buruk",
+   "s": "Maß ya da krug, 6-8°C; fırında rosto, sosis, peynir, patates ve köfte (Knödel) yemekleri, salatalar",
+   "kaynak": "https://www.hofbraeuhaus.de/bier-und-essen/"
+  },
+  "bells-hopslam": {
+   "b": "Greyfurt, sert çekirdekli meyve ve çiçek; Simcoe dry hop",
+   "d": "Altı şerbetçiotu çeşidi ve bal; cömert malt gövdesi acılığı dengeliyor, %10'a rağmen yumuşak",
+   "f": "Uzun, narenciyeli-acı, hafif ballı",
+   "s": "Tulip ya da IPA bardağı, 7-9°C; taze içilmeli; baharatlı Hint ve Tay yemekleri, havuç keki",
+   "kaynak": "https://bellsbeer.com/beers/hopslam-ale/"
+  },
+  "stone-xocoveza": {
+   "b": "Yoğun tarçın, kakao ve kahve; ardından muskat ve pasilla biberi",
+   "d": "Siyah, kalın kahverengi köpük; dolgun ve çok yumuşak, hafif acılık, şurupsu olmayan tatlılık",
+   "f": "Pasilla biberinin meyvemsi sıcaklığı",
+   "s": "Snifter, 10-13°C; churros, mole soslu tavuk, çikolatalı tatlılar",
+   "kaynak": "https://www.stonebrewing.com/beer/special-releases/stone-xocoveza-spiced-chocolate-stout"
+  },
+  "allagash-curieux": {
+   "b": "Vanilya, karamel, meşe ve hafif burbon",
+   "d": "Burbon fıçısında yedi hafta dinlenen tripel taze tripelle harmanlanmış; dolgun ve yumuşak",
+   "f": "Uzun, ısıtan, meşeli",
+   "s": "Kalis kadeh (yaklaşık 35 cl), 10-12°C; füme et, crème brûlée, olgun çedar",
+   "kaynak": "https://www.allagash.com/beer/ale/curieux/"
+  },
+  "maine-beer-lunch": {
+   "b": "Karamel, portakal, papaya, greyfurt ve çiçek; hafif soğan-sarımsak (Simcoe)",
+   "d": "Amarillo, Centennial, Simcoe; karamel ve Münih maltıyla dengeli Doğu Yakası yorumlu batı tipi IPA",
+   "f": "Kuru, reçineli acılık",
+   "s": "IPA bardağı, 6-8°C; ıstakoz rulo, fish & chips, burger",
+   "kaynak": "https://mainebeercompany.com/beer/lunch"
+  },
+  "firestone-walker-union-jack": {
+   "b": "Çam, narenciye, çarkıfelek ve greyfurt; Simcoe-Chinook-Centennial üçlüsü",
+   "d": "Batı Yakası IPA ikonu; az miktarda kristal maltla kuru, iddialı acılık (IBU 70)",
+   "f": "Uzun, reçineli ve kuru",
+   "s": "IPA bardağı, 6-8°C; burger, acılı tavuk kanadı, Meksika yemekleri",
+   "kaynak": "https://www.firestonewalker.com/beer/union-jack/"
+  },
+  "three-floyds-gumballhead": {
+   "b": "Greyfurt ve şeftali; Amarillo dry hop",
+   "d": "Beyaz buğdayla açık, parlak ve ferah buğday pale ale; ılımlı acılık (IBU 38)",
+   "f": "Limonsu, ferah",
+   "s": "Pint bardak, 5-7°C; salatalar, balık taco, tavuk sandviç",
+   "kaynak": "https://www.3floyds.com/beer/gumballhead/"
+  },
+  "victory-hopdevil": {
+   "b": "Amerikan şerbetçiotundan çam ve narenciye, arkada malt tatlılığı",
+   "d": "Pilsner, Vienna ve karamel maltı; sulu şerbetçiotu ile bol karamel dengesi (Cascade, Centennial)",
+   "f": "Orta-uzun, reçineli acılık",
+   "s": "IPA ya da pint bardak, 6-8°C; burger, ızgara sosis, keskin peynirler",
+   "kaynak": "https://victorybeer.com/beers/hopdevil/"
+  },
+  "great-divide-yeti": {
+   "b": "Kavrulmuş malt, karamel ve tofi",
+   "d": "Yoğun kavrulmuş malt gövdesi, ardından zengin karamel; çok miktarda Amerikan şerbetçiotuyla belirgin acılık (IBU 75)",
+   "f": "Uzun, kavrulmuş-acı",
+   "s": "Snifter, 10-13°C; kamp ateşi başında; ızgara et, çikolatalı kek",
+   "kaynak": "https://greatdivide.com/products/yeti/"
+  },
+  "toppling-goliath-pseudo-sue": {
+   "b": "Greyfurt, narenciye, mango ve çam ağacı (tek şerbetçiotu: Citra)",
+   "d": "Narin gövdeli, temiz ve parlak; dengeli",
+   "f": "Hafif acı, temiz",
+   "s": "Pint ya da teku, 5-7°C; balık taco, tavuk salata, hafif Asya yemekleri",
+   "kaynak": "https://www.tgbrews.com/pseudo-sue"
+  },
+  "dogfish-head-seaquench": {
+   "b": "Baharatlı lime ve narenciye",
+   "d": "Kölsch, Gose ve Berliner Weisse karışımı; lime suyu, kabuğu, kara lime ve deniz tuzuyla çok ekşi ve gevrek, dilde tuz",
+   "f": "Hafif malt tatlılığı, temiz ve ferah",
+   "s": "Pilsner ya da silindir bardak, 3-5°C; plaj, ceviche, balık taco, guacamole",
+   "kaynak": "https://www.dogfish.com/drink/beer/seaquench-ale"
+  },
+  "boon-oude-kriek": {
+   "b": "Baskın vişne, olgun meyve ve tipik lambic karakteri",
+   "d": "Litre başına 400 g taze vişneyle; koyu kırmızı, pembe köpük, yoğun ama yumuşak vişne, doğal ekşilik",
+   "f": "Meyvemsi, kuru-ekşi",
+   "s": "Tulip kadeh, 15°C civarı (fazla soğutmadan); ördek, keçi peyniri, bitter çikolata",
+   "kaynak": "https://www.boon.be/nl/onze-bieren/fruitbieren/oude-kriek-boon"
+  },
+  "delirium-nocturnum": {
+   "b": "Karamel, mocha ve çikolata; meyankökü ve kişniş",
+   "d": "Koyu çikolata kahvesi (EBC 80); yumuşak ve alkollü ağız hissi, ardından şerbetçiotu ve kavrulmuş maltla artan acılık",
+   "f": "Acı, ekşi ve tatlı vurgular dengede",
+   "s": "Delirium kadehi ya da tulip, 8-10°C; domuz yanağı yerine dana yanak, mantar-trüf kremalı yemekler",
+   "kaynak": "https://www.delirium.be/nl/bieren/delirium-nocturnum"
+  },
+  "traquair-jacobite-ale": {
+   "b": "Çilek ve şeftali esteri, hafif narenciye, zengin malt; kişnişli",
+   "d": "Concord üzümü, karamel ve kızarmış ekmek; yanık şeker, kırmızı karamelli elma; şaşırtıcı kuru",
+   "f": "Kişnişten gelen ferah, hafif buruk bitiş",
+   "s": "Thistle ya da tulip, 10-13°C; geyik ve av eti, haggis, olgun çedar",
+   "kaynak": "https://www.beerandbrewing.com/review/jacobite-ale"
+  },
+  "spaten-optimator": {
+   "b": "Kızarmış malt tatlılığı, melanoidin, çikolata ve kurabiye",
+   "d": "Karamel, tost ve tofi; doppelbock için belirgin şerbetçiotu, alkol gövdeyi hafifletiyor",
+   "f": "Malt ağırlıklı",
+   "s": "Kadeh ya da krug, 8-10°C; domuz incik yerine dana incik, kavrulmuş et, çikolatalı tatlılar",
+   "kaynak": "https://www.beerandbrewing.com/review/optimator"
+  },
+  "lawsons-sip-of-sunshine": {
+   "b": "Portakal, reçine, çam ve hafif çimen; bisküvi malt",
+   "d": "Sulu portakal ve çarkıfelek; topraksı ama keskin olmayan acılık, karamel tatlılığı dengeliyor",
+   "f": "Kremsi, hoş acı",
+   "s": "Teku ya da IPA bardağı, 6-8°C; ızgara karides, tropik meyveli salata, Tay yemekleri",
+   "kaynak": "https://www.beerandbrewing.com/review/sip-of-sunshine"
+  },
+  "founders-cbs": {
+   "b": "Kahve, karamel, akçaağaç şurubu, kavrulmuş malt ve alkol sıcaklığı",
+   "d": "Akçaağaç tatlılığı, çikolata ve karamel; ılımlı kahve baharatı, burbon fıçısı karakteri",
+   "f": "Tatlı çikolata, hafif kahve, akçaağaç ve burbon",
+   "s": "Snifter, 12-14°C; pankek, waffle, pastırma, bitter çikolata",
+   "kaynak": "https://www.beerandbrewing.com/review/canadian-breakfast-stout-2017"
+  },
+  "tilquin-oude-gueuze": {
+   "b": "Ananas, şeftali, kayısı, çilek ve erik; keskin Brett, limonlu tazelik",
+   "d": "Bolca şeftali, ekşilik, ahududu ve narenciye; hafif biber ve hindistan cevizi, meşe tanini",
+   "f": "Ekşi, kuru ve hafif tanenli",
+   "s": "Gueuze kadehi, 8-12°C; midye, istiridye, keçi peyniri, salatalar",
+   "kaynak": "https://www.beerandbrewing.com/review/oude-gueuze-tilquin"
+  },
+  "tree-house-haze": {
+   "b": "Bol portakal, limon; şeftali ve çarkıfelek, reçineli şerbetçiotu",
+   "d": "Bulanık, çiğnenir gövde; limon, ananas, mango ve greyfurt; zengin ama yumuşak acılık",
+   "f": "Uzun, hafif acı",
+   "s": "Teku ya da IPA bardağı, 5-7°C; brunch, yumurtalı kahvaltı, balık taco",
+   "kaynak": "https://www.beerandbrewing.com/review/haze"
+  },
+  "bomonti-pilsner": {
+   "b": "Taze arpa maltı ve tahıl",
+   "d": "Altın sarısı, canlı köpük; körpe, taze ve rahat içimli",
+   "f": "Kısa, serinletici",
+   "s": "Pilsner bardağı, 6-8°C; pub atıştırmalıkları, kızartmalar",
+   "kaynak": "https://degustasyon.net/bomonti-fabrika-istanbul/"
+  },
+  "ohara-leann-follain": {
+   "b": "Hafif mocha, tatlımsı şarabımsı nota; kavrulmuş kahve ve bisküvi",
+   "d": "Opak siyah, krem rengi köpük; bitter çikolata ve hafif vanilya, dolgun gövde",
+   "f": "Klasik Avrupa şerbetçiotundan baharatlı, ferahlatan acılık (IBU 42)",
+   "s": "Nonic pint ya da tulip, 8-10°C; istiridye, güveç, bitter çikolatalı tatlılar",
+   "kaynak": "https://carlowbrewing.com/our-beers/oharas-leann-follain/"
+  },
+  "unibroue-trois-pistoles": {
+   "b": "Malt, kavrulma, çikolata, esmer rom ve baharat; otsu",
+   "d": "Bordo yansımalı kahverengi; geniş gövde, siyah kiraz, rom, tahıl, ot ve baharat",
+   "f": "Hafif parfümlü, ısıtan",
+   "s": "Unibroue kadehi (tulip), 12-14°C; braise dana, av eti, triple-crème peynirler",
+   "kaynak": "https://www.unibroue.com/bieres/classiques/trois-pistoles"
+  },
+  "driftwood-fat-tug": {
+   "b": "Greyfurt, mango, kavun ve çarkıfelek",
+   "d": "Kuzeybatı tarzı IPA; yoğun şerbetçiotu, destekleyici malt (Pilsner, Crystal), 80+ IBU",
+   "f": "Uzun, sert acılık",
+   "s": "IPA bardağı, 6-8°C; Roquefort ve çedar gibi keskin peynirler, kabuklu deniz ürünleri, suşi, acılı Asya ve Meksika yemekleri",
+   "kaynak": "https://driftwoodbeer.ca/beers/fat-tug-ipa/"
+  },
+  "northern-monk-faith": {
+   "b": "Tropik meyve ve ananas, hafif narenciye ve sert çekirdekli meyve",
+   "d": "Koyu sarı, orta bulanık; hafif tatlı, nazik acılık (IBU 30), hafif-orta gövde, yumuşak karbonasyon",
+   "f": "İnce, kalıcı acılık",
+   "s": "Teku ya da pint, 5-7°C; tavuk burger, balık taco, hafif köriler",
+   "kaynak": "https://www.northernmonk.com/products/440ml-faith-hazy-pale-ale-5-0"
+  },
+  "magic-rock-cannonball": {
+   "b": "Portakal, çam ve narenciye (Columbus, Simcoe, Centennial, Amarillo)",
+   "d": "Batı Yakası esinli; kuru malt omurgası, giderek artan sert acılık",
+   "f": "Ağzı büzen, uzun acı",
+   "s": "IPA bardağı, 6-8°C; acılı köri, burger, keskin peynirler",
+   "kaynak": "https://magicrockbrewing.com/products/cannonball-india-pale-ale"
+  },
+  "siren-broken-dream": {
+   "b": "Çikolata, özel maltlar ve kahve",
+   "d": "Laktozla dengeli tatlılık, nitro ile çok kremsi ve yağsı doku",
+   "f": "Yumuşak, kahveli",
+   "s": "Nitro kutu sert ve hızlı dökülür, pint bardak, 8-10°C (serin); kahvaltı, brownie, tiramisu",
+   "kaynak": "https://www.sirencraftbrew.com/collections/flagship-beers/products/broken-dream"
+  },
+  "orkney-skull-splitter": {
+   "b": "Meyve ve şarabımsı notalar",
+   "d": "Koyu amber; ipeksi, saten gibi pürüzsüz; taze ve kuru meyve, egzotik baharat",
+   "f": "Isıtan ve lezzetli",
+   "s": "Thistle ya da snifter, 10-13°C; koyu kırmızı et, kaburga, sert peynir, meyveli puding",
+   "kaynak": "https://www.orkneybrewery.co.uk/beer/skull-splitter"
+  },
+  "rothaus-tannenzaepfle": {
+   "b": "Çayır otlarını andıran şerbetçiotu (Tettnang ve Hallertau)",
+   "d": "Açık altın, ince köpük; şerbetçiotu acılığı ile malt tatlılığı iç içe, yudumladıkça açılıyor",
+   "f": "Buruk-meyvemsi, malt notalı (IBU 31)",
+   "s": "Tulip ya da pilsner kadehi, 6-8°C; Kara Orman jambonu, ızgara balık, salata",
+   "kaynak": "https://www.rothaus.de/biere/tannenzaepfle"
+  },
+  "gaffel-kolsch": {
+   "b": "Taze, hafif şerbetçiotu ve malt",
+   "d": "Üst fermantasyonlu, çok taze; ince buruk, hafif şerbetçiotu vurgulu (IBU 24-26)",
+   "f": "Kısa, kuru ve temiz",
+   "s": "Stange (20 cl ince bardak), 6-8°C; Köln usulü tuzlu atıştırmalıklar, Halve Hahn (çavdar ekmeği-peynir), sosis",
+   "kaynak": "https://gaffel.de/geniessen/koelsch/"
+  },
+  "einbecker-ur-bock-dunkel": {
+   "b": "Tatlı kavrulmuş malt, çikolata ve vanilya",
+   "d": "Koyu maun renk; kuvvetli, derin ve dolgun dunkel bock, yoğun şerbetçiotu acılığıyla",
+   "f": "Isıtan, dolgun",
+   "s": "Bock kadehi, 8-10°C; kızarmış et, av eti, çikolatalı tatlılar",
+   "kaynak": "https://www.einbecker.de/echt-geniessen/sortiment/ur-bock-dunkel"
+  },
+  "ayinger-oktober-fest-maerzen": {
+   "b": "Malt ağırlıklı, tatlımsı",
+   "d": "Altın renk, kısa ömürlü köpük; karamel notalarıyla tatlımsı ağız hissi, yumuşak içim",
+   "f": "Karbonasyonu çabuk sönen, yumuşak ve serinletici",
+   "s": "Krug ya da maß, 7-9°C; Oktoberfest yemekleri: tavuk ızgara, pretzel, sosis",
+   "kaynak": "https://allaboutbeer.com/review/ayinger-oktober-fest-marzen/"
+  },
+  "augustiner-edelstoff": {
+   "b": "Temiz ve taze; çiçeksi dokunuş ardından yumuşak malt",
+   "d": "Parlak saman sarısı; uzun dinlendirmeyle yumuşak, belirgin gövde ve canlı karbonasyon, dengeli tatlılık",
+   "f": "İnce şerbetçiotu acılığı",
+   "s": "Augustiner'in özel 'Diamantbecher' bardağı ya da krug, 6-8°C; Bavyera mutfağı, beyaz sosis, tavuk",
+   "kaynak": "https://www.augustiner-braeu.de/unser-bier/"
+  },
+  "augustiner-maximator": {
+   "b": "Kavrulmuş malt ve kakao",
+   "d": "Dolgun, tok ve belirgin gövde; kadifemsi karbonasyon, zemin maltlamasından koyu malt, hafif tatlılık",
+   "f": "Yumuşak, kalıcı bitter çikolata",
+   "s": "Krug ya da kadeh, 8-10°C; fırın et, kızarmış ördek, çikolatalı tatlılar",
+   "kaynak": "https://www.augustiner-braeu.de/unser-bier/"
+  },
+  "cantillon-grand-cru-bruocsella": {
+   "b": "Elma ve bal; yaşla gelen kızarmış ekmek (Chardonnay'i andıran)",
+   "d": "Üç yıl meşe fıçıda olgunlaşmış tek sezon lambic; şarabımsı, hafif oksidatif, yumuşak asidite; köpüksüz",
+   "f": "Brut, güçlü ve zarif",
+   "s": "Şarap kadehi, 15°C; buğulama yemekler, balık ve kabuklular, aromalı şarküteri, lahana turşusu (choucroute)",
+   "kaynak": "https://www.cantillon.be/grand-cru-bruocsella"
+  },
+  "cantillon-rose-de-gambrinus": {
+   "b": "Taze ahududu, parfümlü ve meyvemsi",
+   "d": "Litre başına 200 g ahududu ile lambic harmanı; yakut renk, ekşi-meyvemsi, şişede ikinci fermantasyon",
+   "f": "Kuru, ekşi; gençken en meyvemsi",
+   "s": "Lambic ya da şarap kadehi, 12°C; keçi peyniri, ördek, meyveli tartlar",
+   "kaynak": "https://www.cantillon.be/rose-de-gambrinus"
+  },
+  "westvleteren-blond": {
+   "b": "Taze ve meyvemsi narenciye, belirgin lime kabuğu",
+   "d": "Hafif bulanık sarı, bol köpük; malt tatlılığı ile cömert şerbetçiotunun net acılığı dengede",
+   "f": "Narenciyeli, çok kuru",
+   "s": "Trappist kadehi, serin (6-8°C); deniz ürünleri, salatalar, keçi peyniri",
+   "kaynak": "https://www.trappistwestvleteren.be/nl/onze-bieren/trappist-westvleteren-blond"
+  },
+  "erdinger-pikantus": {
+   "b": "İnce fermantasyon aroması, kavrulmuş notalar; rendelenmiş çikolata, karamel, kuru incir",
+   "d": "Bitter çikolata renginde; malt ağırlıklı yuvarlak gövde, erik, bitter çikolata ve meyankökü; canlı karbonasyon",
+   "f": "Kremsi, kadifemsi ve çok uzun",
+   "s": "Pikantus kadehi ya da büyük şarap kadehi, 8-10°C; aperatif olarak, bayram sofraları, av eti",
+   "kaynak": "https://erdinger.de/de-DE/biersorten/pikantus"
+  },
+  "weltenburger-asam-bock": {
+   "b": "Malt-aromatik, tatlı ve yoğun; hafif kahve notası",
+   "d": "Koyu renk; başta kremsi ve tatlı, sonra dolgun ve hafif buruk (Perle şerbetçiotu, karamel malt)",
+   "f": "İnce acı, hoş karbonasyonlu",
+   "s": "Koyu Seidel bardak, 8°C; kuvvetli rostolar, biftek, bitter çikolatalı tatlılar, rokfor tipi mavi peynir",
+   "kaynak": "https://www.weltenburger.de/biere/asam-bock/"
+  },
+  "riegele-commerzienrat-privat": {
+   "b": "Baharatlı (würzig) malt aroması",
+   "d": "Altın ve parlak; yumuşak ve yuvarlak, kabuk ayırma ve eski usul ezme-mayşeleme ile özgün gövde",
+   "f": "Ilımlı acılık (10 üzerinden 4), temiz",
+   "s": "Krug ya da pilsner kadehi, 7°C; Bavyera usulü fırın tavuk, beyaz sosis, hafif peynirler",
+   "kaynak": "https://www.riegele.de/bier/commerzienrat-riegele-privat/"
+  },
+  "leffe-triple": {
+   "b": "Muz, şeftali, olgun ananas; kişniş ve portakal kabuğu baharatı",
+   "d": "Şişede ikinci fermantasyonlu sarışın manastır birası; dengeli tatlı-acı, sağlam ve rafine",
+   "f": "Baharatlı, ısıtan",
+   "s": "Leffe kadehi (kalis), yaklaşık 5-6°C; peynirler, kızarmış et, karamelize ve füme yemekler, kanatlı, midye, tereyağlı tatlılar",
+   "kaynak": "https://www.tapintoyourbeer.com/beer/en/leffe-triple"
+  },
+  "leffe-ruby": {
+   "b": "Kırmızı orman meyveleri, hafif manastır birası esteri",
+   "d": "Kırmızı renk; manastır birası karakteri ile hafif meyvemsi tatlılık",
+   "f": "Kısa, meyvemsi",
+   "s": "Leffe kadehi, 5-6°C; meyveli tatlılar, cheesecake, hafif salatalar",
+   "kaynak": "https://www.tapintoyourbeer.com/beer/en/leffe-ruby"
+  },
+  "hoegaarden-rosee": {
+   "b": "Ahududu, kişniş ve portakal kabuğu",
+   "d": "Pembe renkli buğday birası; yumuşak ve hafif tatlı ahududu, düşük alkol",
+   "f": "Kısa, meyvemsi-ferah",
+   "s": "Hoegaarden kalın bardağı, 2-4°C; güneşte, meyve salatası, hafif tatlılar",
+   "kaynak": "https://www.tapintoyourbeer.com/beer/en/hoegaarden-rosee"
+  },
+  "lowenbrau-original": {
+   "b": "Hafif malt ve Hallertau aroma şerbetçiotu",
+   "d": "Açık renkli Münih lageri; çok ferahlatıcı, hafif kuru ve baharatlı, malt izi",
+   "f": "İnce, narin acılık",
+   "s": "Krug ya da pilsner kadehi, 6-8°C; beyaz sosis, pretzel, ızgara tavuk",
+   "kaynak": "https://www.tapintoyourbeer.com/beer/en/lowenbrau-original"
+  },
+  "spaten-oktoberfestbier": {
+   "b": "Malt ve çiçeksi notalar",
+   "d": "Amber ve parlak; hafif malt tatlılığı, yumuşak ve dolgun gövde",
+   "f": "Ilımlı şerbetçiotu acılığı",
+   "s": "Maß ya da krug, 7-9°C; Oktoberfest yemekleri, fırın tavuk, sosis, pretzel",
+   "kaynak": "https://www.tapintoyourbeer.com/beer/en/spaten-oktoberfestbier"
+  },
+  "la-trappe-tripel": {
+   "b": "Şeftali ve kayısı, çiçeksi notalar",
+   "d": "Altın sarısı, beyaz köpük; güçlü ve dolgun klasik trappist (pale ve Münih maltı)",
+   "f": "Sıcak, hafif kuru",
+   "s": "La Trappe kadehi, 10-14°C; beyaz et, olgun peynirler, Asya mutfağı",
+   "kaynak": "https://www.biernet.nl/bier/merken/la-trappe-tripel"
+  },
+  "kasteel-rouge": {
+   "b": "Vişne ve Belçika küberdon şekeri; Kasteel Donker tabanından karamel, tofi ve malt",
+   "d": "Yakut kırmızısı, pembe köpük; dolgun ve kadifemsi, vişne tatlılığını dengeleyen ince asidite",
+   "f": "Ferahlatıcı, kuru",
+   "s": "Kasteel kadehi, 6°C; çikolatalı tatlılar, vişneli turta, ördek",
+   "kaynak": "https://www.vanhonsebrouck.be/en/beer/kasteel/kasteel-rouge/"
+  },
+  "la-trappe-dubbel": {
+   "b": "Aromatik karamel, hurma ve bal",
+   "d": "Koyu kahve, fildişi köpük; dolgun malt ve karamel tatlılığı, kuru meyve",
+   "f": "Hafif tatlı ama ferah",
+   "s": "La Trappe kadehi, 8-12°C; güveç, kızarmış domuz yerine dana, olgun Gouda",
+   "kaynak": "https://www.biernet.nl/bier/merken/la-trappe-dubbel"
+  },
+  "zundert-8": {
+   "b": "Baharatlı, meyvemsi",
+   "d": "Bakır altını; ne çok ağır ne çok koyu, baharatlı tat",
+   "f": "Orta, sıcak",
+   "s": "Kadeh, 8-10°C; olgun peynirler, beyaz et",
+   "kaynak": "https://www.biernet.nl/bier/merken/zundert-8"
+  },
+  "affligem-tripel": {
+   "b": "Taze ve meyvemsi",
+   "d": "Altın renk; tatlımsı-acı denge, dolgun",
+   "f": "Sıcak, hafif acı",
+   "s": "Affligem kadehi, 8-10°C; tavuk, deniz ürünleri, yumuşak peynirler",
+   "kaynak": "https://www.biernet.nl/bier/merken/affligem-tripel"
+  },
+  "grimbergen-blanche": {
+   "b": "Taze ve meyvemsi",
+   "d": "Hafif bulanık, yumuşak kremsi köpük; manastır birası karakteri ile witbier ferahlığı",
+   "f": "Kısa, ferah",
+   "s": "Kalis kadeh, 4-6°C; salatalar, midye, hafif balık",
+   "kaynak": "https://www.biernet.nl/bier/merken/grimbergen-blanche"
+  },
+  "maredsous-8-brune": {
+   "b": "Meyvemsi, karamel",
+   "d": "Kahverengi dubbel; meyvemsi ve oldukça tatlı",
+   "f": "Sıcak, meyvemsi",
+   "s": "Maredsous kadehi, 8-12°C; güveç, Maredsous peyniri, çikolatalı tatlılar",
+   "kaynak": "https://www.biernet.nl/bier/merken/maredsous-bruin"
+  },
+  "achel-blond": {
+   "b": "Güçlü meyvemsi esterler",
+   "d": "Altın sarısı, hafif filtreli ama şişede ikinci fermantasyonla doğal bulanık; dolgun ve ferah",
+   "f": "Canlı, hafif sıcak",
+   "s": "Kalis, 6-8°C; beyaz et, deniz ürünleri, manastır peyniri",
+   "kaynak": "https://www.biernet.nl/bier/merken/achel-blond"
+  },
+  "petrus-aged-pale": {
+   "b": "Hafif füme, sheri ve meyve",
+   "d": "En az iki yıl meşe fıçıda olgunlaşmış saf, harmanlanmamış fıçı birası; canlı",
+   "f": "Belirgin ekşi",
+   "s": "Tulip ya da şarap kadehi, 8-12°C; istiridye, keçi peyniri, salata",
+   "kaynak": "https://www.biernet.nl/bier/merken/petrus-aged-pale"
+  },
+  "timmermans-kriek": {
+   "b": "Güçlü vişne aroması",
+   "d": "Kırmızı-koyu pembe; vişne tatlılığı ile spontan fermantasyon ekşiliği uyumlu, hafif ve ferah, acılık yok",
+   "f": "Yumuşak, kalıcı yaz vişnesi",
+   "s": "Flüt ya da lambic kadehi, 3-6°C; meyveli tatlılar, çikolatalı mus",
+   "kaynak": "https://www.biernet.nl/bier/merken/timmermans-kriek"
+  },
+  "timmermans-oude-gueuze": {
+   "b": "Belirgin Brettanomyces; kırmızı elma, narenciye ve meşe",
+   "d": "Kuru ve canlı ekşi; meyvemsi ve odunsu notalar dengede, şişede fermantasyonla köpüren",
+   "f": "Uzun, ekşi-kuru, elma ve narenciye",
+   "s": "Gueuze kadehi, 6-8°C; midye, keçi peyniri, kuşkonmaz",
+   "kaynak": "https://www.biernet.nl/bier/merken/timmermans-oude-gueuze"
+  },
+  "liefmans-fruitesse": {
+   "b": "Vişne ve kırmızı meyveler",
+   "d": "Gerçek vişne üstünde olgunlaşmış bira ve doğal meyve suyu harmanı; taze, meyvemsi, tatlı",
+   "f": "Kısa, tatlı",
+   "s": "Buzla (on the rocks), 2-4°C; meyveli tatlılar, dondurma",
+   "kaynak": "https://www.biernet.nl/bier/merken/liefmans-fruitesse"
+  },
+  "st-feuillien-saison": {
+   "b": "Hafif tatlı, maltlı ve hafif baharatlı",
+   "d": "Kişnişi andıran; malt tatlılığı ve hafif acılık",
+   "f": "Kuru, hafif acı",
+   "s": "Tulip, 6-8°C; kızarmış tavuk, deniz ürünleri, keçi peyniri",
+   "kaynak": "https://www.biernet.nl/bier/merken/st-feuillien-saison"
+  },
+  "st-feuillien-tripel": {
+   "b": "Şerbetçiotu aroması, baharat ve çok meyvemsi fermantasyon kokuları",
+   "d": "Açık amber; beyaz, sık köpük; belirgin malt, güçlü tat",
+   "f": "Olağanüstü uzun",
+   "s": "St-Feuillien kadehi, 8-10°C; beyaz et, peynir tabağı",
+   "kaynak": "https://www.biernet.nl/bier/merken/st-feuillien-tripel"
+  },
+  "samuel-adams-utopias": {
+   "b": "Vanilya, kuru incir ve kuru üzüm gibi koyu meyveler, fındıksı ve hafif şarap fıçısı izleri",
+   "d": "Porto ya da şeri gibi yoğun, tatlı ve maltlı; viski fıçısından meşe ve vanilya, köpüksüz denecek kadar az karbonasyon",
+   "f": "Çok uzun, ısıtan alkol ve hafif ekşimsi bir dokunuşla kapanır",
+   "s": "Konyak kadehi ya da küçük snifter, oda sıcaklığı, 30 ml gibi küçük porsiyon; sert peynirler, bitter çikolata ya da tek başına sindirim içkisi olarak",
+   "kaynak": "https://beerconnoisseur.com/beer/the-boston-beer-company/samuel-adams-2019-utopias/"
+  },
+  "stone-sublimely-self-righteous": {
+   "b": "Kahve ve bitter çikolata üstünde çam reçinesi, turunçgil, frenk üzümü ve tropik meyve",
+   "d": "Orta gövde; sütlü ve bitter çikolata, portakal-ahududu benzeri şerbetçiotu meyvesi ve çam reçinesi, belirgin acılık",
+   "f": "Kuru, acı ve hafif kavrulmuş; kahve izi kalır",
+   "s": "IPA bardağı ya da tulip, 8-10°C; ızgara et, mangalda kaburga, baharatlı Meksika yemekleri",
+   "kaynak": "https://beerconnoisseur.com/articles/stone-brewings-legendary-stone-sublimely-self-righteous-black-ipa-returns/"
+  },
+  "goose-island-honkers-ale": {
+   "b": "Hafif ve aromatik çiçeksi şerbetçiotu, arkada karamel malt",
+   "d": "Hafif gövdeli, dengeli malt; Styrian Golding'den gelen yumuşak, topraksı bir acılık",
+   "f": "Kolay ve temiz, kısa",
+   "s": "Nonic pint bardak, 8-10°C; fish & chips, burger, kızarmış tavuk",
+   "kaynak": "https://www.gooseisland.com/beers/honkers"
+  },
+  "brooklyn-black-ops": {
+   "b": "Kakao çekirdeği, sütlü çikolata, kahve ve burbon fıçısından vanilya",
+   "d": "Yoğun ve dolgun; çikolata-kahve katmanlarının altında vanilyalı meşe, sıcak alkol",
+   "f": "Uzun, burbon-meşe ve kavrulmuş malt",
+   "s": "Snifter, 12-14°C; bitter çikolatalı tatlılar, mavi peynir, brownie",
+   "kaynak": "https://brooklynbrewery.com/brooklyn-beers/limited/black-ops/"
+  },
+  "russian-river-temptation": {
+   "b": "Topraksı ve odunsu, laktik ekşilik, limon otu, hafif muz ve Chardonnay şarabı izleri",
+   "d": "Orta düzeyde ekşi ve funky (Brett); meşe tanini, ananas ve erik, hafif hindistan cevizi",
+   "f": "Uzun, ekşi ve kuru; beyaz şarap-meşe hissi",
+   "s": "Lale ya da şarap kadehi, 8-10°C; keçi peyniri, istiridye, salata",
+   "kaynak": "https://www.beerandbrewing.com/review/temptation"
+  },
+  "paulaner-hefe-weissbier-dunkel": {
+   "b": "Hafif çikolata ve kakao, olgun tropik meyve, muz ve kavrulmuş malt",
+   "d": "Kestane-kızıl renkli, fındıksı ve güçlü; buğday maltı ile kavrulmuş malt yumuşak, kadifemsi bir gövdede buluşur",
+   "f": "Orta uzunlukta, ekmeksi ve hafif kakaolu",
+   "s": "Uzun Weizen bardağı, 6-8°C; domuz veya dana rosto, mantarlı yemekler, kestane",
+   "kaynak": "https://www.paulaner.com/our-products/weissbier-dunkel"
+  },
+  "ayinger-jahrhundert-bier": {
+   "b": "Hafif maya ve bal",
+   "d": "İlk yudumda baharatlı ve dolgun, ortada yumuşak ve yuvarlak, ince karbonasyon; toprak tonlu arpa maltı öne çıkar",
+   "f": "Dengeli, yumuşak ve yuvarlak bir acılıkla kapanır",
+   "s": "Kulplu kupa ya da Willi bardak, 6-8°C; Bavyera usulü domuz kızartması, beyaz sosis, pretzel",
+   "kaynak": "https://www.brauerei-ayinger.de/ayinger-bierspezialitaeten/ayinger-jahrhundert-bier/"
+  },
+  "andechser-weissbier-hefetrub": {
+   "b": "Önce muz ve kavun gibi belirgin meyve, ardından ince karanfil",
+   "d": "Çok canlı ve ferahlatıcı; dolgun ve yumuşak gövde, açık bal rengi opal bulanıklık",
+   "f": "Hafif bal tatlılığı, zarif bir asidite ve arka planda şerbetçiotu acılığı; hızlı ve uyumlu biter",
+   "s": "Weizen bardağı, 5-8°C; ringa/somon gibi balıklar, ızgara karides, mantarlı kremalı makarna",
+   "kaynak": "https://www.andechs.de/klosterbrauerei/sortiment/weissbier-hell.html"
+  },
+  "andechser-spezial-hell": {
+   "b": "Taze ve temiz; malt aromaları önde",
+   "d": "Canlı karbonasyon, dolgun ve yuvarlak malt gövdesi; tatlılık ile şerbetçiotu acılığı dengede",
+   "f": "Yumuşak malt notalarıyla biter; klasik eski Bavyera festival birası",
+   "s": "Litrelik Maß kupa ya da Willi bardak, 5-8°C; kan sosisi, kuzu sırtı, peynirli Käsespätzle",
+   "kaynak": "https://www.andechs.de/klosterbrauerei/sortiment/spezial-hell.html"
+  },
+  "tegernseer-hell": {
+   "b": "Taze ekmek, hafif bal ve çayır çiçekleri",
+   "d": "Yumuşak başlayıp dolgunlaşan ince malt tatlılığı; pandispanya ve hafif tahıl, iyi bağlanmış hafif acılık",
+   "f": "Ince ve hoş bir acılıkla temiz biter, çok içimlik",
+   "s": "Kupa ya da Willi bardak, 7-9°C; beyaz sosis, Obatzda peyniri, tavuk şiş",
+   "kaynak": "https://www.bier-index.de/biere/tegernseer-hell.html"
+  },
+  "crew-republic-drunken-sailor": {
+   "b": "Şerbetçiotundan turunçgil ve çimensi notalar",
+   "d": "Berrak koyu altın; bol turunçgil şerbetçiotu, altta hafif bir malt tabanı (Simcoe, Citra, Cascade, Herkules)",
+   "f": "Orta uzunlukta, acı ve narenciye kabuklu",
+   "s": "IPA ya da tulip bardak, 6-8°C; burger, baharatlı tavuk kanadı, Hint köri",
+   "kaynak": "https://www.worldbeerawards.com/winner-beer/worlds-best-ipa-world-beer-awards-2020"
+  },
+  "bbc-halic-gold": {
+   "b": "Sloven ve Alman şerbetçiotundan temiz çiçeksi notalar, arkada yerel baharat dokunuşu",
+   "d": "Alman, Belçika ve İngiliz maltlarıyla dolgun ve yuvarlak; malt ve baharat zengin, hafif doğulu bir tını",
+   "f": "Orta uzunlukta, hafif baharatlı ve ısıtan",
+   "s": "Tulip ya da Belçika kadehi, 7-9°C; meze tabağı, tavuk şiş, otlu peynirler",
+   "kaynak": "https://www.beertasting.com/en/beers/bosphorus-halic-gold"
+  },
+  "bbc-karbon": {
+   "b": "Kavrulmuş malt, kahve ve bitter çikolata, hafif meyan kökü",
+   "d": "Koyu renkli, kremsi ve dengeli; çikolata, kahve ve meyan birbiriyle yarışır, Maris Otter maltının tatlılığı East Kent Golding acılığını karşılar",
+   "f": "Kuru, kavrulmuş ve hafif acı",
+   "s": "Pint ya da tulip, 8-10°C; kuzu tandır, ızgara köfte, çikolatalı tatlılar",
+   "kaynak": "https://www.beertasting.com/en/beers/bosphorus-karbon"
+  },
+  "fullers-frontier": {
+   "b": "Yeni Dünya şerbetçiotlarından narenciye tonları",
+   "d": "Canlı sarı, bol köpüklü; hafif ve ferah, narenciye damakta da sürer, karakterli bir lager",
+   "f": "Kısa, temiz ve gevrek",
+   "s": "Pilsner ya da pint bardak, 6-8°C; tek başına ya da acılı yemekler, Tay ve Meksika mutfağı",
+   "kaynak": "https://degustasyon.net/fullers-frontier-ingiltere/"
+  },
+  "la-trappe-witte": {
+   "b": "Turunçgil, muz ve egzotik meyve",
+   "d": "Bulanık kehribar renkli, yoğun köpüklü; meyvemsi, dolgun ve tok bir buğday-arpa gövdesi",
+   "f": "Orta uzunlukta, meyveli ve hafif baharatlı",
+   "s": "Witbier ya da tulip bardak, 4-6°C (ister 8-10°C); baharatlı yemekler, midye, salata",
+   "kaynak": "https://degustasyon.net/la-trappe-witte-trapist-hollanda/"
+  },
+  "peja-original": {
+   "b": "Belirgin şerbetçiotu ve malt",
+   "d": "Koyu altın sarısı, kalıcı köpük; dolgun gövde, ölçülü bir şerbetçiotu burukluğu",
+   "f": "Kısa-orta, hafif acımsı",
+   "s": "Pilsner bardağı, aşırı soğutmadan 6-8°C; ızgara köfte, sucuk, Balkan mezeleri",
+   "kaynak": "https://degustasyon.net/peja-original-kosova/"
+  },
+  "efes-ozel-seri": {
+   "b": "Çok taze tahıl ve hafif çimensi şerbetçiotu",
+   "d": "Açık altın sarısı, yoğun köpük; körpe ve ferah, yumuşak içim, şeker katılmadan pirinçle hafifletilmiş gövde",
+   "f": "Kısa ve temiz",
+   "s": "Pilsner bardağı, 4-6°C; gündüz içimi, ızgara tavuk, balık ekmek, meze",
+   "kaynak": "https://degustasyon.net/efes-pilsen-ozel-seri-10-istanbul/"
+  },
+  "brewdog-cold-beer": {
+   "b": "Hafif malt, geri planda Loral şerbetçiotu",
+   "d": "Berrak altın, az köpüklü; maltlı tatlar önde, hafif ve ferahlatıcı ama sade",
+   "f": "Kısa, iz bırakmayan",
+   "s": "Pint ya da pilsner bardağı, yaklaşık 6°C; çıtır atıştırmalıklar, pizza, glütensiz menüler",
+   "kaynak": "https://degustasyon.net/brewdog-cold-beer-lager-iskocya/"
+  },
+  "guinness-extra-stout": {
+   "b": "Hafif meyvemsi, ısıtan kavrulmuş kahve ve bitter çikolata",
+   "d": "Koyu yakut kırmızısı, köpüklü; keskin ve gevrek, acı-tatlı-kavrulmuş notalar dengede",
+   "f": "Kuru ve kavrulmuş",
+   "s": "Pint ya da tulip, 7-9°C; istiridye, İrlanda yahnisi, kuzu güveç, çikolatalı kek",
+   "kaynak": "https://www.guinness.com/en-us/beers/guinness-extra-stout"
+  },
+  "old-speckled-hen": {
+   "b": "Malt, karamel ve şekerleme (toffee), meyvemsi esterler",
+   "d": "Kızıl-bakır renk; Crystal maltından gelen yoğun toffee ve karamel, hafif meyve; yumuşak ve orta gövdeli",
+   "f": "Yumuşak, maltlı, hafif topraksı şerbetçiotu",
+   "s": "Nonic pint, 10-12°C; rosto et, sosis, etli börek ve turtalar",
+   "kaynak": "https://www.greeneking.co.uk/our-beers/old-speckled-hen/old-speckled-hen"
+  },
+  "shepherd-neame-bishops-finger": {
+   "b": "Topraksı yanık tost ve karamel, elma, mocha kahve ve hafif çiçek",
+   "d": "Maltlı ve fındıksı; karamel, kuru erik, mürdüm eriği ve közlenmiş badem, belirgin şerbetçiotu acılığı",
+   "f": "Karamel ve yanık tost, uzun portakal kabuğu ve çamsı bir acılıkla",
+   "s": "Pint bardak, 10-12°C; dana rosto, kızarmış ördek, çedar gibi olgun peynirler",
+   "kaynak": "https://www.diffordsguide.com/beer-wine-spirits/4296/bishops-finger"
+  },
+  "wychwood-hobgoblin-ipa": {
+   "b": "Tropik meyve, turunçgil ve taze portakal",
+   "d": "Soluk altın, turuncu yansımalı; sulu ve canlı, greyfurt ve bal, karmaşık meyve (Chinook, Cascade, Citra)",
+   "f": "Sulu, belirgin bir acılıkla biter",
+   "s": "IPA ya da pint bardak, 7-9°C; fish & chips, köri, acılı tavuk kanadı",
+   "kaynak": "https://hobgoblinbeer.co.uk/shop/hobgoblin-ipa/"
+  },
+  "youngs-double-chocolate-stout": {
+   "b": "Çikolatalı fudge, espresso ve esmer şeker; hafif krema ve vişne",
+   "d": "Obsidyen siyahı, kalın bej köpük; sütlü ve bitter çikolata ile kapuçino dönüşümlü, mus gibi yumuşak doku",
+   "f": "Orta uzunlukta, çikolatalı ve hafif kavrulmuş",
+   "s": "Pint ya da snifter, 7-12°C; çikolatalı tatlılar, vanilyalı dondurma, tiramisu",
+   "kaynak": "https://beerconnoisseur.com/beer/youngs-double-chocolate-stout"
+  },
+  "gosser-marzen": {
+   "b": "Hoş, hafif şerbetçiotu ve ince malt notaları",
+   "d": "Saman sarısı; ilk yudumda malt tonları belirginleşir, hafif şerbetçiotu uyumlu bir denge kurar",
+   "f": "Kısa-orta, yumuşak ve hafif acımsı",
+   "s": "Kulplu kupa ya da Seidel bardak, 6-8°C; şnitzel, gulaş, kızarmış tavuk",
+   "kaynak": "https://www.goesser.at/produkte/"
+  },
+  "krusovice-imperial": {
+   "b": "Malt ve hafif karamel, ölçülü şerbetçiotu",
+   "d": "Altın sarısı, orta gövdeli; maltlı, karamel dokunuşlu, orta düzeyde şerbetçiotu acılığı",
+   "f": "Dengeli ve hoş bir acılıkla temiz",
+   "s": "Kulplu kupa ya da pilsner bardağı, 6-8°C; domuz rosto, tavuk, Çek mutfağı, peynir, pizza",
+   "kaynak": "https://www.alko.fi/en/products/938393/Kru-ovice-Imperial/"
+  },
+  "kaiserdom-hefe-weissbier": {
+   "b": "Belirgin muz",
+   "d": "Turuncu yansımalı altın sarısı, kremsi köpük; meyvemsi, ince karbonasyonlu, ferah ve dolgun",
+   "f": "İnce bir şerbetçiotu izi ile kapanır",
+   "s": "Weizen bardağı, 6-8°C; beyaz sosis, tavuk salata, hafif deniz ürünleri",
+   "kaynak": "https://kaiserdom.de/en/hefe-weisbier1"
+  },
+  "kaiserdom-pilsener": {
+   "b": "Taze aroma şerbetçiotu, ardından yaz arpası",
+   "d": "Saman sarısı, parlak; taze ve canlı açılış, ince malt gövdesi üzerinde dolgun şerbetçiotu aroması",
+   "f": "Uzun süren acılık ve hafif meyvemsi bir tatlılık",
+   "s": "Pilsner bardağı (tulip ayaklı), 5-7°C; ızgara balık, salata, beyaz peynirli meze",
+   "kaynak": "https://kaiserdom.de/en/pilsener1"
+  },
+  "diebels-alt": {
+   "b": "Koyu özel malttan hafif kavrulmuş ekmek, otsu şerbetçiotu",
+   "d": "Kehribar renkli, üstten mayalanmış; taze, ferahlatıcı ve şerbetçiotu vurgulu kuru bir tat",
+   "f": "Ferah, hafif buruk-acı",
+   "s": "Silindirik 0,2 L Altbier bardağı, 5-8°C; Düsseldorf usulü domuz incik, kızarmış sosis, hardallı yemekler",
+   "kaynak": "https://www.diebels.de/"
+  },
+  "stiegl-grapefruit-radler": {
+   "b": "Çok belirgin greyfurt ve limon",
+   "d": "Bulanık soluk sarı; turunçgil önde, lager gövdesiyle dengelenmiş tatlımsı limonlu şerbet hissi",
+   "f": "Uzun, tatlı-ekşi ve çok ferahlatıcı",
+   "s": "Uzun bardak ya da kupa, 3-5°C; yaz öğleden sonrası, salatalar, ızgara tavuk, hafif deniz ürünleri",
+   "kaynak": "https://www.worldbeerawards.com/winner-beer/gold-52402-world-beer-awards-2024"
+  },
+  "piraat": {
+   "b": "Acı-tatlı ve baharatlı",
+   "d": "Amber-sarışın, beyaz köpüklü; ağız dolduran, tatlılık ile şerbetçiotu acılığı arasında dengeli güçlü bir sarışın",
+   "f": "Hoş ve uzun, alkolün sıcaklığı hissedilir",
+   "s": "Lale ya da Piraat kadehi, 6-8°C; yavaş yudumlanacak bir tadım birası, olgun peynirler, kremalı tavuk",
+   "kaynak": "https://www.piraat.be/"
+  },
+  "kasteel-cuvee-du-chateau": {
+   "b": "Karakteristik malt, karamel, sultani üzüm, kuru incir, baharat ve şekerlenmiş meyve",
+   "d": "Koyu kahverengi, kalın bej köpük; kavrulmuş maltlardan kahve ve çikolata, porto ya da madeira andıran meyvemsilik",
+   "f": "Ince bir şerbetçiotu acılığı, meyve ve anason izleri",
+   "s": "Kasteel kadehi ya da snifter, yaklaşık 12°C; av etleri, dana yanak, mavi peynir, çikolatalı tatlılar",
+   "kaynak": "https://www.vanhonsebrouck.be/en/beer/kasteel/kasteel-cuvee/"
+  },
+  "einstok-arctic-pale-ale": {
+   "b": "Cascade'den çam ve turunçgil, Alman şerbetçiotundan hafif çiçek",
+   "d": "Berrak amber; dolgun ama yumuşak, tatlımsı çiçek ve karamel, dengelenmiş acılık",
+   "f": "Kızarmış ekmeksi bir malt bitişi",
+   "s": "Pint ya da tulip, 7-9°C; burger, biftek, chili, barbekü, makarna",
+   "kaynak": "https://einstokbeer.com/icelandic-arctic-pale-ale/"
+  },
+  "williams-bros-joker-ipa": {
+   "b": "Meyvemsi; sedir ağacı, karamel, portakal ve turunçgil",
+   "d": "Altın sarısı, acı-tatlı karakter; bisküvi maltı, meyve, otsu ve çamsı şerbetçiotu",
+   "f": "Orta düzeyde acılık, temiz",
+   "s": "Pint ya da IPA bardağı, 7-9°C; fish & chips, köri, ızgara tavuk",
+   "kaynak": "https://williamsbrosbrew.com/products/joker-ipa"
+  },
+  "belhaven-twisted-thistle": {
+   "b": "Güçlü tropik meyve ve turunçgil: ananas, şeftali, greyfurt",
+   "d": "Çamsı reçine, orta tatlılık ve belirgin bir acılık; canlı ve ferah",
+   "f": "Acı ve reçineli, kolay içimli",
+   "s": "Pint bardak, 6-8°C; tatlı-ekşi Asya yemekleri, limonlu soslu tavuk",
+   "kaynak": "https://www.belhaven.co.uk/our-beers/belhaven-twisted-thistle-ipa"
+  },
+  "brewdog-jet-black-heart": {
+   "b": "Güçlü malt ve çikolata",
+   "d": "Koyu, kalıcı bej köpüklü yulaflı sütlü stout; meyvemsi, sütlü ve karamelli, yumuşak gövde",
+   "f": "Kakao ve hafif kavrulmuşlukla orta uzunlukta",
+   "s": "Pint ya da tulip, 8-10°C; brownie, çikolatalı pasta, ızgara et burger",
+   "kaynak": "https://www.beertasting.com/en/beers/brewdog-jet-black-heart"
+  },
+  "coedo-ruri": {
+   "b": "Temiz malt ve hafif şerbetçiotu",
+   "d": "Kusursuz altın renk, yumuşak beyaz köpük; zengin malt ile şerbetçiotu acılığı dengede, çok kolay içimli",
+   "f": "Temiz ve gevrek",
+   "s": "Pilsner bardağı, 4-6°C; neredeyse her yemekle; suşi, tempura, yakitori",
+   "kaynak": "https://japan-food.jetro.go.jp/craftbeer/beer/traditional.html"
+  },
+  "coedo-marihana": {
+   "b": "Narin, turunçgilli şerbetçiotu",
+   "d": "Açık altın renk, kabarık köpük; düşük alkole rağmen aromalı, sofistike bir acılık",
+   "f": "Dengeli, kısa-orta acılık",
+   "s": "Tulip ya da pint, 5-7°C; karaage (Japon kızarmış tavuk), gyoza, salatalar",
+   "kaynak": "https://japan-food.jetro.go.jp/craftbeer/beer/traditional.html"
+  },
+  "coedo-kyara": {
+   "b": "Beyaz üzüm, tropik meyve ve baharatlı turunçgil andıran şerbetçiotu",
+   "d": "Kızıla çalan koyu altın-kahve; altı farklı malttan yuvarlak, orta gövde, parlak ve temiz acılık",
+   "f": "Lager mayasından gelen gevrek ve ferah bir bitiş",
+   "s": "Tulip ya da pilsner bardağı, 6-8°C; teriyaki, ızgara et, baharatlı Asya yemekleri",
+   "kaynak": "https://coedobrewery.com/en/products/kyara"
+  },
+  "hitachino-nest-japanese-classic-ale": {
+   "b": "Sake fıçısı sedir ağacı, topraksı İngiliz şerbetçiotu (Fuggles, Kent Goldings)",
+   "d": "Şişede ikincil fermantasyonlu güçlü bir IPA; sedir odunsu dokusu malt ve Chinook acılığıyla birleşir",
+   "f": "Orta-uzun, odunsu ve acı",
+   "s": "Tulip, 8-10°C; suşi-saşimi, yakitori, olgun peynirler",
+   "kaynak": "https://www.bunitedint.com/information/brands/description/158/"
+  },
+  "hitachino-nest-dai-dai-ale": {
+   "b": "Yoğun portakal ve mandalina (fukure mikan kabuğu)",
+   "d": "Maris Otter maltı üzerinde odaklı turunçgil notaları, Fransız ve Alman aroma şerbetçiotları",
+   "f": "Oldukça kuru",
+   "s": "Tulip, 6-8°C; turunçgil soslu tavuk, ponzu soslu yemekler, Asya mutfağı",
+   "kaynak": "https://www.bunitedint.com/information/brands/description/477/"
+  },
+  "yo-ho-aooni-ipa": {
+   "b": "Canlı, ferahlatıcı şerbetçiotu",
+   "d": "Belirgin West Coast karakteri; güçlü acılık ve rafine bir doku",
+   "f": "Uzun ve acı",
+   "s": "IPA bardağı, 7-9°C; baharatlı ramen, karaage, köri",
+   "kaynak": "https://japan-food.jetro.go.jp/craftbeer/beer/traditional.html"
+  },
+  "yo-ho-tokyo-black": {
+   "b": "Kavrulmuş maltın isli notaları, hafif kahve ve çikolata",
+   "d": "Kremsi köpüklü, zengin bir porter; kavrulmuş malt ile hoş bir şerbetçiotu acılığı birleşir",
+   "f": "Maltlı ve oldukça kalıcı",
+   "s": "Pint ya da tulip, 8-12°C; ızgara et, unagi (yılan balığı), çikolatalı tatlılar",
+   "kaynak": "https://en.strongzero.ch/yoho-brewing-company"
+  },
+  "mikkeller-american-dream": {
+   "b": "Kavun, tropik meyve parfümü, çam reçinesi ve klementin",
+   "d": "Çimen ve saman, kan portakalı, fındık ve hafif malt tatlılığı; şerbetçiotlu bir lager",
+   "f": "Kuru, belirgin ve kalıcı bir acılık",
+   "s": "Pilsner ya da tulip, 5-7°C; tavuk, balık tacos, Asya usulü salatalar",
+   "kaynak": "https://www.mikkeller.com/news/20130124the-american-dream-project-mikkeller-tasting-panel-doing-beer-science"
+  },
+  "fullers-honey-dew": {
+   "b": "Hafif bal, çiçek ve çimen",
+   "d": "Sıcak altın rengi; canlı turunçgil notaları bal tatlılığıyla yumuşar, organik malt ve şerbetçiotu",
+   "f": "Acı-tatlı, narenciyeli ve ferah",
+   "s": "Pint bardak, 7-9°C; ızgara tavuk, keçi peyniri salatası, balık",
+   "kaynak": "https://en.wikipedia.org/wiki/Organic_Honey_Dew"
+  },
+  "maine-beer-dinner": {
+   "b": "Yoğun beyaz greyfurt ve limon, taze soyulmuş portakal, limon kabuğu, tropik meyve ve hafif çam",
+   "d": "Çok şerbetçiotlu, çiğnenebilir bir malt omurgası; limon önde, mandalina, greyfurt, ananas ve mango; dengeli",
+   "f": "Kuru, temiz ve gevrek; acılık sona doğru greyfurtla yükselir",
+   "s": "IPA ya da tulip bardak, 6-8°C; taze içilmeli; acılı tavuk, Tay köri, keskin çedar",
+   "kaynak": "https://www.beerandbrewing.com/review/dinner"
+  },
+  "surly-todd-the-axe-man": {
+   "b": "Limon ve portakal ağırlıklı turunçgil, çam, şekerlenmiş şeftali ve portakal, hafif odunsu-nane ve baharat",
+   "d": "Limonlu, greyfurt kabuğu ve reçineli çam; baştan sona kuru, sert karbonasyon şerbetçiotunu öne çıkarır",
+   "f": "Dile yapışan, çok uzun süren keskin acılık",
+   "s": "IPA bardağı, 6-8°C; burger, baharatlı Meksika yemekleri, keskin peynirler",
+   "kaynak": "https://www.beerandbrewing.com/review/todd-the-axe-man"
+  },
+  "stone-ruination-double-ipa": {
+   "b": "Limon ve kırmızı greyfurt, tahıl tatlılığı, ısındıkça ananas; acı portakal, şekerlenmiş turunçgil ve bal",
+   "d": "Agresif, çamsı ve reçineli acılık; bisküvi maltı ve karamel dokunuşu, acı portakal ve topraksı notalar",
+   "f": "Uzun ve kalıcı bir acılık, hafif alkol sıcaklığı",
+   "s": "IPA bardağı; çok soğuk değil, 8-10°C'ye ısınmaya bırakın; baharatlı Hint ve Meksika yemekleri, olgun çedar",
+   "kaynak": "https://www.beerandbrewing.com/review/ruination-double-ipa-2.0"
+  },
+  "blue-moon-mango-wheat": {
+   "b": "Çok belirgin, biraz yapay hissettiren olgun mango",
+   "d": "Nektar gibi tatlılık, bisküvi maltı; şerbetçiotu acılığı ve orta karbonasyon tatlılığı temizler",
+   "f": "Mango ile yükselen acılık birlikte, uzunca",
+   "s": "Uzun buğday bardağı, 4-6°C; yaz içimi, baharatlı tavuk, mango salsalı taco, meyveli tatlılar",
+   "kaynak": "https://www.beerandbrewing.com/review/mango-wheat"
+  },
+  "jester-king-le-petit-prince": {
+   "b": "Küflü misket limonu kabuğu funk'ı, kakule benzeri baharat, limonlu tahıl ve hafif ananas ekşiliği",
+   "d": "Çok hafif ve canlı; kraker maltı, belirgin Brett mayası, çok hafif ekşi bir asidite",
+   "f": "Kuru ve oldukça acı, hafif kalıntı şekerle hoş biter",
+   "s": "Tulip ya da şarap kadehi, 7-9°C; keçi peyniri, otlu salatalar, ızgara sebze, öğle yemeği",
+   "kaynak": "https://www.beerandbrewing.com/review/jester-king-brewery-le-petit-prince-1692737132"
+  },
+  "somx-kolsch": {
+   "b": "Beyaz çiçekler, taze ve temiz malt",
+   "d": "Hafif gövde, orta-yüksek karbonasyon; ferah ve canlı",
+   "f": "Kısa, temiz ve hafif şerbetçiotu acılıklı (36 IBU)",
+   "s": "Silindirik Stange ya da ince uzun bardak, 4-6°C; tempura turşu, edamame, tavuk şnitzel, hafif mezeler",
+   "kaynak": "https://taproomx.com/"
+  },
+  "unibroue-don-de-dieu": {
+   "b": "Vanilya ve meyveli kek, bal mumu, çiçek ve bal",
+   "d": "Sarışın, güçlü buğday; tatlımsı ve alkollü, muz, şerbetçiotu ve baharat notaları",
+   "f": "Isıtan, hafif baharatlı ve tatlımsı",
+   "s": "Lale ya da Unibroue kadehi, 8-12°C; soslu beyaz etler, yumuşak sosisler, keçi peyniri",
+   "kaynak": "https://www.unibroue.com/bieres/classiques/don-de-dieu"
+  },
+  "unibroue-17": {
+   "b": "Kavrulmuş malt buketi, şerbetçiotu ve aromatik baharat, altta vanilya",
+   "d": "Koyu amber; yoğun maltlı, hafif tatlı ve şerbetçiotlu; moka, kakao ve pipo tütünü",
+   "f": "Ince bir meşe dokunuşuyla",
+   "s": "Snifter ya da lale kadeh, 12-14°C; ızgara kırmızı et, cedar tahtasında somon, Opera pastası",
+   "kaynak": "https://www.unibroue.com/bieres/brassins-dexception/17-grande-r%C3%A9serve"
+  },
+  "dieu-du-ciel-rosee-dhibiscus": {
+   "b": "Çiçeksi ve ekşimsi; taze greyfurt",
+   "d": "Hibiskus çiçeğinden pembe renkli narin bir buğday birası; sarmalayan, yumuşak doku",
+   "f": "Ferah, hafif mayhoş ve susuzluk giderici",
+   "s": "Witbier bardağı ya da kadeh, 4-6°C; sıcak yaz günleri, keçi peynirli salata, ceviche, meyveli tatlılar",
+   "kaynak": "https://boutique.dieuduciel.com/en/products/rosee-dhibiscus"
+  },
+  "lervig-3-bean-stout": {
+   "b": "Tatlı tonka fasulyesi, çikolata, tarçına yakın baharat, vanilya ve hafif kahve",
+   "d": "Işık geçirmeyen siyah; vanilya, tonka, kahve ve çikolata; dolgun, yumuşak, tatlı ama aşırıya kaçmayan gövde",
+   "f": "Uzun, kakao ve kavrulmuş malt",
+   "s": "Snifter, 12-14°C; tütsülenmiş et, barbekü, vanilyalı dondurma, krem brüle",
+   "kaynak": "https://www.craftmetropolis.co.uk/product/lervig-barrel-aged-3-bean-stout/"
+  },
+  "tempest-mexicake": {
+   "b": "Kakao, vanilya, tarçın ve kara pekmez benzeri koyu malt",
+   "d": "Tarçın ve vanilya tatlılığını Ancho, Mulato ve Chipotle biberlerinin yumuşak acısı dengeler; yoğun ama dengeli",
+   "f": "Hafif, kalıcı bir biber sıcaklığı",
+   "s": "Snifter, 12-14°C; mole soslu tavuk, Meksika usulü et yemekleri, bitter çikolata, churros",
+   "kaynak": "https://www.hopburnsblack.co.uk/blogs/news/fundamentals-4-tempest-mexicake-imperial-stout"
+  },
+  "a-sante-double-ipa": {
+   "b": "Tropik meyve ve turunçgil önde",
+   "d": "Berrak altın; mango, mandalina ve kayısı, çam reçinesi eşliğinde; tok, keskin ve güçlü",
+   "f": "Yüksek alkolün verdiği burukluk, uzun acılık",
+   "s": "Tulip ya da IPA bardağı, aşırı soğutmadan 8-10°C; acılı kebaplar, Tay köri, keskin peynirler",
+   "kaynak": "https://degustasyon.net/a-sante-double-ipa-adana/"
+  },
+  "a-sante-imperial-red": {
+   "b": "Meyan kökü, karamel, kızarmış ekmek ve kuru meyve",
+   "d": "Hafif bulanık kehribar kızılı; dolgun ve tok, yoğun şerbetçiotu burukluğu ile ağır ve zengin",
+   "f": "Uzun, karamelli ve buruk",
+   "s": "Lale kadeh, 12-14°C; şarküteri, ızgara kırmızı et, köfte ve burger",
+   "kaynak": "https://degustasyon.net/a-sante-imperial-red-adana-2/"
+  },
+  "kubau-thistle-and-thorn": {
+   "b": "Tahıl kokuları önde",
+   "d": "Altın sarısı, bol köpüklü; dolgun, şerbetçiotu belirgin, mısırdan gelen hafif tatlılık",
+   "f": "Hafif tuzlumsu izlerle kısa",
+   "s": "Pilsner bardağı, 6-8°C; tavuk yemekleri, sofra birası olarak",
+   "kaynak": "https://degustasyon.net/kubau-thistle-thorn-canakkale/"
+  },
+  "kubau-hop-circus": {
+   "b": "Bardağa dökülürken yayılan yoğun turunçgil",
+   "d": "Bulanık turuncu; dolgun ve güçlü, turunç reçeli, greyfurt ve tropik meyve",
+   "f": "Yoğun şerbetçiotu burukluğuyla ağızda kalır",
+   "s": "Tulip ya da teku, 8-10°C; tek başına, ya da kızarmış tavuk, baharatlı Asya yemekleri",
+   "kaynak": "https://degustasyon.net/kubau-hop-circus-ipa-canakkale/"
+  },
+  "efes-haus-weizenbock": {
+   "b": "Olgun muz ve egzotik meyve",
+   "d": "Bulanık açık sarı, çok yoğun köpük; baharatlı, dolgun ve tok; şerbetçiotu burukluğu da hissedilir",
+   "f": "Orta uzunlukta, baharatlı",
+   "s": "Uzun konik buğday bardağı, 6-8°C; acılı tavuk kanadı, baharatlı beyaz etler, Asya mutfağı",
+   "kaynak": "https://degustasyon.net/efes-haus-weisenbock-istanbul/"
+  },
+  "efes-haus-neipa": {
+   "b": "Greyfurt ve turunç ağırlıklı narenciye, tropik meyve",
+   "d": "Bulanık turuncu, bol köpük; hafif gövdeli, ferahlatıcı ve modern; buğday ve yulaftan yumuşak doku",
+   "f": "Kısa-orta, hafif acı",
+   "s": "Tulip ya da teku, 6-8°C; kızartmalar, tavuk burger, fish & chips",
+   "kaynak": "https://degustasyon.net/efes-haus-neipa-istanbul/"
+  },
+  "nova-roma-hoptwist-ipa": {
+   "b": "Kan portakalı ve turuncu narenciye, Belçika mayasından baharat",
+   "d": "Bulanık turuncu; dolgun ve tok, baharatlı narenciye",
+   "f": "Keskin bir burukluk",
+   "s": "Tulip, 6-8°C; acılı beyaz etler, bol baharatlı Asya yemekleri",
+   "kaynak": "https://degustasyon.net/nova-roma-hoptwist-istanbul/"
+  },
+  "nova-roma-quadrupel": {
+   "b": "Meyan kökü, kahve ve bitter çikolata; hafif yanık notalar",
+   "d": "Maun rengi; dolgun yapılı, karamelize tatlar",
+   "f": "Burnun vaadine göre biraz düz ve kısa",
+   "s": "Lale ya da kadeh, 8-10°C; ızgara kırmızı et, kebap, köfte ve burger",
+   "kaynak": "https://degustasyon.net/nova-roma-quadrupel-istanbul/"
+  }
+ },
+ "duzeltme": [
+  {
+   "id": "das-bagaj-degaj",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.5,
+   "kaynak": "https://www.dasbira.com/biralar"
+  },
+  {
+   "id": "gara-guzu-4c-ipa",
+   "alan": "abv",
+   "eski": 6.2,
+   "yeni": 6.0,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-4c-ipa",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 60,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-amber-ale",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 30,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-blonde-ale",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 24,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-summer-ipa",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 36,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-mayhos",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 25,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-weiss",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 18,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-gara-porter",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 35,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-ters-kose",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 35,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "gara-guzu-meseli",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 30,
+   "kaynak": "https://garaguzu.com.tr/about-us/about-the-beer/"
+  },
+  {
+   "id": "3-kafadar-okto",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 4.7,
+   "kaynak": "https://degustasyon.net/3-kafadar-okto-istanbul/"
+  },
+  {
+   "id": "torch-honey-pepper-ale",
+   "alan": "abv",
+   "eski": 5.5,
+   "yeni": 6.5,
+   "kaynak": "https://degustasyon.net/torch-honey-pepper-ale-istanbul/"
+  },
+  {
+   "id": "torch-red-ale",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.4,
+   "kaynak": "https://degustasyon.net/torch-brewery-red-ale-istanbul-3/"
+  },
+  {
+   "id": "torch-pilsner",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.6,
+   "kaynak": "https://degustasyon.net/torch-brewery-pilsner-istanbul/"
+  },
+  {
+   "id": "knidos-tank-1",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.8,
+   "kaynak": "https://degustasyon.net/knidos-tank-1-lager-istanbul/"
+  },
+  {
+   "id": "knidos-tank-1",
+   "alan": "hacim",
+   "eski": 50,
+   "yeni": 33,
+   "kaynak": "https://degustasyon.net/knidos-tank-1-lager-istanbul/"
+  },
+  {
+   "id": "das-primitif-red-ipa",
+   "alan": "abv",
+   "eski": 6.5,
+   "yeni": 6.6,
+   "kaynak": "https://degustasyon.net/primitif-red-ipa-kirklareli/"
+  },
+  {
+   "id": "efes-glutensiz",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 4.0,
+   "kaynak": "https://degustasyon.net/efes-glutensiz-istanbul/"
+  },
+  {
+   "id": "tuborg-amber",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.2,
+   "kaynak": "https://degustasyon.net/tuborg-amber-izmir/"
+  },
+  {
+   "id": "trokya-dakka",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 30,
+   "kaynak": "https://degustasyon.net/trokya-dakka-pale-ale-edirne/"
+  },
+  {
+   "id": "trokya-mars",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 28,
+   "kaynak": "https://degustasyon.net/trokya-mars-red-ale-edirne/"
+  },
+  {
+   "id": "das-diesdos",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.5,
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  {
+   "id": "feliz-kulpa-queen-smyrna",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 24,
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  {
+   "id": "feliz-kulpa-urla-weiss",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 14,
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  {
+   "id": "feliz-kulpa-smyrnale",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 24,
+   "kaynak": "https://rastbirabahcesi.com/rasturla_craft/"
+  },
+  {
+   "id": "weihenstephaner-korbinian",
+   "alan": "ibu",
+   "eski": 32,
+   "yeni": 16,
+   "kaynak": "https://www.weihenstephaner.de/en/our-beers/korbinian-1"
+  },
+  {
+   "id": "weihenstephaner-kristallweissbier",
+   "alan": "ibu",
+   "eski": 14,
+   "yeni": 16,
+   "kaynak": "https://www.weihenstephaner.de/en/our-beers/kristallweissbier-1"
+  },
+  {
+   "id": "the-alchemist-focal-banger",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 90,
+   "kaynak": "https://www.beerandbrewing.com/review/focal-banger"
+  },
+  {
+   "id": "three-floyds-dark-lord",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 50,
+   "kaynak": "https://www.beerandbrewing.com/review/three-floyds-brewing-co-dark-lord-2022-1658769495"
+  },
+  {
+   "id": "schlenkerla-eiche",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 40,
+   "kaynak": "https://www.beerandbrewing.com/review/aecht-schlenkerla-eiche"
+  },
+  {
+   "id": "boulevard-tank-7",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 38,
+   "kaynak": "https://www.beerandbrewing.com/review/tank-7"
+  },
+  {
+   "id": "rochefort-6",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 18,
+   "kaynak": "https://www.beerandbrewing.com/review/trappistes-rochefort-6"
+  },
+  {
+   "id": "taras-boulba",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 57,
+   "kaynak": "https://www.beerandbrewing.com/review/brasserie-de-la-senne-taras-boulba-1636501605"
+  },
+  {
+   "id": "elysian-space-dust",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 73,
+   "kaynak": "https://www.beerandbrewing.com/review/space-dust-ipa"
+  },
+  {
+   "id": "bells-hopslam",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 65,
+   "kaynak": "https://bellsbeer.com/beers/hopslam-ale/"
+  },
+  {
+   "id": "stone-xocoveza",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 50,
+   "kaynak": "https://www.stonebrewing.com/beer/special-releases/stone-xocoveza-spiced-chocolate-stout"
+  },
+  {
+   "id": "allagash-curieux",
+   "alan": "abv",
+   "eski": 11.0,
+   "yeni": 10.2,
+   "kaynak": "https://www.allagash.com/beer/ale/curieux/"
+  },
+  {
+   "id": "firestone-walker-union-jack",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 70,
+   "kaynak": "https://www.firestonewalker.com/beer/union-jack/"
+  },
+  {
+   "id": "three-floyds-gumballhead",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 38,
+   "kaynak": "https://www.3floyds.com/beer/gumballhead/"
+  },
+  {
+   "id": "victory-hopdevil",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 70,
+   "kaynak": "https://victorybeer.com/beers/hopdevil/"
+  },
+  {
+   "id": "great-divide-yeti",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 75,
+   "kaynak": "https://greatdivide.com/products/yeti/"
+  },
+  {
+   "id": "dogfish-head-seaquench",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 10,
+   "kaynak": "https://www.dogfish.com/drink/beer/seaquench-ale"
+  },
+  {
+   "id": "hill-farmstead-susan",
+   "alan": "abv",
+   "eski": 6.2,
+   "yeni": 6.0,
+   "kaynak": "https://hillfarmstead.com/beer/susan/"
+  },
+  {
+   "id": "delirium-nocturnum",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 24,
+   "kaynak": "https://www.delirium.be/nl/bieren/delirium-nocturnum"
+  },
+  {
+   "id": "traquair-jacobite-ale",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 23,
+   "kaynak": "https://www.beerandbrewing.com/review/jacobite-ale"
+  },
+  {
+   "id": "spaten-optimator",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 25,
+   "kaynak": "https://www.beerandbrewing.com/review/optimator"
+  },
+  {
+   "id": "founders-cbs",
+   "alan": "abv",
+   "eski": 10.6,
+   "yeni": 11.7,
+   "kaynak": "https://www.beerandbrewing.com/review/canadian-breakfast-stout-2017"
+  },
+  {
+   "id": "ohara-leann-follain",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 42,
+   "kaynak": "https://carlowbrewing.com/our-beers/oharas-leann-follain/"
+  },
+  {
+   "id": "unibroue-trois-pistoles",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 15.5,
+   "kaynak": "https://www.unibroue.com/bieres/classiques/trois-pistoles"
+  },
+  {
+   "id": "driftwood-fat-tug",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 80,
+   "kaynak": "https://driftwoodbeer.ca/beers/fat-tug-ipa/"
+  },
+  {
+   "id": "northern-monk-faith",
+   "alan": "abv",
+   "eski": 5.4,
+   "yeni": 5.0,
+   "kaynak": "https://www.northernmonk.com/products/440ml-faith-hazy-pale-ale-5-0"
+  },
+  {
+   "id": "northern-monk-faith",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 30,
+   "kaynak": "https://www.northernmonk.com/products/440ml-faith-hazy-pale-ale-5-0"
+  },
+  {
+   "id": "orkney-skull-splitter",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 23,
+   "kaynak": "https://www.orkneybrewery.co.uk/beer/skull-splitter"
+  },
+  {
+   "id": "rothaus-tannenzaepfle",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 31,
+   "kaynak": "https://www.rothaus.de/biere/tannenzaepfle"
+  },
+  {
+   "id": "uerige-sticke",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 65,
+   "kaynak": "https://allaboutbeer.com/review/uerige-sticke/"
+  },
+  {
+   "id": "st-feuillien-saison",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 26,
+   "kaynak": "https://allaboutbeer.com/review/st-feuillien-saison/"
+  },
+  {
+   "id": "st-feuillien-tripel",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 28,
+   "kaynak": "https://allaboutbeer.com/review/st-feuillien-tripel/"
+  },
+  {
+   "id": "cantillon-grand-cru-bruocsella",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 25,
+   "kaynak": "https://www.cantillon.be/grand-cru-bruocsella"
+  },
+  {
+   "id": "cantillon-rose-de-gambrinus",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 25,
+   "kaynak": "https://www.cantillon.be/rose-de-gambrinus"
+  },
+  {
+   "id": "weltenburger-asam-bock",
+   "alan": "abv",
+   "eski": 6.9,
+   "yeni": 7.3,
+   "kaynak": "https://www.weltenburger.de/biere/asam-bock/"
+  },
+  {
+   "id": "timmermans-oude-gueuze",
+   "alan": "abv",
+   "eski": 5.5,
+   "yeni": 6.7,
+   "kaynak": "https://www.biernet.nl/bier/merken/timmermans-oude-gueuze"
+  },
+  {
+   "id": "bbc-halic-gold",
+   "alan": "abv",
+   "eski": 6.5,
+   "yeni": 6.0,
+   "kaynak": "https://www.beertasting.com/en/beers/bosphorus-halic-gold"
+  },
+  {
+   "id": "bbc-halic-gold",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 22,
+   "kaynak": "https://www.beertasting.com/en/beers/bosphorus-halic-gold"
+  },
+  {
+   "id": "bbc-karbon",
+   "alan": "abv",
+   "eski": 5.0,
+   "yeni": 5.5,
+   "kaynak": "https://www.beertasting.com/en/beers/bosphorus-karbon"
+  },
+  {
+   "id": "bbc-karbon",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 45,
+   "kaynak": "https://www.beertasting.com/en/beers/bosphorus-karbon"
+  },
+  {
+   "id": "williams-bros-joker-ipa",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 30,
+   "kaynak": "https://williamsbrosbrew.com/products/joker-ipa"
+  },
+  {
+   "id": "belhaven-twisted-thistle",
+   "alan": "abv",
+   "eski": 5.6,
+   "yeni": 4.0,
+   "kaynak": "https://www.belhaven.co.uk/our-beers/belhaven-twisted-thistle-ipa",
+   "not": "İngiltere fıçı versiyonu 2025 itibarıyla %4; %5,6 yalnızca ihracat fıçısı"
+  },
+  {
+   "id": "hitachino-nest-japanese-classic-ale",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 24,
+   "kaynak": "https://www.bunitedint.com/information/brands/description/158/"
+  },
+  {
+   "id": "yo-ho-aooni-ipa",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 60,
+   "kaynak": "https://en.strongzero.ch/yoho-brewing-company"
+  },
+  {
+   "id": "yo-ho-tokyo-black",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 35,
+   "kaynak": "https://en.strongzero.ch/yoho-brewing-company"
+  },
+  {
+   "id": "somx-kolsch",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 36,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "somx-oh-la-la-neipa",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 38,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "3-kafadar-mosaic-ipa",
+   "alan": "abv",
+   "eski": 6.2,
+   "yeni": 6.0,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "3-kafadar-mosaic-ipa",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 60,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "3-kafadar-asna-visne",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 14,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "das-bagaj-degaj",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 25,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "nova-roma-tripel",
+   "alan": "abv",
+   "eski": 7.5,
+   "yeni": 7.9,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "das-diesale",
+   "alan": "ibu",
+   "eski": 33,
+   "yeni": 22,
+   "kaynak": "https://taproomx.com/"
+  },
+  {
+   "id": "unibroue-don-de-dieu",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 10.5,
+   "kaynak": "https://www.unibroue.com/bieres/classiques/don-de-dieu"
+  },
+  {
+   "id": "unibroue-17",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 35,
+   "kaynak": "https://www.unibroue.com/bieres/brassins-dexception/17-grande-r%C3%A9serve"
+  },
+  {
+   "id": "lervig-3-bean-stout",
+   "alan": "ibu",
+   "eski": 0,
+   "yeni": 50,
+   "kaynak": "https://www.craftmetropolis.co.uk/product/lervig-barrel-aged-3-bean-stout/"
+  },
+  {
+   "id": "a-sante-imperial-red",
+   "alan": "abv",
+   "eski": 8.0,
+   "yeni": 9.0,
+   "kaynak": "https://degustasyon.net/a-sante-imperial-red-adana-2/",
+   "not": "2023 ve 2025 yılbaşı sürümleri ikisi de %9"
+  },
+  {
+   "id": "a-sante-saison",
+   "alan": "abv",
+   "eski": 5.5,
+   "yeni": 5.0,
+   "kaynak": "https://degustasyon.net/a-sante-saison-adana/",
+   "not": "Kasım 2023 tadımı; üretici sayfasında ABV yok"
+  },
+  {
+   "id": "a-sante-vienna-lager",
+   "alan": "abv",
+   "eski": 5.2,
+   "yeni": 5.0,
+   "kaynak": "https://degustasyon.net/a-sante-vienna-lager-adana/",
+   "not": "Kasım 2023 tadımı"
+  },
+  {
+   "id": "a-sante-west-coast-ipa",
+   "alan": "abv",
+   "eski": 6.5,
+   "yeni": 6.0,
+   "kaynak": "https://degustasyon.net/a-sante-west-coast-ipa-adana/",
+   "not": "Kasım 2024 tadımı"
+  },
+  {
+   "id": "das-old-queen-barling",
+   "alan": "abv",
+   "eski": 10.0,
+   "yeni": 8.2,
+   "kaynak": "https://degustasyon.net/das-bira-old-queen-barling-barley-wine-kirklareli/",
+   "not": "Ocak 2024 tadımı (2023 partisi); üretici sayfasında oran verilmemiş"
+  },
+  {
+   "id": "efes-haus-rye-ipa",
+   "alan": "abv",
+   "eski": 6.5,
+   "yeni": 6.0,
+   "kaynak": "https://degustasyon.net/efes-haus-rye-ipa-istanbul/",
+   "not": "Ocak 2025 tadımı"
+  },
+  {
+   "id": "nova-roma-hoptwist-ipa",
+   "alan": "abv",
+   "eski": 6.5,
+   "yeni": 6.7,
+   "kaynak": "https://degustasyon.net/nova-roma-hoptwist-istanbul/",
+   "not": "Temmuz 2026 tadımı"
+  },
+  {
+   "id": "efes-haus-weizenbock",
+   "alan": "hacim",
+   "eski": 40,
+   "yeni": 33,
+   "kaynak": "https://degustasyon.net/efes-haus-weisenbock-istanbul/",
+   "not": "Tadımı yapılan şişe 33 cl; 40 cl ambalaj da varsa ikisi birlikte belirtilebilir"
+  },
+  {
+   "id": "efes-haus-neipa",
+   "alan": "hacim",
+   "eski": 40,
+   "yeni": 33,
+   "kaynak": "https://degustasyon.net/efes-haus-neipa-istanbul/",
+   "not": "Tadımı yapılan şişe 33 cl"
+  }
+ ],
+ "odul": [
+  {
+   "id": "gara-guzu-mayhos",
+   "uz": "Greek Beer Awards (Atina) 2025 altın (Saison)",
+   "kaynak": "https://istanbulschoolofbeers.com/en/blog/2026-turkish-craft-beer-guide"
+  },
+  {
+   "id": "stiegl-grapefruit-radler",
+   "uz": "World Beer Awards 2024 altın (Flavoured Beer – meyveli)",
+   "kaynak": "https://www.worldbeerawards.com/winner-beer/gold-52402-world-beer-awards-2024"
+  },
+  {
+   "id": "stiegl-grapefruit-radler",
+   "uz": "World Beer Awards 2023 altın (Flavoured Beer – meyveli)",
+   "kaynak": "https://www.worldbeerawards.com/winner-beer/gold-45457-world-beer-awards-2023"
+  },
+  {
+   "id": "stiegl-goldbrau",
+   "uz": "World Beer Awards 2024 altın (Helles/Münchner)",
+   "kaynak": "https://www.worldbeerawards.com/winner-beer/gold-52398-world-beer-awards-2024"
+  },
+  {
+   "id": "das-old-queen-barling",
+   "uz": "European Beer Challenge 2025 altın (Barleywine)",
+   "kaynak": "https://www.dasbira.com/biralar"
+  },
+  {
+   "id": "ayinger-urweisse",
+   "uz": "World Beer Cup 2024 altın (South German-Style Bernsteinfarbenes Weizen)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "weihenstephaner-vitus",
+   "uz": "World Beer Cup 2024 bronz (South German-Style Weizenbock)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "la-trappe-dubbel",
+   "uz": "World Beer Cup 2024 altın (Belgian-Style Dubbel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "unibroue-la-fin-du-monde",
+   "uz": "World Beer Cup 2024 altın (Belgian-Style Tripel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "allagash-tripel",
+   "uz": "World Beer Cup 2024 gümüş (Belgian-Style Tripel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "three-floyds-gumballhead",
+   "uz": "World Beer Cup 2024 bronz (English Ale)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "samuel-adams-summer-ale",
+   "uz": "World Beer Cup 2025 bronz (Fruit Wheat Beer)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "shiner-bock",
+   "uz": "World Beer Cup 2025 gümüş (Session Beer or Belgian-Style Table Beer)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "sierra-nevada-pale-ale",
+   "uz": "World Beer Cup 2025 altın (Extra Special Bitter)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "ayinger-urweisse",
+   "uz": "World Beer Cup 2025 gümüş (South German-Style Bernsteinfarbenes Weizen)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "weihenstephaner-vitus",
+   "uz": "World Beer Cup 2025 bronz (South German-Style Weizenbock)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "unibroue-la-fin-du-monde",
+   "uz": "World Beer Cup 2025 bronz (Belgian-Style Tripel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "firestone-walker-union-jack",
+   "uz": "World Beer Cup 2025 altın (English Ale)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2025/05/27092752/WBC-list-25-updated.pdf"
+  },
+  {
+   "id": "weihenstephaner-vitus",
+   "uz": "World Beer Cup 2026 altın (South German-Style Weizenbock)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "allagash-white",
+   "uz": "World Beer Cup 2026 altın (Belgian-Style Witbier)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "la-trappe-witte",
+   "uz": "World Beer Cup 2026 gümüş (Belgian-Style Witbier)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "unibroue-maudite",
+   "uz": "World Beer Cup 2026 bronz (Belgian-Style Dubbel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "unibroue-la-fin-du-monde",
+   "uz": "World Beer Cup 2026 bronz (Belgian-Style Tripel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "la-trappe-quadrupel",
+   "uz": "World Beer Cup 2026 bronz (Belgian-Style Quadrupel)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "unibroue-trois-pistoles",
+   "uz": "World Beer Cup 2026 altın (Belgian-Style Strong Specialty Ale)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "allagash-tripel",
+   "uz": "European Beer Star 2024 bronz (Belgian-Style Tripel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "alaskan-smoked-porter",
+   "uz": "European Beer Star 2024 altın (Smoke Beer)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "weihenstephaner-vitus",
+   "uz": "European Beer Star 2024 altın (South German-Style Weizenbock Hell)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "weihenstephaner-kristallweissbier",
+   "uz": "European Beer Star 2024 gümüş (South German-Style Kristallweizen)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "crew-republic-drunken-sailor",
+   "uz": "European Beer Star 2024 altın (Traditional-Style Pale Ale)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "diebels-alt",
+   "uz": "European Beer Star 2024 altın (Alt)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "schlussel-alt",
+   "uz": "European Beer Star 2024 gümüş (Alt)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "st-bernardus-prior-8",
+   "uz": "European Beer Star 2024 gümüş (Belgian-Style Dubbel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "tripel-karmeliet",
+   "uz": "European Beer Star 2024 gümüş (Belgian-Style Strong Blond Ale)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "timmermans-oude-gueuze",
+   "uz": "European Beer Star 2024 altın (Belgian-Style Geuze)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "rodenbach-grand-cru",
+   "uz": "European Beer Star 2024 gümüş (Wood- and Barrel-Aged Sour Beer)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "st-bernardus-wit",
+   "uz": "European Beer Star 2024 gümüş (Belgian-Style Witbier)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "gulden-draak",
+   "uz": "European Beer Star 2024 gümüş (Belgian-Style Strong Dark Ale)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "la-trappe-quadrupel",
+   "uz": "European Beer Star 2024 bronz (Belgian-Style Strong Dark Ale)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "la-trappe-tripel",
+   "uz": "European Beer Star 2024 gümüş (Belgian-Style Tripel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "la-trappe-dubbel",
+   "uz": "European Beer Star 2024 altın (Belgian-Style Dubbel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "grolsch-weizen",
+   "uz": "European Beer Star 2024 altın (South German-Style Hefeweizen Hell)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "coedo-shikkoku",
+   "uz": "European Beer Star 2024 bronz (German-Style Schwarzbier)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "saigon-special",
+   "uz": "European Beer Star 2024 bronz (International-Style Lager)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2024.pdf"
+  },
+  {
+   "id": "schonramer-pils",
+   "uz": "European Beer Star 2025 altın (German-Style Pilsner)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "stiegl-goldbrau",
+   "uz": "European Beer Star 2025 gümüş (Austrian-Style Märzen)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "1906-black-coupage",
+   "uz": "European Beer Star 2025 bronz (German-Style Dunkler Bock)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "carolus-classic",
+   "uz": "European Beer Star 2025 gümüş (Belgian-Style Strong Dark Ale)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "la-trappe-dubbel",
+   "uz": "European Beer Star 2025 altın (Belgian-Style Dubbel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "st-bernardus-tripel",
+   "uz": "European Beer Star 2025 altın (Belgian-Style Tripel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "la-trappe-tripel",
+   "uz": "European Beer Star 2025 bronz (Belgian-Style Tripel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "rodenbach-alexander",
+   "uz": "European Beer Star 2025 bronz (Sour and Fruit Sour Beer)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "diebels-alt",
+   "uz": "European Beer Star 2025 altın (Alt)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "schlussel-alt",
+   "uz": "European Beer Star 2025 bronz (Alt)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "ayinger-urweisse",
+   "uz": "European Beer Star 2025 altın (South German-Style Hefeweizen Bernsteinfarben)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "weihenstephaner-vitus",
+   "uz": "European Beer Star 2025 altın (South German-Style Weizenbock Hell)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "erdinger-pikantus",
+   "uz": "European Beer Star 2025 bronz (South German-Style Weizenbock Dunkel)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "hirter-1270",
+   "uz": "European Beer Star 2025 altın (Vienna-Style Lager)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "boon-oude-geuze",
+   "uz": "European Beer Star 2025 altın (Belgian-Style Geuze)",
+   "kaynak": "https://european-beer-star.com/ebs-wAssets/docs/gewinnerliste-en/Gewinner_2025.pdf"
+  },
+  {
+   "id": "weihenstephaner-kristallweissbier",
+   "uz": "World Beer Cup 2024 bronz (German-Style Leichtes or Kristal Weizen)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2024/04/24102943/WBC-24.pdf"
+  },
+  {
+   "id": "weihenstephaner-kristallweissbier",
+   "uz": "World Beer Cup 2026 gümüş (South German-Style Weissbier)",
+   "kaynak": "https://cdn.worldbeercup.org/wp-content/uploads/2026/04/23075637/WBC26-Winners-List-2.pdf"
+  },
+  {
+   "id": "brugse-zot-dubbel",
+   "uz": "Brussels Beer Challenge 2025 gümüş (Abbey Style Dubbel)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34557-brugse-zot-dubbel"
+  },
+  {
+   "id": "straffe-hendrik-quadrupel",
+   "uz": "Brussels Beer Challenge 2025 bronz (Strong Dark Ale)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34560-straffe-hendrik-quadrupel"
+  },
+  {
+   "id": "boon-oude-kriek",
+   "uz": "Brussels Beer Challenge 2025 altın (Old style Fruit-Lambic)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34428-oude-kriek-boon"
+  },
+  {
+   "id": "rodenbach-alexander",
+   "uz": "Brussels Beer Challenge 2025 gümüş (Fruit Beer)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34519-rodenbach-alexander"
+  },
+  {
+   "id": "firestone-walker-union-jack",
+   "uz": "Brussels Beer Challenge 2025 altın (English IPA)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34683-union-jack"
+  },
+  {
+   "id": "toccalmatto-zona-cesarini",
+   "uz": "Brussels Beer Challenge 2025 bronz (Pacific IPA)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34931-zona-cesarini"
+  },
+  {
+   "id": "brewdog-hazy-jane",
+   "uz": "Brussels Beer Challenge 2025 bronz (Session New England IPA)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/35567-hazy-jane"
+  },
+  {
+   "id": "oedipus-mannenliefde",
+   "uz": "Brussels Beer Challenge 2025 altın (Modern Saison)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34305-mannenliefde"
+  },
+  {
+   "id": "moinette-blonde",
+   "uz": "Brussels Beer Challenge 2025 gümüş (Double Saison)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/35500-moinette-blonde"
+  },
+  {
+   "id": "la-trappe-isidor",
+   "uz": "Brussels Beer Challenge 2025 gümüş (Strong Amber)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34755-la-trappe-isidor"
+  },
+  {
+   "id": "tilquin-oude-gueuze",
+   "uz": "Brussels Beer Challenge 2025 gümüş (Old style Gueuze-Lambic)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/35568-oude-gueuze-tilquin-a-lancienne"
+  },
+  {
+   "id": "alesmith-speedway-stout",
+   "uz": "Brussels Beer Challenge 2025 gümüş (Russian Imperial Stout)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/35135-speedway-stout"
+  },
+  {
+   "id": "texels-skuumkoppe",
+   "uz": "Brussels Beer Challenge 2025 altın (Dunkel Weizen)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34584-texels-skuumkoppe"
+  },
+  {
+   "id": "la-trappe-witte",
+   "uz": "Brussels Beer Challenge 2025 altın (Witbier)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/34750-la-trappe-witte-trappist"
+  },
+  {
+   "id": "okocim-porter",
+   "uz": "Brussels Beer Challenge 2025 altın (Baltic Porter)",
+   "kaynak": "https://results.brusselsbeerchallenge.com/en/127/35347-okocim-mistrzowski-porter"
+  }
+ ]
+}
