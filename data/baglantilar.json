@@ -64,6 +64,12 @@
    "fb": "https://www.facebook.com/AlaskanBrewingCo",
    "kontrol": "2026-10-04"
   },
+  "Aldaris": {
+   "web": "https://www.aldaris.lv/",
+   "ig": "https://www.instagram.com/aldarisalus/",
+   "fb": "https://www.facebook.com/aldarisLV",
+   "kontrol": "2026-10-04"
+  },
   "AleSmith Brewing": {
    "web": "https://alesmith.com",
    "ig": "https://www.instagram.com/AleSmithBrewing",
@@ -120,6 +126,17 @@
    "x": "https://x.com/antiochsbrewery",
    "kontrol": "2026-10-04"
   },
+  "Asahi": {
+   "web": "https://www.asahibeer.co.jp/",
+   "kontrol": "2026-10-04"
+  },
+  "Asia Pacific Breweries": {
+   "web": "https://www.tigerbeer.com/",
+   "ig": "https://www.instagram.com/tigerbeer/",
+   "fb": "https://www.facebook.com/TigerBeer",
+   "yt": "https://www.youtube.com/user/tigerbeer",
+   "kontrol": "2026-10-04"
+  },
   "Augustiner": {
    "web": "https://www.augustiner-braeu.de",
    "ig": "https://www.instagram.com/augustinerbraeu_muenchen",
@@ -136,6 +153,12 @@
    "web": "https://www.ayinger.de",
    "ig": "https://www.instagram.com/ayinger_privatbrauerei",
    "fb": "https://www.facebook.com/AyingerPrivatbrauerei",
+   "kontrol": "2026-10-04"
+  },
+  "Backus": {
+   "web": "https://www.backus.pe/",
+   "ig": "https://www.instagram.com/backusoficial",
+   "yt": "https://www.youtube.com/@BackusOficial",
    "kontrol": "2026-10-04"
   },
   "Baden Baden": {
@@ -172,6 +195,14 @@
    "web": "https://basquebeer.com",
    "ig": "https://www.instagram.com/basquelandbrew",
    "fb": "https://www.facebook.com/basquelandbrew",
+   "kontrol": "2026-10-04"
+  },
+  "Bavaria": {
+   "web": "https://www.bavaria.co/",
+   "ig": "https://www.instagram.com/bavaria_colombia/",
+   "fb": "https://www.facebook.com/amigosBAVARIA",
+   "x": "https://x.com/BAVARIA_OFICIAL",
+   "yt": "https://www.youtube.com/@BavariaOficialCol",
    "kontrol": "2026-10-04"
   },
   "Bavaria (Swinkels)": {
@@ -239,6 +270,10 @@
    "fb": "https://www.facebook.com/brasseriebfm",
    "kontrol": "2026-10-04"
   },
+  "Bira 91": {
+   "web": "https://www.bira91.com/",
+   "kontrol": "2026-10-04"
+  },
   "Birra del Borgo": {
    "web": "https://www.birradelborgo.it",
    "ig": "https://www.instagram.com/birradelborgo",
@@ -251,6 +286,10 @@
    "ig": "https://www.instagram.com/birramoretti",
    "x": "https://x.com/Baffo_Moretti",
    "fb": "https://www.facebook.com/birramoretti",
+   "kontrol": "2026-10-04"
+  },
+  "Birra Peja": {
+   "web": "https://birrapeja.com/",
    "kontrol": "2026-10-04"
   },
   "Birrificio del Ducato": {
@@ -277,6 +316,14 @@
    "ig": "https://www.instagram.com/bodebrown",
    "x": "https://x.com/bodebrown",
    "fb": "https://www.facebook.com/bodebrown",
+   "kontrol": "2026-10-04"
+  },
+  "Bofferding": {
+   "web": "https://www.bofferding.lu/",
+   "ig": "https://www.instagram.com/bofferdingbeer/",
+   "fb": "https://www.facebook.com/Bofferding/",
+   "x": "https://x.com/bofferdingbravo",
+   "yt": "https://www.youtube.com/user/BofferdingBravo",
    "kontrol": "2026-10-04"
   },
   "Boon": {
@@ -317,11 +364,27 @@
    "fb": "https://www.facebook.com/Boulevard",
    "kontrol": "2026-10-04"
   },
+  "Brahma": {
+   "web": "https://www.brahma.com.br/",
+   "kontrol": "2026-10-04"
+  },
   "Brains": {
    "web": "https://www.sabrain.com",
    "ig": "https://www.instagram.com/brainsbrewery",
    "x": "https://x.com/brainsbrewery",
    "fb": "https://www.facebook.com/brainsbrewery",
+   "kontrol": "2026-10-04"
+  },
+  "Bralima": {
+   "web": "https://bralima.net/",
+   "kontrol": "2026-10-04"
+  },
+  "Brand": {
+   "web": "https://www.brand.nl/",
+   "kontrol": "2026-10-04"
+  },
+  "Brasserie Almaza": {
+   "web": "https://www.almazabeer.com/",
    "kontrol": "2026-10-04"
   },
   "Brasserie d'Orval": {
@@ -444,10 +507,40 @@
    "fb": "https://www.facebook.com/westmalletrappist",
    "kontrol": "2026-10-04"
   },
+  "Browar Artezan": {
+   "web": "https://artezan.pl/",
+   "ig": "https://www.instagram.com/browar.artezan",
+   "fb": "https://www.facebook.com/browar.artezan",
+   "kontrol": "2026-10-04"
+  },
+  "Browar Fortuna": {
+   "web": "https://browarfortuna.pl/",
+   "ig": "https://www.instagram.com/browar_fortuna/",
+   "fb": "https://www.facebook.com/browarfortuna",
+   "kontrol": "2026-10-04"
+  },
+  "Browar Grodzisk": {
+   "web": "https://browargrodzisk.com/",
+   "ig": "https://www.instagram.com/browar_grodzisk/",
+   "fb": "https://www.facebook.com/browargrodzisk",
+   "kontrol": "2026-10-04"
+  },
+  "Browar Kormoran": {
+   "web": "https://browarkormoran.pl/",
+   "ig": "https://www.instagram.com/browar_kormoran/",
+   "fb": "https://www.facebook.com/BrowarKormoran/",
+   "x": "https://twitter.com/BrowarKormoran",
+   "yt": "https://www.youtube.com/channel/UCEGPbplRXF_R3y-qHjtwMZQ",
+   "kontrol": "2026-10-04"
+  },
   "Budějovický Budvar": {
    "web": "https://www.budweiserbudvar.com",
    "ig": "https://www.instagram.com/budvarglobal",
    "fb": "https://www.facebook.com/BudejovickyBudvar",
+   "kontrol": "2026-10-04"
+  },
+  "Cambrew": {
+   "web": "https://www.angkorbeer.com.kh/",
    "kontrol": "2026-10-04"
   },
   "Cantillon": {
@@ -473,11 +566,24 @@
    "web": "https://cub.com.au",
    "kontrol": "2026-10-04"
   },
+  "Castel Sakartvelo": {
+   "web": "https://www.argo.ge/",
+   "kontrol": "2026-10-04"
+  },
+  "Cervecería Bucanero": {
+   "web": "https://www.cerveceriabucanero.com/",
+   "x": "https://x.com/cerv_bucaneroSA",
+   "kontrol": "2026-10-04"
+  },
   "Cervecería Minerva": {
    "web": "https://www.cervezaminerva.mx",
    "ig": "https://www.instagram.com/CervezaMinerva",
    "x": "https://x.com/Cerveza_Minerva",
    "fb": "https://www.facebook.com/CerveceriaMinerva",
+   "kontrol": "2026-10-04"
+  },
+  "Cervecería Polar": {
+   "web": "https://www.empresaspolar.com/",
    "kontrol": "2026-10-04"
   },
   "Cervejaria Colorado": {
@@ -650,6 +756,10 @@
    "fb": "https://www.facebook.com/redstripe",
    "kontrol": "2026-10-04"
   },
+  "Devil's Peak Brewing": {
+   "web": "https://www.devilspeak.beer/",
+   "kontrol": "2026-10-04"
+  },
   "Diebels": {
    "web": "https://diebels.de",
    "fb": "https://www.facebook.com/Diebels",
@@ -666,6 +776,13 @@
    "ig": "https://www.instagram.com/dogfishhead",
    "fb": "https://www.facebook.com/dogfishheadbeer",
    "x": "https://x.com/dogfishbeer",
+   "kontrol": "2026-10-04"
+  },
+  "Driftwood Brewery": {
+   "web": "https://driftwoodbeer.ca/",
+   "ig": "https://www.instagram.com/driftwoodbrewery/",
+   "fb": "https://www.facebook.com/driftwoodbeer/",
+   "x": "https://twitter.com/driftwoodbeer",
    "kontrol": "2026-10-04"
   },
   "Dubuisson": {
@@ -686,6 +803,10 @@
    "web": "https://www.duvel.com",
    "ig": "https://www.instagram.com/duvel_belgium",
    "fb": "https://www.facebook.com/duvelbelgium",
+   "kontrol": "2026-10-04"
+  },
+  "East African Breweries": {
+   "web": "https://www.eabl.com/",
    "kontrol": "2026-10-04"
   },
   "Edelweiss": {
@@ -733,6 +854,10 @@
   "Fässla": {
    "web": "https://www.faessla.de",
    "fb": "https://www.facebook.com/BrauereiFaessla",
+   "kontrol": "2026-10-04"
+  },
+  "Felinfoel": {
+   "web": "https://www.felinfoel.com/",
    "kontrol": "2026-10-04"
   },
   "Feral Brewing": {
@@ -816,6 +941,10 @@
    "fb": "https://www.facebook.com/garageproject",
    "kontrol": "2026-10-04"
   },
+  "Georgian Beer Company": {
+   "web": "https://geobeer.ge/",
+   "kontrol": "2026-10-04"
+  },
   "Girardin": {
    "web": "https://www.girardin1882.be",
    "fb": "https://www.facebook.com/brouwerijgirardin",
@@ -883,6 +1012,10 @@
    "fb": "https://www.facebook.com/guinness",
    "kontrol": "2026-10-04"
   },
+  "Habeco": {
+   "web": "https://www.habeco.com.vn/",
+   "kontrol": "2026-10-04"
+  },
   "Hacker-Pschorr": {
    "web": "https://www.hacker-pschorr.de",
    "ig": "https://www.instagram.com/hacker_pschorr",
@@ -927,6 +1060,13 @@
    "web": "https://www.heinekenireland.ie",
    "kontrol": "2026-10-04"
   },
+  "Hertog Jan": {
+   "web": "https://www.hertogjan.nl/",
+   "ig": "https://www.instagram.com/hertogjan.nl/",
+   "fb": "https://www.facebook.com/HertogJan",
+   "yt": "https://www.youtube.com/user/HertogJan",
+   "kontrol": "2026-10-04"
+  },
   "Het Anker": {
    "web": "https://www.hetanker.be",
    "ig": "https://www.instagram.com/HetAnker",
@@ -952,6 +1092,10 @@
    "web": "https://www.hirterbier.at",
    "ig": "https://www.instagram.com/hirterbier",
    "fb": "https://www.facebook.com/hirterbier",
+   "kontrol": "2026-10-04"
+  },
+  "HiteJinro": {
+   "web": "https://www.hitejinro.com/",
    "kontrol": "2026-10-04"
   },
   "Hoegaarden": {
@@ -1017,6 +1161,13 @@
    "fb": "https://www.facebook.com/jupiler",
    "kontrol": "2026-10-04"
   },
+  "Kaiser": {
+   "web": "https://www.kaiser.com.br/",
+   "fb": "https://www.facebook.com/CervejaKaiser/",
+   "x": "https://twitter.com/KaiserBrasil",
+   "yt": "https://www.youtube.com/user/CervejaKaiserOficial",
+   "kontrol": "2026-10-04"
+  },
   "Kaiserdom": {
    "web": "https://kaiserdom.de",
    "kontrol": "2026-10-04"
@@ -1043,10 +1194,21 @@
    "fb": "https://www.facebook.com/Kreativbrauerei",
    "kontrol": "2026-10-04"
   },
+  "KEO": {
+   "web": "https://keogroup.com/",
+   "fb": "https://www.facebook.com/KEOCyprus/",
+   "x": "https://twitter.com/KEO_Beer",
+   "yt": "https://www.youtube.com/user/KEOCyprus",
+   "kontrol": "2026-10-04"
+  },
   "Khoffner Brewery": {
    "web": "https://www.khoffner.com.tr",
    "ig": "https://www.instagram.com/khoffnerturkiye",
    "fb": "https://www.facebook.com/khoffnertr-110604870419156",
+   "kontrol": "2026-10-04"
+  },
+  "Kirin": {
+   "web": "https://www.kirin.co.jp/",
    "kontrol": "2026-10-04"
   },
   "Kiuchi Brewery": {
@@ -1136,6 +1298,13 @@
    "x": "https://x.com/LaTrappeBeer",
    "kontrol": "2026-10-04"
   },
+  "Labatt Brewing": {
+   "web": "https://www.labatt.com/",
+   "ig": "https://www.instagram.com/labattbreweries/",
+   "fb": "https://www.facebook.com/LabattBreweriesOfCanada/",
+   "yt": "https://www.youtube.com/@labattbreweries",
+   "kontrol": "2026-10-04"
+  },
   "Lagunitas Brewing Company": {
    "web": "https://www.lagunitas.com",
    "ig": "https://www.instagram.com/lagunitasbeer",
@@ -1146,6 +1315,11 @@
   "Lammin Sahti": {
    "web": "https://www.sahti.fi",
    "fb": "https://www.facebook.com/lamminsahti",
+   "kontrol": "2026-10-04"
+  },
+  "Lao Brewery": {
+   "web": "https://www.beerlao.la/",
+   "fb": "https://www.facebook.com/LaoBreweryCompanyLTD",
    "kontrol": "2026-10-04"
   },
   "Lawson's Finest Liquids": {
@@ -1181,10 +1355,18 @@
    "x": "https://x.com/LindemansBeers",
    "kontrol": "2026-10-04"
   },
+  "Lion Brewery": {
+   "web": "https://www.lionbeer.com/",
+   "kontrol": "2026-10-04"
+  },
   "Little Creatures": {
    "web": "https://www.littlecreatures.com.au",
    "ig": "https://www.instagram.com/littlecreaturesbrewing",
    "fb": "https://www.facebook.com/littlecreaturesbrewing",
+   "kontrol": "2026-10-04"
+  },
+  "Lotte Chilsung": {
+   "web": "https://www.lottechilsung.co.kr/",
    "kontrol": "2026-10-04"
   },
   "LoverBeer": {
@@ -1195,6 +1377,12 @@
   },
   "Löwenbräu": {
    "web": "https://www.loewenbraeu.de",
+   "kontrol": "2026-10-04"
+  },
+  "Lvivska Pivovarnia": {
+   "web": "https://lvivarnya.com.ua/",
+   "ig": "https://www.instagram.com/lvivarnia/",
+   "fb": "https://www.facebook.com/lvivarnya",
    "kontrol": "2026-10-04"
   },
   "Macedonia-Thrace Brewery": {
@@ -1281,11 +1469,28 @@
    "web": "https://www.molsoncoors.com",
    "kontrol": "2026-10-04"
   },
+  "Molson Brewery": {
+   "web": "https://www.molsoncanadian.ca/",
+   "kontrol": "2026-10-04"
+  },
+  "Mont Salève": {
+   "web": "https://www.labrasseriedumontsaleve.com/",
+   "ig": "https://www.instagram.com/brasserie_saleve",
+   "fb": "https://www.facebook.com/brasserie.dumontsaleve",
+   "kontrol": "2026-10-04"
+  },
   "Moon Dog": {
    "web": "https://moondog.com.au",
    "ig": "https://www.instagram.com/moondogbrewing",
    "x": "https://x.com/moondogbrewing",
    "fb": "https://www.facebook.com/moondogbrewing",
+   "kontrol": "2026-10-04"
+  },
+  "Moosehead Breweries": {
+   "web": "https://moosehead.ca/",
+   "ig": "https://www.instagram.com/moosehead/",
+   "fb": "https://www.facebook.com/moosehead/",
+   "x": "https://twitter.com/mooseheadlager",
    "kontrol": "2026-10-04"
   },
   "Multi Bintang": {
@@ -1298,11 +1503,42 @@
    "web": "https://www.murauerbier.eu",
    "kontrol": "2026-10-04"
   },
+  "Namibia Breweries": {
+   "web": "https://www.nambrew.com/",
+   "kontrol": "2026-10-04"
+  },
+  "Natakhtari": {
+   "web": "https://www.natakhtari.ge/",
+   "yt": "https://www.youtube.com/user/natakhtarige",
+   "kontrol": "2026-10-04"
+  },
   "New Belgium Brewing": {
    "web": "https://www.newbelgium.com",
    "ig": "https://www.instagram.com/newbelgium",
    "fb": "https://www.facebook.com/newbelgium",
    "x": "https://x.com/newbelgium",
+   "kontrol": "2026-10-04"
+  },
+  "Nigerian Breweries": {
+   "web": "https://www.nbplc.com/",
+   "ig": "https://www.instagram.com/nigerianbreweriesplc/",
+   "fb": "https://www.facebook.com/NigerianBreweriesPlc",
+   "yt": "https://www.youtube.com/channel/UCkXSeJHVKu36IZ0h0H-Cr1g",
+   "kontrol": "2026-10-04"
+  },
+  "Nile Breweries": {
+   "web": "https://www.nilebreweries.com/",
+   "ig": "https://www.instagram.com/nbluganda/",
+   "fb": "https://www.facebook.com/nilebreweriesltd/",
+   "x": "https://twitter.com/NBLUganda",
+   "kontrol": "2026-10-04"
+  },
+  "Ninkasi": {
+   "web": "https://www.ninkasi.fr/",
+   "ig": "https://www.instagram.com/ninkasifr/",
+   "fb": "https://www.facebook.com/Ninkasifr/",
+   "x": "https://twitter.com/ninkasifr",
+   "yt": "https://www.youtube.com/channel/UC8Sme0S6OL2D3srcuko7xEA",
    "kontrol": "2026-10-04"
   },
   "Nøgne Ø": {
@@ -1323,6 +1559,21 @@
    "ig": "https://www.instagram.com/novaromabrewing",
    "kontrol": "2026-10-04"
   },
+  "OB": {
+   "web": "https://www.ob.co.kr/",
+   "ig": "https://www.instagram.com/official.obc/",
+   "fb": "https://www.facebook.com/OrientalBreweryCompany/",
+   "yt": "https://www.youtube.com/@obc.official",
+   "kontrol": "2026-10-04"
+  },
+  "Obolon": {
+   "web": "https://obolon.ua/",
+   "kontrol": "2026-10-04"
+  },
+  "Ochakovo": {
+   "web": "https://ochakovo.ru/",
+   "kontrol": "2026-10-04"
+  },
   "Odell Brewing": {
    "web": "https://www.odellbrewing.com",
    "ig": "https://www.instagram.com/odellbrewing",
@@ -1337,10 +1588,22 @@
    "fb": "https://www.facebook.com/OedipusBrewing",
    "kontrol": "2026-10-04"
   },
+  "Okocim": {
+   "web": "https://piwookocim.pl/",
+   "kontrol": "2026-10-04"
+  },
   "Omnipollo": {
    "web": "https://omnipollo.com",
    "ig": "https://www.instagram.com/omnipollo",
    "fb": "https://www.facebook.com/Omnipollo",
+   "kontrol": "2026-10-04"
+  },
+  "Orion Breweries": {
+   "web": "https://www.orionbeer.co.jp/",
+   "ig": "https://www.instagram.com/orionbeer_info/",
+   "fb": "https://www.facebook.com/orionbeer/",
+   "x": "https://twitter.com/orionbeer_info",
+   "yt": "https://www.youtube.com/channel/UC0aHpJ4yzFkFmISxMZ2df4Q",
    "kontrol": "2026-10-04"
   },
   "Orkney Brewery": {
@@ -1400,6 +1663,13 @@
    "x": "https://x.com/farklibira",
    "kontrol": "2026-10-04"
   },
+  "Pasteur Street Brewing": {
+   "web": "https://pasteurstreet.com/",
+   "ig": "https://www.instagram.com/pasteurstreetbrewing/",
+   "fb": "https://www.facebook.com/PasteurStreetBrewing/",
+   "yt": "https://www.youtube.com/channel/UCxf_cQz6ptDJXlG2PGpukjg",
+   "kontrol": "2026-10-04"
+  },
   "Paulaner": {
    "web": "https://www.paulaner.com",
    "ig": "https://www.instagram.com/paulaner",
@@ -1422,6 +1692,10 @@
    "ig": "https://www.instagram.com/birra_peroni",
    "x": "https://x.com/Birra_Peroni",
    "fb": "https://www.facebook.com/birraperoni",
+   "kontrol": "2026-10-04"
+  },
+  "Peters": {
+   "web": "https://www.xn--peters-klsch-zmb.de/",
    "kontrol": "2026-10-04"
   },
   "Pinta": {
@@ -1523,6 +1797,11 @@
    "ig": "https://www.instagram.com/Russianriverbrewingofficial",
    "fb": "https://www.facebook.com/russianriverbrewing",
    "x": "https://x.com/RussianRiverBC",
+   "kontrol": "2026-10-04"
+  },
+  "Sabeco": {
+   "web": "https://www.sabeco.com.vn/",
+   "yt": "https://www.youtube.com/channel/UCqQNckLeJbv5YggtmqpizEQ",
    "kontrol": "2026-10-04"
   },
   "Sagres": {
@@ -1670,8 +1949,20 @@
    "ig": "https://www.instagram.com/voreiabeer",
    "kontrol": "2026-10-04"
   },
+  "Sleeman Breweries": {
+   "web": "https://www.sleeman.ca/",
+   "kontrol": "2026-10-04"
+  },
   "SOMX": {
    "ig": "https://www.instagram.com/somx_brewery",
+   "kontrol": "2026-10-04"
+  },
+  "South African Breweries": {
+   "web": "https://www.sab.co.za/",
+   "ig": "https://www.instagram.com/thesabreweries/",
+   "fb": "https://www.facebook.com/SouthAfricanBreweries/",
+   "x": "https://x.com/SABreweries",
+   "yt": "https://www.youtube.com/user/SABLimited/",
    "kontrol": "2026-10-04"
   },
   "Spaten": {
@@ -1711,6 +2002,11 @@
    "fb": "https://www.facebook.com/St.Bernardus.beer",
    "kontrol": "2026-10-04"
   },
+  "St. George Brewery": {
+   "web": "https://bgiethiopia.com/",
+   "x": "https://x.com/BGI_Ethiopia",
+   "kontrol": "2026-10-04"
+  },
   "St. GeorgenBräu": {
    "web": "https://www.georgenbraeu.de",
    "ig": "https://www.instagram.com/georgenbraeu",
@@ -1722,6 +2018,13 @@
    "ig": "https://www.instagram.com/staropramen",
    "x": "https://x.com/staropramen",
    "fb": "https://www.facebook.com/Staropramen",
+   "kontrol": "2026-10-04"
+  },
+  "Steam Whistle Brewing": {
+   "web": "https://steamwhistle.ca/",
+   "ig": "https://www.instagram.com/steamwhistlebrewing",
+   "fb": "https://www.facebook.com/SteamWhistle",
+   "yt": "https://www.youtube.com/steamwhistle",
    "kontrol": "2026-10-04"
   },
   "Stella Artois": {
@@ -1764,6 +2067,10 @@
    "x": "https://x.com/struise",
    "kontrol": "2026-10-04"
   },
+  "Suntory": {
+   "web": "https://www.suntory.co.jp/beer/",
+   "kontrol": "2026-10-04"
+  },
   "Super Bock": {
    "web": "https://www.superbockgroup.com",
    "kontrol": "2026-10-04"
@@ -1782,6 +2089,22 @@
    "fb": "https://www.facebook.com/Svijany",
    "kontrol": "2026-10-04"
   },
+  "Švyturys": {
+   "web": "https://www.svyturys.lt/",
+   "kontrol": "2026-10-04"
+  },
+  "Taiwan Tobacco & Liquor": {
+   "web": "https://www.ttl.com.tw/",
+   "kontrol": "2026-10-04"
+  },
+  "Tanzania Breweries": {
+   "web": "https://www.tanzaniabreweries.co.tz/",
+   "ig": "https://www.instagram.com/tblplc",
+   "fb": "https://www.facebook.com/profile.php?id=100090242411243",
+   "x": "https://twitter.com/TblPlc",
+   "yt": "https://www.youtube.com/@tblplc7679",
+   "kontrol": "2026-10-04"
+  },
   "Taybeh Brewing": {
    "web": "https://www.taybehbeer.com",
    "fb": "https://www.facebook.com/taybehbeer",
@@ -1798,6 +2121,17 @@
    "ig": "https://www.instagram.com/TempestBrewingCo",
    "x": "https://x.com/TempestBrewCo",
    "fb": "https://www.facebook.com/Tempestbrewco",
+   "kontrol": "2026-10-04"
+  },
+  "Texels": {
+   "web": "https://www.texels.nl/",
+   "ig": "https://www.instagram.com/texelsbier/",
+   "fb": "https://www.facebook.com/texelsbier",
+   "yt": "https://www.youtube.com/channel/UCdC-s_55Ii4t52mYrrJtfmw",
+   "kontrol": "2026-10-04"
+  },
+  "ThaiBev": {
+   "web": "https://www.thaibev.com/",
    "kontrol": "2026-10-04"
   },
   "The Alchemist": {
@@ -1916,10 +2250,26 @@
    "web": "https://www.turktuborg.com.tr",
    "kontrol": "2026-10-04"
   },
+  "Two Chefs": {
+   "web": "https://twochefsbrewing.com/",
+   "ig": "https://www.instagram.com/twochefsbrewing/",
+   "kontrol": "2026-10-04"
+  },
+  "Tyskie": {
+   "web": "https://tyskie.pl/",
+   "kontrol": "2026-10-04"
+  },
   "Uerige": {
    "web": "https://www.uerige.de",
    "ig": "https://www.instagram.com/uerigealt",
    "fb": "https://www.facebook.com/UERIGE",
+   "kontrol": "2026-10-04"
+  },
+  "Uiltje": {
+   "web": "https://uiltjebrewing.com/",
+   "ig": "https://www.instagram.com/uiltjebrewing.co/",
+   "fb": "https://www.facebook.com/UiltjeBrewingCompany/",
+   "yt": "https://www.youtube.com/channel/UCIS3rF1NzjoYhSWoZb7Ofhw",
    "kontrol": "2026-10-04"
   },
   "Únětický pivovar": {
@@ -1933,6 +2283,21 @@
    "fb": "https://www.facebook.com/unibroue",
    "x": "https://twitter.com/unibroue",
    "yt": "https://www.youtube.com/user/UnibroueTV",
+   "kontrol": "2026-10-04"
+  },
+  "United Breweries": {
+   "web": "https://www.unitedbreweries.com/",
+   "ig": "https://www.instagram.com/unitedbreweriesltd/",
+   "kontrol": "2026-10-04"
+  },
+  "Utenos Alus": {
+   "web": "https://www.svyturys.eu/",
+   "ig": "https://www.instagram.com/svyturysutenosalus/",
+   "fb": "https://www.facebook.com/svyturysutenosalus/",
+   "kontrol": "2026-10-04"
+  },
+  "Valmiermuižas": {
+   "web": "https://valmiermuiza.lv/",
    "kontrol": "2026-10-04"
   },
   "Van Honsebrouck": {
@@ -2040,9 +2405,11 @@
   }
  },
  "yok": {
+  "Belle-Vue": "2026-10-04",
   "Cunda Bira": "2026-10-04",
   "Efes Yenilik Atölyesi": "2026-10-04",
   "Feliz Kulpa": "2026-10-04",
+  "Jovarų Alus": "2026-10-04",
   "Smithwick's": "2026-10-04",
   "Süral Grup (Perge)": "2026-10-04"
  }

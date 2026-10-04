@@ -30,14 +30,14 @@
    "firma": "Alanya Gıda Paz.Tur.Tic.İnş.İlet.Ltd.Şti.",
    "adres": "Konaklı Mahallesi Yusuf Kiya Caddesi No:7 Alanya",
    "aromali": false,
-   "marka": "Red Tower Brewery",
-   "tahmin": true
+   "not": "Hangi markayı ürettiği doğrulanamadı"
   },
   {
    "il": "Antalya",
    "firma": "Alter Brewery Alkollü Alkolsüz İçecek Gıda İnşaat Turizm San. ve Tic. Ltd. Şti.",
    "adres": "Gaziler Mah. 250 Sok. No: 1M Kepez",
-   "aromali": false
+   "aromali": false,
+   "not": "Hangi markayı ürettiği doğrulanamadı"
   },
   {
    "il": "Antalya",
@@ -58,8 +58,7 @@
    "firma": "ATAK BİRACILIK SANAYİ VE TİCARET A.Ş.",
    "adres": "Saim Gürsoy Bulvarı 4. Blok No: 4 Bayır",
    "aromali": false,
-   "marka": "Gara Guzu",
-   "tahmin": true
+   "marka": "Gara Guzu"
   },
   {
    "il": "Muğla",
@@ -82,13 +81,16 @@
    "adres": "Merkez Mah. Silahşör Cad. No:42/1 Şişli",
    "aromali": true,
    "marka": "Torch Brewery",
-   "not": "Bomontiada (The Populist)"
+   "not": "Bomontiada"
   },
   {
    "il": "İstanbul",
    "firma": "Altınfıçı Gıda ve İçecek Dağ. İhr. İth. Tur. İnş.San. Tic. A.Ş.",
    "adres": "İkitelli Osb Mah. Eskoop D Blok Sk. Eskoop Evren Sit.D Blok Apt No:36 Başakşehir",
-   "aromali": true
+   "aromali": true,
+   "marka": "3 Kafadar",
+   "tahmin": true,
+   "not": "Nova Roma da bu tesiste sözleşmeli üretiyor (muhtemelen)"
   },
   {
    "il": "İstanbul",
@@ -102,7 +104,8 @@
    "firma": "AD Yiyecek İçecek Tic. San. A.Ş.",
    "adres": "Halkapınar Mah. 1558 Sok. No:6 Konak",
    "aromali": true,
-   "not": "The Populist işletmecisinin İzmir tesisi (muhtemelen)"
+   "not": "Mahall Bomonti İzmir (2023)",
+   "marka": "Torch Brewery"
   },
   {
    "il": "İzmir",
@@ -115,7 +118,8 @@
    "il": "İzmir",
    "firma": "Born Paz. İth. İhr. San. ve Tic. Ltd. Şti.",
    "adres": "Kazım Karabekir Mah. Bekir Saydam Cad. B/6 Blok No:104/22 Torbalı",
-   "aromali": false
+   "aromali": false,
+   "not": "Hangi markayı ürettiği doğrulanamadı"
   },
   {
    "il": "İzmir",
@@ -128,7 +132,8 @@
    "il": "İzmir",
    "firma": "Ninka Bira ve Malt Sanayi Anonim Şirketi",
    "adres": "İ.T.O.B O.S.B Ekrem Demirtaş Cad. No:20 Menderes",
-   "aromali": false
+   "aromali": false,
+   "not": "Original Ninka (lager); sitede henüz yok"
   },
   {
    "il": "İzmir",
@@ -136,6 +141,48 @@
    "adres": "Kemalpaşa Cad. No:258 Işıkkent",
    "aromali": true,
    "marka": "Türk Tuborg"
+  }
+ ],
+ "listede_olmayan": [
+  {
+   "marka": "Nova Roma Brewery",
+   "durum": "aktif",
+   "not": "Sözleşmeli üretici; büyük olasılıkla İkitelli Eskoop'taki Altınfıçı (3 Kafadar) tesisinde."
+  },
+  {
+   "marka": "Trokya",
+   "durum": "kapandı",
+   "not": "Untappd'de \"artık faaliyette değil\" işareti var; Edirne'de lisanslı tesis yok."
+  },
+  {
+   "marka": "Antiochs Brewery",
+   "durum": "belirsiz",
+   "not": "Hatay'da lisanslı tesis yok; 2023 depremlerinden sonra yeni üretim izine rastlanmadı."
+  },
+  {
+   "marka": "Cunda Bira",
+   "durum": "belirsiz",
+   "not": "Balıkesir'de lisanslı tesis yok; son izler 2025."
+  },
+  {
+   "marka": "Bosphorus Brewing Company",
+   "durum": "aktif",
+   "not": "Mekân açık, biraları hâlâ içiliyor; üretim yeri (lisanslı tesis) bilinmiyor."
+  },
+  {
+   "marka": "Khoffner Brewery",
+   "durum": "aktif",
+   "not": "Antalya'da birahaneleri açık; şirketi lisans listesinde görünmüyor, üretim yeri bilinmiyor."
+  },
+  {
+   "marka": "Park Gıda (Pera)",
+   "durum": "belirsiz",
+   "not": "Tekirdağ'da lisanslı tesis yok; son yeni birası 2021."
+  },
+  {
+   "marka": "SOMX",
+   "durum": "aktif",
+   "not": "Biraları Taproomx'te satılıyor; üretim yeri bilinmiyor (başka bir tesiste sözleşmeli olabilir)."
   }
  ]
 }
