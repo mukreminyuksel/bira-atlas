@@ -137,6 +137,14 @@
    "yt": "https://www.youtube.com/user/tigerbeer",
    "kontrol": "2026-10-04"
   },
+  "Athenian Brewery": {
+   "web": "https://athenianbrewery.gr/",
+   "ig": "https://www.instagram.com/athenianbrewery/",
+   "fb": "https://www.facebook.com/AthenianBrewery",
+   "x": "https://x.com/AthenianBrewery",
+   "yt": "https://www.youtube.com/user/athenianbrewery",
+   "kontrol": "2026-10-04"
+  },
   "Augustiner": {
    "web": "https://www.augustiner-braeu.de",
    "ig": "https://www.instagram.com/augustinerbraeu_muenchen",
@@ -613,6 +621,10 @@
    "fb": "https://www.facebook.com/chimay",
    "kontrol": "2026-10-04"
   },
+  "Chodovar": {
+   "web": "https://www.chodovar.cz/",
+   "kontrol": "2026-10-04"
+  },
   "Cigar City Brewing": {
    "web": "https://cigarcitybrewing.com",
    "ig": "https://www.instagram.com/cigarcitybrewing",
@@ -831,6 +843,20 @@
    "ig": "https://www.instagram.com/elysianbrewing",
    "x": "https://x.com/ElysianBrewing",
    "fb": "https://www.facebook.com/elysianbrewing",
+   "kontrol": "2026-10-04"
+  },
+  "Emerson's": {
+   "web": "https://emersons.co.nz/",
+   "ig": "https://www.instagram.com/emersonsbrewery/",
+   "fb": "https://www.facebook.com/EmersonsBrewery",
+   "kontrol": "2026-10-04"
+  },
+  "Epic Brewing": {
+   "web": "https://epicbeer.com/",
+   "ig": "https://www.instagram.com/epicbeer/",
+   "fb": "https://www.facebook.com/epicbeer/",
+   "x": "https://twitter.com/EpicBeer",
+   "yt": "https://www.youtube.com/c/epicbeer",
    "kontrol": "2026-10-04"
   },
   "Erdinger": {
@@ -1229,6 +1255,13 @@
    "ig": "https://www.instagram.com/knidoslion",
    "kontrol": "2026-10-04"
   },
+  "Kocour": {
+   "web": "https://www.pivovar-kocour.cz/",
+   "ig": "https://www.instagram.com/pivovarkocour_official/",
+   "fb": "https://www.facebook.com/pivovar.kocour.varnsdorf",
+   "x": "https://x.com/PivovarKocour",
+   "kontrol": "2026-10-04"
+  },
   "Kozel": {
    "web": "https://www.kozelbeer.com",
    "ig": "https://www.instagram.com/kozelbeer",
@@ -1353,6 +1386,12 @@
    "ig": "https://www.instagram.com/lindemansbeers",
    "fb": "https://www.facebook.com/Lindemansbrouwerij",
    "x": "https://x.com/LindemansBeers",
+   "kontrol": "2026-10-04"
+  },
+  "Lion": {
+   "web": "https://www.lionco.com/",
+   "ig": "https://www.instagram.com/lionbeverages/",
+   "fb": "https://www.facebook.com/lionbeverages/",
    "kontrol": "2026-10-04"
   },
   "Lion Brewery": {
@@ -1592,6 +1631,13 @@
    "web": "https://piwookocim.pl/",
    "kontrol": "2026-10-04"
   },
+  "Olympic Brewery": {
+   "web": "https://www.olympicbrewery.gr/",
+   "ig": "https://www.instagram.com/olympicbrewers/",
+   "fb": "https://www.facebook.com/olympicbrewery",
+   "yt": "https://www.youtube.com/channel/UCVjyfMR-ml23tjt6_-FL1xA",
+   "kontrol": "2026-10-04"
+  },
   "Omnipollo": {
    "web": "https://omnipollo.com",
    "ig": "https://www.instagram.com/omnipollo",
@@ -1698,6 +1744,14 @@
    "web": "https://www.xn--peters-klsch-zmb.de/",
    "kontrol": "2026-10-04"
   },
+  "Pilsner Urquell": {
+   "web": "https://www.pilsnerurquell.com/",
+   "ig": "https://www.instagram.com/pilsnerurquell/",
+   "fb": "https://www.facebook.com/PilsnerUrquellGlobal/",
+   "x": "https://twitter.com/pilsner_urquell",
+   "yt": "https://www.youtube.com/user/pilsnerurquellglobal",
+   "kontrol": "2026-10-04"
+  },
   "Pinta": {
    "web": "https://www.browarpinta.pl",
    "kontrol": "2026-10-04"
@@ -1738,6 +1792,13 @@
    "ig": "https://www.instagram.com/radeberger",
    "fb": "https://www.facebook.com/DasPilsner",
    "yt": "https://www.youtube.com/user/RadebergerPilsner",
+   "kontrol": "2026-10-04"
+  },
+  "Radegast": {
+   "web": "https://www.radegast.cz/",
+   "ig": "https://www.instagram.com/radegastpivo/",
+   "fb": "https://www.facebook.com/radegastCZ/",
+   "yt": "https://www.youtube.com/user/radegastpivovar",
    "kontrol": "2026-10-04"
   },
   "Ratsherrn": {
