@@ -688,6 +688,12 @@
    "fb": "https://www.facebook.com/duvelbelgium",
    "kontrol": "2026-10-04"
   },
+  "Edelweiss": {
+   "web": "https://www.edelweissbier.at/",
+   "ig": "https://www.instagram.com/edelweissbier.at/",
+   "fb": "https://www.facebook.com/edelweissbier.at/",
+   "kontrol": "2026-10-04"
+  },
   "Einbecker": {
    "web": "https://www.einbecker.de",
    "kontrol": "2026-10-04"
@@ -1067,6 +1073,13 @@
    "fb": "https://www.facebook.com/KozelCZ",
    "kontrol": "2026-10-04"
   },
+  "König": {
+   "web": "https://www.koenig.de/",
+   "ig": "https://www.instagram.com/koenigpilsener/",
+   "fb": "https://www.facebook.com/KoenigPilsener/",
+   "yt": "https://www.youtube.com/channel/UC7WnzyNJeOPUczL4RhaqEcw",
+   "kontrol": "2026-10-04"
+  },
   "Köstritzer": {
    "web": "https://www.koestritzer.de",
    "ig": "https://www.instagram.com/koestritzer",
@@ -1394,6 +1407,10 @@
    "yt": "https://www.youtube.com/paulanerdeutschland",
    "kontrol": "2026-10-04"
   },
+  "Pelforth": {
+   "web": "https://www.heinekenfrance.fr/nos-marques/nos-bieres/pelforth/",
+   "kontrol": "2026-10-04"
+  },
   "Permon": {
    "web": "https://www.pivopermon.cz",
    "ig": "https://www.instagram.com/pivovarpermon",
@@ -1557,6 +1574,12 @@
    "fb": "https://www.facebook.com/BrauereiSchlossEggenberg",
    "kontrol": "2026-10-04"
   },
+  "Schlüssel": {
+   "web": "https://www.zumschluessel.de/",
+   "ig": "https://www.instagram.com/hausbrauerei_zum_schluessel/",
+   "fb": "https://www.facebook.com/zumschluessel",
+   "kontrol": "2026-10-04"
+  },
   "Schneeeule": {
    "ig": "https://www.instagram.com/SCHNEEEULEBERLIN",
    "kontrol": "2026-10-04"
@@ -1628,6 +1651,11 @@
   "Sint-Sixtus (Westvleteren)": {
    "web": "https://www.trappistwestvleteren.be",
    "fb": "https://www.facebook.com/TrappistWestvleteren",
+   "kontrol": "2026-10-04"
+  },
+  "Sion": {
+   "web": "https://www.sion.de/",
+   "ig": "https://www.instagram.com/sion_koelsch/",
    "kontrol": "2026-10-04"
   },
   "Siren Craft Brew": {
