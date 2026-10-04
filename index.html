@@ -4445,8 +4445,23 @@ document.addEventListener('click',e=>{const t=e.target.closest('[data-toptur]');
 
 /* ===== TÜRKİYE CRAFT (katalog + data/brewpublar.json) ===== */
 let BREWPUB=null,TR_ACIK=new Set(),TARIHCE=[];
+// Resmî bira üretim izinleri (Tarım ve Orman Bakanlığı listesi)
+let LISANS=null,LISANS_ACIK=false;
+function lisansKutu(){
+  const T=(LISANS&&LISANS.tesisler)||[];if(!T.length)return '';
+  const iller={};T.forEach(t=>(iller[t.il]=iller[t.il]||[]).push(t));
+  const sira=Object.keys(iller).sort((a,b)=>iller[b].length-iller[a].length||a.localeCompare(b,'tr'));
+  const firmaSay=new Set(T.map(t=>t.firma)).size;
+  return `<div class="gkart" style="margin-bottom:14px"><div class="trbas" data-lisansac><span class="caret">${LISANS_ACIK?'▼':'▶'}</span><h3 style="margin:0">📜 Resmî kayıt: bira üretim izni olanlar</h3>
+    <span style="color:var(--muted2);font-size:12.5px;margin-left:auto">${firmaSay} firma · ${T.length} tesis · ${sira.length} il</span></div>
+    <div class="dt-txt" style="margin:8px 0">Tarım ve Orman Bakanlığı'nın alkollü içki üretim izni listesine göre Türkiye'de bira üretim izni yalnızca şu illerde var: <b>${sira.join(', ')}</b>. Bu listede olmayan illerde (Samsun, Trabzon, Bursa vb.) şu an lisanslı bira üretimi yok; Ankara'daki tek tesis Anadolu Efes'in Kahramankazan fabrikası. Listede olmayan bazı markalar başka bir firmanın tesisinde (sözleşmeli) üretiliyor. <a href="${g$(LISANS.kaynak)}" target="_blank" rel="noopener">Kaynak</a> · ${g$(LISANS.tarih||'')}</div>
+    ${LISANS_ACIK?sira.map(il=>`<div class="dt-sec"><h4>📍 ${g$(il)} (${iller[il].length})</h4>${iller[il].map(t=>`<div class="mini"><div><div class="nm">${t.marka?`<span class="isimlink" data-dam="${g$(t.marka)}">${g$(t.marka)}</span>${t.tahmin?' <span style="color:var(--muted2);font-weight:400">(muhtemelen)</span>':''}`:g$(t.firma)}</div><div class="meta">${t.marka?g$(t.firma)+' · ':''}${g$(t.adres)}${t.not?' · '+g$(t.not):''}${t.aromali?' · aromalı bira izni de var':''}</div></div></div>`).join('')}</div>`).join(''):''}
+  </div>`;
+}
+document.addEventListener('click',e=>{if(e.target.closest('[data-lisansac]')){LISANS_ACIK=!LISANS_ACIK;renderTurkiye();}});
 function renderTurkiye(){
   const box=document.getElementById('turkiyeBox');if(!box)return;
+  if(LISANS===null){LISANS={tesisler:[]};fetch('data/lisans.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(d=>{if(d){LISANS=d;renderTurkiye();}}).catch(()=>{});}
   if(BREWPUB===null){BREWPUB=[];Promise.all(['brewpublar','tarihce'].map(f=>fetch('data/'+f+'.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({})))).then(([d,t])=>{BREWPUB=d.brewpublar||[];TARIHCE=t.tarihce||[];renderTurkiye();});}
   const tr=allBottles().filter(b=>b.ulke==='Türkiye'||b.ulke==='KKTC');
   const sh=b=>b.ulke==='KKTC'?'KKTC · '+b.bolge:b.bolge;
@@ -4464,7 +4479,7 @@ function renderTurkiye(){
     <div class="kpi"><div class="lbl">Craft üretici</div><div class="val">${craftF.size}</div></div>
     <div class="kpi"><div class="lbl">Şehir</div><div class="val">${sira.length}</div></div>
     <div class="kpi"><div class="lbl">Bira evi (brewpub)</div><div class="val">${BREWPUB.length}</div></div></div>
-    <div style="margin-bottom:12px"><button class="btn" data-trharita>🗺️ Türkiye'yi haritada aç</button></div>`;
+    <div style="margin-bottom:12px"><button class="btn" data-trharita>🗺️ Türkiye'yi haritada aç</button></div>`+lisansKutu();
   sira.forEach(c=>{const x=sehir[c],acik=TR_ACIK.has(c),rk=c.startsWith('KKTC · ')?'KKTC|'+c.slice(7):'Türkiye|'+c;
     const fab=[...x.f].sort((a,b)=>buyuk.includes(a)-buyuk.includes(b)||a.localeCompare(b,'tr'));
     html+=`<div class="gkart trsehir"><div class="trbas" data-trsehir="${g$(c)}"><span class="caret">${acik?'▼':'▶'}</span><h3 style="margin:0">📍 ${g$(c)}</h3>

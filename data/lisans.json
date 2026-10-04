@@ -1,0 +1,141 @@
+{
+ "_aciklama": "T.C. Tarım ve Orman Bakanlığı Tütün ve Alkol Dairesi Başkanlığı — Alkollü İçki Üretim İzin Belgesi Sahibi Firmalar listesinden bira (uk=Bira) satırları. marka: sitedeki üretici (tahmin=true ise adres/ilçe eşleşmesine dayanan tahmin).",
+ "kaynak": "https://pdtadb.tarimorman.gov.tr/webUibList.aspx",
+ "tarih": "2026-10-04",
+ "tesisler": [
+  {
+   "il": "Adana",
+   "firma": "Adana Biracılık Sanayi Ticaret Anonim Şirketi",
+   "adres": "Yeşiloba Mah.46205 sok.E Blok No:17/3AC Seyhan/ADANA",
+   "aromali": true,
+   "marka": "à santé Brewery",
+   "tahmin": true
+  },
+  {
+   "il": "Adana",
+   "firma": "Anadolu Efes Biracılık ve Malt San. A.Ş.",
+   "adres": "Güzelevler Mah. Girne Bulvarı No:284/A 01310 Yüreğir",
+   "aromali": true,
+   "marka": "Anadolu Efes"
+  },
+  {
+   "il": "Ankara",
+   "firma": "Anadolu Efes Biracılık ve Malt San. A.Ş.",
+   "adres": "Fatih Mah. Turgut Özal Bulvarı No:48 Kahramankazan",
+   "aromali": true,
+   "marka": "Anadolu Efes"
+  },
+  {
+   "il": "Antalya",
+   "firma": "Alanya Gıda Paz.Tur.Tic.İnş.İlet.Ltd.Şti.",
+   "adres": "Konaklı Mahallesi Yusuf Kiya Caddesi No:7 Alanya",
+   "aromali": false,
+   "marka": "Red Tower Brewery",
+   "tahmin": true
+  },
+  {
+   "il": "Antalya",
+   "firma": "Alter Brewery Alkollü Alkolsüz İçecek Gıda İnşaat Turizm San. ve Tic. Ltd. Şti.",
+   "adres": "Gaziler Mah. 250 Sok. No: 1M Kepez",
+   "aromali": false
+  },
+  {
+   "il": "Antalya",
+   "firma": "Süral Otelcilik ve Tur. İşletmeleri A.Ş.",
+   "adres": "1-Bira üretim ve fıçı dolum: Çakış Mah. Merkez 38 Küme Evler No:3/1 Z1, 2-Bira şişeleme: No:3/2 Manavgat",
+   "aromali": false,
+   "marka": "Süral Grup (Perge)"
+  },
+  {
+   "il": "Kırklareli",
+   "firma": "Das Bıra Alkollü Alkolsüz İçecekler Üretim Dağıtım Paz. Tic. Ltd.Şti.",
+   "adres": "Büyükkarıştıran Beldesi Yeni Mah.Muratlı Asfaltı 1. Cad.Küçük Sanayi Sitesi B-Blok No:12/24 Lüleburgaz",
+   "aromali": false,
+   "marka": "DAS bira"
+  },
+  {
+   "il": "Muğla",
+   "firma": "ATAK BİRACILIK SANAYİ VE TİCARET A.Ş.",
+   "adres": "Saim Gürsoy Bulvarı 4. Blok No: 4 Bayır",
+   "aromali": false,
+   "marka": "Gara Guzu",
+   "tahmin": true
+  },
+  {
+   "il": "Muğla",
+   "firma": "Pablo Bira ve Malt San. A.Ş.",
+   "adres": "Konacık Mah. Gazi Mustafa Akça Sok. No: 3/2 Bodrum",
+   "aromali": false,
+   "marka": "Pablo Bira"
+  },
+  {
+   "il": "Çanakkale",
+   "firma": "Humulus Lupulus Alkollü Alkolsüz İçecekler Gıda Tur. San ve Tic. Ltd. Şti.",
+   "adres": "Evreşe Beldesi Keşanoğlu Mahallesi 115 Ada 106 Parsel 113. Cadde 33. Sokak No.6 Gelibolu",
+   "aromali": false,
+   "marka": "Kubau Farm Brewery",
+   "tahmin": true
+  },
+  {
+   "il": "İstanbul",
+   "firma": "AD Yiyecek İçecek Tic. San. A.Ş.",
+   "adres": "Merkez Mah. Silahşör Cad. No:42/1 Şişli",
+   "aromali": true,
+   "marka": "Torch Brewery",
+   "not": "Bomontiada (The Populist)"
+  },
+  {
+   "il": "İstanbul",
+   "firma": "Altınfıçı Gıda ve İçecek Dağ. İhr. İth. Tur. İnş.San. Tic. A.Ş.",
+   "adres": "İkitelli Osb Mah. Eskoop D Blok Sk. Eskoop Evren Sit.D Blok Apt No:36 Başakşehir",
+   "aromali": true
+  },
+  {
+   "il": "İstanbul",
+   "firma": "Knidos Gıda Sanayi ve Ticaret A.Ş.",
+   "adres": "İkitelli Tümsan-1 Sanayi Sitesi 6. Blok No:10/A Başakşehir",
+   "aromali": false,
+   "marka": "Knidos Brewery"
+  },
+  {
+   "il": "İzmir",
+   "firma": "AD Yiyecek İçecek Tic. San. A.Ş.",
+   "adres": "Halkapınar Mah. 1558 Sok. No:6 Konak",
+   "aromali": true,
+   "not": "The Populist işletmecisinin İzmir tesisi (muhtemelen)"
+  },
+  {
+   "il": "İzmir",
+   "firma": "Anadolu Efes Biracılık ve Malt San. A.Ş.",
+   "adres": "Kemalpaşa Cad. No:313 Işıkkent Bornova",
+   "aromali": true,
+   "marka": "Anadolu Efes"
+  },
+  {
+   "il": "İzmir",
+   "firma": "Born Paz. İth. İhr. San. ve Tic. Ltd. Şti.",
+   "adres": "Kazım Karabekir Mah. Bekir Saydam Cad. B/6 Blok No:104/22 Torbalı",
+   "aromali": false
+  },
+  {
+   "il": "İzmir",
+   "firma": "Feliz Kolpa Alkollü Alkolsüz İçecekler Gıda Tur. İnş. San. ve Tic. A.Ş.",
+   "adres": "Ataşehir Mah. 8281 Sok. No.17 Çiğli",
+   "aromali": true,
+   "marka": "Feliz Kulpa"
+  },
+  {
+   "il": "İzmir",
+   "firma": "Ninka Bira ve Malt Sanayi Anonim Şirketi",
+   "adres": "İ.T.O.B O.S.B Ekrem Demirtaş Cad. No:20 Menderes",
+   "aromali": false
+  },
+  {
+   "il": "İzmir",
+   "firma": "Türk Tuborg Bira ve Malt San. A.Ş.",
+   "adres": "Kemalpaşa Cad. No:258 Işıkkent",
+   "aromali": true,
+   "marka": "Türk Tuborg"
+  }
+ ]
+}
