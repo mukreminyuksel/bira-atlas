@@ -1,17 +1,895 @@
-{"_aciklama": "Magazin: kurgu karakterleri. 📺/📖 = eserde geçer, 😄 = bizim tahminimiz. picks katalog id'leridir.",
+{
+ "_aciklama": "Magazin: kurgu karakterleri. 📺/📖 = eserde geçer, 😄 = bizim tahminimiz. picks katalog id'leridir.",
  "karakterler": [
- {"e":"🍩","ad":"Homer Simpson","rol":"The Simpsons (çizgi dizi)","blurb":"📺 Ekranda: Springfield'ın en sadık Duff müşterisi. Duff kurgusal; 😄 bizce gerçek dünyadaki en yakın akrabası klasik bir Amerikan lager'ı.","picks":["budweiser","pabst-blue-ribbon"]},
- {"e":"🍺","ad":"Barney Gumble","rol":"The Simpsons (çizgi dizi)","blurb":"📺 Ekranda: Moe's Tavern'in demirbaşı, geğirmesiyle meşhur. Elinde hep bir Duff. 😄 Bizce ucuz ve bol bir lager.","picks":["miller-lite","coors-banquet"]},
- {"e":"🍻","ad":"Norm Peterson","rol":"Cheers (dizi)","blurb":"📺 Ekranda: Bara her girişinde herkes bir ağızdan \"NORM!\" diye bağırır; tezgâhtaki fıçı birası hiç boş kalmaz. 😄 Bizce Boston'da geçen bir dizi için en uygunu yerel klasik.","picks":["samuel-adams-boston-lager"]},
- {"e":"🎻","ad":"Müfettiş Morse","rol":"Colin Dexter romanları / Inspector Morse (dizi)","blurb":"📖 Sayfada: Oxford'un huysuz müfettişi davaları pub'da bir bardak İngiliz \"real ale\" eşliğinde çözer; bira onun düşünme aracıdır.","picks":["fullers-london-pride","timothy-taylor-landlord"]},
- {"e":"🧥","ad":"Komiser Maigret","rol":"Georges Simenon romanları","blurb":"📖 Sayfada: Pipolu Paris komiseri sorgu aralarında yan kafeden bira getirtir. 😄 Bizce kadehinde bir Fransız lager'ı.","picks":["kronenbourg-1664"]},
- {"e":"🪖","ad":"Asteriks ve Oburiks","rol":"Asteriks (çizgi roman)","blurb":"📖 Sayfada: Galyalılar ziyafetlerde \"cervoise\" denen eski Galya birasını içer (Oburiks yaban domuzunu tercih eder). 😄 Bizce bugünkü torunu köylü bir saison.","picks":["saison-dupont"]},
- {"e":"🐺","ad":"Wolverine (Logan)","rol":"X-Men (Marvel)","blurb":"📖 Sayfada: Kanadalı mutantın elinde puro yoksa bira vardır. 😄 Bizce memleketinden bir lager.","picks":["molson-canadian","labatt-blue"]},
- {"e":"🍁","ad":"Bob ve Doug McKenzie","rol":"SCTV / Strange Brew (film)","blurb":"📺 Ekranda: Kanadalı iki kardeşin bütün hayatı bira etrafında döner. 😄 Bizce buzdolaplarında Kanada'nın ikonik lager'ı.","picks":["molson-canadian"]},
- {"e":"🛋️","ad":"Al Bundy","rol":"Evli ve Çocuklu (dizi)","blurb":"📺 Ekranda: Ayakkabı satıcısı Al'ın mutluluğu: koltuk, eli pantolonunda, elinde bira. 😄 Bizce markası en ucuzundan bir Amerikan birası.","picks":["miller-lite","pabst-blue-ribbon"]},
- {"e":"🍺","ad":"Frank Gallagher","rol":"Shameless (dizi)","blurb":"📺 Ekranda: Marka değil, bedava olması önemli. 😄 Bizce Chicago'nun ucuz klasiği.","picks":["pabst-blue-ribbon","coors-banquet"]},
- {"e":"🤖","ad":"Bender","rol":"Futurama (çizgi dizi)","blurb":"📺 Ekranda: Alkolle çalışan robot; bira içmezse paslanıyor! 😄 Bizce ona yüksek oktanlı bir lager lazım.","picks":["carlsberg-elephant"]},
- {"e":"🧙","ad":"Hagrid","rol":"Harry Potter (roman)","blurb":"📖 Sayfada: Üç Süpürge'nin meşhur \"tereyağlı birası\" (Butterbeer) kurgusaldır. 😄 Bizce Muggle dünyasındaki en yakın akrabası tatlı, kremamsı bir milk stout.","picks":["garage-project-cereal-milk-stout"]},
- {"e":"🧝","ad":"Hobbitler","rol":"Yüzüklerin Efendisi (roman)","blurb":"📖 Sayfada: Frodo ve arkadaşları Yeşil Ejder'de ve Sıçrayan Midilli'de koca bardaklarla bira içer; Pippin'e göre bira \"pint\" ile gelir. 😄 Bizce bir İngiliz ale'i.","picks":["fullers-esb","old-speckled-hen"]},
- {"e":"👮","ad":"Behzat Ç.","rol":"Behzat Ç. (dizi)","blurb":"😄 Bizce: Ankara'nın en asabi komiseri günü bir şişe yerli birayla kapatır — Ankara'da craft bira üreticisi olmadığına göre elinde Efes vardır.","picks":["efes-pilsen","efes-malt"]}
- ]}
+  {
+   "e": "🍩",
+   "ad": "Homer Simpson",
+   "rol": "The Simpsons (çizgi dizi)",
+   "blurb": "📺 Ekranda: Springfield'ın en sadık Duff müşterisi. Duff kurgusal; 😄 bizce gerçek dünyadaki en yakın akrabası klasik bir Amerikan lager'ı.",
+   "picks": [
+    "budweiser",
+    "pabst-blue-ribbon"
+   ]
+  },
+  {
+   "e": "🍺",
+   "ad": "Barney Gumble",
+   "rol": "The Simpsons (çizgi dizi)",
+   "blurb": "📺 Ekranda: Moe's Tavern'in demirbaşı, geğirmesiyle meşhur. Elinde hep bir Duff. 😄 Bizce ucuz ve bol bir lager.",
+   "picks": [
+    "miller-lite",
+    "coors-banquet"
+   ]
+  },
+  {
+   "e": "🍻",
+   "ad": "Norm Peterson",
+   "rol": "Cheers (dizi)",
+   "blurb": "📺 Ekranda: Bara her girişinde herkes bir ağızdan \"NORM!\" diye bağırır; tezgâhtaki fıçı birası hiç boş kalmaz. 😄 Bizce Boston'da geçen bir dizi için en uygunu yerel klasik.",
+   "picks": [
+    "samuel-adams-boston-lager"
+   ]
+  },
+  {
+   "e": "🎻",
+   "ad": "Müfettiş Morse",
+   "rol": "Colin Dexter romanları / Inspector Morse (dizi)",
+   "blurb": "📖 Sayfada: Oxford'un huysuz müfettişi davaları pub'da bir bardak İngiliz \"real ale\" eşliğinde çözer; bira onun düşünme aracıdır.",
+   "picks": [
+    "fullers-london-pride",
+    "timothy-taylor-landlord"
+   ]
+  },
+  {
+   "e": "🧥",
+   "ad": "Komiser Maigret",
+   "rol": "Georges Simenon romanları",
+   "blurb": "📖 Sayfada: Pipolu Paris komiseri sorgu aralarında yan kafeden bira getirtir. 😄 Bizce kadehinde bir Fransız lager'ı.",
+   "picks": [
+    "kronenbourg-1664"
+   ]
+  },
+  {
+   "e": "🪖",
+   "ad": "Asteriks ve Oburiks",
+   "rol": "Asteriks (çizgi roman)",
+   "blurb": "📖 Sayfada: Galyalılar ziyafetlerde \"cervoise\" denen eski Galya birasını içer (Oburiks yaban domuzunu tercih eder). 😄 Bizce bugünkü torunu köylü bir saison.",
+   "picks": [
+    "saison-dupont"
+   ]
+  },
+  {
+   "e": "🐺",
+   "ad": "Wolverine (Logan)",
+   "rol": "X-Men (Marvel)",
+   "blurb": "📖 Sayfada: Kanadalı mutantın elinde puro yoksa bira vardır. 😄 Bizce memleketinden bir lager.",
+   "picks": [
+    "molson-canadian",
+    "labatt-blue"
+   ]
+  },
+  {
+   "e": "🍁",
+   "ad": "Bob ve Doug McKenzie",
+   "rol": "SCTV / Strange Brew (film)",
+   "blurb": "📺 Ekranda: Kanadalı iki kardeşin bütün hayatı bira etrafında döner. 😄 Bizce buzdolaplarında Kanada'nın ikonik lager'ı.",
+   "picks": [
+    "molson-canadian"
+   ]
+  },
+  {
+   "e": "🛋️",
+   "ad": "Al Bundy",
+   "rol": "Evli ve Çocuklu (dizi)",
+   "blurb": "📺 Ekranda: Ayakkabı satıcısı Al'ın mutluluğu: koltuk, eli pantolonunda, elinde bira. 😄 Bizce markası en ucuzundan bir Amerikan birası.",
+   "picks": [
+    "miller-lite",
+    "pabst-blue-ribbon"
+   ]
+  },
+  {
+   "e": "🍺",
+   "ad": "Frank Gallagher",
+   "rol": "Shameless (dizi)",
+   "blurb": "📺 Ekranda: Marka değil, bedava olması önemli. 😄 Bizce Chicago'nun ucuz klasiği.",
+   "picks": [
+    "pabst-blue-ribbon",
+    "coors-banquet"
+   ]
+  },
+  {
+   "e": "🤖",
+   "ad": "Bender",
+   "rol": "Futurama (çizgi dizi)",
+   "blurb": "📺 Ekranda: Alkolle çalışan robot; bira içmezse paslanıyor! 😄 Bizce ona yüksek oktanlı bir lager lazım.",
+   "picks": [
+    "carlsberg-elephant"
+   ]
+  },
+  {
+   "e": "🧙",
+   "ad": "Hagrid",
+   "rol": "Harry Potter (roman)",
+   "blurb": "📖 Sayfada: Üç Süpürge'nin meşhur \"tereyağlı birası\" (Butterbeer) kurgusaldır. 😄 Bizce Muggle dünyasındaki en yakın akrabası tatlı, kremamsı bir milk stout.",
+   "picks": [
+    "garage-project-cereal-milk-stout"
+   ]
+  },
+  {
+   "e": "🧝",
+   "ad": "Hobbitler",
+   "rol": "Yüzüklerin Efendisi (roman)",
+   "blurb": "📖 Sayfada: Frodo ve arkadaşları Yeşil Ejder'de ve Sıçrayan Midilli'de koca bardaklarla bira içer; Pippin'e göre bira \"pint\" ile gelir. 😄 Bizce bir İngiliz ale'i.",
+   "picks": [
+    "fullers-esb",
+    "old-speckled-hen"
+   ]
+  },
+  {
+   "e": "👮",
+   "ad": "Behzat Ç.",
+   "rol": "Behzat Ç. (dizi)",
+   "blurb": "😄 Bizce: Ankara'nın en asabi komiseri günü bir şişe yerli birayla kapatır — Ankara'da craft bira üreticisi olmadığına göre elinde Efes vardır.",
+   "picks": [
+    "efes-pilsen",
+    "efes-malt"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🍺",
+   "ad": "Peter Griffin",
+   "rol": "Family Guy (çizgi dizi)",
+   "blurb": "📺 Ekranda: kurgusal Pawtucket Patriot Ale. 😄 Bizce gerçek hayatta New England usulü bir lager.",
+   "picks": [
+    "samuel-adams-boston-lager",
+    "miller-lite"
+   ]
+  },
+  {
+   "e": "🧽",
+   "ad": "Moe Szyslak",
+   "rol": "The Simpsons (çizgi dizi)",
+   "blurb": "📺 Ekranda: barında musluktan kurgusal Duff akıtır, bir de meşhur 'Flaming Moe' kokteyli var. 😄 Bizce gerçek dünyada en yakını ucuz, soğuk bir pilsner.",
+   "picks": [
+    "miller-lite",
+    "gambrinus-original-10"
+   ]
+  },
+  {
+   "e": "🚀",
+   "ad": "Philip J. Fry",
+   "rol": "Futurama (çizgi dizi)",
+   "blurb": "📺 Ekranda: 1999'da elinde bir kurgusal LöBrau ile buzlanır; marka Löwenbräu parodisi (ve 'lowbrow' esprisi). 😄 Bizce bin yıl sonra da orijinali içilir.",
+   "picks": [
+    "lowenbrau-oktoberfestbier",
+    "lowenbrau-original"
+   ]
+  },
+  {
+   "e": "🦴",
+   "ad": "Fred Çakmaktaş",
+   "rol": "The Flintstones (çizgi dizi)",
+   "blurb": "😄 Bizce: Taş Devri'nde bira ateşte pişer! Eserde marka geçmiyor; Yabba-dabba-doo diye bağıran adama dumanlı bir Bamberg Rauchbier yakışır.",
+   "picks": [
+    "schlenkerla-rauchbier-maerzen",
+    "kozel-cerny"
+   ]
+  },
+  {
+   "e": "🤠",
+   "ad": "Hank Hill",
+   "rol": "King of the Hill (çizgi dizi)",
+   "blurb": "📺 Ekranda: arka bahçede kurgusal Alamo Beer; 'Yep.' 😄 Bizce Teksaslının gerçek karşılığı Shiner Bock — propan gazı kadar güvenilir.",
+   "picks": [
+    "shiner-bock"
+   ]
+  },
+  {
+   "e": "🍔",
+   "ad": "Bob Belcher",
+   "rol": "Bob's Burgers (çizgi dizi)",
+   "blurb": "📺 Ekranda: bir bölümde Teddy'nin ev birasını burgerlerin yanında gizlice satmaya kalkarlar. 😄 Bizce kızgın ızgaranın yanına kehribar bir ale ya da klasik pale ale.",
+   "picks": [
+    "new-belgium-fat-tire",
+    "sierra-nevada-pale-ale"
+   ]
+  },
+  {
+   "e": "🏔️",
+   "ad": "Randy Marsh",
+   "rol": "South Park (çizgi dizi)",
+   "blurb": "😄 Bizce: kasaba Colorado'da, o halde Colorado birası! Eserde sabit bir marka yok; her işi abartan Randy'ye Coors Light ya da bir Colorado IPA'sı.",
+   "picks": [
+    "coors-light",
+    "new-belgium-voodoo-ranger-ipa",
+    "oskar-blues-dales-pale-ale"
+   ]
+  },
+  {
+   "e": "⚾",
+   "ad": "Sam Malone",
+   "rol": "Cheers (sitcom)",
+   "blurb": "📺 Ekranda: barın sahibi ama ayık kalmaya kararlı eski bir beyzbolcu; kendisi içmez! 😄 Bizce ona köpüğü bol, alkolsüz bir bardak.",
+   "picks": [
+    "erdinger-alkoholfrei",
+    "guinness-00"
+   ]
+  },
+  {
+   "e": "📮",
+   "ad": "Cliff Clavin",
+   "rol": "Cheers (sitcom)",
+   "blurb": "😄 Bizce: her konuda 'az bilinen bir gerçek' anlatan Bostonlu postacı. Eserde marka net değil; hemşehrisi Samuel Adams'ı anlatarak içsin.",
+   "picks": [
+    "samuel-adams-boston-lager",
+    "samuel-adams-octoberfest"
+   ]
+  },
+  {
+   "e": "🦶",
+   "ad": "Red Forman",
+   "rol": "That '70s Show (sitcom)",
+   "blurb": "📺 Ekranda: garaj buzdolabı kurgusal Meichtry Draft dolu; kutlamalarda 'Ownbrau' (L'si silinmiş Löwenbräu esprisi). 😄 Bizce orijinali ya da Wisconsin komşusu Milwaukee işi bir Miller — yoksa ayağı birinin poposunda.",
+   "picks": [
+    "lowenbrau-original",
+    "miller-lite"
+   ]
+  },
+  {
+   "e": "🥛",
+   "ad": "Charlie Kelly",
+   "rol": "It's Always Sunny in Philadelphia (sitcom)",
+   "blurb": "📺 Ekranda: ilk sezon Paddy's Pub'da Bud Light tabelaları vardı, sponsor çekilince logolar silindi. 😄 Bizce Philadelphia çocuğuna yerel bir Pensilvanya pilsneri.",
+   "picks": [
+    "bud-light",
+    "victory-prima-pils"
+   ]
+  },
+  {
+   "e": "🫜",
+   "ad": "Dwight Schrute",
+   "rol": "The Office (sitcom)",
+   "blurb": "😄 Bizce: pancar çiftçisi ve Alman kökenli! Eserde marka yok; pancar kırmızısı ekşi bir Flaman Red ya da büyükbaba usulü bir Weissbier.",
+   "picks": [
+    "rodenbach-classic",
+    "weihenstephaner-hefeweissbier"
+   ]
+  },
+  {
+   "e": "🍕",
+   "ad": "Joey Tribbiani",
+   "rol": "Friends (sitcom)",
+   "blurb": "😄 Bizce: 'Joey yemeğini paylaşmaz!' İtalyan-Amerikalı oyuncumuzun pizzasına eşlik eden bir İtalyan lager'ı. Eserde marka geçmez. How you doin'?",
+   "picks": [
+    "peroni-nastro-azzurro",
+    "birra-moretti-lautentica"
+   ]
+  },
+  {
+   "e": "🥧",
+   "ad": "Marshall Eriksen",
+   "rol": "How I Met Your Mother (sitcom)",
+   "blurb": "😄 Bizce: Minnesota'lı koca yürekli adam memleket birasını özler. Eserde marka yok; Minneapolis'ten Surly ve Midwest buğdayı.",
+   "picks": [
+    "surly-furious",
+    "bells-oberon"
+   ]
+  },
+  {
+   "e": "🍷",
+   "ad": "Penny",
+   "rol": "The Big Bang Theory (sitcom)",
+   "blurb": "📺 Ekranda: çoğunlukla elinde dolu bir şarap kadehi. 😄 Bizce birada da şarabımsı olanı sever: meşe fıçılı Flaman ekşisi ya da vişneli lambic.",
+   "picks": [
+    "duchesse-de-bourgogne",
+    "lindemans-kriek"
+   ]
+  },
+  {
+   "e": "🛋️",
+   "ad": "Archie Bunker",
+   "rol": "All in the Family (sitcom)",
+   "blurb": "😄 Bizce: koltuğuna kimse oturamaz, buzdolabındaki son biraya da kimse dokunamaz! Eserde marka öne çıkmaz; Queens'li huysuza klasik bir New York lager'ı.",
+   "picks": [
+    "brooklyn-lager",
+    "brooklyn-pilsner"
+   ]
+  },
+  {
+   "e": "⚽",
+   "ad": "Ted Lasso",
+   "rol": "Ted Lasso (dizi)",
+   "blurb": "😄 Bizce: Kansas'tan Richmond'a uzanan iyimserlik. Eserde marka yok; memleketi Kansas City'den Boulevard, yeni evi Londra'nın batısından Fuller's. Believe!",
+   "picks": [
+    "boulevard-tank-7",
+    "fullers-london-pride"
+   ]
+  },
+  {
+   "e": "🥃",
+   "ad": "Don Draper",
+   "rol": "Mad Men (dizi)",
+   "blurb": "📺 Ekranda: 2. sezonda Heineken'i banliyö ev hanımlarına pazarlama kampanyası yürütür; Betty de o birayı sofraya koyar. Kendisi elbette viskiyi tercih eder.",
+   "picks": [
+    "heineken",
+    "harviestoun-ola-dubh-12"
+   ]
+  },
+  {
+   "e": "🧟",
+   "ad": "Shaun ve Ed",
+   "rol": "Shaun of the Dead (film, 2004)",
+   "blurb": "📺 Ekranda: plan basit — Winchester'a git, soğuk bir pint al, her şeyin geçmesini bekle. 😄 Marka net değil; bizce kıyamet günü için bir Londra lager'ı.",
+   "picks": [
+    "meantime-london-lager",
+    "camden-hells-lager"
+   ]
+  },
+  {
+   "e": "🍻",
+   "ad": "Gary King",
+   "rol": "The World's End (film, 2013)",
+   "blurb": "📺 Ekranda: 12 pub'lık 'Altın Mil' turunu tamamlama takıntısı; pub'lar kurgusal. 😄 Bizce her durakta bir İngiliz bitter'ı, finalde Old Peculier.",
+   "picks": [
+    "greene-king-ipa",
+    "harveys-sussex-best-bitter",
+    "theakston-old-peculier"
+   ]
+  },
+  {
+   "e": "🥨",
+   "ad": "Wolfhouse Kardeşler",
+   "rol": "Beerfest (film, 2006)",
+   "blurb": "😄 Bizce: gizli bira olimpiyatlarına Bavyera'ya giden kardeşler. Ailenin kurgusal tarifi yerine bizce Münih'in Hofbräu'su ve bir dev Doppelbock.",
+   "picks": [
+    "hofbrau-original",
+    "ayinger-celebrator"
+   ]
+  },
+  {
+   "e": "🚓",
+   "ad": "Thorny ve Farva",
+   "rol": "Super Troopers (film, 2001)",
+   "blurb": "📺 Ekranda: Farva'nın efsanevi siparişi bira değil, 'bir litre kola'! 😄 Hikâye Vermont'ta geçtiğine göre bizce Vermont'un efsane IPA'ları.",
+   "picks": [
+    "the-alchemist-heady-topper",
+    "hill-farmstead-edward",
+    "lawsons-sip-of-sunshine"
+   ]
+  },
+  {
+   "e": "🎓",
+   "ad": "Bluto Blutarsky",
+   "rol": "Animal House (film, 1978)",
+   "blurb": "😄 Bizce: 'Bitti mi? Almanlar Pearl Harbor'ı bombaladığında da bitmemişti!' Toga partisinin kralına adı 'şeytan' olan Duvel ve koca bir fil.",
+   "picks": [
+    "duvel",
+    "carlsberg-elephant"
+   ]
+  },
+  {
+   "e": "🚛",
+   "ad": "Bandit",
+   "rol": "Smokey and the Bandit (film, 1977)",
+   "blurb": "📺 Ekranda: Teksas'tan Atlanta'ya kaçak 400 kasa Coors taşıma bahsi — bütün kovalamacanın sebebi Coors! 😄 Bizce yol ağzı Teksas'tan bir Shiner.",
+   "picks": [
+    "coors-banquet",
+    "shiner-bock"
+   ]
+  },
+  {
+   "e": "👽",
+   "ad": "E.T.",
+   "rol": "E.T. (film, 1982)",
+   "blurb": "📺 Ekranda: buzdolabında bulduğu Coors'larla çakırkeyif olur, zihin bağıyla Elliott da okulda sarhoş! 😄 Bizce evi ararken bir 'Space Dust' da iyi gider.",
+   "picks": [
+    "coors-banquet",
+    "elysian-space-dust"
+   ]
+  },
+  {
+   "e": "🎭",
+   "ad": "Frank Booth",
+   "rol": "Blue Velvet (film, 1986)",
+   "blurb": "📺 Ekranda: 'Heineken mi? Boş ver onu! Pabst Blue Ribbon!' Sinema tarihinin en ürkütücü bira tercihi. 😄 Bizce onunla tartışmayın, PBR açın.",
+   "picks": [
+    "pabst-blue-ribbon"
+   ]
+  },
+  {
+   "e": "🚗",
+   "ad": "Walt Kowalski",
+   "rol": "Gran Torino (film, 2008)",
+   "blurb": "📺 Ekranda: verandada kutu kutu Pabst Blue Ribbon, yanında üst üste dizilmiş boşlar. 😄 Bizce Polonya kökenli huysuza bir de Żywiec — çimlerinden uzak durun!",
+   "picks": [
+    "pabst-blue-ribbon",
+    "zywiec"
+   ]
+  },
+  {
+   "e": "🎳",
+   "ad": "The Dude",
+   "rol": "The Big Lebowski (film, 1998)",
+   "blurb": "📺 Ekranda: bira değil, White Russian (votka, kahve likörü, krema). 😄 Bizce bira dünyasındaki karşılığı kremamsı bir milk stout. The Dude abides.",
+   "picks": [
+    "galway-bay-buried-at-sea",
+    "youngs-double-chocolate-stout"
+   ]
+  },
+  {
+   "e": "🦈",
+   "ad": "Quint",
+   "rol": "Jaws (film, 1975)",
+   "blurb": "📺 Ekranda: Narragansett kutusunu bir dikişte bitirip elinde ezer — 1975 kutuları bugünkülerden kalındı! Katalogda yok; 😄 bizce Amerikan lager ve deniz kokulu bir stout.",
+   "picks": [
+    "budweiser",
+    "porterhouse-oyster-stout"
+   ]
+  },
+  {
+   "e": "🦌",
+   "ad": "Michael Vronsky",
+   "rol": "The Deer Hunter (film, 1978)",
+   "blurb": "📺 Ekranda: Pensilvanyalı arkadaş grubunun birası Rolling Rock: 'İyi biradır, en iyisi.' Katalogda yok; 😄 bizce en yakını yine Pensilvanya'dan Yuengling.",
+   "picks": [
+    "yuengling-traditional-lager"
+   ]
+  },
+  {
+   "e": "🕵️",
+   "ad": "James Bond",
+   "rol": "Skyfall (film, 2012)",
+   "blurb": "📺 Ekranda: martini efsanesine rağmen Skyfall'da (ve Spectre'de) Heineken içer — ünlü bir ürün yerleştirme anlaşması sayesinde. 😄 Çalkalanmış değil, açılmış.",
+   "picks": [
+    "heineken"
+   ]
+  },
+  {
+   "e": "😈",
+   "ad": "Hellboy",
+   "rol": "Hellboy II: The Golden Army (film, 2008)",
+   "blurb": "📺 Ekranda: odasında koliler dolusu Tecate; Abe Sapien'le içip Barry Manilow söyledikleri sahne efsane. 😄 Bizce yanına koyu bir Meksika lager'ı da olur.",
+   "picks": [
+    "tecate",
+    "negra-modelo"
+   ]
+  },
+  {
+   "e": "🥋",
+   "ad": "Johnny Lawrence",
+   "rol": "Cobra Kai (dizi)",
+   "blurb": "📺 Ekranda: elinde neredeyse hep bir Coors Banquet — üstelik ücretsiz yerleştirmeymiş, yapımcılar seviyormuş. 😄 Strike first, open first!",
+   "picks": [
+    "coors-banquet",
+    "coors-light"
+   ]
+  },
+  {
+   "e": "🐎",
+   "ad": "Rip Wheeler",
+   "rol": "Yellowstone (dizi)",
+   "blurb": "📺 Ekranda: Coors Banquet, dizide 'yellowjacket' diye anılır; 5. sezonda resmi birası da oldu. 😄 Bizce kamp ateşi başına bir de isli porter.",
+   "picks": [
+    "coors-banquet",
+    "alaskan-smoked-porter"
+   ]
+  },
+  {
+   "e": "🍺",
+   "ad": "Hank Schrader",
+   "rol": "Breaking Bad (dizi)",
+   "blurb": "📺 Ekranda: garajında kendi ev birası 'Schraderbräu'yu yapar ve gururla ikram eder. Katalogda yok; 😄 bizce hevesli bir ev biracısının hayali: hoplu bir IPA.",
+   "picks": [
+    "firestone-walker-union-jack",
+    "lagunitas-ipa"
+   ]
+  },
+  {
+   "e": "🚔",
+   "ad": "Jim Hopper",
+   "rol": "Stranger Things (dizi)",
+   "blurb": "📺 Ekranda: ilk bölümden elinde 80'ler tasarımı bir Schlitz kutusu. Katalogda yok; 😄 bizce klasik Amerikan lager — ve Hawkins Indiana'da, o halde bir de Zombie Dust!",
+   "picks": [
+    "budweiser",
+    "three-floyds-zombie-dust"
+   ]
+  },
+  {
+   "e": "☕",
+   "ad": "Ajan Dale Cooper",
+   "rol": "Twin Peaks (dizi)",
+   "blurb": "😄 Bizce: 'Lanet olası iyi bir kahve!' Ekranda bira değil kahve ve vişneli turta. Mikkeller, Lynch'le resmi bir 'Damn Good Coffee Stout' bile yaptı; biz kahveli stout öneriyoruz.",
+   "picks": [
+    "mikkeller-beer-geek-breakfast",
+    "hitachino-nest-espresso-stout"
+   ]
+  },
+  {
+   "e": "🏹",
+   "ad": "Daryl Dixon",
+   "rol": "The Walking Dead (dizi)",
+   "blurb": "😄 Bizce: kıyamette bira bulmak zor ama Daryl bulur. Eserde marka yok; adında 'Ölü Adam' geçen bir bira ve sert bir Scotch Ale yakışır.",
+   "picks": [
+    "rogue-dead-guy-ale",
+    "founders-dirty-bastard"
+   ]
+  },
+  {
+   "e": "🎩",
+   "ad": "Arthur Shelby",
+   "rol": "Peaky Blinders (dizi)",
+   "blurb": "📺 Ekranda: Shelby'lerin içkisi çoğunlukla viski. 😄 Bizce Garrison pub'ında 1920'ler Birmingham'ına yakışan bir Burton bitter'ı. By order of the Peaky Blinders!",
+   "picks": [
+    "marstons-pedigree",
+    "bass-pale-ale"
+   ]
+  },
+  {
+   "e": "🥛",
+   "ad": "Homelander",
+   "rol": "The Boys (dizi)",
+   "blurb": "📺 Ekranda: süt. Evet, süt — ürkütücü bir takıntıyla. 😄 Bizce bira dünyasındaki tek uygun cevap: laktozlu, kremamsı bir milk stout.",
+   "picks": [
+    "brewdog-jet-black-heart",
+    "st-peters-cream-stout"
+   ]
+  },
+  {
+   "e": "🍷",
+   "ad": "Tyrion Lannister",
+   "rol": "Game of Thrones (dizi)",
+   "blurb": "📺 Ekranda: 'İçerim ve bir şeyler bilirim' — ama içtiği şarap. 😄 Bizce bir Lannister'a bira verilecekse şarap kadar derin bir Flaman Red ya da trappist.",
+   "picks": [
+    "rodenbach-grand-cru",
+    "chimay-mavi"
+   ]
+  },
+  {
+   "e": "👮‍♀️",
+   "ad": "Marge Gunderson",
+   "rol": "Fargo (film, 1996)",
+   "blurb": "😄 Bizce: hamile ve görevde bir Minnesota polisi, o yüzden alkolsüz! 'Yah, you betcha.' Kar fırtınasında bile keyif veren iki 0,0'lık.",
+   "picks": [
+    "brewdog-punk-af",
+    "budvar-nealko"
+   ]
+  },
+  {
+   "e": "🥫",
+   "ad": "Rust Cohle",
+   "rol": "True Detective (dizi, 1. sezon)",
+   "blurb": "📺 Ekranda: sorgu odasında Lone Star kutuları; bitenlerden bıçakla küçük teneke adamlar yapar. Katalogda yok; 😄 bizce Amerikan lager ve varoluşçu bir uçurum.",
+   "picks": [
+    "landshark-lager",
+    "deschutes-the-abyss"
+   ]
+  },
+  {
+   "e": "🏴‍☠️",
+   "ad": "Kaptan Jack Sparrow",
+   "rol": "Karayip Korsanları (film serisi)",
+   "blurb": "📺 Ekranda: 'Rom neden hep bitiyor?' Bira değil rom. 😄 Bizce rom fıçısında olgunlaşmış bir ale ve Karayip rotasının porter'ı.",
+   "picks": [
+    "innis-gunn-rum-cask",
+    "guinness-west-indies-porter"
+   ]
+  },
+  {
+   "e": "⚔️",
+   "ad": "Hägar",
+   "rol": "Hägar the Horrible (çizgi roman)",
+   "blurb": "😄 Bizce: yağmadan dönen Viking'in boynuzunu doldurmak gerek. Eserde marka yok; İskoç fundalı ale ve adını 'kafatası yaran' bir Orkney jarlından alan bira.",
+   "picks": [
+    "williams-bros-fraoch-heather-ale",
+    "orkney-skull-splitter"
+   ]
+  },
+  {
+   "e": "🧢",
+   "ad": "Andy Capp",
+   "rol": "Andy Capp (çizgi roman)",
+   "blurb": "📖 Sayfada: kasketi gözünde, pub'da pint'iyle İngiliz işçi sınıfı ikonu; marka anılmaz. 😄 Bizce Kuzeydoğu İngiltere'nin Newcastle Brown'ı ve bir dark mild.",
+   "picks": [
+    "newcastle-brown-ale",
+    "moorhouses-black-cat"
+   ]
+  },
+  {
+   "e": "🐴",
+   "ad": "Red Kit (Lucky Luke)",
+   "rol": "Lucky Luke (çizgi roman)",
+   "blurb": "😄 Bizce: gölgesinden hızlı kovboy salonda tek kurşun, tek bardak. Eserde marka yok; altına hücum çağından kalma bir California Common.",
+   "picks": [
+    "anchor-steam-beer"
+   ]
+  },
+  {
+   "e": "🪓",
+   "ad": "Zagor ve Chico",
+   "rol": "Zagor (çizgi roman)",
+   "blurb": "😄 Bizce: 'Za-Gor!' Ormanın ruhu az içer, ama obur dostu Meksikalı Chico için bir Victoria, yemeğine de koyu Negra Modelo. Eserde marka geçmez.",
+   "picks": [
+    "victoria",
+    "negra-modelo"
+   ]
+  },
+  {
+   "e": "⛵",
+   "ad": "Corto Maltese",
+   "rol": "Corto Maltese (çizgi roman)",
+   "blurb": "😄 Bizce: limandan limana dolaşan romantik denizci. Eserde marka yok; tropik limanlara dayanıklı bir Foreign Extra Stout ve Venedik için bir İtalyan.",
+   "picks": [
+    "guinness-foreign-extra-stout",
+    "birra-moretti-la-rossa"
+   ]
+  },
+  {
+   "e": "📝",
+   "ad": "Henry Chinaski",
+   "rol": "Bukowski romanları (Post Office, Factotum)",
+   "blurb": "📖 Sayfada: yanında hep bir bira var, marka pek umurunda değil. 😄 Bizce Los Angeles'ın ucuz kutuları — yazı makinesinin yanına bir de Meksika lager'ı.",
+   "picks": [
+    "tecate",
+    "pabst-blue-ribbon"
+   ]
+  },
+  {
+   "e": "🐘",
+   "ad": "Amerikalı ve Jig",
+   "rol": "Beyaz Filler Gibi Tepeler (Hemingway öyküsü)",
+   "blurb": "📖 Sayfada: Ebro vadisindeki istasyonda 'Dos cervezas' — keçe altlıklı iki bardak bira, bir de anason. Marka yok; 😄 bizce bir İspanyol lager'ı.",
+   "picks": [
+    "estrella-damm",
+    "mahou-cinco-estrellas"
+   ]
+  },
+  {
+   "e": "🛣️",
+   "ad": "Sal Paradise",
+   "rol": "Yolda (Kerouac romanı)",
+   "blurb": "😄 Bizce: New York'tan San Francisco'ya otostopla. Eserde sabit marka yok; doğu yakası için Brooklyn, batı yakası için Sierra Nevada.",
+   "picks": [
+    "brooklyn-lager",
+    "sierra-nevada-pale-ale"
+   ]
+  },
+  {
+   "e": "🎩",
+   "ad": "Bay Pickwick",
+   "rol": "Pickwick Kulübü'nün Belgeleri (Dickens)",
+   "blurb": "📖 Sayfada: soğuk punç kâsesine düşkün, bir keresinde el arabasında uyuyakalır! 😄 Bizce Victoria dönemi Londra'sının porter'ı.",
+   "picks": [
+    "fullers-london-porter",
+    "samuel-smith-taddy-porter"
+   ]
+  },
+  {
+   "e": "🐺",
+   "ad": "Rivyalı Geralt",
+   "rol": "The Witcher 3 (oyun)",
+   "blurb": "📺 Ekranda: kurgusal Redanian Lager, Kaedweni Stout, Rivian Kriek, Viziman Champion. 😄 Bizce Polonyalı yapımcılara selam: Polonya lager'ı, Baltık porter ve gerçek bir kriek.",
+   "picks": [
+    "zywiec",
+    "okocim-porter",
+    "boon-oude-kriek"
+   ]
+  },
+  {
+   "e": "☢️",
+   "ad": "Tek Hayatta Kalan",
+   "rol": "Fallout 4 (oyun)",
+   "blurb": "📺 Ekranda: kurgusal Gwinnett ale, lager, stout, pils… 'buz gibi' versiyonları da var. Oyun Boston'da geçer; 😄 bizce Boston'un gerçek biraları.",
+   "picks": [
+    "samuel-adams-boston-lager",
+    "trillium-congress-street"
+   ]
+  },
+  {
+   "e": "🚕",
+   "ad": "Niko Bellic",
+   "rol": "GTA IV (oyun)",
+   "blurb": "📺 Ekranda: kurgusal Alman birası Pißwasser ('You're in for a good time' esprisi malum). 😄 Bizce gerçek ve sert bir Kuzey Alman pilsneri.",
+   "picks": [
+    "jever-pilsener",
+    "becks"
+   ]
+  },
+  {
+   "e": "🐉",
+   "ad": "Dovahkiin",
+   "rol": "The Elder Scrolls V: Skyrim (oyun)",
+   "blurb": "📺 Ekranda: Honningbrew ve Black-Briar meadleri — bira değil, bal şarabı! 😄 Bizce birada en yakını bal katkılı ale'ler. Fus Ro Dah!",
+   "picks": [
+    "fullers-honey-dew",
+    "thornbridge-bracia",
+    "torch-honey-pepper-ale"
+   ]
+  },
+  {
+   "e": "🍓",
+   "ad": "Gintoki Sakata",
+   "rol": "Gintama (anime)",
+   "blurb": "📺 Ekranda: çilekli süt ve tatlı bağımlısı, bir de sık sık akşamdan kalma. 😄 Bizce tatlı meyveli bir bira ve Japon buğdayı.",
+   "picks": [
+    "liefmans-fruitesse",
+    "hitachino-nest-white-ale"
+   ]
+  },
+  {
+   "e": "🌸",
+   "ad": "Shunsui Kyōraku",
+   "rol": "Bleach (anime)",
+   "blurb": "📺 Ekranda: pembe haorili kaptanın aşkı sake. 😄 Bizce pirinçli Japon biraları: kırmızı pirinç ale'i ve çıtır bir pirinç lager'ı.",
+   "picks": [
+    "hitachino-nest-red-rice-ale",
+    "asahi-super-dry"
+   ]
+  },
+  {
+   "e": "🎙️",
+   "ad": "Burhan Altıntop",
+   "rol": "Avrupa Yakası (dizi)",
+   "blurb": "😄 Bizce: kültürlü görünmeye meraklı Burhan menüde ithal trappist arar, bütçe yetmeyince yerli filtresize razı olur. Eserde marka iddiamız yok.",
+   "picks": [
+    "chimay-beyaz",
+    "bomonti-filtresiz"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🫖",
+   "ad": "İsmail Abi",
+   "rol": "Leyla ile Mecnun (dizi)",
+   "blurb": "😄 Bizce: çay ocağının şair ruhlu abisi demlenmeyi bilir. Eserde bira yok; ona bulut gibi bir filtresiz buğday ve muzlu-karanfilli bir Türk weiss.",
+   "picks": [
+    "bomonti-filtresiz-bugday",
+    "gara-guzu-weiss"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🏪",
+   "ad": "Erdal Bakkal",
+   "rol": "Leyla ile Mecnun (dizi)",
+   "blurb": "😄 Bizce: mahalle bakkalının dolabında ne varsa o! Eserde marka iddiamız yok; Türkiye'nin her bakkalındaki klasik pilsen ve malt.",
+   "picks": [
+    "efes-pilsen",
+    "efes-malt"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🤷",
+   "ad": "Yılmaz ve İlkkan",
+   "rol": "Gibi (dizi)",
+   "blurb": "😄 Bizce: en basit sipariş bile yarım saatlik felsefi tartışmaya döner. 'Normal bira' diyemezler; isli bir rauchbier mi, Kölsch mü? Eserde marka yok.",
+   "picks": [
+    "3-kafadar-tutsu",
+    "somx-kolsch"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🥊",
+   "ad": "Kuzey Tekinoğlu",
+   "rol": "Kuzey Güney (dizi)",
+   "blurb": "😄 Bizce: asi, sert ve gölgeli abi. Eserde marka iddiamız yok; ona koyu bir lager ve yerli bir stout yakışır.",
+   "picks": [
+    "das-diesdos",
+    "pablo-stout"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🚨",
+   "ad": "Rıza Baba",
+   "rol": "Arka Sokaklar (dizi)",
+   "blurb": "😄 Bizce: ekibin babası mesai bitince bile telsizi kapatmaz. Eserde bira iddiamız yok; görev sonrası hafif bir lager, emeklilikte bir Märzen.",
+   "picks": [
+    "tuborg-gold",
+    "red-tower-marzen"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🌵",
+   "ad": "Lemi ve Aziz",
+   "rol": "Yahşi Batı (film, 2010)",
+   "blurb": "😄 Bizce: Osmanlı'dan Vahşi Batı'ya düşen iki kafadar saloon kapısını iter. Eserde marka yok; Türk craft'tan bir red ale ve kovboy kıvamında sert bir lager.",
+   "picks": [
+    "torch-red-ale",
+    "efes-xtra"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🛸",
+   "ad": "Arif Işık",
+   "rol": "G.O.R.A. (film, 2004)",
+   "blurb": "😄 Bizce: uzaya kaçırılan halı satıcısı! Eserde bira yok; adı 'Stardust' olan bir Türk NEIPA'sı ve 'Oh la la' diyen bir diğeri.",
+   "picks": [
+    "3-kafadar-stardust",
+    "somx-oh-la-la-neipa"
+   ],
+   "tr": true
+  },
+  {
+   "e": "💪",
+   "ad": "Recep İvedik",
+   "rol": "Recep İvedik (film serisi)",
+   "blurb": "😄 Bizce: kaba ama kalbi temiz, her şeyin büyüğünü ister. Eserde marka iddiamız yok; ona ancak 'yüksek alkollü' etiketli kocaman bir fil yeter.",
+   "picks": [
+    "bremen-yuksek-alkollu",
+    "carlsberg-elephant"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🏫",
+   "ad": "Hababam Sınıfı",
+   "rol": "Hababam Sınıfı (film serisi, Yeşilçam)",
+   "blurb": "😄 Bizce: Mahmut Hoca görmesin! Tavan arası yaramazlarına ancak mezuniyette, İstanbul'un 1890'lardan beri bilinen Bomonti'si. Eserde marka iddiamız yok.",
+   "picks": [
+    "bomonti-pilsner",
+    "bomonti-red-ale"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🔑",
+   "ad": "Seyit",
+   "rol": "Kapıcılar Kralı (film, 1976)",
+   "blurb": "😄 Bizce: Kemal Sunal'ın kurnaz kapıcısı apartmanın bütün sırlarını bilir. Eserde marka iddiamız yok; kapıcı dairesinde sade bir lager ve kehribar bir alternatif.",
+   "picks": [
+    "tuborg-amber",
+    "venus-tr"
+   ],
+   "tr": true
+  },
+  {
+   "e": "👞",
+   "ad": "Züğürt Ağa",
+   "rol": "Züğürt Ağa (film, 1985)",
+   "blurb": "😄 Bizce: köyünü kaybedip İstanbul'a düşen Şener Şen'in ağası. Ağalık gitti, keyif kaldı; bütçe dostu bir lager ve köy günlerini anan bir Märzen.",
+   "picks": [
+    "marmara-gold",
+    "frederik-marzen"
+   ],
+   "tr": true
+  },
+  {
+   "e": "🚘",
+   "ad": "Asım Noyan",
+   "rol": "Organize İşler (film, 2005)",
+   "blurb": "😄 Bizce: araba çetesinin karizmatik lideri — o halde adı tam yerinde: 'Bagaj Degaj'! Eserde marka iddiamız yok.",
+   "picks": [
+    "das-bagaj-degaj",
+    "das-ey-ay-pi-ey"
+   ],
+   "tr": true
+  },
+  {
+   "e": "📡",
+   "ad": "Deli Emin",
+   "rol": "Vizontele (film, 2001)",
+   "blurb": "😄 Bizce: köye televizyon getiren mucit! Anteni çevirirken soğuk bir pilsner iyi gider. Eserde marka iddiamız yok.",
+   "picks": [
+    "knidos-pilsner",
+    "antiochs-blonde-ale"
+   ],
+   "tr": true
+  },
+  {
+   "e": "👨‍👩‍👧‍👦",
+   "ad": "Haluk",
+   "rol": "Çocuklar Duymasın (dizi)",
+   "blurb": "😄 Bizce: Meltem'le tartışmaların arasında balkonda sessiz bir bira, adı üstünde — çocuklar duymasın. Eserde marka iddiamız yok.",
+   "picks": [
+    "efes-ozel-seri",
+    "a-sante-vienna-lager"
+   ],
+   "tr": true
+  }
+ ]
+}

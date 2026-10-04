@@ -35,6 +35,10 @@ header{padding:26px 0 14px;border-bottom:1px solid var(--line);margin-bottom:18p
 .kardes small{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.4px}
 @media(max-width:760px){.brand{flex-wrap:nowrap;gap:10px}.kardes{padding:5px 10px;font-size:12px;align-self:center}.kardes small{display:none}}
 @media(max-width:400px){.brand h1 span{display:none}}
+.magfiltre{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 8px}.magfiltre input{flex:1;min-width:200px;background:var(--bg2);border:1px solid var(--line);color:var(--txt);border-radius:10px;padding:9px 12px;font-size:14px}
+.magchips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+@keyframes parla{0%,100%{box-shadow:none}30%{box-shadow:0 0 0 3px var(--amber2),0 0 24px rgba(242,193,78,.45)}}
+.magcard.parla{animation:parla 1.6s ease 2}
 .brand .sub{color:var(--muted);font-size:13px;margin-top:2px}
 .stats{display:flex;gap:14px;flex-wrap:wrap;margin-top:18px;align-items:stretch}
 .glass-box{display:flex;align-items:center;gap:14px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 18px}
@@ -1969,7 +1973,7 @@ function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "KKTC": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹", "Bulgaristan": "🇧🇬", "Endonezya": "🇮🇩", "Ermenistan": "🇦🇲", "Fas": "🇲🇦", "Filistin": "🇵🇸", "Jamaika": "🇯🇲", "Kamboçya": "🇰🇭", "Kongo DC": "🇨🇩", "Kosova": "🇽🇰", "Küba": "🇨🇺", "Lübnan": "🇱🇧", "Sri Lanka": "🇱🇰", "Tanzanya": "🇹🇿", "Tayvan": "🇹🇼", "Tunus": "🇹🇳", "Uganda": "🇺🇬", "Ürdün": "🇯🇴", "İsrail": "🇮🇱", "İsviçre": "🇨🇭", "Şili": "🇨🇱"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "İskoçya", "Çekya", "İtalya", "İrlanda", "Avusturya", "Japonya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "KKTC", "Yeni Zelanda", "Norveç", "Brezilya", "İsviçre", "Çin", "Estonya", "Galler", "İsveç", "Portekiz", "Tayland", "Lübnan", "Rusya", "Gürcistan", "Litvanya", "Arjantin", "Şili", "Güney Kore", "Finlandiya", "İsrail", "Vietnam", "Ukrayna", "Filistin", "Jamaika", "İzlanda", "Letonya", "Güney Afrika", "Hindistan", "Kamboçya", "Venezuela", "Filipinler", "Namibya", "Tayvan", "Singapur", "Etiyopya", "Fas", "Küba", "Tunus", "Tanzanya", "Kenya", "Nijerya", "Bulgaristan", "Kolombiya", "Ermenistan", "Endonezya", "Peru", "Sri Lanka", "Ürdün", "Kongo DC", "Kosova", "Lüksemburg", "Laos", "Uganda", "Kıbrıs"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Japonya", "Avusturya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Norveç", "Brezilya", "İsviçre", "Çin", "Galler", "İsveç", "Estonya", "Portekiz", "Tayland", "Şili", "Arjantin", "Finlandiya", "Vietnam", "Güney Kore", "İsrail", "Rusya", "Gürcistan", "Lübnan", "Litvanya", "Ukrayna", "Güney Afrika", "Jamaika", "Filistin", "Letonya", "İzlanda", "Hindistan", "Venezuela", "Peru", "Fas", "Kenya", "Ermenistan", "Tanzanya", "Filipinler", "Ürdün", "Kolombiya", "Bulgaristan", "Sri Lanka", "Etiyopya", "Laos", "Endonezya", "Nijerya", "Kamboçya", "Singapur", "Namibya", "Uganda", "Tunus", "Kongo DC", "Lüksemburg", "Tayvan", "Kosova", "Küba", "Kıbrıs"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -2638,7 +2642,837 @@ const FAMOUS=[
 "picks": [
 "efes-pilsen",
 "efes-malt"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🍺",
+"ad": "Peter Griffin",
+"rol": "Family Guy (çizgi dizi)",
+"blurb": "📺 Ekranda: kurgusal Pawtucket Patriot Ale. 😄 Bizce gerçek hayatta New England usulü bir lager.",
+"picks": [
+"samuel-adams-boston-lager",
+"miller-lite"
 ]
+},
+{
+"g": "karakter",
+"e": "🧽",
+"ad": "Moe Szyslak",
+"rol": "The Simpsons (çizgi dizi)",
+"blurb": "📺 Ekranda: barında musluktan kurgusal Duff akıtır, bir de meşhur 'Flaming Moe' kokteyli var. 😄 Bizce gerçek dünyada en yakını ucuz, soğuk bir pilsner.",
+"picks": [
+"miller-lite",
+"gambrinus-original-10"
+]
+},
+{
+"g": "karakter",
+"e": "🚀",
+"ad": "Philip J. Fry",
+"rol": "Futurama (çizgi dizi)",
+"blurb": "📺 Ekranda: 1999'da elinde bir kurgusal LöBrau ile buzlanır; marka Löwenbräu parodisi (ve 'lowbrow' esprisi). 😄 Bizce bin yıl sonra da orijinali içilir.",
+"picks": [
+"lowenbrau-oktoberfestbier",
+"lowenbrau-original"
+]
+},
+{
+"g": "karakter",
+"e": "🦴",
+"ad": "Fred Çakmaktaş",
+"rol": "The Flintstones (çizgi dizi)",
+"blurb": "😄 Bizce: Taş Devri'nde bira ateşte pişer! Eserde marka geçmiyor; Yabba-dabba-doo diye bağıran adama dumanlı bir Bamberg Rauchbier yakışır.",
+"picks": [
+"schlenkerla-rauchbier-maerzen",
+"kozel-cerny"
+]
+},
+{
+"g": "karakter",
+"e": "🤠",
+"ad": "Hank Hill",
+"rol": "King of the Hill (çizgi dizi)",
+"blurb": "📺 Ekranda: arka bahçede kurgusal Alamo Beer; 'Yep.' 😄 Bizce Teksaslının gerçek karşılığı Shiner Bock — propan gazı kadar güvenilir.",
+"picks": [
+"shiner-bock"
+]
+},
+{
+"g": "karakter",
+"e": "🍔",
+"ad": "Bob Belcher",
+"rol": "Bob's Burgers (çizgi dizi)",
+"blurb": "📺 Ekranda: bir bölümde Teddy'nin ev birasını burgerlerin yanında gizlice satmaya kalkarlar. 😄 Bizce kızgın ızgaranın yanına kehribar bir ale ya da klasik pale ale.",
+"picks": [
+"new-belgium-fat-tire",
+"sierra-nevada-pale-ale"
+]
+},
+{
+"g": "karakter",
+"e": "🏔️",
+"ad": "Randy Marsh",
+"rol": "South Park (çizgi dizi)",
+"blurb": "😄 Bizce: kasaba Colorado'da, o halde Colorado birası! Eserde sabit bir marka yok; her işi abartan Randy'ye Coors Light ya da bir Colorado IPA'sı.",
+"picks": [
+"coors-light",
+"new-belgium-voodoo-ranger-ipa",
+"oskar-blues-dales-pale-ale"
+]
+},
+{
+"g": "karakter",
+"e": "⚾",
+"ad": "Sam Malone",
+"rol": "Cheers (sitcom)",
+"blurb": "📺 Ekranda: barın sahibi ama ayık kalmaya kararlı eski bir beyzbolcu; kendisi içmez! 😄 Bizce ona köpüğü bol, alkolsüz bir bardak.",
+"picks": [
+"erdinger-alkoholfrei",
+"guinness-00"
+]
+},
+{
+"g": "karakter",
+"e": "📮",
+"ad": "Cliff Clavin",
+"rol": "Cheers (sitcom)",
+"blurb": "😄 Bizce: her konuda 'az bilinen bir gerçek' anlatan Bostonlu postacı. Eserde marka net değil; hemşehrisi Samuel Adams'ı anlatarak içsin.",
+"picks": [
+"samuel-adams-boston-lager",
+"samuel-adams-octoberfest"
+]
+},
+{
+"g": "karakter",
+"e": "🦶",
+"ad": "Red Forman",
+"rol": "That '70s Show (sitcom)",
+"blurb": "📺 Ekranda: garaj buzdolabı kurgusal Meichtry Draft dolu; kutlamalarda 'Ownbrau' (L'si silinmiş Löwenbräu esprisi). 😄 Bizce orijinali ya da Wisconsin komşusu Milwaukee işi bir Miller — yoksa ayağı birinin poposunda.",
+"picks": [
+"lowenbrau-original",
+"miller-lite"
+]
+},
+{
+"g": "karakter",
+"e": "🥛",
+"ad": "Charlie Kelly",
+"rol": "It's Always Sunny in Philadelphia (sitcom)",
+"blurb": "📺 Ekranda: ilk sezon Paddy's Pub'da Bud Light tabelaları vardı, sponsor çekilince logolar silindi. 😄 Bizce Philadelphia çocuğuna yerel bir Pensilvanya pilsneri.",
+"picks": [
+"bud-light",
+"victory-prima-pils"
+]
+},
+{
+"g": "karakter",
+"e": "🫜",
+"ad": "Dwight Schrute",
+"rol": "The Office (sitcom)",
+"blurb": "😄 Bizce: pancar çiftçisi ve Alman kökenli! Eserde marka yok; pancar kırmızısı ekşi bir Flaman Red ya da büyükbaba usulü bir Weissbier.",
+"picks": [
+"rodenbach-classic",
+"weihenstephaner-hefeweissbier"
+]
+},
+{
+"g": "karakter",
+"e": "🍕",
+"ad": "Joey Tribbiani",
+"rol": "Friends (sitcom)",
+"blurb": "😄 Bizce: 'Joey yemeğini paylaşmaz!' İtalyan-Amerikalı oyuncumuzun pizzasına eşlik eden bir İtalyan lager'ı. Eserde marka geçmez. How you doin'?",
+"picks": [
+"peroni-nastro-azzurro",
+"birra-moretti-lautentica"
+]
+},
+{
+"g": "karakter",
+"e": "🥧",
+"ad": "Marshall Eriksen",
+"rol": "How I Met Your Mother (sitcom)",
+"blurb": "😄 Bizce: Minnesota'lı koca yürekli adam memleket birasını özler. Eserde marka yok; Minneapolis'ten Surly ve Midwest buğdayı.",
+"picks": [
+"surly-furious",
+"bells-oberon"
+]
+},
+{
+"g": "karakter",
+"e": "🍷",
+"ad": "Penny",
+"rol": "The Big Bang Theory (sitcom)",
+"blurb": "📺 Ekranda: çoğunlukla elinde dolu bir şarap kadehi. 😄 Bizce birada da şarabımsı olanı sever: meşe fıçılı Flaman ekşisi ya da vişneli lambic.",
+"picks": [
+"duchesse-de-bourgogne",
+"lindemans-kriek"
+]
+},
+{
+"g": "karakter",
+"e": "🛋️",
+"ad": "Archie Bunker",
+"rol": "All in the Family (sitcom)",
+"blurb": "😄 Bizce: koltuğuna kimse oturamaz, buzdolabındaki son biraya da kimse dokunamaz! Eserde marka öne çıkmaz; Queens'li huysuza klasik bir New York lager'ı.",
+"picks": [
+"brooklyn-lager",
+"brooklyn-pilsner"
+]
+},
+{
+"g": "karakter",
+"e": "⚽",
+"ad": "Ted Lasso",
+"rol": "Ted Lasso (dizi)",
+"blurb": "😄 Bizce: Kansas'tan Richmond'a uzanan iyimserlik. Eserde marka yok; memleketi Kansas City'den Boulevard, yeni evi Londra'nın batısından Fuller's. Believe!",
+"picks": [
+"boulevard-tank-7",
+"fullers-london-pride"
+]
+},
+{
+"g": "karakter",
+"e": "🥃",
+"ad": "Don Draper",
+"rol": "Mad Men (dizi)",
+"blurb": "📺 Ekranda: 2. sezonda Heineken'i banliyö ev hanımlarına pazarlama kampanyası yürütür; Betty de o birayı sofraya koyar. Kendisi elbette viskiyi tercih eder.",
+"picks": [
+"heineken",
+"harviestoun-ola-dubh-12"
+]
+},
+{
+"g": "karakter",
+"e": "🧟",
+"ad": "Shaun ve Ed",
+"rol": "Shaun of the Dead (film, 2004)",
+"blurb": "📺 Ekranda: plan basit — Winchester'a git, soğuk bir pint al, her şeyin geçmesini bekle. 😄 Marka net değil; bizce kıyamet günü için bir Londra lager'ı.",
+"picks": [
+"meantime-london-lager",
+"camden-hells-lager"
+]
+},
+{
+"g": "karakter",
+"e": "🍻",
+"ad": "Gary King",
+"rol": "The World's End (film, 2013)",
+"blurb": "📺 Ekranda: 12 pub'lık 'Altın Mil' turunu tamamlama takıntısı; pub'lar kurgusal. 😄 Bizce her durakta bir İngiliz bitter'ı, finalde Old Peculier.",
+"picks": [
+"greene-king-ipa",
+"harveys-sussex-best-bitter",
+"theakston-old-peculier"
+]
+},
+{
+"g": "karakter",
+"e": "🥨",
+"ad": "Wolfhouse Kardeşler",
+"rol": "Beerfest (film, 2006)",
+"blurb": "😄 Bizce: gizli bira olimpiyatlarına Bavyera'ya giden kardeşler. Ailenin kurgusal tarifi yerine bizce Münih'in Hofbräu'su ve bir dev Doppelbock.",
+"picks": [
+"hofbrau-original",
+"ayinger-celebrator"
+]
+},
+{
+"g": "karakter",
+"e": "🚓",
+"ad": "Thorny ve Farva",
+"rol": "Super Troopers (film, 2001)",
+"blurb": "📺 Ekranda: Farva'nın efsanevi siparişi bira değil, 'bir litre kola'! 😄 Hikâye Vermont'ta geçtiğine göre bizce Vermont'un efsane IPA'ları.",
+"picks": [
+"the-alchemist-heady-topper",
+"hill-farmstead-edward",
+"lawsons-sip-of-sunshine"
+]
+},
+{
+"g": "karakter",
+"e": "🎓",
+"ad": "Bluto Blutarsky",
+"rol": "Animal House (film, 1978)",
+"blurb": "😄 Bizce: 'Bitti mi? Almanlar Pearl Harbor'ı bombaladığında da bitmemişti!' Toga partisinin kralına adı 'şeytan' olan Duvel ve koca bir fil.",
+"picks": [
+"duvel",
+"carlsberg-elephant"
+]
+},
+{
+"g": "karakter",
+"e": "🚛",
+"ad": "Bandit",
+"rol": "Smokey and the Bandit (film, 1977)",
+"blurb": "📺 Ekranda: Teksas'tan Atlanta'ya kaçak 400 kasa Coors taşıma bahsi — bütün kovalamacanın sebebi Coors! 😄 Bizce yol ağzı Teksas'tan bir Shiner.",
+"picks": [
+"coors-banquet",
+"shiner-bock"
+]
+},
+{
+"g": "karakter",
+"e": "👽",
+"ad": "E.T.",
+"rol": "E.T. (film, 1982)",
+"blurb": "📺 Ekranda: buzdolabında bulduğu Coors'larla çakırkeyif olur, zihin bağıyla Elliott da okulda sarhoş! 😄 Bizce evi ararken bir 'Space Dust' da iyi gider.",
+"picks": [
+"coors-banquet",
+"elysian-space-dust"
+]
+},
+{
+"g": "karakter",
+"e": "🎭",
+"ad": "Frank Booth",
+"rol": "Blue Velvet (film, 1986)",
+"blurb": "📺 Ekranda: 'Heineken mi? Boş ver onu! Pabst Blue Ribbon!' Sinema tarihinin en ürkütücü bira tercihi. 😄 Bizce onunla tartışmayın, PBR açın.",
+"picks": [
+"pabst-blue-ribbon"
+]
+},
+{
+"g": "karakter",
+"e": "🚗",
+"ad": "Walt Kowalski",
+"rol": "Gran Torino (film, 2008)",
+"blurb": "📺 Ekranda: verandada kutu kutu Pabst Blue Ribbon, yanında üst üste dizilmiş boşlar. 😄 Bizce Polonya kökenli huysuza bir de Żywiec — çimlerinden uzak durun!",
+"picks": [
+"pabst-blue-ribbon",
+"zywiec"
+]
+},
+{
+"g": "karakter",
+"e": "🎳",
+"ad": "The Dude",
+"rol": "The Big Lebowski (film, 1998)",
+"blurb": "📺 Ekranda: bira değil, White Russian (votka, kahve likörü, krema). 😄 Bizce bira dünyasındaki karşılığı kremamsı bir milk stout. The Dude abides.",
+"picks": [
+"galway-bay-buried-at-sea",
+"youngs-double-chocolate-stout"
+]
+},
+{
+"g": "karakter",
+"e": "🦈",
+"ad": "Quint",
+"rol": "Jaws (film, 1975)",
+"blurb": "📺 Ekranda: Narragansett kutusunu bir dikişte bitirip elinde ezer — 1975 kutuları bugünkülerden kalındı! Katalogda yok; 😄 bizce Amerikan lager ve deniz kokulu bir stout.",
+"picks": [
+"budweiser",
+"porterhouse-oyster-stout"
+]
+},
+{
+"g": "karakter",
+"e": "🦌",
+"ad": "Michael Vronsky",
+"rol": "The Deer Hunter (film, 1978)",
+"blurb": "📺 Ekranda: Pensilvanyalı arkadaş grubunun birası Rolling Rock: 'İyi biradır, en iyisi.' Katalogda yok; 😄 bizce en yakını yine Pensilvanya'dan Yuengling.",
+"picks": [
+"yuengling-traditional-lager"
+]
+},
+{
+"g": "karakter",
+"e": "🕵️",
+"ad": "James Bond",
+"rol": "Skyfall (film, 2012)",
+"blurb": "📺 Ekranda: martini efsanesine rağmen Skyfall'da (ve Spectre'de) Heineken içer — ünlü bir ürün yerleştirme anlaşması sayesinde. 😄 Çalkalanmış değil, açılmış.",
+"picks": [
+"heineken"
+]
+},
+{
+"g": "karakter",
+"e": "😈",
+"ad": "Hellboy",
+"rol": "Hellboy II: The Golden Army (film, 2008)",
+"blurb": "📺 Ekranda: odasında koliler dolusu Tecate; Abe Sapien'le içip Barry Manilow söyledikleri sahne efsane. 😄 Bizce yanına koyu bir Meksika lager'ı da olur.",
+"picks": [
+"tecate",
+"negra-modelo"
+]
+},
+{
+"g": "karakter",
+"e": "🥋",
+"ad": "Johnny Lawrence",
+"rol": "Cobra Kai (dizi)",
+"blurb": "📺 Ekranda: elinde neredeyse hep bir Coors Banquet — üstelik ücretsiz yerleştirmeymiş, yapımcılar seviyormuş. 😄 Strike first, open first!",
+"picks": [
+"coors-banquet",
+"coors-light"
+]
+},
+{
+"g": "karakter",
+"e": "🐎",
+"ad": "Rip Wheeler",
+"rol": "Yellowstone (dizi)",
+"blurb": "📺 Ekranda: Coors Banquet, dizide 'yellowjacket' diye anılır; 5. sezonda resmi birası da oldu. 😄 Bizce kamp ateşi başına bir de isli porter.",
+"picks": [
+"coors-banquet",
+"alaskan-smoked-porter"
+]
+},
+{
+"g": "karakter",
+"e": "🍺",
+"ad": "Hank Schrader",
+"rol": "Breaking Bad (dizi)",
+"blurb": "📺 Ekranda: garajında kendi ev birası 'Schraderbräu'yu yapar ve gururla ikram eder. Katalogda yok; 😄 bizce hevesli bir ev biracısının hayali: hoplu bir IPA.",
+"picks": [
+"firestone-walker-union-jack",
+"lagunitas-ipa"
+]
+},
+{
+"g": "karakter",
+"e": "🚔",
+"ad": "Jim Hopper",
+"rol": "Stranger Things (dizi)",
+"blurb": "📺 Ekranda: ilk bölümden elinde 80'ler tasarımı bir Schlitz kutusu. Katalogda yok; 😄 bizce klasik Amerikan lager — ve Hawkins Indiana'da, o halde bir de Zombie Dust!",
+"picks": [
+"budweiser",
+"three-floyds-zombie-dust"
+]
+},
+{
+"g": "karakter",
+"e": "☕",
+"ad": "Ajan Dale Cooper",
+"rol": "Twin Peaks (dizi)",
+"blurb": "😄 Bizce: 'Lanet olası iyi bir kahve!' Ekranda bira değil kahve ve vişneli turta. Mikkeller, Lynch'le resmi bir 'Damn Good Coffee Stout' bile yaptı; biz kahveli stout öneriyoruz.",
+"picks": [
+"mikkeller-beer-geek-breakfast",
+"hitachino-nest-espresso-stout"
+]
+},
+{
+"g": "karakter",
+"e": "🏹",
+"ad": "Daryl Dixon",
+"rol": "The Walking Dead (dizi)",
+"blurb": "😄 Bizce: kıyamette bira bulmak zor ama Daryl bulur. Eserde marka yok; adında 'Ölü Adam' geçen bir bira ve sert bir Scotch Ale yakışır.",
+"picks": [
+"rogue-dead-guy-ale",
+"founders-dirty-bastard"
+]
+},
+{
+"g": "karakter",
+"e": "🎩",
+"ad": "Arthur Shelby",
+"rol": "Peaky Blinders (dizi)",
+"blurb": "📺 Ekranda: Shelby'lerin içkisi çoğunlukla viski. 😄 Bizce Garrison pub'ında 1920'ler Birmingham'ına yakışan bir Burton bitter'ı. By order of the Peaky Blinders!",
+"picks": [
+"marstons-pedigree",
+"bass-pale-ale"
+]
+},
+{
+"g": "karakter",
+"e": "🥛",
+"ad": "Homelander",
+"rol": "The Boys (dizi)",
+"blurb": "📺 Ekranda: süt. Evet, süt — ürkütücü bir takıntıyla. 😄 Bizce bira dünyasındaki tek uygun cevap: laktozlu, kremamsı bir milk stout.",
+"picks": [
+"brewdog-jet-black-heart",
+"st-peters-cream-stout"
+]
+},
+{
+"g": "karakter",
+"e": "🍷",
+"ad": "Tyrion Lannister",
+"rol": "Game of Thrones (dizi)",
+"blurb": "📺 Ekranda: 'İçerim ve bir şeyler bilirim' — ama içtiği şarap. 😄 Bizce bir Lannister'a bira verilecekse şarap kadar derin bir Flaman Red ya da trappist.",
+"picks": [
+"rodenbach-grand-cru",
+"chimay-mavi"
+]
+},
+{
+"g": "karakter",
+"e": "👮‍♀️",
+"ad": "Marge Gunderson",
+"rol": "Fargo (film, 1996)",
+"blurb": "😄 Bizce: hamile ve görevde bir Minnesota polisi, o yüzden alkolsüz! 'Yah, you betcha.' Kar fırtınasında bile keyif veren iki 0,0'lık.",
+"picks": [
+"brewdog-punk-af",
+"budvar-nealko"
+]
+},
+{
+"g": "karakter",
+"e": "🥫",
+"ad": "Rust Cohle",
+"rol": "True Detective (dizi, 1. sezon)",
+"blurb": "📺 Ekranda: sorgu odasında Lone Star kutuları; bitenlerden bıçakla küçük teneke adamlar yapar. Katalogda yok; 😄 bizce Amerikan lager ve varoluşçu bir uçurum.",
+"picks": [
+"landshark-lager",
+"deschutes-the-abyss"
+]
+},
+{
+"g": "karakter",
+"e": "🏴‍☠️",
+"ad": "Kaptan Jack Sparrow",
+"rol": "Karayip Korsanları (film serisi)",
+"blurb": "📺 Ekranda: 'Rom neden hep bitiyor?' Bira değil rom. 😄 Bizce rom fıçısında olgunlaşmış bir ale ve Karayip rotasının porter'ı.",
+"picks": [
+"innis-gunn-rum-cask",
+"guinness-west-indies-porter"
+]
+},
+{
+"g": "karakter",
+"e": "⚔️",
+"ad": "Hägar",
+"rol": "Hägar the Horrible (çizgi roman)",
+"blurb": "😄 Bizce: yağmadan dönen Viking'in boynuzunu doldurmak gerek. Eserde marka yok; İskoç fundalı ale ve adını 'kafatası yaran' bir Orkney jarlından alan bira.",
+"picks": [
+"williams-bros-fraoch-heather-ale",
+"orkney-skull-splitter"
+]
+},
+{
+"g": "karakter",
+"e": "🧢",
+"ad": "Andy Capp",
+"rol": "Andy Capp (çizgi roman)",
+"blurb": "📖 Sayfada: kasketi gözünde, pub'da pint'iyle İngiliz işçi sınıfı ikonu; marka anılmaz. 😄 Bizce Kuzeydoğu İngiltere'nin Newcastle Brown'ı ve bir dark mild.",
+"picks": [
+"newcastle-brown-ale",
+"moorhouses-black-cat"
+]
+},
+{
+"g": "karakter",
+"e": "🐴",
+"ad": "Red Kit (Lucky Luke)",
+"rol": "Lucky Luke (çizgi roman)",
+"blurb": "😄 Bizce: gölgesinden hızlı kovboy salonda tek kurşun, tek bardak. Eserde marka yok; altına hücum çağından kalma bir California Common.",
+"picks": [
+"anchor-steam-beer"
+]
+},
+{
+"g": "karakter",
+"e": "🪓",
+"ad": "Zagor ve Chico",
+"rol": "Zagor (çizgi roman)",
+"blurb": "😄 Bizce: 'Za-Gor!' Ormanın ruhu az içer, ama obur dostu Meksikalı Chico için bir Victoria, yemeğine de koyu Negra Modelo. Eserde marka geçmez.",
+"picks": [
+"victoria",
+"negra-modelo"
+]
+},
+{
+"g": "karakter",
+"e": "⛵",
+"ad": "Corto Maltese",
+"rol": "Corto Maltese (çizgi roman)",
+"blurb": "😄 Bizce: limandan limana dolaşan romantik denizci. Eserde marka yok; tropik limanlara dayanıklı bir Foreign Extra Stout ve Venedik için bir İtalyan.",
+"picks": [
+"guinness-foreign-extra-stout",
+"birra-moretti-la-rossa"
+]
+},
+{
+"g": "karakter",
+"e": "📝",
+"ad": "Henry Chinaski",
+"rol": "Bukowski romanları (Post Office, Factotum)",
+"blurb": "📖 Sayfada: yanında hep bir bira var, marka pek umurunda değil. 😄 Bizce Los Angeles'ın ucuz kutuları — yazı makinesinin yanına bir de Meksika lager'ı.",
+"picks": [
+"tecate",
+"pabst-blue-ribbon"
+]
+},
+{
+"g": "karakter",
+"e": "🐘",
+"ad": "Amerikalı ve Jig",
+"rol": "Beyaz Filler Gibi Tepeler (Hemingway öyküsü)",
+"blurb": "📖 Sayfada: Ebro vadisindeki istasyonda 'Dos cervezas' — keçe altlıklı iki bardak bira, bir de anason. Marka yok; 😄 bizce bir İspanyol lager'ı.",
+"picks": [
+"estrella-damm",
+"mahou-cinco-estrellas"
+]
+},
+{
+"g": "karakter",
+"e": "🛣️",
+"ad": "Sal Paradise",
+"rol": "Yolda (Kerouac romanı)",
+"blurb": "😄 Bizce: New York'tan San Francisco'ya otostopla. Eserde sabit marka yok; doğu yakası için Brooklyn, batı yakası için Sierra Nevada.",
+"picks": [
+"brooklyn-lager",
+"sierra-nevada-pale-ale"
+]
+},
+{
+"g": "karakter",
+"e": "🎩",
+"ad": "Bay Pickwick",
+"rol": "Pickwick Kulübü'nün Belgeleri (Dickens)",
+"blurb": "📖 Sayfada: soğuk punç kâsesine düşkün, bir keresinde el arabasında uyuyakalır! 😄 Bizce Victoria dönemi Londra'sının porter'ı.",
+"picks": [
+"fullers-london-porter",
+"samuel-smith-taddy-porter"
+]
+},
+{
+"g": "karakter",
+"e": "🐺",
+"ad": "Rivyalı Geralt",
+"rol": "The Witcher 3 (oyun)",
+"blurb": "📺 Ekranda: kurgusal Redanian Lager, Kaedweni Stout, Rivian Kriek, Viziman Champion. 😄 Bizce Polonyalı yapımcılara selam: Polonya lager'ı, Baltık porter ve gerçek bir kriek.",
+"picks": [
+"zywiec",
+"okocim-porter",
+"boon-oude-kriek"
+]
+},
+{
+"g": "karakter",
+"e": "☢️",
+"ad": "Tek Hayatta Kalan",
+"rol": "Fallout 4 (oyun)",
+"blurb": "📺 Ekranda: kurgusal Gwinnett ale, lager, stout, pils… 'buz gibi' versiyonları da var. Oyun Boston'da geçer; 😄 bizce Boston'un gerçek biraları.",
+"picks": [
+"samuel-adams-boston-lager",
+"trillium-congress-street"
+]
+},
+{
+"g": "karakter",
+"e": "🚕",
+"ad": "Niko Bellic",
+"rol": "GTA IV (oyun)",
+"blurb": "📺 Ekranda: kurgusal Alman birası Pißwasser ('You're in for a good time' esprisi malum). 😄 Bizce gerçek ve sert bir Kuzey Alman pilsneri.",
+"picks": [
+"jever-pilsener",
+"becks"
+]
+},
+{
+"g": "karakter",
+"e": "🐉",
+"ad": "Dovahkiin",
+"rol": "The Elder Scrolls V: Skyrim (oyun)",
+"blurb": "📺 Ekranda: Honningbrew ve Black-Briar meadleri — bira değil, bal şarabı! 😄 Bizce birada en yakını bal katkılı ale'ler. Fus Ro Dah!",
+"picks": [
+"fullers-honey-dew",
+"thornbridge-bracia",
+"torch-honey-pepper-ale"
+]
+},
+{
+"g": "karakter",
+"e": "🍓",
+"ad": "Gintoki Sakata",
+"rol": "Gintama (anime)",
+"blurb": "📺 Ekranda: çilekli süt ve tatlı bağımlısı, bir de sık sık akşamdan kalma. 😄 Bizce tatlı meyveli bir bira ve Japon buğdayı.",
+"picks": [
+"liefmans-fruitesse",
+"hitachino-nest-white-ale"
+]
+},
+{
+"g": "karakter",
+"e": "🌸",
+"ad": "Shunsui Kyōraku",
+"rol": "Bleach (anime)",
+"blurb": "📺 Ekranda: pembe haorili kaptanın aşkı sake. 😄 Bizce pirinçli Japon biraları: kırmızı pirinç ale'i ve çıtır bir pirinç lager'ı.",
+"picks": [
+"hitachino-nest-red-rice-ale",
+"asahi-super-dry"
+]
+},
+{
+"g": "karakter",
+"e": "🎙️",
+"ad": "Burhan Altıntop",
+"rol": "Avrupa Yakası (dizi)",
+"blurb": "😄 Bizce: kültürlü görünmeye meraklı Burhan menüde ithal trappist arar, bütçe yetmeyince yerli filtresize razı olur. Eserde marka iddiamız yok.",
+"picks": [
+"chimay-beyaz",
+"bomonti-filtresiz"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🫖",
+"ad": "İsmail Abi",
+"rol": "Leyla ile Mecnun (dizi)",
+"blurb": "😄 Bizce: çay ocağının şair ruhlu abisi demlenmeyi bilir. Eserde bira yok; ona bulut gibi bir filtresiz buğday ve muzlu-karanfilli bir Türk weiss.",
+"picks": [
+"bomonti-filtresiz-bugday",
+"gara-guzu-weiss"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🏪",
+"ad": "Erdal Bakkal",
+"rol": "Leyla ile Mecnun (dizi)",
+"blurb": "😄 Bizce: mahalle bakkalının dolabında ne varsa o! Eserde marka iddiamız yok; Türkiye'nin her bakkalındaki klasik pilsen ve malt.",
+"picks": [
+"efes-pilsen",
+"efes-malt"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🤷",
+"ad": "Yılmaz ve İlkkan",
+"rol": "Gibi (dizi)",
+"blurb": "😄 Bizce: en basit sipariş bile yarım saatlik felsefi tartışmaya döner. 'Normal bira' diyemezler; isli bir rauchbier mi, Kölsch mü? Eserde marka yok.",
+"picks": [
+"3-kafadar-tutsu",
+"somx-kolsch"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🥊",
+"ad": "Kuzey Tekinoğlu",
+"rol": "Kuzey Güney (dizi)",
+"blurb": "😄 Bizce: asi, sert ve gölgeli abi. Eserde marka iddiamız yok; ona koyu bir lager ve yerli bir stout yakışır.",
+"picks": [
+"das-diesdos",
+"pablo-stout"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🚨",
+"ad": "Rıza Baba",
+"rol": "Arka Sokaklar (dizi)",
+"blurb": "😄 Bizce: ekibin babası mesai bitince bile telsizi kapatmaz. Eserde bira iddiamız yok; görev sonrası hafif bir lager, emeklilikte bir Märzen.",
+"picks": [
+"tuborg-gold",
+"red-tower-marzen"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🌵",
+"ad": "Lemi ve Aziz",
+"rol": "Yahşi Batı (film, 2010)",
+"blurb": "😄 Bizce: Osmanlı'dan Vahşi Batı'ya düşen iki kafadar saloon kapısını iter. Eserde marka yok; Türk craft'tan bir red ale ve kovboy kıvamında sert bir lager.",
+"picks": [
+"torch-red-ale",
+"efes-xtra"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🛸",
+"ad": "Arif Işık",
+"rol": "G.O.R.A. (film, 2004)",
+"blurb": "😄 Bizce: uzaya kaçırılan halı satıcısı! Eserde bira yok; adı 'Stardust' olan bir Türk NEIPA'sı ve 'Oh la la' diyen bir diğeri.",
+"picks": [
+"3-kafadar-stardust",
+"somx-oh-la-la-neipa"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "💪",
+"ad": "Recep İvedik",
+"rol": "Recep İvedik (film serisi)",
+"blurb": "😄 Bizce: kaba ama kalbi temiz, her şeyin büyüğünü ister. Eserde marka iddiamız yok; ona ancak 'yüksek alkollü' etiketli kocaman bir fil yeter.",
+"picks": [
+"bremen-yuksek-alkollu",
+"carlsberg-elephant"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🏫",
+"ad": "Hababam Sınıfı",
+"rol": "Hababam Sınıfı (film serisi, Yeşilçam)",
+"blurb": "😄 Bizce: Mahmut Hoca görmesin! Tavan arası yaramazlarına ancak mezuniyette, İstanbul'un 1890'lardan beri bilinen Bomonti'si. Eserde marka iddiamız yok.",
+"picks": [
+"bomonti-pilsner",
+"bomonti-red-ale"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🔑",
+"ad": "Seyit",
+"rol": "Kapıcılar Kralı (film, 1976)",
+"blurb": "😄 Bizce: Kemal Sunal'ın kurnaz kapıcısı apartmanın bütün sırlarını bilir. Eserde marka iddiamız yok; kapıcı dairesinde sade bir lager ve kehribar bir alternatif.",
+"picks": [
+"tuborg-amber",
+"venus-tr"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "👞",
+"ad": "Züğürt Ağa",
+"rol": "Züğürt Ağa (film, 1985)",
+"blurb": "😄 Bizce: köyünü kaybedip İstanbul'a düşen Şener Şen'in ağası. Ağalık gitti, keyif kaldı; bütçe dostu bir lager ve köy günlerini anan bir Märzen.",
+"picks": [
+"marmara-gold",
+"frederik-marzen"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "🚘",
+"ad": "Asım Noyan",
+"rol": "Organize İşler (film, 2005)",
+"blurb": "😄 Bizce: araba çetesinin karizmatik lideri — o halde adı tam yerinde: 'Bagaj Degaj'! Eserde marka iddiamız yok.",
+"picks": [
+"das-bagaj-degaj",
+"das-ey-ay-pi-ey"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "📡",
+"ad": "Deli Emin",
+"rol": "Vizontele (film, 2001)",
+"blurb": "😄 Bizce: köye televizyon getiren mucit! Anteni çevirirken soğuk bir pilsner iyi gider. Eserde marka iddiamız yok.",
+"picks": [
+"knidos-pilsner",
+"antiochs-blonde-ale"
+],
+"tr": true
+},
+{
+"g": "karakter",
+"e": "👨‍👩‍👧‍👦",
+"ad": "Haluk",
+"rol": "Çocuklar Duymasın (dizi)",
+"blurb": "😄 Bizce: Meltem'le tartışmaların arasında balkonda sessiz bir bira, adı üstünde — çocuklar duymasın. Eserde marka iddiamız yok.",
+"picks": [
+"efes-ozel-seri",
+"a-sante-vienna-lager"
+],
+"tr": true
 }
 ];
 let openMag=new Set();
@@ -2649,12 +3483,19 @@ function renderMagazin(){
   let html='';
   groups.forEach(([g,title])=>{
     const items=FAMOUS.filter(f=>f.g===g);
-    html+=`<div class="maghead">${title} <span style="color:var(--muted2);font-weight:400;font-size:13px">(${items.length})</span></div><div class="mag">`;
+    html+=`<div class="maghead">${title} <span style="color:var(--muted2);font-weight:400;font-size:13px">(${items.length})</span></div>`;
+    if(g==='karakter'){
+      const say=k=>items.filter(f=>karTur(f).includes(k)).length;
+      html+=`<div class="magfiltre"><input id="magAra" type="search" placeholder="🔎 Karakter ya da eser ara…" value="${esc(MAGF.q)}">
+        <button class="btn" data-magrast>🎲 Rastgele karakter</button></div>
+        <div class="chips magchips">${KAR_TURLER.filter(([k])=>k==='hepsi'||say(k)).map(([k,t])=>`<button class="chip ${MAGF.tur===k?'on':''}" data-magf="${k}">${t}${k==='hepsi'?'':' ('+say(k)+')'}</button>`).join('')}</div>`;
+    }
+    html+=`<div class="mag">`;
     items.forEach(f=>{
       const picks=(f.picks||[]).map(id=>allBottles().find(x=>x.id===id)).filter(Boolean);
       const isOpen=openMag.has(f.ad);
       const shown=isOpen?picks:picks.slice(0,COLLAPSE);
-      html+=`<div class="magcard ${isOpen?'open':''}" data-magcard="${esc(f.ad)}"><div class="mh"><div class="av">${f.e}</div><div><div class="mn">${f.ad}</div><div class="mr">${f.rol}</div></div></div>
+      html+=`<div class="magcard ${isOpen?'open':''}" data-magcard="${esc(f.ad)}"${f.g==='karakter'?` data-kt="${karTur(f).join(' ')}" data-ks="${esc((f.ad+' '+f.rol).toLocaleLowerCase('tr'))}"`:''}><div class="mh"><div class="av">${f.e}</div><div><div class="mn">${f.ad}</div><div class="mr">${f.rol}</div></div></div>
         <div class="blurb">“${f.blurb}”</div>`;
       shown.forEach(b=>{const h=state.have.includes(b.id),t=state.target.includes(b.id);
         html+=`<div class="pick">${thumb(b)}<span class="pn"><span class="isimlink" data-detay="${b.id}">${b.ad}</span></span>
@@ -2669,7 +3510,39 @@ function renderMagazin(){
     html+=`</div>`;
   });
   box.innerHTML=html;
+  magUygula();
 }
+// Kurgu karakterleri: tür filtresi (eserin türü "rol" metninden çıkarılır), arama, rastgele seçim
+const KAR_TURLER=[['hepsi','Tümü'],['gecer','✅ Eserde geçenler'],['dizi','📺 Dizi'],['film','🎬 Film'],['cizgi','💬 Çizgi roman & film'],['roman','📖 Roman'],['oyun','🎮 Oyun'],['tr','🇹🇷 Türk eserleri']];
+const MAGF={tur:'hepsi',q:''};
+function karTur(f){
+  const r=(f.rol||'').toLocaleLowerCase('tr'),t=[];
+  if(/^(📺|📖)/.test(f.blurb||''))t.push('gecer');
+  if(/çizgi|anime|manga|bonelli|marvel|dc\)|animasyon/.test(r))t.push('cizgi');
+  else{if(/dizi|sitcom/.test(r))t.push('dizi');if(/film/.test(r))t.push('film');if(/roman|öykü|hikâye|kitap/.test(r))t.push('roman');}
+  if(/oyun|video/.test(r))t.push('oyun');
+  if(f.tr||/yeşilçam|türk/.test(r))t.push('tr');
+  return t;
+}
+function magUygula(){
+  const q=MAGF.q.trim().toLocaleLowerCase('tr');
+  document.querySelectorAll('#magazinBox [data-kt]').forEach(c=>{
+    const ok=(MAGF.tur==='hepsi'||c.dataset.kt.split(' ').includes(MAGF.tur))&&(!q||c.dataset.ks.includes(q));
+    c.style.display=ok?'':'none';
+  });
+}
+document.addEventListener('input',e=>{if(e.target.id==='magAra'){MAGF.q=e.target.value;magUygula();}});
+document.addEventListener('click',e=>{
+  const f=e.target.closest('[data-magf]');
+  if(f){MAGF.tur=f.dataset.magf;document.querySelectorAll('[data-magf]').forEach(x=>x.classList.toggle('on',x===f));magUygula();return;}
+  if(e.target.closest('[data-magrast]')){
+    const kartlar=[...document.querySelectorAll('#magazinBox [data-kt]')].filter(c=>c.style.display!=='none');
+    if(!kartlar.length)return;
+    const c=kartlar[Math.floor(Math.random()*kartlar.length)];
+    c.scrollIntoView({behavior:'smooth',block:'center'});c.classList.remove('parla');void c.offsetWidth;c.classList.add('parla');
+    olay('rastgele-karakter');
+  }
+});
 // ---------------- GURME PUANI ----------------
 const GURME_CATS=['Lager & Pilsner','Koyu Lager & Bock','Buğday','Pale Ale & IPA','Belçika & Manastır','Stout & Porter','Ekşi & Vahşi','İngiliz & İrlanda Ale','Güçlü & Fıçı Yıllanmış','Özel & Diğer'];
 function regionCat(b){return b.tur||'Özel & Diğer';}
