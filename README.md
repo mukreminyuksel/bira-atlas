@@ -1,7 +1,7 @@
 # 🍺 Bira Atlası
 
 Türkiye odaklı, Türkçe bira kataloğu ve kişisel bira günlüğü — [Viski Atlası](https://viski-atlas.netlify.app)'nın kardeşi.
-Yayın: https://mukreminyuksel.github.io/bira-atlas/ (Netlify'a taşınınca bulut/sosyal bölümler açılacak).
+Yayın: https://mukreminyuksel.github.io/bira-atlas/ (Cloudflare Pages'e taşınınca bulut/sosyal bölümler açılacak).
 
 ## İçerik
 - **1150+ bira**, 74 ülke; Türkiye'den 150'ye yakın bira (Efes, Tuborg, Bomonti ve Gara Guzu, 3 Kafadar, SOMX, DAS, à santé, Kubau, Knidos… gibi craft'lar), KKTC.
@@ -16,7 +16,7 @@ Yayın: https://mukreminyuksel.github.io/bira-atlas/ (Netlify'a taşınınca bul
 - **Gurme & Pasaport**: 100 üzerinden bira gurme puanı (stil çeşitliliği, aile kapsama, ülke keşfi, kalite, zorlu stiller, Türk craft desteği, tadım notları) ve stil damgaları.
 - **Bana Özel**: tat radarı, sıradaki bira önerisi, "bu akşam ne içsem?"; **Yemek & Bira** (15 sofra, her bira kartında "Yanında ne iyi gider?"); bütçe önerisi, boşluk analizi, karşılaştırma.
 - Keşfet'te ülkeye ya da stile göre ağaç, harita, bulunabilirlik filtreleri (Türkiye'de bulunur / market / tekel / craft / nadiren / yurt dışı).
-- Sosyal (Netlify'da): telefon + PIN ile tek giriş ve bulut kaydı, tadım geceleri, davetle girilen kulüpler.
+- Sosyal (sunuculu yayında): telefon + PIN ile tek giriş ve bulut kaydı, tadım geceleri, davetle girilen kulüpler.
 
 ## Veri ve fiyat politikası
 - Katalog bölge bölge web araştırmasıyla hazırlandı (Ekim 2026); ham araştırma dosyaları `arastirma/` altında, katalog `python3 arastirma/derle.py` ile yeniden üretilir.
@@ -29,4 +29,5 @@ Yayın: https://mukreminyuksel.github.io/bira-atlas/ (Netlify'a taşınınca bul
 - `index.html` — tek sayfalık uygulama (statik).
 - `data/` — `fiyatlar.json`, `fabrikalar.json`, `bolgeler.json`, `tadim.json`, `konumlar.json`, `stiller.json`, `brewpublar.json`, `tarihce.json`, `topluluk.json`.
 - `arastirma/` — bölge araştırmaları, magazin, karakterler, stiller ve `derle.py`.
-- `netlify/functions/` — `/api/sync` (bulut + telefon/PIN), `/api/gece` (tadım geceleri), `/api/kulup` (kulüpler); Netlify Blobs.
+- `api/` — sunucu mantığı (platformdan bağımsız): `/api/sync` (bulut + telefon/PIN), `/api/gece` (tadım geceleri), `/api/kulup` (kulüpler).
+- `functions/api/` — Cloudflare Pages katmanı (Workers KV, bağlama adı `VERI`); `netlify/functions/` — Netlify katmanı (Netlify Blobs).
