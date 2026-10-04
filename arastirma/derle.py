@@ -95,6 +95,10 @@ for m in mag.get('magazin', []):
     picks = [x for x in (bul_id(p) for p in m.get('picks', [])) if x]
     if picks:
         fam.append({'g': m['g'], 'e': m.get('e', '🍺'), 'ad': m['ad'], 'rol': m.get('rol', ''), 'blurb': m.get('blurb', ''), 'picks': list(dict.fromkeys(picks))})
+for k in oku('karakterler.json', {}).get('karakterler', []):
+    picks = [x for x in k['picks'] if x in ids]
+    if picks:
+        fam.append({'g': 'karakter', 'e': k['e'], 'ad': k['ad'], 'rol': k['rol'], 'blurb': k['blurb'], 'picks': picks})
 blok('const FAMOUS=', '];', 'const FAMOUS=' + json.dumps(fam, ensure_ascii=False, indent=0) + ';')
 
 # --- Temsilci biralar (boşluk analizi) ---

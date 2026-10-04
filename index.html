@@ -485,7 +485,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   </section>
 
   <section id="view-magazin" class="hidden">
-    <p class="intro">Bira dünyasının dikkat çeken isimleri — ünlüler, bira yazarları/ustaları — ve efsanevi bira hikâyeleri. Buradaki her bira kataloğdaki <b>aynı kayda</b> bağlıdır: bir yerde işaretlersen burada da seçili görünür. ✓/★ ile listene ekleyebilirsin.</p>
+    <p class="intro">Bira dünyasının dikkat çeken isimleri — ünlüler, bira yazarları/ustaları, efsanevi bira hikâyeleri ve sevdiğimiz kurgu karakterleri. 📺📖 işaretliler eserde gerçekten geçer, 😄 işaretliler bizim eğlenceli tahminimizdir. Buradaki her bira kataloğdaki <b>aynı kayda</b> bağlıdır: bir yerde işaretlersen burada da seçili görünür. ✓/★ ile listene ekleyebilirsin.</p>
     <div id="magazinBox"></div>
     <p class="note">Bağlar basına yansımış bilinen tercihlere, kitaplara ve marka hikâyelerine dayanır — "her gün içiyor" değil, "bu isimle anılan" anlamında.</p>
   </section>
@@ -1961,7 +1961,7 @@ function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "KKTC": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Avusturya", "Japonya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Brezilya", "Norveç", "İsviçre", "Çin", "Galler", "Estonya", "İsveç", "Portekiz", "Tayland", "Rusya", "Vietnam", "Litvanya", "Güney Kore", "Finlandiya", "Gürcistan", "Arjantin", "İsrail", "Şili", "Lübnan", "Ukrayna", "Hindistan", "Jamaika", "Güney Afrika", "İzlanda", "Filistin", "Letonya", "Peru", "Lüksemburg", "Singapur", "Kenya", "Venezuela", "Laos", "Tunus", "Uganda", "Küba", "Sri Lanka", "Filipinler", "Kosova", "Nijerya", "Kamboçya", "Fas", "Etiyopya", "Ürdün", "Kongo DC", "Kolombiya", "Tayvan", "Ermenistan", "Tanzanya", "Bulgaristan", "Kıbrıs", "Endonezya", "Namibya"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Japonya", "Avusturya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Brezilya", "İsviçre", "Norveç", "Çin", "İsveç", "Estonya", "Galler", "Portekiz", "Tayland", "Arjantin", "Gürcistan", "Litvanya", "Lübnan", "Güney Kore", "Finlandiya", "Vietnam", "İsrail", "Rusya", "Şili", "Hindistan", "İzlanda", "Jamaika", "Güney Afrika", "Filistin", "Letonya", "Ukrayna", "Tunus", "Laos", "Bulgaristan", "Singapur", "Uganda", "Peru", "Küba", "Kongo DC", "Fas", "Tanzanya", "Ermenistan", "Lüksemburg", "Nijerya", "Namibya", "Kolombiya", "Kamboçya", "Kenya", "Endonezya", "Kosova", "Kıbrıs", "Sri Lanka", "Ürdün", "Etiyopya", "Filipinler", "Venezuela", "Tayvan"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -2483,12 +2483,160 @@ const FAMOUS=[
 "picks": [
 "budweiser-budvar-original"
 ]
+},
+{
+"g": "karakter",
+"e": "🍩",
+"ad": "Homer Simpson",
+"rol": "The Simpsons (çizgi dizi)",
+"blurb": "📺 Ekranda: Springfield'ın en sadık Duff müşterisi. Duff kurgusal; 😄 bizce gerçek dünyadaki en yakın akrabası klasik bir Amerikan lager'ı.",
+"picks": [
+"budweiser",
+"pabst-blue-ribbon"
+]
+},
+{
+"g": "karakter",
+"e": "🍺",
+"ad": "Barney Gumble",
+"rol": "The Simpsons (çizgi dizi)",
+"blurb": "📺 Ekranda: Moe's Tavern'in demirbaşı, geğirmesiyle meşhur. Elinde hep bir Duff. 😄 Bizce ucuz ve bol bir lager.",
+"picks": [
+"miller-lite",
+"coors-banquet"
+]
+},
+{
+"g": "karakter",
+"e": "🍻",
+"ad": "Norm Peterson",
+"rol": "Cheers (dizi)",
+"blurb": "📺 Ekranda: Bara her girişinde herkes bir ağızdan \"NORM!\" diye bağırır; tezgâhtaki fıçı birası hiç boş kalmaz. 😄 Bizce Boston'da geçen bir dizi için en uygunu yerel klasik.",
+"picks": [
+"samuel-adams-boston-lager"
+]
+},
+{
+"g": "karakter",
+"e": "🎻",
+"ad": "Müfettiş Morse",
+"rol": "Colin Dexter romanları / Inspector Morse (dizi)",
+"blurb": "📖 Sayfada: Oxford'un huysuz müfettişi davaları pub'da bir bardak İngiliz \"real ale\" eşliğinde çözer; bira onun düşünme aracıdır.",
+"picks": [
+"fullers-london-pride",
+"timothy-taylor-landlord"
+]
+},
+{
+"g": "karakter",
+"e": "🧥",
+"ad": "Komiser Maigret",
+"rol": "Georges Simenon romanları",
+"blurb": "📖 Sayfada: Pipolu Paris komiseri sorgu aralarında yan kafeden bira getirtir. 😄 Bizce kadehinde bir Fransız lager'ı.",
+"picks": [
+"kronenbourg-1664"
+]
+},
+{
+"g": "karakter",
+"e": "🪖",
+"ad": "Asteriks ve Oburiks",
+"rol": "Asteriks (çizgi roman)",
+"blurb": "📖 Sayfada: Galyalılar ziyafetlerde \"cervoise\" denen eski Galya birasını içer (Oburiks yaban domuzunu tercih eder). 😄 Bizce bugünkü torunu köylü bir saison.",
+"picks": [
+"saison-dupont"
+]
+},
+{
+"g": "karakter",
+"e": "🐺",
+"ad": "Wolverine (Logan)",
+"rol": "X-Men (Marvel)",
+"blurb": "📖 Sayfada: Kanadalı mutantın elinde puro yoksa bira vardır. 😄 Bizce memleketinden bir lager.",
+"picks": [
+"molson-canadian",
+"labatt-blue"
+]
+},
+{
+"g": "karakter",
+"e": "🍁",
+"ad": "Bob ve Doug McKenzie",
+"rol": "SCTV / Strange Brew (film)",
+"blurb": "📺 Ekranda: Kanadalı iki kardeşin bütün hayatı bira etrafında döner. 😄 Bizce buzdolaplarında Kanada'nın ikonik lager'ı.",
+"picks": [
+"molson-canadian"
+]
+},
+{
+"g": "karakter",
+"e": "🛋️",
+"ad": "Al Bundy",
+"rol": "Evli ve Çocuklu (dizi)",
+"blurb": "📺 Ekranda: Ayakkabı satıcısı Al'ın mutluluğu: koltuk, eli pantolonunda, elinde bira. 😄 Bizce markası en ucuzundan bir Amerikan birası.",
+"picks": [
+"miller-lite",
+"pabst-blue-ribbon"
+]
+},
+{
+"g": "karakter",
+"e": "🍺",
+"ad": "Frank Gallagher",
+"rol": "Shameless (dizi)",
+"blurb": "📺 Ekranda: Marka değil, bedava olması önemli. 😄 Bizce Chicago'nun ucuz klasiği.",
+"picks": [
+"pabst-blue-ribbon",
+"coors-banquet"
+]
+},
+{
+"g": "karakter",
+"e": "🤖",
+"ad": "Bender",
+"rol": "Futurama (çizgi dizi)",
+"blurb": "📺 Ekranda: Alkolle çalışan robot; bira içmezse paslanıyor! 😄 Bizce ona yüksek oktanlı bir lager lazım.",
+"picks": [
+"carlsberg-elephant"
+]
+},
+{
+"g": "karakter",
+"e": "🧙",
+"ad": "Hagrid",
+"rol": "Harry Potter (roman)",
+"blurb": "📖 Sayfada: Üç Süpürge'nin meşhur \"tereyağlı birası\" (Butterbeer) kurgusaldır. 😄 Bizce Muggle dünyasındaki en yakın akrabası tatlı, kremamsı bir milk stout.",
+"picks": [
+"garage-project-cereal-milk-stout"
+]
+},
+{
+"g": "karakter",
+"e": "🧝",
+"ad": "Hobbitler",
+"rol": "Yüzüklerin Efendisi (roman)",
+"blurb": "📖 Sayfada: Frodo ve arkadaşları Yeşil Ejder'de ve Sıçrayan Midilli'de koca bardaklarla bira içer; Pippin'e göre bira \"pint\" ile gelir. 😄 Bizce bir İngiliz ale'i.",
+"picks": [
+"fullers-esb",
+"old-speckled-hen"
+]
+},
+{
+"g": "karakter",
+"e": "👮",
+"ad": "Behzat Ç.",
+"rol": "Behzat Ç. (dizi)",
+"blurb": "😄 Bizce: Ankara'nın en asabi komiseri günü bir şişe yerli birayla kapatır — Ankara'da craft bira üreticisi olmadığına göre elinde Efes vardır.",
+"picks": [
+"efes-pilsen",
+"efes-malt"
+]
 }
 ];
 let openMag=new Set();
 function renderMagazin(){
   const box=document.getElementById('magazinBox');
-  const groups=[['unlu','🎬 Ünlüler'],['yazar','✍️ Bira Yazarları & Ustaları'],['hikaye','📜 Efsanevi Hikâyeler']];
+  const groups=[['unlu','🎬 Ünlüler'],['yazar','✍️ Bira Yazarları & Ustaları'],['hikaye','📜 Efsanevi Hikâyeler'],['karakter','🎭 Kurgu Karakterleri: Ne İçerdi?']];
   const COLLAPSE=5;
   let html='';
   groups.forEach(([g,title])=>{
