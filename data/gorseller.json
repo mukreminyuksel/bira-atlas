@@ -1,5 +1,11 @@
 {
  "gorseller": {
+  "1664-blanc": {
+   "dosya": "img/sise/1664-blanc.webp",
+   "kaynak": "https://www.1664blanc.com/en",
+   "sahip": "Kronenbourg (Carlsberg)",
+   "tarih": "2026-10-04"
+  },
   "becks": {
    "dosya": "img/sise/becks.webp",
    "kaynak": "https://www.becks.de/unsere-biere",
@@ -10,6 +16,12 @@
    "dosya": "img/sise/birra-moretti-lautentica.webp",
    "kaynak": "https://www.birramoretti.com/global/en/our-beers/birra-moretti-l-autentica/",
    "sahip": "Birra Moretti (Heineken)",
+   "tarih": "2026-10-04"
+  },
+  "bitburger-premium-pils": {
+   "dosya": "img/sise/bitburger-premium-pils.webp",
+   "kaynak": "https://www.bitburger.de/klassiker/premium-pils/",
+   "sahip": "Bitburger Brauerei",
    "tarih": "2026-10-04"
   },
   "blue-moon-belgian-white": {
@@ -24,10 +36,58 @@
    "sahip": "BrewDog",
    "tarih": "2026-10-04"
   },
+  "budweiser-budvar-original": {
+   "dosya": "img/sise/budweiser-budvar-original.webp",
+   "kaynak": "https://www.budejovickybudvar.cz/sortiment/budweiser-budvar-original",
+   "sahip": "Budějovický Budvar",
+   "tarih": "2026-10-04"
+  },
+  "chimay-150": {
+   "dosya": "img/sise/chimay-150.webp",
+   "kaynak": "https://chimay.com/beers/la-chimay-150/",
+   "sahip": "Bières de Chimay",
+   "tarih": "2026-10-04"
+  },
+  "chimay-beyaz": {
+   "dosya": "img/sise/chimay-beyaz.webp",
+   "kaynak": "https://chimay.com/beers/la-chimay-triple/",
+   "sahip": "Bières de Chimay",
+   "tarih": "2026-10-04"
+  },
+  "chimay-kirmizi": {
+   "dosya": "img/sise/chimay-kirmizi.webp",
+   "kaynak": "https://chimay.com/beers/la-chimay-rouge/",
+   "sahip": "Bières de Chimay",
+   "tarih": "2026-10-04"
+  },
+  "chimay-mavi": {
+   "dosya": "img/sise/chimay-mavi.webp",
+   "kaynak": "https://chimay.com/beers/la-chimay-bleue/",
+   "sahip": "Bières de Chimay",
+   "tarih": "2026-10-04"
+  },
+  "delirium-tremens": {
+   "dosya": "img/sise/delirium-tremens.webp",
+   "kaynak": "https://www.delirium.be/nl/bieren/delirium-tremens",
+   "sahip": "Brouwerij Huyghe",
+   "tarih": "2026-10-04"
+  },
   "desperados": {
    "dosya": "img/sise/desperados.webp",
    "kaynak": "https://www.desperados.com/global/en/products/original/",
    "sahip": "Desperados (Heineken)",
+   "tarih": "2026-10-04"
+  },
+  "duchesse-de-bourgogne": {
+   "dosya": "img/sise/duchesse-de-bourgogne.webp",
+   "kaynak": "https://www.brouwerijverhaeghe.be/duchesse",
+   "sahip": "Brouwerij Verhaeghe Vichte",
+   "tarih": "2026-10-04"
+  },
+  "einbecker-brauherren-pils": {
+   "dosya": "img/sise/einbecker-brauherren-pils.webp",
+   "kaynak": "https://www.einbecker.de/echt-geniessen/sortiment/brauherren-pils",
+   "sahip": "Einbecker Brauhaus",
    "tarih": "2026-10-04"
   },
   "erdinger-alkoholfrei": {
@@ -138,6 +198,36 @@
    "sahip": "Brouwerij Hoegaarden (AB InBev)",
    "tarih": "2026-10-04"
   },
+  "jever-pilsener": {
+   "dosya": "img/sise/jever-pilsener.webp",
+   "kaynak": "https://www.jever.de/biere/jever-pilsener/",
+   "sahip": "Friesisches Brauhaus zu Jever (Radeberger Gruppe)",
+   "tarih": "2026-10-04"
+  },
+  "kaiserdom-hefe-weissbier": {
+   "dosya": "img/sise/kaiserdom-hefe-weissbier.webp",
+   "kaynak": "https://kaiserdom.de/bierspecialitaten",
+   "sahip": "Kaiserdom Privatbrauerei Bamberg",
+   "tarih": "2026-10-04"
+  },
+  "kaiserdom-pilsener": {
+   "dosya": "img/sise/kaiserdom-pilsener.webp",
+   "kaynak": "https://kaiserdom.de/bierspecialitaten",
+   "sahip": "Kaiserdom Privatbrauerei Bamberg",
+   "tarih": "2026-10-04"
+  },
+  "kostritzer-schwarzbier": {
+   "dosya": "img/sise/kostritzer-schwarzbier.webp",
+   "kaynak": "https://www.koestritzer.de/biere/spezialitaeten/schwarzbier/",
+   "sahip": "Köstritzer Schwarzbierbrauerei (Bitburger Braugruppe)",
+   "tarih": "2026-10-04"
+  },
+  "la-chouffe": {
+   "dosya": "img/sise/la-chouffe.webp",
+   "kaynak": "https://chouffe.com/fr-be/nos-bieres/la-chouffe",
+   "sahip": "Brasserie d'Achouffe (Duvel Moortgat)",
+   "tarih": "2026-10-04"
+  },
   "leffe-ambree": {
    "dosya": "img/sise/leffe-ambree.webp",
    "kaynak": "https://www.leffe.com/beer?name=leffe-ambree",
@@ -186,6 +276,30 @@
    "sahip": "Abbaye de Leffe (AB InBev)",
    "tarih": "2026-10-04"
   },
+  "lervig-supersonic": {
+   "dosya": "img/sise/lervig-supersonic.webp",
+   "kaynak": "https://lervig.no/products/hoppy/super-sonic-double-ipa-85/",
+   "sahip": "Lervig",
+   "tarih": "2026-10-04"
+  },
+  "lowenbrau-original": {
+   "dosya": "img/sise/lowenbrau-original.webp",
+   "kaynak": "https://www.loewenbraeu.de/products-loewenbraeu-2/original",
+   "sahip": "Löwenbräu (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "maisel-friends-pale-ale": {
+   "dosya": "img/sise/maisel-friends-pale-ale.webp",
+   "kaynak": "https://www.maiselandfriends.com/",
+   "sahip": "Brauerei Gebr. Maisel",
+   "tarih": "2026-10-04"
+  },
+  "mythos": {
+   "dosya": "img/sise/mythos.webp",
+   "kaynak": "https://mythosbeer.gr/en",
+   "sahip": "Mythos Brewery (Carlsberg)",
+   "tarih": "2026-10-04"
+  },
   "paulaner-hefe-weissbier": {
    "dosya": "img/sise/paulaner-hefe-weissbier.webp",
    "kaynak": "https://www.paulaner.com/our-products/weissbier",
@@ -214,6 +328,90 @@
    "dosya": "img/sise/paulaner-weissbier-alkoholfrei.webp",
    "kaynak": "https://www.paulaner.com/our-products/weissbier00",
    "sahip": "Paulaner",
+   "tarih": "2026-10-04"
+  },
+  "petrus-dubbel": {
+   "dosya": "img/sise/petrus-dubbel.webp",
+   "kaynak": "https://petrusbeer.be/",
+   "sahip": "Brouwerij De Brabandere",
+   "tarih": "2026-10-04"
+  },
+  "petrus-tripel": {
+   "dosya": "img/sise/petrus-tripel.webp",
+   "kaynak": "https://petrusbeer.be/",
+   "sahip": "Brouwerij De Brabandere",
+   "tarih": "2026-10-04"
+  },
+  "radeberger-pilsner": {
+   "dosya": "img/sise/radeberger-pilsner.webp",
+   "kaynak": "https://www.radeberger.de/biere/pilsner/",
+   "sahip": "Radeberger Exportbierbrauerei (Radeberger Gruppe)",
+   "tarih": "2026-10-04"
+  },
+  "saison-dupont": {
+   "dosya": "img/sise/saison-dupont.webp",
+   "kaynak": "https://www.brasserie-dupont.com/saison-dupont/",
+   "sahip": "Brasserie Dupont",
+   "tarih": "2026-10-04"
+  },
+  "sapporo-premium": {
+   "dosya": "img/sise/sapporo-premium.webp",
+   "kaynak": "https://www.sapporobeer.com/our-beers/sapporo-premium-beer",
+   "sahip": "Sapporo Breweries",
+   "tarih": "2026-10-04"
+  },
+  "schlenkerla-rauchbier-maerzen": {
+   "dosya": "img/sise/schlenkerla-rauchbier-maerzen.webp",
+   "kaynak": "https://www.schlenkerla.de/rauchbier/sorten/sorten.html",
+   "sahip": "Brauerei Heller-Trum (Schlenkerla)",
+   "tarih": "2026-10-04"
+  },
+  "schlenkerla-urbock": {
+   "dosya": "img/sise/schlenkerla-urbock.webp",
+   "kaynak": "https://www.schlenkerla.de/rauchbier/sorten/sorten.html",
+   "sahip": "Brauerei Heller-Trum (Schlenkerla)",
+   "tarih": "2026-10-04"
+  },
+  "schneider-aventinus": {
+   "dosya": "img/sise/schneider-aventinus.webp",
+   "kaynak": "https://schneider-weisse.de/weissbier/mein-aventinus",
+   "sahip": "Schneider Weisse G. Schneider & Sohn",
+   "tarih": "2026-10-04"
+  },
+  "schneider-hopfenweisse": {
+   "dosya": "img/sise/schneider-hopfenweisse.webp",
+   "kaynak": "https://schneider-weisse.de/weissbier/meine-hopfenweisse",
+   "sahip": "Schneider Weisse G. Schneider & Sohn",
+   "tarih": "2026-10-04"
+  },
+  "schneider-weisse-tap7-original": {
+   "dosya": "img/sise/schneider-weisse-tap7-original.webp",
+   "kaynak": "https://schneider-weisse.de/weissbier/mein-original",
+   "sahip": "Schneider Weisse G. Schneider & Sohn",
+   "tarih": "2026-10-04"
+  },
+  "schofferhofer-grapefruit": {
+   "dosya": "img/sise/schofferhofer-grapefruit.webp",
+   "kaynak": "https://www.schoefferhofer.de/weizen-mix/grapefruit/",
+   "sahip": "Schöfferhofer (Radeberger Gruppe)",
+   "tarih": "2026-10-04"
+  },
+  "staropramen-premium": {
+   "dosya": "img/sise/staropramen-premium.webp",
+   "kaynak": "https://www.staropramen.com/our-beer/premium",
+   "sahip": "Pivovary Staropramen (Molson Coors)",
+   "tarih": "2026-10-04"
+  },
+  "straffe-hendrik-quadrupel": {
+   "dosya": "img/sise/straffe-hendrik-quadrupel.webp",
+   "kaynak": "https://www.halvemaan.be/nl/bieren/straffe-hendrik-quadrupel",
+   "sahip": "Brouwerij De Halve Maan",
+   "tarih": "2026-10-04"
+  },
+  "straffe-hendrik-tripel": {
+   "dosya": "img/sise/straffe-hendrik-tripel.webp",
+   "kaynak": "https://www.halvemaan.be/nl/bieren/straffe-hendrik-tripel",
+   "sahip": "Brouwerij De Halve Maan",
    "tarih": "2026-10-04"
   },
   "warsteiner-premium": {
@@ -257,13 +455,43 @@
    "kaynak": "https://www.weihenstephaner.de/unsere-biere/weizenbock-vitus",
    "sahip": "Weihenstephan",
    "tarih": "2026-10-04"
+  },
+  "weltenburger-barock-dunkel": {
+   "dosya": "img/sise/weltenburger-barock-dunkel.webp",
+   "kaynak": "https://www.weltenburger.de/biere/barock-dunkel/",
+   "sahip": "Klosterbrauerei Weltenburg",
+   "tarih": "2026-10-04"
+  },
+  "westmalle-dubbel": {
+   "dosya": "img/sise/westmalle-dubbel.webp",
+   "kaynak": "https://www.trappistwestmalle.be/trappistenbieren/trappist-dubbel/",
+   "sahip": "Brouwerij der Trappisten van Westmalle",
+   "tarih": "2026-10-04"
+  },
+  "westmalle-tripel": {
+   "dosya": "img/sise/westmalle-tripel.webp",
+   "kaynak": "https://www.trappistwestmalle.be/trappistenbieren/westmalle-tripel/",
+   "sahip": "Brouwerij der Trappisten van Westmalle",
+   "tarih": "2026-10-04"
   }
  },
  "yok": {
+  "affligem-blond": "2026-10-04",
+  "affligem-dubbel": "2026-10-04",
+  "affligem-tripel": "2026-10-04",
   "amsterdam-navigator": "2026-10-04",
   "asahi-super-dry": "2026-10-04",
+  "ayinger-altbairisch-dunkel": "2026-10-04",
+  "ayinger-brauweisse": "2026-10-04",
+  "ayinger-celebrator": "2026-10-04",
+  "ayinger-jahrhundert-bier": "2026-10-04",
+  "ayinger-oktober-fest-maerzen": "2026-10-04",
+  "ayinger-urweisse": "2026-10-04",
+  "bavaria-8-6": "2026-10-04",
+  "bavik-super-pils": "2026-10-04",
   "becks-tr": "2026-10-04",
   "belfast": "2026-10-04",
+  "bitburger-drive": "2026-10-04",
   "bomonti-black": "2026-10-04",
   "bomonti-filtresiz": "2026-10-04",
   "bomonti-filtresiz-bugday": "2026-10-04",
@@ -279,6 +507,7 @@
   "carlsberg-tr": "2026-10-04",
   "corona-extra": "2026-10-04",
   "das-ey-ay-pi-ey": "2026-10-04",
+  "diebels-alt": "2026-10-04",
   "duvel": "2026-10-04",
   "duvel-tripel-hop-citra": "2026-10-04",
   "efes-draft": "2026-10-04",
@@ -297,11 +526,19 @@
   "frederik-neipa": "2026-10-04",
   "frederik-tropic-ipa": "2026-10-04",
   "frederik-wheat-ipa": "2026-10-04",
+  "fullers-1845": "2026-10-04",
+  "fullers-esb": "2026-10-04",
+  "gosser-marzen": "2026-10-04",
   "grimbergen-rouge": "2026-10-04",
   "guinness-draught": "2026-10-04",
   "guinness-extra-stout": "2026-10-04",
   "guinness-foreign-extra-stout": "2026-10-04",
   "guinness-hop-house-13": "2026-10-04",
+  "gulden-draak": "2026-10-04",
+  "hitachino-nest-white-ale": "2026-10-04",
+  "hofbrau-original": "2026-10-04",
+  "houblon-chouffe": "2026-10-04",
+  "kilkenny": "2026-10-04",
   "kozel-11-medium": "2026-10-04",
   "kozel-cerny": "2026-10-04",
   "kozel-premium": "2026-10-04",
@@ -309,24 +546,55 @@
   "krombacher-pils": "2026-10-04",
   "krombacher-radler": "2026-10-04",
   "krombacher-weizen": "2026-10-04",
+  "krusovice-imperial": "2026-10-04",
+  "la-trappe-quadrupel": "2026-10-04",
   "leffe-royale": "2026-10-04",
+  "lucky-buddha": "2026-10-04",
   "marmara-34": "2026-10-04",
   "marmara-gold": "2026-10-04",
+  "mikkeller-beer-geek-breakfast": "2026-10-04",
   "miller-lime": "2026-10-04",
   "miller-tr": "2026-10-04",
+  "omnipollo-fatamorgana": "2026-10-04",
+  "orval": "2026-10-04",
+  "peja-original": "2026-10-04",
   "perge-bistro-lager": "2026-10-04",
   "perge-pilsner": "2026-10-04",
   "perge-premium-pilsner": "2026-10-04",
+  "peroni-nastro-azzurro": "2026-10-04",
   "pilsner-urquell": "2026-10-04",
+  "rochefort-10": "2026-10-04",
+  "rochefort-6": "2026-10-04",
+  "rochefort-8": "2026-10-04",
+  "rodenbach-classic": "2026-10-04",
+  "rodenbach-grand-cru": "2026-10-04",
+  "samuel-smith-imperial-stout": "2026-10-04",
+  "samuel-smith-oatmeal-stout": "2026-10-04",
+  "samuel-smith-taddy-porter": "2026-10-04",
+  "schneider-tap1-meine-blonde": "2026-10-04",
+  "sierra-nevada-pale-ale": "2026-10-04",
+  "sierra-nevada-torpedo": "2026-10-04",
   "singha": "2026-10-04",
   "skol-tr": "2026-10-04",
+  "sol": "2026-10-04",
+  "spaten-munchner-hell": "2026-10-04",
+  "st-bernardus-abt-12": "2026-10-04",
+  "st-bernardus-prior-8": "2026-10-04",
+  "st-bernardus-tripel": "2026-10-04",
+  "st-feuillien-saison": "2026-10-04",
   "stella-artois": "2026-10-04",
+  "stiegl-goldbrau": "2026-10-04",
+  "stiegl-grapefruit-radler": "2026-10-04",
+  "stiegl-radler-zitrone": "2026-10-04",
+  "tripel-karmeliet": "2026-10-04",
+  "tsingtao": "2026-10-04",
   "tuborg-amber": "2026-10-04",
   "tuborg-filtresiz": "2026-10-04",
   "tuborg-gold": "2026-10-04",
   "tuborg-ice": "2026-10-04",
   "tuborg-smooth": "2026-10-04",
   "tuborg-special": "2026-10-04",
+  "veltins-pilsener": "2026-10-04",
   "venus-tr": "2026-10-04",
   "warsteiner-radler-zitrone": "2026-10-04"
  }
