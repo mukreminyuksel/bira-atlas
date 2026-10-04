@@ -1,0 +1,267 @@
+{
+ "gorseller": {
+  "becks": {
+   "dosya": "img/sise/becks.webp",
+   "kaynak": "https://www.becks.de/unsere-biere",
+   "sahip": "Brauerei Beck (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "birra-moretti-lautentica": {
+   "dosya": "img/sise/birra-moretti-lautentica.webp",
+   "kaynak": "https://www.birramoretti.com/global/en/our-beers/birra-moretti-l-autentica/",
+   "sahip": "Birra Moretti (Heineken)",
+   "tarih": "2026-10-04"
+  },
+  "blue-moon-belgian-white": {
+   "dosya": "img/sise/blue-moon-belgian-white.webp",
+   "kaynak": "https://www.bluemoonbrewingcompany.com/currently-available/blue-moon-belgian-white",
+   "sahip": "Blue Moon Brewing Co. (Molson Coors)",
+   "tarih": "2026-10-04"
+  },
+  "brewdog-punk-ipa": {
+   "dosya": "img/sise/brewdog-punk-ipa.webp",
+   "kaynak": "https://brewdog.com/products/punk-ipa-440ml",
+   "sahip": "BrewDog",
+   "tarih": "2026-10-04"
+  },
+  "desperados": {
+   "dosya": "img/sise/desperados.webp",
+   "kaynak": "https://www.desperados.com/global/en/products/original/",
+   "sahip": "Desperados (Heineken)",
+   "tarih": "2026-10-04"
+  },
+  "erdinger-alkoholfrei": {
+   "dosya": "img/sise/erdinger-alkoholfrei.webp",
+   "kaynak": "https://erdinger.de/de-DE/biersorten/alkoholfreies-weissbier",
+   "sahip": "Erdinger Weißbräu",
+   "tarih": "2026-10-04"
+  },
+  "erdinger-dunkel": {
+   "dosya": "img/sise/erdinger-dunkel.webp",
+   "kaynak": "https://erdinger.de/de-DE/biersorten/dunkles-bier",
+   "sahip": "Erdinger Weißbräu",
+   "tarih": "2026-10-04"
+  },
+  "erdinger-kristall": {
+   "dosya": "img/sise/erdinger-kristall.webp",
+   "kaynak": "https://erdinger.de/de-DE/biersorten/kristall-weissbier",
+   "sahip": "Erdinger Weißbräu",
+   "tarih": "2026-10-04"
+  },
+  "erdinger-weissbier": {
+   "dosya": "img/sise/erdinger-weissbier.webp",
+   "kaynak": "https://erdinger.de/de-DE/biersorten/weissbier",
+   "sahip": "Erdinger Weißbräu",
+   "tarih": "2026-10-04"
+  },
+  "estrella-galicia-especial": {
+   "dosya": "img/sise/estrella-galicia-especial.webp",
+   "kaynak": "https://www.estrellagalicia.es/producto/estrella-galicia",
+   "sahip": "Hijos de Rivera",
+   "tarih": "2026-10-04"
+  },
+  "franziskaner-hefe-weissbier": {
+   "dosya": "img/sise/franziskaner-hefe-weissbier.webp",
+   "kaynak": "https://www.franziskaner-weissbier.de/unsere-biere/hefe-weissbier-naturtr%C3%BCb",
+   "sahip": "Spaten-Franziskaner-Bräu",
+   "tarih": "2026-10-04"
+  },
+  "franziskaner-hefe-weissbier-dunkel": {
+   "dosya": "img/sise/franziskaner-hefe-weissbier-dunkel.webp",
+   "kaynak": "https://www.franziskaner-weissbier.de/unsere-biere/hefe-weissbier-dunkel",
+   "sahip": "Spaten-Franziskaner-Bräu",
+   "tarih": "2026-10-04"
+  },
+  "franziskaner-weissbier-alkoholfrei": {
+   "dosya": "img/sise/franziskaner-weissbier-alkoholfrei.webp",
+   "kaynak": "https://www.franziskaner-weissbier.de/unsere-biere/franziskaner-alkoholfrei",
+   "sahip": "Spaten-Franziskaner-Bräu",
+   "tarih": "2026-10-04"
+  },
+  "goose-island-ipa": {
+   "dosya": "img/sise/goose-island-ipa.webp",
+   "kaynak": "https://www.gooseisland.com/beers/goose-ipa",
+   "sahip": "Goose Island Beer Co. (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "grimbergen-blanche": {
+   "dosya": "img/sise/grimbergen-blanche.webp",
+   "kaynak": "https://www.grimbergen.com/our-brews/blanche/",
+   "sahip": "Grimbergen (Carlsberg)",
+   "tarih": "2026-10-04"
+  },
+  "grimbergen-blonde": {
+   "dosya": "img/sise/grimbergen-blonde.webp",
+   "kaynak": "https://www.grimbergen.com/our-brews/blonde/",
+   "sahip": "Grimbergen (Carlsberg)",
+   "tarih": "2026-10-04"
+  },
+  "grimbergen-double-ambree": {
+   "dosya": "img/sise/grimbergen-double-ambree.webp",
+   "kaynak": "https://www.grimbergen.com/our-brews/double-ambree/",
+   "sahip": "Grimbergen (Carlsberg)",
+   "tarih": "2026-10-04"
+  },
+  "grimbergen-triple": {
+   "dosya": "img/sise/grimbergen-triple.webp",
+   "kaynak": "https://www.grimbergen.com/fr-be/nos-bieres/triple-dabbaye/",
+   "sahip": "Grimbergen (Carlsberg)",
+   "tarih": "2026-10-04"
+  },
+  "heineken": {
+   "dosya": "img/sise/heineken.webp",
+   "kaynak": "https://www.heineken.com/global/en/our-products/heineken-original/",
+   "sahip": "Heineken",
+   "tarih": "2026-10-04"
+  },
+  "heineken-00": {
+   "dosya": "img/sise/heineken-00.webp",
+   "kaynak": "https://www.heineken.com/global/en/our-products/heineken-0-0/",
+   "sahip": "Heineken",
+   "tarih": "2026-10-04"
+  },
+  "heineken-silver": {
+   "dosya": "img/sise/heineken-silver.webp",
+   "kaynak": "https://www.heineken.com/global/en/our-products/heineken-silver/",
+   "sahip": "Heineken",
+   "tarih": "2026-10-04"
+  },
+  "hoegaarden": {
+   "dosya": "img/sise/hoegaarden.webp",
+   "kaynak": "https://www.hoegaarden.com/beer",
+   "sahip": "Brouwerij Hoegaarden (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "hoegaarden-rosee": {
+   "dosya": "img/sise/hoegaarden-rosee.webp",
+   "kaynak": "https://www.hoegaarden.com/rosee",
+   "sahip": "Brouwerij Hoegaarden (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-ambree": {
+   "dosya": "img/sise/leffe-ambree.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-ambree",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-blonde": {
+   "dosya": "img/sise/leffe-blonde.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-blonde",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-brune": {
+   "dosya": "img/sise/leffe-brune.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-brune",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-nectar": {
+   "dosya": "img/sise/leffe-nectar.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-nectar",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-radieuse": {
+   "dosya": "img/sise/leffe-radieuse.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-radieuse",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-rituel-9": {
+   "dosya": "img/sise/leffe-rituel-9.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-rituel-9deg",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-ruby": {
+   "dosya": "img/sise/leffe-ruby.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-ruby",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "leffe-triple": {
+   "dosya": "img/sise/leffe-triple.webp",
+   "kaynak": "https://www.leffe.com/beer?name=leffe-triple",
+   "sahip": "Abbaye de Leffe (AB InBev)",
+   "tarih": "2026-10-04"
+  },
+  "paulaner-hefe-weissbier": {
+   "dosya": "img/sise/paulaner-hefe-weissbier.webp",
+   "kaynak": "https://www.paulaner.com/our-products/weissbier",
+   "sahip": "Paulaner",
+   "tarih": "2026-10-04"
+  },
+  "paulaner-hefe-weissbier-dunkel": {
+   "dosya": "img/sise/paulaner-hefe-weissbier-dunkel.webp",
+   "kaynak": "https://www.paulaner.com/our-products/weissbier-dunkel",
+   "sahip": "Paulaner",
+   "tarih": "2026-10-04"
+  },
+  "paulaner-munchner-hell": {
+   "dosya": "img/sise/paulaner-munchner-hell.webp",
+   "kaynak": "https://www.paulaner.com/our-products/muenchner-hell",
+   "sahip": "Paulaner",
+   "tarih": "2026-10-04"
+  },
+  "paulaner-salvator": {
+   "dosya": "img/sise/paulaner-salvator.webp",
+   "kaynak": "https://www.paulaner.com/our-products/salvator",
+   "sahip": "Paulaner",
+   "tarih": "2026-10-04"
+  },
+  "paulaner-weissbier-alkoholfrei": {
+   "dosya": "img/sise/paulaner-weissbier-alkoholfrei.webp",
+   "kaynak": "https://www.paulaner.com/our-products/weissbier00",
+   "sahip": "Paulaner",
+   "tarih": "2026-10-04"
+  },
+  "warsteiner-premium": {
+   "dosya": "img/sise/warsteiner-premium.webp",
+   "kaynak": "https://www.warsteiner.de/unser-bier/premium-pilsener/",
+   "sahip": "Warsteiner Brauerei",
+   "tarih": "2026-10-04"
+  },
+  "weihenstephaner-hefeweissbier": {
+   "dosya": "img/sise/weihenstephaner-hefeweissbier.webp",
+   "kaynak": "https://www.weihenstephaner.de/unsere-biere/hefeweissbier",
+   "sahip": "Weihenstephan",
+   "tarih": "2026-10-04"
+  },
+  "weihenstephaner-hefeweissbier-alkoholfrei": {
+   "dosya": "img/sise/weihenstephaner-hefeweissbier-alkoholfrei.webp",
+   "kaynak": "https://www.weihenstephaner.de/unsere-biere/hefeweissbier-alkoholfrei",
+   "sahip": "Weihenstephan",
+   "tarih": "2026-10-04"
+  },
+  "weihenstephaner-hefeweissbier-dunkel": {
+   "dosya": "img/sise/weihenstephaner-hefeweissbier-dunkel.webp",
+   "kaynak": "https://www.weihenstephaner.de/unsere-biere/hefeweissbier-dunkel",
+   "sahip": "Weihenstephan",
+   "tarih": "2026-10-04"
+  },
+  "weihenstephaner-kristallweissbier": {
+   "dosya": "img/sise/weihenstephaner-kristallweissbier.webp",
+   "kaynak": "https://www.weihenstephaner.de/unsere-biere/kristallweissbier",
+   "sahip": "Weihenstephan",
+   "tarih": "2026-10-04"
+  },
+  "weihenstephaner-original-helles": {
+   "dosya": "img/sise/weihenstephaner-original-helles.webp",
+   "kaynak": "https://www.weihenstephaner.de/unsere-biere/original-helles",
+   "sahip": "Weihenstephan",
+   "tarih": "2026-10-04"
+  },
+  "weihenstephaner-vitus": {
+   "dosya": "img/sise/weihenstephaner-vitus.webp",
+   "kaynak": "https://www.weihenstephaner.de/unsere-biere/weizenbock-vitus",
+   "sahip": "Weihenstephan",
+   "tarih": "2026-10-04"
+  }
+ },
+ "yok": {
+  "grimbergen-rouge": "2026-10-04",
+  "leffe-royale": "2026-10-04",
+  "warsteiner-radler-zitrone": "2026-10-04"
+ }
+}
