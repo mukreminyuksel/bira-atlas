@@ -1985,7 +1985,7 @@ function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "KKTC": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹", "Bulgaristan": "🇧🇬", "Endonezya": "🇮🇩", "Ermenistan": "🇦🇲", "Fas": "🇲🇦", "Filistin": "🇵🇸", "Jamaika": "🇯🇲", "Kamboçya": "🇰🇭", "Kongo DC": "🇨🇩", "Kosova": "🇽🇰", "Küba": "🇨🇺", "Lübnan": "🇱🇧", "Sri Lanka": "🇱🇰", "Tanzanya": "🇹🇿", "Tayvan": "🇹🇼", "Tunus": "🇹🇳", "Uganda": "🇺🇬", "Ürdün": "🇯🇴", "İsrail": "🇮🇱", "İsviçre": "🇨🇭", "Şili": "🇨🇱"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Avusturya", "Japonya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Brezilya", "İsviçre", "Norveç", "Çin", "İsveç", "Estonya", "Galler", "Tayland", "Portekiz", "Arjantin", "İsrail", "Şili", "Lübnan", "Vietnam", "Finlandiya", "Rusya", "Litvanya", "Güney Kore", "Gürcistan", "İzlanda", "Hindistan", "Güney Afrika", "Jamaika", "Filistin", "Ukrayna", "Letonya", "Nijerya", "Lüksemburg", "Kıbrıs", "Filipinler", "Ermenistan", "Tunus", "Kongo DC", "Singapur", "Tanzanya", "Laos", "Bulgaristan", "Kamboçya", "Etiyopya", "Kosova", "Venezuela", "Uganda", "Kolombiya", "Tayvan", "Küba", "Fas", "Sri Lanka", "Namibya", "Kenya", "Endonezya", "Ürdün", "Peru"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "İskoçya", "Çekya", "İtalya", "İrlanda", "Japonya", "Avusturya", "Kanada", "İspanya", "Fransa", "Danimarka", "Yunanistan", "Avustralya", "Meksika", "Polonya", "KKTC", "Yeni Zelanda", "Brezilya", "İsviçre", "Norveç", "Çin", "Estonya", "İsveç", "Galler", "Tayland", "Portekiz", "Gürcistan", "Lübnan", "Litvanya", "Şili", "Rusya", "Vietnam", "Arjantin", "Finlandiya", "Güney Kore", "İsrail", "Güney Afrika", "Hindistan", "Filistin", "Jamaika", "Ukrayna", "Letonya", "İzlanda", "Kenya", "Tayvan", "Filipinler", "Uganda", "Küba", "Singapur", "Endonezya", "Ermenistan", "Tanzanya", "Etiyopya", "Kolombiya", "Nijerya", "Kongo DC", "Fas", "Kosova", "Kıbrıs", "Sri Lanka", "Namibya", "Lüksemburg", "Tunus", "Bulgaristan", "Venezuela", "Kamboçya", "Ürdün", "Peru", "Laos"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -3766,6 +3766,234 @@ const FAMOUS=[
 "gara-guzu-porter"
 ],
 "tr": true
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Jorge Paulo Lemann",
+"rol": "3G Capital kurucu ortağı (Brezilya)",
+"blurb": "Dünyanın en büyük bira üreticisi AB InBev'in kontrol eden ortaklarından. Budweiser, Stella, Corona onun şirketinin; kişisel bira tercihi kamuya açık değil.",
+"picks": [
+"budweiser",
+"stella-artois",
+"corona-extra"
+],
+"kaynak": "https://www.forbes.com/profile/jorge-paulo-lemann/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Marcel Herrmann Telles",
+"rol": "3G Capital kurucu ortağı (Brezilya)",
+"blurb": "3G üçlüsünün bir ayağı; AB InBev hissesini 2023'te oğluna devretti. Şirket portföyü Budweiser'dan Stella'ya; kendi bardağında ne olduğu açıklanmadı.",
+"picks": [
+"budweiser",
+"stella-artois"
+],
+"kaynak": "https://www.forbes.com/profile/marcel-herrmann-telles/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Carlos Alberto 'Beto' Sicupira",
+"rol": "3G Capital kurucu ortağı (Brezilya)",
+"blurb": "Servetinin büyük kısmı dünyanın en büyük bira üreticisi AB InBev'deki yaklaşık %3'lük hisseden. Yani her Budweiser'da biraz Beto var; kişisel tercih bilinmiyor.",
+"picks": [
+"budweiser",
+"stella-artois"
+],
+"kaynak": "https://www.forbes.com/profile/carlos-alberto-sicupira/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Charlene de Carvalho-Heineken",
+"rol": "Heineken'in en büyük bireysel hissedarı (Hollanda)",
+"blurb": "Babası Freddy Heineken'den kalan yaklaşık %24'lük hisseyle dünyanın en zengin kadınlarından. Kendi aile markası; yeşil şişe de soyadı da aynı.",
+"picks": [
+"heineken"
+],
+"kaynak": "https://www.forbes.com/profile/charlene-de-carvalho-heineken/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "María Asunción Aramburuzabala",
+"rol": "Tresalia Capital CEO'su, Grupo Modelo varisi (Meksika)",
+"blurb": "Dedesi Grupo Modelo'yu 1925'te kurdu; şirket 2013'te AB'ye 20 milyar dolara satıldı. Corona ve Modelo aile mirası; kişisel tercih açıklanmadı.",
+"picks": [
+"corona-extra",
+"modelo-especial",
+"negra-modelo"
+],
+"kaynak": "https://www.forbes.com/profile/maria-asuncion-aramburuzabala/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Charoen Sirivadhanabhakdi",
+"rol": "Thai Beverage'ın kontrol hissedarı (Tayland)",
+"blurb": "Bangkok'ta seyyar satıcı oğlundan Tayland'ın içecek devine: ThaiBev'in yıldızı Chang birası. Kendi markası; fil logolu şişe onun imzası.",
+"picks": [
+"chang-classic"
+],
+"kaynak": "https://www.forbes.com/profile/charoen-sirivadhanabhakdi/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Alejandro Santo Domingo",
+"rol": "AB InBev yönetim kurulu üyesi (Kolombiya)",
+"blurb": "Bira servetinin varisi: babası SABMiller'ın %15'ine sahipti, kendisi AB InBev–SABMiller birleşmesinin kilit müzakerecisi ve AB InBev'de ~%1 hisse sahibi. Kendi şirketi; kişisel tercih açıklanmadı.",
+"picks": [
+"budweiser",
+"stella-artois"
+],
+"kaynak": "https://www.forbes.com/profile/alejandro-santo-domingo/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Jim Koch",
+"rol": "Samuel Adams kurucusu, Boston Beer başkanı (ABD)",
+"blurb": "1984'te büyük-büyük dedesinin tarifiyle mutfakta başladı, Boston barlarına kapı kapı sattı. İlk partisi Boston Lager'dı; kendi markası ve kendi eseri.",
+"picks": [
+"samuel-adams-boston-lager",
+"samuel-adams-utopias"
+],
+"kaynak": "https://www.forbes.com/profile/jim-koch/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Ken Grossman",
+"rol": "Sierra Nevada Brewing kurucusu (ABD)",
+"blurb": "Zanaat birası milyarderi: 1980'de ilk Sierra Nevada Pale Ale partisini kendisi yaptı, bugün de şirketin en çok satanı. Kendi markası; fabrikası da güneş panelli.",
+"picks": [
+"sierra-nevada-pale-ale",
+"sierra-nevada-celebration"
+],
+"kaynak": "https://www.forbes.com/profile/ken-grossman/",
+"kaynak_ad": "Forbes, 2017"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Tuncay Özilhan",
+"rol": "Anadolu Grubu'nun ortağı (Türkiye)",
+"blurb": "Kamil Yazıcı ile birlikte Anadolu Grubu'nu yönetti; amiral gemisi Anadolu Efes, Türkiye'nin bir numaralı birası Efes'in üreticisi. Kendi markası; kişisel tercih açıklanmadı.",
+"picks": [
+"efes-pilsen",
+"efes-malt"
+],
+"kaynak": "https://www.forbes.com/profile/tuncay-ozilhan/",
+"kaynak_ad": "Forbes, 2013"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Kamil Yazıcı",
+"rol": "Anadolu Grubu kurucu ortağı (Türkiye)",
+"blurb": "1950'lerde İzzet Özilhan'la Anadolu Grubu'nun temelini attı; grubun amiral gemisi Anadolu Efes, Türkiye'nin bir numaralı birası Efes'i üretiyor. Kendi markası; kişisel tercih açıklanmadı.",
+"picks": [
+"efes-pilsen"
+],
+"kaynak": "https://www.forbes.com/profile/kamil-yazici/",
+"kaynak_ad": "Forbes, 2013"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Coors ailesi",
+"rol": "Molson Coors'un kurucu ailesi (ABD)",
+"blurb": "Adolph Coors'un Golden, Colorado'daki tek bira fabrikasından bugüne: aile, ~150 yıl sonra hâlâ Molson Coors'un %10'undan fazlasına sahip. Kendi markası; kişisel tercih açıklanmadı.",
+"picks": [
+"coors-banquet",
+"coors-light"
+],
+"kaynak": "https://www.forbes.com/profile/coors/",
+"kaynak_ad": "Forbes, 2015"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Busch ailesi",
+"rol": "Anheuser-Busch'un kurucu ailesi (ABD)",
+"blurb": "Adolphus Busch'un torunları, 2008'de Anheuser-Busch'u InBev'e 52 milyar dolarlık değerlemeyle sattı. Budweiser'ı 1876'da onlar geliştirdi; kendi (eski) markaları.",
+"picks": [
+"budweiser"
+],
+"kaynak": "https://www.forbes.com/profile/busch/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Santi Bhirombhakdi",
+"rol": "Boon Rawd Brewery'nin kontrol eden ortağı (Tayland)",
+"blurb": "Tayland'ın en eski bira fabrikası Boon Rawd'un 'bira baronu'; aslan logolu Singha onun. Kendi markası; otel zinciri de cabası.",
+"picks": [
+"singha"
+],
+"kaynak": "https://www.forbes.com/profile/santi-bhirombhakdi/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Richard Sands",
+"rol": "Constellation Brands'in eski CEO'su (ABD)",
+"blurb": "Babasının küçük şarap işini Constellation Brands'e dönüştüren aileden. Şirket ABD'de Corona ve Modelo haklarına sahip; kişisel tercih açıklanmadı.",
+"picks": [
+"corona-extra",
+"modelo-especial"
+],
+"kaynak": "https://www.forbes.com/profile/richard-sands/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "💰",
+"ad": "Ramon Ang",
+"rol": "San Miguel Corporation başkanı ve CEO'su (Filipinler)",
+"blurb": "Filipinler'in en eski holdinglerinden San Miguel'in patronu; şirket bira üreticisi olarak doğdu, bugün havalimanı inşa ediyor. San Miguel Pale Pilsen şirketin klasiği; kişisel tercih açıklanmadı.",
+"picks": [
+"san-miguel-pale-pilsen"
+],
+"kaynak": "https://www.forbes.com/profile/ramon-ang/",
+"kaynak_ad": "Forbes, 2026"
+},
+{
+"g": "zengin",
+"e": "🚫",
+"ad": "Donald Trump",
+"rol": "ABD Başkanı",
+"blurb": "Gazetecilere 'Hayatımda hiç bira içmedim, tek iyi huyumdan biri' dedi. Yani istisna köşemizin yıldızı; ona alkolsüz Heineken 0.0 önerisi tamamen bizden.",
+"picks": [
+"heineken-00"
+],
+"kaynak": "https://www.foxnews.com/politics/trump-muses-on-what-hed-be-like-intoxicated-i-would-be-the-worlds-worst",
+"kaynak_ad": "Fox News, 2018"
+},
+{
+"g": "zengin",
+"e": "🚫",
+"ad": "Acun Ilıcalı",
+"rol": "TV yapımcısı, TV8 ve Hull City sahibi (Türkiye)",
+"blurb": "Habertürk'e 'İçki içmem, oruç tutarım' dedi; istisna köşemizin yerli temsilcisi. Bira yok, ama alkolsüz bir Paulaner 0,0 önerisi bizden.",
+"picks": [
+"paulaner-weissbier-alkoholfrei"
+],
+"kaynak": "https://www.haberturk.com/medya/haber/505395-icki-icmem-oruc-tutarim-ama-fethullahci-degilim",
+"kaynak_ad": "Habertürk, 2010"
 }
 ];
 let openMag=new Set();
