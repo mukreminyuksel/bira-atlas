@@ -1973,7 +1973,7 @@ function damKey(b){return K1(b)+'|||'+K2(b)+'|||'+b.dam}
 
 const REGION_ORDER=[];
 const FLAGS={"Türkiye": "🇹🇷", "Almanya": "🇩🇪", "Belçika": "🇧🇪", "ABD": "🇺🇸", "İngiltere": "🏴", "İskoçya": "🏴", "Galler": "🏴", "Hollanda": "🇳🇱", "Çekya": "🇨🇿", "İrlanda": "🇮🇪", "Kanada": "🇨🇦", "İtalya": "🇮🇹", "Meksika": "🇲🇽", "Avusturya": "🇦🇹", "Japonya": "🇯🇵", "Danimarka": "🇩🇰", "İspanya": "🇪🇸", "Avustralya": "🇦🇺", "Fransa": "🇫🇷", "Polonya": "🇵🇱", "Yunanistan": "🇬🇷", "Norveç": "🇳🇴", "Finlandiya": "🇫🇮", "İsveç": "🇸🇪", "İzlanda": "🇮🇸", "Portekiz": "🇵🇹", "Rusya": "🇷🇺", "Ukrayna": "🇺🇦", "Çin": "🇨🇳", "Tayland": "🇹🇭", "Yeni Zelanda": "🇳🇿", "Brezilya": "🇧🇷", "Lüksemburg": "🇱🇺", "Litvanya": "🇱🇹", "Estonya": "🇪🇪", "Letonya": "🇱🇻", "Kıbrıs": "🇨🇾", "KKTC": "🇨🇾", "Gürcistan": "🇬🇪", "Vietnam": "🇻🇳", "Singapur": "🇸🇬", "Laos": "🇱🇦", "Hindistan": "🇮🇳", "Güney Kore": "🇰🇷", "Filipinler": "🇵🇭", "Arjantin": "🇦🇷", "Peru": "🇵🇪", "Kolombiya": "🇨🇴", "Venezuela": "🇻🇪", "Güney Afrika": "🇿🇦", "Kenya": "🇰🇪", "Nijerya": "🇳🇬", "Namibya": "🇳🇦", "Etiyopya": "🇪🇹", "Bulgaristan": "🇧🇬", "Endonezya": "🇮🇩", "Ermenistan": "🇦🇲", "Fas": "🇲🇦", "Filistin": "🇵🇸", "Jamaika": "🇯🇲", "Kamboçya": "🇰🇭", "Kongo DC": "🇨🇩", "Kosova": "🇽🇰", "Küba": "🇨🇺", "Lübnan": "🇱🇧", "Sri Lanka": "🇱🇰", "Tanzanya": "🇹🇿", "Tayvan": "🇹🇼", "Tunus": "🇹🇳", "Uganda": "🇺🇬", "Ürdün": "🇯🇴", "İsrail": "🇮🇱", "İsviçre": "🇨🇭", "Şili": "🇨🇱"};
-const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Japonya", "Avusturya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Norveç", "Brezilya", "İsviçre", "Çin", "Galler", "İsveç", "Estonya", "Portekiz", "Tayland", "Şili", "Arjantin", "Finlandiya", "Vietnam", "Güney Kore", "İsrail", "Rusya", "Gürcistan", "Lübnan", "Litvanya", "Ukrayna", "Güney Afrika", "Jamaika", "Filistin", "Letonya", "İzlanda", "Hindistan", "Venezuela", "Peru", "Fas", "Kenya", "Ermenistan", "Tanzanya", "Filipinler", "Ürdün", "Kolombiya", "Bulgaristan", "Sri Lanka", "Etiyopya", "Laos", "Endonezya", "Nijerya", "Kamboçya", "Singapur", "Namibya", "Uganda", "Tunus", "Kongo DC", "Lüksemburg", "Tayvan", "Kosova", "Küba", "Kıbrıs"];
+const COUNTRY_ORDER=["Türkiye", "Almanya", "ABD", "Belçika", "İngiltere", "Hollanda", "Çekya", "İskoçya", "İtalya", "İrlanda", "Avusturya", "Japonya", "Kanada", "İspanya", "Fransa", "Yunanistan", "Danimarka", "Avustralya", "Meksika", "Polonya", "Yeni Zelanda", "KKTC", "Brezilya", "Norveç", "İsviçre", "Çin", "Estonya", "İsveç", "Galler", "Portekiz", "Tayland", "Güney Kore", "Rusya", "İsrail", "Lübnan", "Finlandiya", "Şili", "Gürcistan", "Arjantin", "Litvanya", "Vietnam", "Filistin", "Letonya", "İzlanda", "Güney Afrika", "Hindistan", "Jamaika", "Ukrayna", "Singapur", "Sri Lanka", "Ermenistan", "Ürdün", "Bulgaristan", "Fas", "Uganda", "Laos", "Namibya", "Küba", "Kongo DC", "Kosova", "Tanzanya", "Kolombiya", "Endonezya", "Lüksemburg", "Venezuela", "Kamboçya", "Nijerya", "Etiyopya", "Tunus", "Peru", "Tayvan", "Kenya", "Filipinler", "Kıbrıs"];
 
 function passFilters(b){
   const q=document.getElementById('search').value.toLowerCase().trim();
@@ -3478,11 +3478,12 @@ const FAMOUS=[
 let openMag=new Set();
 function renderMagazin(){
   const box=document.getElementById('magazinBox');
-  const groups=[['unlu','🎬 Ünlüler'],['yazar','✍️ Bira Yazarları & Ustaları'],['hikaye','📜 Efsanevi Hikâyeler'],['karakter','🎭 Kurgu Karakterleri: Ne İçerdi?']];
+  const groups=[['unlu','🎬 Ünlüler'],['yazar','✍️ Bira Yazarları & Ustaları'],['hikaye','📜 Efsanevi Hikâyeler'],['zengin','💰 Süper Zenginler: Kim Ne İçiyor?'],['karakter','🎭 Kurgu Karakterleri: Ne İçerdi?']];
   const COLLAPSE=5;
   let html='';
   groups.forEach(([g,title])=>{
     const items=FAMOUS.filter(f=>f.g===g);
+    if(!items.length)return;
     html+=`<div class="maghead">${title} <span style="color:var(--muted2);font-weight:400;font-size:13px">(${items.length})</span></div>`;
     if(g==='karakter'){
       const say=k=>items.filter(f=>karTur(f).includes(k)).length;
@@ -3505,6 +3506,7 @@ function renderMagazin(){
       if(picks.length>COLLAPSE)
         html+=`<button class="magmore" data-mag="${esc(f.ad)}">${isOpen?'▴ Daralt':'▾ Tüm listeyi gör ('+picks.length+' bira)'}</button>`;
       if(f.extra)html+=`<div class="extra">ℹ️ ${f.extra}</div>`;
+      if(f.kaynak)html+=`<div class="extra">🔗 Kaynak: <a href="${esc(f.kaynak)}" target="_blank" rel="noopener">${esc(f.kaynak_ad||'haber')}</a></div>`;
       html+=`</div>`;
     });
     html+=`</div>`;

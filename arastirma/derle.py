@@ -99,6 +99,10 @@ for k in oku('karakterler.json', {}).get('karakterler', []):
     picks = [x for x in k['picks'] if x in ids]
     if picks:
         fam.append({'g': 'karakter', 'e': k['e'], 'ad': k['ad'], 'rol': k['rol'], 'blurb': k['blurb'], 'picks': picks, **({'tr': True} if k.get('tr') else {})})
+for z in oku('zenginler.json', {}).get('zenginler', []):
+    picks = [x for x in z['picks'] if x in ids]
+    if picks and z.get('kaynak'):
+        fam.append({'g': 'zengin', 'e': z['e'], 'ad': z['ad'], 'rol': z['rol'], 'blurb': z['blurb'], 'picks': picks, 'kaynak': z['kaynak'], 'kaynak_ad': z.get('kaynak_ad', '')})
 blok('const FAMOUS=', '];', 'const FAMOUS=' + json.dumps(fam, ensure_ascii=False, indent=0) + ';')
 
 # --- Temsilci biralar (boşluk analizi) ---
