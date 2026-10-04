@@ -1,5 +1,5 @@
 // Bira Atlası — Service Worker (çevrimdışı destek)
-const CACHE = 'bira-atlas-v7';
+const CACHE = 'bira-atlas-v8';
 const ASSETS = [
   './',
   './index.html',
