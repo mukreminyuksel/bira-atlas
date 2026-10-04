@@ -75,7 +75,7 @@ blok('const DATA = [', '\n];', 'const DATA = [\n' + '\n'.join(satirlar) + '\n];'
 blok('const AI_GROUPS = ', ';\n', 'const AI_GROUPS = ' + json.dumps(AI, ensure_ascii=False) + ';\n')
 
 # --- Bayraklar ve ülke sırası ---
-ulkeler = sorted({d['ulke'] for d in data}, key=lambda u: -sum(1 for d in data if d['ulke'] == u))
+ulkeler = sorted({d['ulke'] for d in data}, key=lambda u: (-sum(1 for d in data if d['ulke'] == u), u))
 ulkeler.remove('Türkiye'); ulkeler.insert(0, 'Türkiye')
 blok("const COUNTRY_ORDER=", "\n", "const COUNTRY_ORDER=" + json.dumps(ulkeler, ensure_ascii=False) + ";\n")
 
