@@ -411,6 +411,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   .modal-bg{padding:10px}.modal{padding:18px}
 }
 @media(max-width:760px){.katcols{grid-template-columns:1fr}.listcol{grid-template-columns:1fr}.bottle{flex-wrap:wrap}.bottle .acts{margin-left:auto}}
+.topn{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin:8px 0;font-size:.85rem;color:var(--muted,#888)}.topn .topn-i{margin-left:auto}
 </style>
 </head>
 <body>
@@ -449,9 +450,9 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
     <div class="tab" data-group="kesfet" data-view="harita">🌍 Harita</div>
     <div class="tab" data-group="kesfet" data-view="stil">🎨 Stil Rehberi</div>
     <div class="tab" data-group="kesfet" data-view="turkiye">🇹🇷 Türkiye Craft</div>
-    <div class="tab" data-group="listeler" data-view="experts">🏆 Uzman Top 50</div>
+    <div class="tab" data-group="listeler" data-view="experts">🏆 Uzman Sıralaması</div>
     <div class="tab" data-group="listeler" data-view="ai">🤖 AI Tercihleri</div>
-    <div class="tab" data-group="listeler" data-view="ncf">🌫️ Filtresizler Top 50</div>
+    <div class="tab" data-group="listeler" data-view="ncf">🌫️ Filtresizler Sıralaması</div>
     <div class="tab" data-group="listeler" data-view="katman">🇹🇷 Türkiye Katmanları</div>
     <div class="tab" data-group="listeler" data-view="fiyat">📉 Fiyat Hareketleri</div>
     <div class="tab" data-group="listeler" data-view="magazin">✨ Magazin</div>
@@ -498,6 +499,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 
   <section id="view-experts" class="hidden">
     <p class="intro">Bu liste tek bir kaynağa değil, <b>ödül ve uzman havuzuna</b> dayanır: <b>World Beer Cup</b>, <b>European Beer Star</b>, <b>Brussels Beer Challenge</b> gibi yarışmalar, stil referansı kabul edilen klasikler ve <b>Untappd / RateBeer / BeerAdvocate</b> topluluk sıralamalarında sürekli üst sıralarda yer alan biralar. Ödül/uzman notu olan biralar en yüksek puandan sıralanır.</p>
+    <div class="topn" data-for="experts"></div>
     <div id="expertsGrid" class="grid"></div>
     <p class="note">Not: Puanlar eleştirmen ve topluluk konsensüsünü yansıtan editoryal puanlardır; tek bir sitenin canlı puanı değildir. Listedeki birçok bira Türkiye\'de zor bulunur.</p>
   </section>
@@ -515,6 +517,7 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 
   <section id="view-ncf" class="hidden">
     <p class="intro"><b>Filtresiz bira</b>, mayası ve proteinleri süzülmeden şişelenir: bulanık görünür, daha dolgun ve aromatiktir. Hefeweizen, witbier, kellerbier, NEIPA ve şişede mayalanan Belçika biraları bu ailedendir. Aşağıda kataloğdaki en yüksek puanlı 50 filtresiz bira.</p>
+    <div class="topn" data-for="ncf"></div>
     <div id="ncfGrid" class="grid"></div>
   </section>
 
@@ -2122,12 +2125,21 @@ function bottleRow(b,rank){
   return el;
 }
 
+
+function topN(){try{return +localStorage.getItem('bira_topn')||50}catch(e){return 50}}
+function topNBar(g,fn,max){
+  const el=document.querySelector('.topn[data-for="'+g+'"]');if(!el)return;
+  const n=topN();
+  el.innerHTML='<span>Göster:</span>'+[50,100,200].map(k=>`<button class="btn ${k===n?'have-on':''}" data-n="${k}">En iyi ${k}</button>`).join('')+`<span class="topn-i">${Math.min(n,max)} / ${max} şişe</span>`;
+  el.onclick=e=>{const b=e.target.closest('[data-n]');if(!b)return;try{localStorage.setItem('bira_topn',b.dataset.n)}catch(_){}fn();};
+}
 function renderExperts(){
   const grid=document.getElementById('expertsGrid');grid.innerHTML='';
-  // Ödül/uzman notu olanlar; 50'ye tamamlamak için en yüksek puanlılar
+  // Ödül/uzman notu olanlar önce, sonra en yüksek puanlılar
   const uz=allBottles().filter(b=>b.uz).sort((a,b)=>b.puan-a.puan);
   const ek=allBottles().filter(b=>!b.uz).sort((a,b)=>b.puan-a.puan);
-  [...uz,...ek].slice(0,50).forEach((b,i)=>grid.appendChild(card(b,i+1,b.uz||(b.stil+' · '+b.puan+' puan'))));
+  const all=[...uz,...ek];topNBar('experts',renderExperts,all.length);
+  all.slice(0,topN()).forEach((b,i)=>grid.appendChild(card(b,i+1,b.uz||(b.stil+' · '+b.puan+' puan'))));
 }
 function renderAI(){
   const grid=document.getElementById('aiGrid');grid.innerHTML='';
@@ -2136,8 +2148,9 @@ function renderAI(){
 }
 function renderNCF(){
   const grid=document.getElementById('ncfGrid');grid.innerHTML='';
-  const list=allBottles().filter(b=>b.ncf).sort((a,b)=>b.puan-a.puan).slice(0,50);
-  list.forEach((b,i)=>grid.appendChild(card(b,i+1,b.dam+' · '+(b.stil||b.tur)+' · '+b.abv+'%')));
+  const list=allBottles().filter(b=>b.ncf).sort((a,b)=>b.puan-a.puan);
+  topNBar('ncf',renderNCF,list.length);
+  list.slice(0,topN()).forEach((b,i)=>grid.appendChild(card(b,i+1,b.dam+' · '+(b.stil||b.tur)+' · '+b.abv+'%')));
 }
 function renderKatman(){
   [1,2,3].forEach(k=>{
