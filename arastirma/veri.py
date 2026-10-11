@@ -6,7 +6,7 @@ HEDEF = '/home/user/bira-atlas'
 BUGUN = '2026-10-03'
 
 # Bira kaynak dosyaları (bölge araştırmaları + ekler); stiller/magazin/tur2 dosyaları ayrı okunur
-BOLGE_DOSYALARI = ['turkiye.json', 'turkiye2.json', 'turkiye3.json', 'almanya-cekya.json', 'belcika-hollanda.json', 'britanya-irlanda.json',
+BOLGE_DOSYALARI = ['turkiye.json', 'turkiye2.json', 'turkiye3.json', 'turkiye-kapsam.json', 'almanya-cekya.json', 'belcika-hollanda.json', 'britanya-irlanda.json',
                    'amerika.json', 'dunya.json', 'ek.json', 'stil-ek.json', 'genis-almanya.json', 'genis-belcika.json', 'genis-amerika.json', 'genis-dunya.json']
 
 def yukle():
@@ -91,8 +91,9 @@ def uret():
     fiy = {}
     for b in biralar:
         if b.get('fiyatTur') in ('tr_raf', 'tr_craft') and b.get('tl'):
-            fiy[b['id']] = {'tl': b['tl'], 'tarih': BUGUN, 'tur': b['fiyatTur'], 'guven': 'orta', 'kaynak': b.get('fiyatKaynak', ''),
-                            'not': 'İlk araştırma (arama özetlerinden)', 'gecmis': [[BUGUN, b['tl']]]}
+            t = b.get('fiyatTarih') or BUGUN  # kaynaktaki fiyatın tarihi (yoksa derleme günü)
+            fiy[b['id']] = {'tl': b['tl'], 'tarih': t, 'tur': b['fiyatTur'], 'guven': 'orta', 'kaynak': b.get('fiyatKaynak', ''),
+                            'not': b.get('fiyatNot') or 'İlk araştırma (arama özetlerinden)', 'gecmis': [[t, b['tl']]]}
     # Konumlar
     konum = {'_aciklama': "Harita konumları [enlem, boylam]. bolgeler: 'ülke|bölge' → bölge merkezi. damlar: bira fabrikası → yaklaşık konum.",
              'bolgeler': {k: v['konum'] for k, v in bol.items() if v.get('konum')}, 'damlar': kon}

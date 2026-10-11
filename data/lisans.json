@@ -90,14 +90,15 @@
    "aromali": true,
    "marka": "3 Kafadar",
    "tahmin": true,
-   "not": "Nova Roma da bu tesiste sözleşmeli üretiyor (muhtemelen)"
+   "not": "Kanıt: 3 Kafadar'ın kendi bira fabrikası Başakşehir'deki bir sanayi sitesinde (Culinary Backstreets, culinarybackstreets.com/stories/istanbul/3-kafadar) ve SOMX biraları 3 Kafadar'ın İstanbul'daki tesisinde üretiliyor (CAMRA Sheffield, Ocak 2025); Başakşehir'deki öteki lisanslı tesis Knidos'a ait. Firma adı ile marka arasındaki bağ doğrudan bir kaynakta görülmediği için hâlâ tahmin. SOMX burada sözleşmeli üretiyor; Nova Roma da muhtemelen (doğrulanmadı)."
   },
   {
    "il": "İstanbul",
    "firma": "Knidos Gıda Sanayi ve Ticaret A.Ş.",
    "adres": "İkitelli Tümsan-1 Sanayi Sitesi 6. Blok No:10/A Başakşehir",
    "aromali": false,
-   "marka": "Knidos Brewery"
+   "marka": "Knidos Brewery",
+   "not": "Knidos biraları Gayrettepe'deki Bosphorus Brewing Company'nin sahiplerince üretiliyor (degustasyon.net, Knidos Salonikator tadımı, 2023)."
   },
   {
    "il": "İzmir",
@@ -167,7 +168,7 @@
   {
    "marka": "Bosphorus Brewing Company",
    "durum": "aktif",
-   "not": "Mekân açık, biraları hâlâ içiliyor; üretim yeri (lisanslı tesis) bilinmiyor."
+   "not": "Mekân açık. Sahipleri Knidos markasını da üretiyor (degustasyon.net, 2023); BBC biralarının da İkitelli'deki Knidos Gıda tesisinde yapılması olası, ama doğrudan kaynak bulunamadı."
   },
   {
    "marka": "Khoffner Brewery",
@@ -182,7 +183,8 @@
   {
    "marka": "SOMX",
    "durum": "aktif",
-   "not": "Biraları Taproomx'te satılıyor; üretim yeri bilinmiyor (başka bir tesiste sözleşmeli olabilir)."
+   "not": "Cuckoo (kendi tesisi olmayan) üretici: biraları 3 Kafadar'ın İstanbul'daki tesisinde yapılıyor (CAMRA Sheffield, \"Revisiting Istanbul\", Ocak 2025: sheffield.camra.org.uk/2025/01/revisiting-istanbul/). Biraları Taproomx'te (İstiklal) satılıyor.",
+   "tesis": "Altınfıçı (3 Kafadar), İstanbul — sözleşmeli"
   }
  ]
 }
