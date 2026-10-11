@@ -471,12 +471,12 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
   </nav>
 
   <section id="view-explore">
-    <p class="intro">Dünya bira bölgeleri ve bira fabrikaları. Fabrikalar <b>Efsane / Seçkin / Gündelik</b> rozetli; biralar en kaliteliden aşağı sıralı. Menüler birden çok seçim yapabilmen için <b>açık kalır</b> — başlığa basınca kapanır. Fiyata tıklayıp güncelleyebilirsin.</p>
+    <p class="intro">Dünya bira bölgeleri ve bira fabrikaları. Fabrikalar <b>Premium / 2. Düzey / 3. Düzey</b> rozetli; biralar en kaliteliden aşağı sıralı. Menüler birden çok seçim yapabilmen için <b>açık kalır</b> — başlığa basınca kapanır. Fiyata tıklayıp güncelleyebilirsin.</p>
     <div id="listeAlani">
     <div class="controls">
       <input type="text" id="search" placeholder="🔍 Bira, fabrika, stil veya bölge ara…">
       <select id="fStatus"><option value="">Tüm durumlar</option><option value="have">Denediklerim</option><option value="missing">Denemediklerim</option><option value="target">Deneyeceklerim</option></select>
-      <select id="fTier"><option value="">Tüm seviyeler</option><option value="Premium">🏆 Efsane</option><option value="2">Seçkin</option><option value="3">Gündelik</option></select>
+      <select id="fTier"><option value="">Tüm seviyeler</option><option value="Premium">Premium</option><option value="2">2. Düzey</option><option value="3">3. Düzey</option></select>
       <select id="fType"><option value="">Tüm stiller</option><option>Lager & Pilsner</option><option>Koyu Lager & Bock</option><option>Buğday</option><option>Pale Ale & IPA</option><option>Belçika & Manastır</option><option>Stout & Porter</option><option>Ekşi & Vahşi</option><option>İngiliz & İrlanda Ale</option><option>Güçlü & Fıçı Yıllanmış</option><option>Özel & Diğer</option></select>
       <select id="fSort"><option value="puan">Sırala: Puan</option><option value="fiyat">Fiyat (yüksek)</option><option value="fiyatA">Fiyat (düşük)</option></select>
       <select id="fFlavor"><option value="">🍯 Tat profili (hepsi)</option><option>Acı/Şerbetçiotu</option><option>Narenciye</option><option>Tropik Meyve</option><option>Çam/Reçine</option><option>Meyveli</option><option>Muz/Karanfil</option><option>Kırmızı Meyve</option><option>Kuru Meyve</option><option>Malt/Ekmek</option><option>Karamel</option><option>Bal</option><option>Kavrulmuş</option><option>Kahve</option><option>Çikolata</option><option>İsli</option><option>Ekşi</option><option>Baharatlı</option><option>Çiçeksi</option><option>Otsu/Toprak</option><option>Vanilya/Meşe</option><option>Ferah</option><option>Gövdeli/Dolgun</option><option>Kuru (Dry)</option><option>Tatlı</option></select>
@@ -2071,7 +2071,7 @@ function renderTree(){
         const sev=arr[0].sev;
         arr.sort((x,y)=> sort==='fiyat'?(priceOf(y)-priceOf(x)) : sort==='fiyatA'?((priceOf(x)||9e9)-(priceOf(y)||9e9)) : (y.puan-x.puan));
         const tierCls=sev==='Premium'?'Premium':sev==='2'?'t2':'t3';
-        const tierTxt=sev==='Premium'?'🏆 Efsane':sev==='2'?'Seçkin':'Gündelik';
+        const tierTxt=sev==='Premium'?'Premium':sev==='2'?'2. Düzey':'3. Düzey';
         const key=ulke+'|||'+bolge+'|||'+dam;
         const isOpen=arama?!aramaKapali.has(key):openDams.has(key);
         const dEl=document.createElement('div');dEl.className='distillery'+(isOpen?' open':'');dEl.dataset.dk=key;
