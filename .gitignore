@@ -1,3 +1,4 @@
 node_modules/
 data/arastir.json
 .netlify/
+__pycache__/
