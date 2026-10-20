@@ -612,6 +612,20 @@
     ]
    ]
   },
+  "frederik-yakima-ipa": {
+   "tl": 130,
+   "tarih": "2026-09-14",
+   "tur": "tr_raf",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/kraft-bira-fiyatlari/",
+   "not": "Market/tekel fiyatı, karekod.org kraft bira listesi (14 Eylül 2026) — 35 cl",
+   "gecmis": [
+    [
+     "2026-09-14",
+     130
+    ]
+   ]
+  },
   "gara-guzu-amber-ale": {
    "tl": 160,
    "tarih": "2026-10-03",

@@ -1,5 +1,5 @@
 {
- "_aciklama": "Ekim 2026 Türk craft kapsam denetimi: lisanslı/bilinen craft üreticilerin katalogda olmayan biraları. Kaynak: degustasyon.net \"Yerli Bira\" tadım notları (WP API), CAMRA Sheffield (Ocak 2025). puan 0 = Puanlanmadı (kaynaklı puan yok). Eski tadım fiyatları (2025 öncesi) kullanılmadı.",
+ "_aciklama": "Ekim 2026 Türk craft kapsam denetimi: lisanslı/bilinen craft üreticilerin katalogda olmayan biraları. Kaynak: degustasyon.net \"Yerli Bira\" tadım notları (WP API), CAMRA Sheffield (Ocak 2025). puan 0 = Puanlanmadı (kaynaklı puan yok). Eski tadım fiyatları (2025 öncesi) kullanılmadı. Ekim 2026 (2. tur): Frederik Yakima IPA — karekod.org kraft bira fiyat listesi (14 Eylül 2026).",
  "biralar": [
   {
    "id": "3-kafadar-gastronom",
@@ -147,6 +147,29 @@
    "not": "Filtresiz, yumuşak ve hafif Kölsch. Son kaynak 2018, güncel üretim doğrulanmadı",
    "kaynak": "https://degustasyon.net/pablo-normal-kolsch-bodrum/",
    "kaynakTarih": "2018-06-29"
+  },
+  {
+   "id": "frederik-yakima-ipa",
+   "ad": "Frederik Yakima IPA",
+   "fab": "Türk Tuborg",
+   "ulke": "Türkiye",
+   "bolge": "İzmir",
+   "stil": "IPA (Yakima Vadisi şerbetçiotları)",
+   "aile": "Pale Ale & IPA",
+   "abv": null,
+   "hacim": 35,
+   "tl": 130,
+   "fiyatTur": "tr_raf",
+   "fiyatKaynak": "https://www.karekod.org/blog/kraft-bira-fiyatlari/",
+   "fiyatTarih": "2026-09-14",
+   "fiyatNot": "Market/tekel fiyatı, karekod.org kraft bira listesi (14 Eylül 2026) — 35 cl",
+   "bul": "market",
+   "puan": 0,
+   "filtresiz": 0,
+   "uz": "",
+   "not": "Türk Tuborg'un Frederik serisinden IPA; adını ABD'nin Yakima Vadisi şerbetçiotlarından alıyor. Alkol oranı kapısız bir kaynakta teyit edilmedi",
+   "kaynak": "https://www.karekod.org/blog/kraft-bira-fiyatlari/",
+   "kaynakTarih": "2026-09-14"
   }
  ],
  "tadim": {}
