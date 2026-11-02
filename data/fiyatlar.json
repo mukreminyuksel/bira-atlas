@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-03",
+ "guncelleme": "2026-11-02",
  "kur": null,
  "fiyatlar": {
   "1664-blanc": {
@@ -227,6 +227,20 @@
     [
      "2026-10-03",
      135
+    ]
+   ]
+  },
+  "brewdog-punk-ipa": {
+   "tl": 190,
+   "tarih": "2026-11-02",
+   "tur": "tr_craft",
+   "guven": "dusuk",
+   "kaynak": "https://degustasyon.net/brewdog-punk-ipa-iskocya-2/",
+   "not": "44 cl kutu 250 TL (Temmuz 2026 tadım) → 33 cl'ye orantılandı",
+   "gecmis": [
+    [
+     "2026-11-02",
+     190
     ]
    ]
   },
@@ -800,6 +814,34 @@
     ]
    ]
   },
+  "kozel-cerny": {
+   "tl": 160,
+   "tarih": "2026-11-02",
+   "tur": "tr_craft",
+   "guven": "orta",
+   "kaynak": "https://degustasyon.net/velkopopovicky-kozel-dark-cek-cumhuriyeti/",
+   "not": "50 cl kutu, tadım fiyatı 26 Ekim 2026 (±); ithalatçı Gürpa",
+   "gecmis": [
+    [
+     "2026-11-02",
+     160
+    ]
+   ]
+  },
+  "kozel-premium": {
+   "tl": 150,
+   "tarih": "2026-11-02",
+   "tur": "tr_craft",
+   "guven": "orta",
+   "kaynak": "https://degustasyon.net/velkopopovicky-kozel-cek-cumhuriyeti/",
+   "not": "50 cl kutu, tadım fiyatı 22 Aralık 2025 (±); ithalatçı Gürpa",
+   "gecmis": [
+    [
+     "2026-11-02",
+     150
+    ]
+   ]
+  },
   "krombacher-pils": {
    "tl": 130,
    "tarih": "2026-10-03",
@@ -916,6 +958,20 @@
     ]
    ]
   },
+  "mythos": {
+   "tl": 130,
+   "tarih": "2026-11-02",
+   "tur": "tr_craft",
+   "guven": "orta",
+   "kaynak": "https://degustasyon.net/mythos-yunanistan-2/",
+   "not": "33 cl şişe, tadım fiyatı 9 Temmuz 2026 (±)",
+   "gecmis": [
+    [
+     "2026-11-02",
+     130
+    ]
+   ]
+  },
   "nova-roma-tripel": {
    "tl": 145,
    "tarih": "2026-10-03",
@@ -983,6 +1039,20 @@
     [
      "2026-10-03",
      205
+    ]
+   ]
+  },
+  "radeberger-pilsner": {
+   "tl": 195,
+   "tarih": "2026-11-02",
+   "tur": "tr_craft",
+   "guven": "dusuk",
+   "kaynak": "https://degustasyon.net/radeberger-pilsner-almanya/",
+   "not": "33 cl şişe 130 TL (Şubat 2026 tadım) → 50 cl'ye orantılandı",
+   "gecmis": [
+    [
+     "2026-11-02",
+     195
     ]
    ]
   },
@@ -1120,46 +1190,175 @@
    ]
   }
  },
- "inceleme": [],
+ "inceleme": [
+  {
+   "id": "pilsner-urquell",
+   "onerilen": 225,
+   "mevcut": 180,
+   "tur": "tr_craft",
+   "kaynak": "https://degustasyon.net/pilsner-urquell-cekya-2/",
+   "neden": "düşük güven, büyük değişim"
+  }
+ ],
  "denendi": {
   "1664-blanc": "2026-10-03",
+  "affligem-blond": "2026-11-02",
+  "affligem-dubbel": "2026-11-02",
+  "affligem-tripel": "2026-11-02",
+  "asahi-super-dry": "2026-11-02",
+  "ayinger-altbairisch-dunkel": "2026-11-02",
+  "ayinger-brauweisse": "2026-11-02",
+  "ayinger-celebrator": "2026-11-02",
+  "ayinger-oktober-fest-maerzen": "2026-11-02",
+  "ayinger-urweisse": "2026-11-02",
+  "bavaria-8-6": "2026-11-02",
   "becks": "2026-10-03",
   "becks-tr": "2026-10-03",
+  "birra-moretti-lautentica": "2026-11-02",
+  "bitburger-drive": "2026-11-02",
+  "bitburger-premium-pils": "2026-11-02",
+  "blue-moon-belgian-white": "2026-11-02",
+  "bomonti-black": "2026-11-02",
   "bomonti-filtresiz": "2026-10-03",
+  "bomonti-pilsner": "2026-11-02",
+  "bomonti-red-ale": "2026-11-02",
+  "brewdog-punk-ipa": "2026-11-02",
   "bud-tr": "2026-10-03",
   "budweiser": "2026-10-03",
+  "budweiser-budvar-original": "2026-11-02",
   "carlsberg-elephant": "2026-10-03",
   "carlsberg-pilsner": "2026-10-03",
   "carlsberg-tr": "2026-10-03",
+  "chimay-150": "2026-11-02",
+  "chimay-beyaz": "2026-11-02",
+  "chimay-mavi": "2026-11-02",
   "corona-extra": "2026-10-03",
+  "diebels-alt": "2026-11-02",
+  "duchesse-de-bourgogne": "2026-11-02",
   "duvel": "2026-10-03",
+  "efes-draft": "2026-11-02",
   "efes-glutensiz": "2026-10-03",
   "efes-malt": "2026-10-03",
   "efes-ozel-seri": "2026-10-03",
   "efes-pilsen": "2026-10-03",
   "efes-xtra": "2026-10-03",
   "efes-xtra-shot": "2026-10-03",
+  "erdinger-alkoholfrei": "2026-11-02",
+  "erdinger-dunkel": "2026-11-02",
+  "erdinger-kristall": "2026-11-02",
   "erdinger-weissbier": "2026-10-03",
+  "estrella-damm": "2026-11-02",
+  "estrella-galicia-especial": "2026-11-02",
+  "franziskaner-hefe-weissbier": "2026-11-02",
+  "franziskaner-hefe-weissbier-dunkel": "2026-11-02",
+  "franziskaner-weissbier-alkoholfrei": "2026-11-02",
   "frederik-brown-ale": "2026-10-03",
   "frederik-ipa": "2026-10-03",
   "frederik-marzen": "2026-10-03",
   "frederik-wheat-ipa": "2026-10-03",
+  "goose-island-ipa": "2026-11-02",
+  "gosser-marzen": "2026-11-02",
+  "grimbergen-blanche": "2026-11-02",
   "grimbergen-blonde": "2026-10-03",
   "grimbergen-double-ambree": "2026-10-03",
+  "grimbergen-rouge": "2026-11-02",
+  "grimbergen-triple": "2026-11-02",
   "guinness-draught": "2026-10-03",
+  "guinness-extra-stout": "2026-11-02",
+  "guinness-foreign-extra-stout": "2026-11-02",
+  "guinness-hop-house-13": "2026-11-02",
   "heineken": "2026-10-03",
+  "heineken-silver": "2026-11-02",
   "hoegaarden": "2026-10-03",
+  "hoegaarden-rosee": "2026-11-02",
+  "hofbrau-original": "2026-11-02",
+  "jever-pilsener": "2026-11-02",
   "jupiler": "2026-10-03",
+  "kaiserdom-hefe-weissbier": "2026-11-02",
+  "kaiserdom-pilsener": "2026-11-02",
+  "kilkenny": "2026-11-02",
+  "kostritzer-schwarzbier": "2026-11-02",
+  "kozel-11-medium": "2026-11-02",
+  "kozel-cerny": "2026-11-02",
+  "kozel-premium": "2026-11-02",
+  "krombacher-alkoholfrei": "2026-11-02",
+  "krombacher-radler": "2026-11-02",
+  "krombacher-weizen": "2026-11-02",
+  "krusovice-imperial": "2026-11-02",
+  "la-trappe-quadrupel": "2026-11-02",
+  "leffe-ambree": "2026-11-02",
   "leffe-blonde": "2026-10-03",
   "leffe-brune": "2026-10-03",
+  "leffe-nectar": "2026-11-02",
+  "leffe-radieuse": "2026-11-02",
+  "leffe-rituel-9": "2026-11-02",
+  "leffe-royale": "2026-11-02",
+  "leffe-ruby": "2026-11-02",
+  "leffe-triple": "2026-11-02",
+  "lowenbrau-original": "2026-11-02",
+  "marmara-34": "2026-11-02",
   "marmara-gold": "2026-10-03",
+  "mikkeller-beer-geek-breakfast": "2026-11-02",
   "miller-tr": "2026-10-03",
+  "mythos": "2026-11-02",
+  "orval": "2026-11-02",
+  "paulaner-hefe-weissbier": "2026-11-02",
+  "paulaner-hefe-weissbier-dunkel": "2026-11-02",
+  "paulaner-munchner-hell": "2026-11-02",
+  "paulaner-salvator": "2026-11-02",
+  "paulaner-weissbier-alkoholfrei": "2026-11-02",
+  "peja-original": "2026-11-02",
+  "perge-premium-pilsner": "2026-11-02",
+  "peroni-nastro-azzurro": "2026-11-02",
+  "pilsner-urquell": "2026-11-02",
+  "radeberger-pilsner": "2026-11-02",
+  "rochefort-10": "2026-11-02",
+  "rochefort-6": "2026-11-02",
+  "rochefort-8": "2026-11-02",
+  "rodenbach-grand-cru": "2026-11-02",
+  "saison-dupont": "2026-11-02",
+  "samuel-smith-imperial-stout": "2026-11-02",
+  "samuel-smith-oatmeal-stout": "2026-11-02",
+  "samuel-smith-taddy-porter": "2026-11-02",
+  "sapporo-premium": "2026-11-02",
+  "schlenkerla-rauchbier-maerzen": "2026-11-02",
+  "schlenkerla-urbock": "2026-11-02",
+  "schneider-aventinus": "2026-11-02",
+  "schneider-hopfenweisse": "2026-11-02",
+  "schneider-weisse-tap7-original": "2026-11-02",
+  "schofferhofer-grapefruit": "2026-11-02",
+  "sierra-nevada-pale-ale": "2026-11-02",
+  "singha": "2026-11-02",
+  "skol-tr": "2026-11-02",
   "sol": "2026-10-03",
+  "spaten-munchner-hell": "2026-11-02",
+  "st-bernardus-abt-12": "2026-11-02",
+  "st-bernardus-prior-8": "2026-11-02",
+  "st-bernardus-tripel": "2026-11-02",
+  "staropramen-premium": "2026-11-02",
   "stella-artois": "2026-10-03",
+  "stiegl-goldbrau": "2026-11-02",
+  "stiegl-grapefruit-radler": "2026-11-02",
+  "stiegl-radler-zitrone": "2026-11-02",
+  "straffe-hendrik-quadrupel": "2026-11-02",
+  "tripel-karmeliet": "2026-11-02",
+  "tsingtao": "2026-11-02",
+  "tuborg-amber": "2026-11-02",
   "tuborg-filtresiz": "2026-10-03",
   "tuborg-gold": "2026-10-03",
   "tuborg-special": "2026-10-03",
+  "veltins-pilsener": "2026-11-02",
+  "venus-tr": "2026-11-02",
+  "warsteiner-premium": "2026-11-02",
+  "warsteiner-radler-zitrone": "2026-11-02",
   "weihenstephaner-hefeweissbier": "2026-10-03",
-  "weihenstephaner-vitus": "2026-10-03"
+  "weihenstephaner-hefeweissbier-alkoholfrei": "2026-11-02",
+  "weihenstephaner-hefeweissbier-dunkel": "2026-11-02",
+  "weihenstephaner-kristallweissbier": "2026-11-02",
+  "weihenstephaner-original-helles": "2026-11-02",
+  "weihenstephaner-vitus": "2026-10-03",
+  "weltenburger-barock-dunkel": "2026-11-02",
+  "westmalle-dubbel": "2026-11-02",
+  "westmalle-tripel": "2026-11-02"
  }
 }
